@@ -1,7 +1,7 @@
 # Verification report
 
-- files: **130** (84 translations, 21 critical editions, 25 lexicons/reference works)
-- verse/entry rows total: **2,219,998**
+- files: **133** (87 translations, 21 critical editions, 25 lexicons/reference works)
+- verse/entry rows total: **2,294,684**
 - files with ERRORS: **0** | files with warnings: 2
 
 Checks run on every file:
@@ -143,3 +143,6 @@ Checks run on every file:
 | lexicons/Strong's Hebrew Bible Dictionary.txt | 8,675 | OK | - |
 | lexicons/Translators Brief lexicon of Extended Strong's ΓÇö Greek.txt | 11,032 | OK | - |
 | lexicons/Translators Brief lexicon of Extended Strong's ΓÇö Hebrew.txt | 11,682 | OK | - |
+| translations/Open English Translation, Readers' Version [engOETrv].txt | 36,005 | OK | - |
+| translations/Open English Translation, Literal Version [engOETlv].txt | 7,914 | OK | - |
+| translations/Unlocked Dynamic Bible [engudb].txt | 30,767 | OK | - |

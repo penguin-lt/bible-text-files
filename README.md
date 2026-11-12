@@ -8,7 +8,7 @@ SQLite library in [`penguin-lt/bible-dyb-repo`](https://github.com/penguin-lt/bi
 ## Layout
 
 ```
-translations/        84 English Bible translations
+translations/        87 English Bible translations (incl. 3 CC BY-SA 4.0 additions)
 critical-editions/   21 critical editions (Greek, Hebrew, Latin, Coptic, Syriac, Slavonic + English Brenton)
 lexicons/            25 lexicons and reference works
 SHA256SUMS.txt       sha256 of every file
@@ -44,13 +44,13 @@ Notes:
 
 Every file was re-parsed after writing and compared row-for-row against its
 SQLite source (book, chapter, verse, text), and each SQLite file passed
-`integrity_check` with FTS row counts matching. **130 files, 2,219,998 rows,
+`integrity_check` with FTS row counts matching. **133 files, 2,294,684 rows,
 0 errors.** See `VERIFICATION.md` for the per-file table and `SHA256SUMS.txt`
 to check any download.
 
 ## Licence
 
-Every text here is public domain or an openly licensed PD-equivalent source
+Every text here is public domain or openly licensed (PD / CC0 / CC BY-SA 4.0; see each database's license field)
 (see the `license` column in the source databases). Copyrighted modern
 translations (NIV, ESV, NLT, NASB, NET, SBLGNT, NA28, UBS, MLV, ALT…) are
 deliberately **not** included.
