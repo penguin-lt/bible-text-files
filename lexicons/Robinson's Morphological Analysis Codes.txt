@@ -1,0 +1,1592 @@
+[Robinson's Morphological Analysis Codes] [n.d.] [Robinson's Morphological Analysis Codes]
+[A-APF] Part of Speech: Adjective Case: Accusative Number: Plural Gender: Feminine
+[A-APF-C] Part of Speech: Adjective Case: Accusative Number: Plural Gender: Feminine Degree: Comparative
+[A-APF-S] Part of Speech: Adjective Case: Accusative Number: Plural Gender: Feminine Degree: Superlative
+[A-APM] Part of Speech: Adjective Case: Accusative Number: Plural Gender: Masculine
+[A-APM-C] Part of Speech: Adjective Case: Accusative Number: Plural Gender: Masculine Degree: Comparative
+[A-APM-S] Part of Speech: Adjective Case: Accusative Number: Plural Gender: Masculine Degree: Superlative
+[A-APN] Part of Speech: Adjective Case: Accusative Number: Plural Gender: Neuter
+[A-APN-C] Part of Speech: Adjective Case: Accusative Number: Plural Gender: Neuter Degree: Comparative
+[A-APN-S] Part of Speech: Adjective Case: Accusative Number: Plural Gender: Neuter Degree: Superlative
+[A-ASF] Part of Speech: Adjective Case: Accusative Number: Singular Gender: Feminine
+[A-ASF-C] Part of Speech: Adjective Case: Accusative Number: Singular Gender: Feminine Degree: Comparative
+[A-ASF-N] Part of Speech: Adjective Case: Accusative Number: Singular Gender: Feminine Negative
+[A-ASF-S] Part of Speech: Adjective Case: Accusative Number: Singular Gender: Feminine Degree: Superlative
+[A-ASM] Part of Speech: Adjective Case: Accusative Number: Singular Gender: Masculine
+[A-ASM-C] Part of Speech: Adjective Case: Accusative Number: Singular Gender: Masculine Degree: Comparative
+[A-ASM-N] Part of Speech: Adjective Case: Accusative Number: Singular Gender: Masculine Negative
+[A-ASM-S] Part of Speech: Adjective Case: Accusative Number: Singular Gender: Masculine Degree: Superlative
+[A-ASN] Part of Speech: Adjective Case: Accusative Number: Singular Gender: Neuter
+[A-ASN-C] Part of Speech: Adjective Case: Accusative Number: Singular Gender: Neuter Degree: Comparative
+[A-ASN-N] Part of Speech: Adjective Case: Accusative Number: Singular Gender: Neuter Negative
+[A-ASN-S] Part of Speech: Adjective Case: Accusative Number: Singular Gender: Neuter Degree: Superlative
+[A-DPF] Part of Speech: Adjective Case: Dative Number: Plural Gender: Feminine
+[A-DPF-C] Part of Speech: Adjective Case: Dative Number: Plural Gender: Feminine Degree: Comparative
+[A-DPF-S] Part of Speech: Adjective Case: Dative Number: Plural Gender: Feminine Degree: Superlative
+[A-DPM] Part of Speech: Adjective Case: Dative Number: Plural Gender: Masculine
+[A-DPM-C] Part of Speech: Adjective Case: Dative Number: Plural Gender: Masculine Degree: Comparative
+[A-DPM-S] Part of Speech: Adjective Case: Dative Number: Plural Gender: Masculine Degree: Superlative
+[A-DPN] Part of Speech: Adjective Case: Dative Number: Plural Gender: Neuter
+[A-DPN-S] Part of Speech: Adjective Case: Dative Number: Plural Gender: Neuter Degree: Superlative
+[A-DSF] Part of Speech: Adjective Case: Dative Number: Singular Gender: Feminine
+[A-DSF-C] Part of Speech: Adjective Case: Dative Number: Singular Gender: Feminine Degree: Comparative
+[A-DSF-S] Part of Speech: Adjective Case: Dative Number: Singular Gender: Feminine Degree: Superlative
+[A-DSM] Part of Speech: Adjective Case: Dative Number: Singular Gender: Masculine
+[A-DSM-C] Part of Speech: Adjective Case: Dative Number: Singular Gender: Masculine Degree: Comparative
+[A-DSM-N] Part of Speech: Adjective Case: Dative Number: Singular Gender: Masculine Negative
+[A-DSM-S] Part of Speech: Adjective Case: Dative Number: Singular Gender: Masculine Degree: Superlative
+[A-DSN] Part of Speech: Adjective Case: Dative Number: Singular Gender: Neuter
+[A-DSN-C] Part of Speech: Adjective Case: Dative Number: Singular Gender: Neuter Degree: Comparative
+[A-DSN-N] Part of Speech: Adjective Case: Dative Number: Singular Gender: Neuter Negative
+[A-DSN-S] Part of Speech: Adjective Case: Dative Number: Singular Gender: Neuter Degree: Superlative
+[A-GPF] Part of Speech: Adjective Case: Genitive Number: Plural Gender: Feminine
+[A-GPF-S] Part of Speech: Adjective Case: Genitive Number: Plural Gender: Feminine Degree: Superlative
+[A-GPM] Part of Speech: Adjective Case: Genitive Number: Plural Gender: Masculine
+[A-GPM-C] Part of Speech: Adjective Case: Genitive Number: Plural Gender: Masculine Degree: Comparative
+[A-GPM-S] Part of Speech: Adjective Case: Genitive Number: Plural Gender: Masculine Degree: Superlative
+[A-GPN] Part of Speech: Adjective Case: Genitive Number: Plural Gender: Neuter
+[A-GPN-C] Part of Speech: Adjective Case: Genitive Number: Plural Gender: Neuter Degree: Comparative
+[A-GPN-S] Part of Speech: Adjective Case: Genitive Number: Plural Gender: Neuter Degree: Superlative
+[A-GSF] Part of Speech: Adjective Case: Genitive Number: Singular Gender: Feminine
+[A-GSF-C] Part of Speech: Adjective Case: Genitive Number: Singular Gender: Feminine Degree: Comparative
+[A-GSF-S] Part of Speech: Adjective Case: Genitive Number: Singular Gender: Feminine Degree: Superlative
+[A-GSM] Part of Speech: Adjective Case: Genitive Number: Singular Gender: Masculine
+[A-GSM-C] Part of Speech: Adjective Case: Genitive Number: Singular Gender: Masculine Degree: Comparative
+[A-GSM-N] Part of Speech: Adjective Case: Genitive Number: Singular Gender: Masculine Negative
+[A-GSM-S] Part of Speech: Adjective Case: Genitive Number: Singular Gender: Masculine Degree: Superlative
+[A-GSN] Part of Speech: Adjective Case: Genitive Number: Singular Gender: Neuter
+[A-GSN-N] Part of Speech: Adjective Case: Genitive Number: Singular Gender: Neuter Negative
+[A-GSN-S] Part of Speech: Adjective Case: Genitive Number: Singular Gender: Neuter Degree: Superlative
+[A-NPF] Part of Speech: Adjective Case: Nominative Number: Plural Gender: Feminine
+[A-NPF-C] Part of Speech: Adjective Case: Nominative Number: Plural Gender: Feminine Degree: Comparative
+[A-NPF-S] Part of Speech: Adjective Case: Nominative Number: Plural Gender: Feminine Degree: Superlative
+[A-NPM] Part of Speech: Adjective Case: Nominative Number: Plural Gender: Masculine
+[A-NPM-C] Part of Speech: Adjective Case: Nominative Number: Plural Gender: Masculine Degree: Comparative
+[A-NPM-S] Part of Speech: Adjective Case: Nominative Number: Plural Gender: Masculine Degree: Superlative
+[A-NPN] Part of Speech: Adjective Case: Nominative Number: Plural Gender: Neuter
+[A-NPN-C] Part of Speech: Adjective Case: Nominative Number: Plural Gender: Neuter Degree: Comparative
+[A-NPN-S] Part of Speech: Adjective Case: Nominative Number: Plural Gender: Neuter Degree: Superlative
+[A-NSF] Part of Speech: Adjective Case: Nominative Number: Singular Gender: Feminine
+[A-NSF-C] Part of Speech: Adjective Case: Nominative Number: Singular Gender: Feminine Degree: Comparative
+[A-NSF-N] Part of Speech: Adjective Case: Nominative Number: Singular Gender: Feminine Negative
+[A-NSF-S] Part of Speech: Adjective Case: Nominative Number: Singular Gender: Feminine Degree: Superlative
+[A-NSM] Part of Speech: Adjective Case: Nominative Number: Singular Gender: Masculine
+[A-NSM-ATT] Part of Speech: Adjective Case: Nominative Number: Singular Gender: Masculine ATTic form
+[A-NSM-C] Part of Speech: Adjective Case: Nominative Number: Singular Gender: Masculine Degree: Comparative
+[A-NSM-N] Part of Speech: Adjective Case: Nominative Number: Singular Gender: Masculine Negative
+[A-NSM-S] Part of Speech: Adjective Case: Nominative Number: Singular Gender: Masculine Degree: Superlative
+[A-NSN] Part of Speech: Adjective Case: Nominative Number: Singular Gender: Neuter
+[A-NSN-C] Part of Speech: Adjective Case: Nominative Number: Singular Gender: Neuter Degree: Comparative
+[A-NSN-N] Part of Speech: Adjective Case: Nominative Number: Singular Gender: Neuter Negative
+[A-NSN-S] Part of Speech: Adjective Case: Nominative Number: Singular Gender: Neuter Degree: Superlative
+[A-NUI] Indeclinable NUmeral (Adjective)
+[A-NUI-ABB] Indeclinable NUmeral (Adjective) ABBreviated form
+[A-VPF] Part of Speech: Adjective Case: Vocative Number: Plural Gender: Feminine
+[A-VPM] Part of Speech: Adjective Case: Vocative Number: Plural Gender: Masculine
+[A-VPM-C] Part of Speech: Adjective Case: Vocative Number: Plural Gender: Masculine Degree: Comparative
+[A-VPN] Part of Speech: Adjective Case: Vocative Number: Plural Gender: Neuter
+[A-VSF] Part of Speech: Adjective Case: Vocative Number: Singular Gender: Feminine
+[A-VSM] Part of Speech: Adjective Case: Vocative Number: Singular Gender: Masculine
+[A-VSM-S] Part of Speech: Adjective Case: Vocative Number: Singular Gender: Masculine Degree: Superlative
+[A-VSN] Part of Speech: Adjective Case: Vocative Number: Singular Gender: Neuter
+[ADV] ADVerb or adverb and particle combined
+[ADV-C] ADVerb or adverb and particle combined Degree: Comparative
+[ADV-I] ADVerb or adverb and particle combined Interrogative
+[ADV-K] ADVerb or adverb and particle combined merged by crasis with a second word; declension is that of the second word
+[ADV-N] ADVerb or adverb and particle combined Negative
+[ADV-S] ADVerb or adverb and particle combined Degree: Superlative
+[ARAM] ARAMaic transliterated word (indeclinable)
+[C-APM] Part of Speech: reCiprocal pronoun Case: Accusative Number: Plural Gender: Masculine
+[C-DPM] Part of Speech: reCiprocal pronoun Case: Dative Number: Plural Gender: Masculine
+[C-DPN] Part of Speech: reCiprocal pronoun Case: Dative Number: Plural Gender: Neuter
+[C-GPM] Part of Speech: reCiprocal pronoun Case: Genitive Number: Plural Gender: Masculine
+[C-GPN] Part of Speech: reCiprocal pronoun Case: Genitive Number: Plural Gender: Neuter
+[COND] CONDitional particle or conjunction
+[COND-C] CONDitional particle or conjunction merged by crasis with a second word; declension is that of the second word
+[COND-K] CONDitional particle or conjunction merged by crasis with a second word; declension is that of the second word
+[COND-P] CONDitional particle or conjunction Particle attached
+[CONJ] CONJunction or conjunctive particle
+[CONJ-N] CONJunction or conjunctive particle Negative
+[D-APF] Part of Speech: Demonstrative pronoun Case: Accusative Number: Plural Gender: Feminine
+[D-APM] Part of Speech: Demonstrative pronoun Case: Accusative Number: Plural Gender: Masculine
+[D-APM-C] Part of Speech: Demonstrative pronoun Case: Accusative Number: Plural Gender: Masculine Degree: Comparative
+[D-APM-K] Part of Speech: Demonstrative pronoun Case: Accusative Number: Plural Gender: Masculine merged by crasis with a second word; declension is that of the second word
+[D-APN] Part of Speech: Demonstrative pronoun Case: Accusative Number: Plural Gender: Neuter
+[D-APN-K] Part of Speech: Demonstrative pronoun Case: Accusative Number: Plural Gender: Neuter merged by crasis with a second word; declension is that of the second word
+[D-ASF] Part of Speech: Demonstrative pronoun Case: Accusative Number: Singular Gender: Feminine
+[D-ASM] Part of Speech: Demonstrative pronoun Case: Accusative Number: Singular Gender: Masculine
+[D-ASM-C] Part of Speech: Demonstrative pronoun Case: Accusative Number: Singular Gender: Masculine Degree: Comparative
+[D-ASM-K] Part of Speech: Demonstrative pronoun Case: Accusative Number: Singular Gender: Masculine merged by crasis with a second word; declension is that of the second word
+[D-ASN] Part of Speech: Demonstrative pronoun Case: Accusative Number: Singular Gender: Neuter
+[D-DPF] Part of Speech: Demonstrative pronoun Case: Dative Number: Plural Gender: Feminine
+[D-DPM] Part of Speech: Demonstrative pronoun Case: Dative Number: Plural Gender: Masculine
+[D-DPM-C] Part of Speech: Demonstrative pronoun Case: Dative Number: Plural Gender: Masculine Degree: Comparative
+[D-DPM-K] Part of Speech: Demonstrative pronoun Case: Dative Number: Plural Gender: Masculine merged by crasis with a second word; declension is that of the second word
+[D-DPN] Part of Speech: Demonstrative pronoun Case: Dative Number: Plural Gender: Neuter
+[D-DSF] Part of Speech: Demonstrative pronoun Case: Dative Number: Singular Gender: Feminine
+[D-DSM] Part of Speech: Demonstrative pronoun Case: Dative Number: Singular Gender: Masculine
+[D-DSN] Part of Speech: Demonstrative pronoun Case: Dative Number: Singular Gender: Neuter
+[D-GPF] Part of Speech: Demonstrative pronoun Case: Genitive Number: Plural Gender: Feminine
+[D-GPM] Part of Speech: Demonstrative pronoun Case: Genitive Number: Plural Gender: Masculine
+[D-GPN] Part of Speech: Demonstrative pronoun Case: Genitive Number: Plural Gender: Neuter
+[D-GSF] Part of Speech: Demonstrative pronoun Case: Genitive Number: Singular Gender: Feminine
+[D-GSM] Part of Speech: Demonstrative pronoun Case: Genitive Number: Singular Gender: Masculine
+[D-GSN] Part of Speech: Demonstrative pronoun Case: Genitive Number: Singular Gender: Neuter
+[D-NPF] Part of Speech: Demonstrative pronoun Case: Nominative Number: Plural Gender: Feminine
+[D-NPM] Part of Speech: Demonstrative pronoun Case: Nominative Number: Plural Gender: Masculine
+[D-NPM-C] Part of Speech: Demonstrative pronoun Case: Nominative Number: Plural Gender: Masculine Degree: Comparative
+[D-NPM-K] Part of Speech: Demonstrative pronoun Case: Nominative Number: Plural Gender: Masculine merged by crasis with a second word; declension is that of the second word
+[D-NPN] Part of Speech: Demonstrative pronoun Case: Nominative Number: Plural Gender: Neuter
+[D-NPN-C] Part of Speech: Demonstrative pronoun Case: Nominative Number: Plural Gender: Neuter Degree: Comparative
+[D-NPN-K] Part of Speech: Demonstrative pronoun Case: Nominative Number: Plural Gender: Neuter merged by crasis with a second word; declension is that of the second word
+[D-NSF] Part of Speech: Demonstrative pronoun Case: Nominative Number: Singular Gender: Feminine
+[D-NSF-K] Part of Speech: Demonstrative pronoun Case: Nominative Number: Singular Gender: Feminine merged by crasis with a second word; declension is that of the second word
+[D-NSM] Part of Speech: Demonstrative pronoun Case: Nominative Number: Singular Gender: Masculine
+[D-NSM-C] Part of Speech: Demonstrative pronoun Case: Nominative Number: Singular Gender: Masculine Degree: Comparative
+[D-NSM-K] Part of Speech: Demonstrative pronoun Case: Nominative Number: Singular Gender: Masculine merged by crasis with a second word; declension is that of the second word
+[D-NSN] Part of Speech: Demonstrative pronoun Case: Nominative Number: Singular Gender: Neuter
+[F-1APM] Part of Speech: reFlexive pronoun Person: first Case: Accusative Number: Plural Gender: Masculine
+[F-1ASM] Part of Speech: reFlexive pronoun Person: first Case: Accusative Number: Singular Gender: Masculine
+[F-1DPM] Part of Speech: reFlexive pronoun Person: first Case: Dative Number: Plural Gender: Masculine
+[F-1DSM] Part of Speech: reFlexive pronoun Person: first Case: Dative Number: Singular Gender: Masculine
+[F-1GPM] Part of Speech: reFlexive pronoun Person: first Case: Genitive Number: Plural Gender: Masculine
+[F-1GSM] Part of Speech: reFlexive pronoun Person: first Case: Genitive Number: Singular Gender: Masculine
+[F-2APF] Part of Speech: reFlexive pronoun Person: second Case: Accusative Number: Plural Gender: Feminine
+[F-2APM] Part of Speech: reFlexive pronoun Person: second Case: Accusative Number: Plural Gender: Masculine
+[F-2APN] Part of Speech: reFlexive pronoun Person: second Case: Accusative Number: Plural Gender: Neuter
+[F-2ASM] Part of Speech: reFlexive pronoun Person: second Case: Accusative Number: Singular Gender: Masculine
+[F-2ASM-C] Part of Speech: reFlexive pronoun Person: second Case: Accusative Number: Singular Gender: Masculine merged by crasis with a second word; declension is that of the second word
+[F-2ASM-K] Part of Speech: reFlexive pronoun Person: second Case: Accusative Number: Singular Gender: Masculine merged by crasis with a second word; declension is that of the second word
+[F-2DPF] Part of Speech: reFlexive pronoun Person: second Case: Dative Number: Plural Gender: Feminine
+[F-2DPM] Part of Speech: reFlexive pronoun Person: second Case: Dative Number: Plural Gender: Masculine
+[F-2DSM] Part of Speech: reFlexive pronoun Person: second Case: Dative Number: Singular Gender: Masculine
+[F-2GPM] Part of Speech: reFlexive pronoun Person: second Case: Genitive Number: Plural Gender: Masculine
+[F-2GSM] Part of Speech: reFlexive pronoun Person: second Case: Genitive Number: Singular Gender: Masculine
+[F-3APF] Part of Speech: reFlexive pronoun Person: third Case: Accusative Number: Plural Gender: Feminine
+[F-3APM] Part of Speech: reFlexive pronoun Person: third Case: Accusative Number: Plural Gender: Masculine
+[F-3APN] Part of Speech: reFlexive pronoun Person: third Case: Accusative Number: Plural Gender: Neuter
+[F-3ASF] Part of Speech: reFlexive pronoun Person: third Case: Accusative Number: Singular Gender: Feminine
+[F-3ASM] Part of Speech: reFlexive pronoun Person: third Case: Accusative Number: Singular Gender: Masculine
+[F-3ASN] Part of Speech: reFlexive pronoun Person: third Case: Accusative Number: Singular Gender: Neuter
+[F-3DPF] Part of Speech: reFlexive pronoun Person: third Case: Dative Number: Plural Gender: Feminine
+[F-3DPM] Part of Speech: reFlexive pronoun Person: third Case: Dative Number: Plural Gender: Masculine
+[F-3DSF] Part of Speech: reFlexive pronoun Person: third Case: Dative Number: Singular Gender: Feminine
+[F-3DSM] Part of Speech: reFlexive pronoun Person: third Case: Dative Number: Singular Gender: Masculine
+[F-3GPF] Part of Speech: reFlexive pronoun Person: third Case: Genitive Number: Plural Gender: Feminine
+[F-3GPM] Part of Speech: reFlexive pronoun Person: third Case: Genitive Number: Plural Gender: Masculine
+[F-3GPN] Part of Speech: reFlexive pronoun Person: third Case: Genitive Number: Plural Gender: Neuter
+[F-3GSF] Part of Speech: reFlexive pronoun Person: third Case: Genitive Number: Singular Gender: Feminine
+[F-3GSM] Part of Speech: reFlexive pronoun Person: third Case: Genitive Number: Singular Gender: Masculine
+[F-3GSN] Part of Speech: reFlexive pronoun Person: third Case: Genitive Number: Singular Gender: Neuter
+[F-GPF] Part of Speech: reFlexive pronoun Case: Genitive Number: Plural Gender: Feminine
+[G5627] V-2AAI
+[G5628] V-2AAM
+[G5629] V-2AAN
+[G5630] V-2AAO
+[G5631] V-2AAP
+[G5632] V-2AAS
+[G5633] V-2ADI
+[G5634] V-2ADM
+[G5635] V-2ADN
+[G5636] V-2ADO
+[G5637] V-2ADP
+[G5638] V-2ADS
+[G5639] V-2AMI
+[G5640] V-2AMM
+[G5641] V-2AMN
+[G5642] V-2AMP
+[G5643] V-2AMS
+[G5644] V-2AOI
+[G5645] V-2AOM
+[G5646] V-2AON
+[G5647] V-2AOS
+[G5648] V-2API
+[G5649] V-2APM
+[G5650] V-2APN
+[G5651] V-2APP
+[G5652] V-2APS
+[G5653] V-2AXM
+[G5654] V-2AXP
+[G5655] V-2AXS
+[G5656] V-AAI
+[G5657] V-AAM
+[G5658] V-AAN
+[G5659] V-AAO
+[G5660] V-AAP
+[G5661] V-AAS
+[G5662] V-ADI
+[G5663] V-ADM
+[G5664] V-ADN
+[G5665] V-ADO
+[G5666] V-ADP
+[G5667] V-ADS
+[G5668] V-AMI
+[G5669] V-AMM
+[G5670] V-AMN
+[G5671] V-AMP
+[G5672] V-AMS
+[G5673] V-ANI
+[G5674] V-ANP
+[G5675] V-AOI
+[G5676] V-AOM
+[G5677] V-AON
+[G5678] V-AOO
+[G5679] V-AOP
+[G5680] V-AOS
+[G5681] V-API
+[G5682] V-APM
+[G5683] V-APN
+[G5684] V-APO
+[G5685] V-APP
+[G5686] V-APS
+[G5687] V-2FAI
+[G5688] V-2FDI
+[G5689] V-2FMI
+[G5690] V-2FOI
+[G5691] V-2FPI
+[G5692] V-FAI
+[G5693] V-FAN
+[G5694] V-FAP
+[G5695] V-FDI
+[G5696] V-FDN
+[G5697] V-FDP
+[G5698] V-FMI
+[G5699] V-FNI
+[G5700] V-FOI
+[G5701] V-FPI
+[G5702] V-FPP
+[G5703] V-FPS
+[G5704] V-FXI
+[G5705] V-FXN
+[G5706] V-FXP
+[G5707] V-IAI
+[G5708] V-IDI
+[G5709] V-IEI
+[G5710] V-IMI
+[G5711] V-INI
+[G5712] V-IPI
+[G5713] V-IXI
+[G5714] V-2LAI
+[G5715] V-LAI
+[G5716] V-LDI
+[G5717] V-LMI
+[G5718] V-LPI
+[G5720] V-PAM
+[G5721] V-PAN
+[G5722] V-PAO
+[G5723] V-PAP
+[G5724] V-PAI
+[G5725] V-PAS
+[G5726] V-PDP
+[G5727] V-PEI
+[G5728] V-PEM
+[G5729] V-PEN
+[G5730] V-PEP
+[G5731] V-PMI
+[G5732] V-PMM
+[G5733] V-PMN
+[G5734] V-PMP
+[G5735] V-PMS
+[G5736] V-PNI
+[G5737] V-PNM
+[G5738] V-PNN
+[G5739] V-PNO
+[G5740] V-PNP
+[G5741] V-PNS
+[G5742] V-POP
+[G5743] V-PPI
+[G5744] V-PPM
+[G5745] V-PPN
+[G5746] V-PPP
+[G5747] V-PPS
+[G5748] V-PXI
+[G5749] V-PXM
+[G5750] V-PXN
+[G5751] V-PXO
+[G5752] V-PXP
+[G5753] V-PXS
+[G5754] V-2RAI
+[G5755] V-2RAN
+[G5756] V-2RAP
+[G5757] V-2RPP
+[G5758] V-RAI
+[G5759] V-RAM
+[G5760] V-RAN
+[G5761] V-RAP
+[G5762] V-RAS
+[G5763] V-RDI
+[G5764] V-RMI
+[G5765] V-RMP
+[G5766] V-RNI
+[G5767] V-RNN
+[G5768] V-RNP
+[G5769] V-RPI
+[G5770] V-RPM
+[G5771] V-RPN
+[G5772] V-RPP
+[G5773] V-XXM
+[G5900] V-IQI
+[G5901] V-PQP
+[G5902] V-PQS
+[G5903] V-PQN
+[G5904] V-PQI
+[HEB] HEBrew transliterated word (indeclinable)
+[I-APF] Part of Speech: Interrogative pronoun Case: Accusative Number: Plural Gender: Feminine
+[I-APM] Part of Speech: Interrogative pronoun Case: Accusative Number: Plural Gender: Masculine
+[I-APN] Part of Speech: Interrogative pronoun Case: Accusative Number: Plural Gender: Neuter
+[I-ASF] Part of Speech: Interrogative pronoun Case: Accusative Number: Singular Gender: Feminine
+[I-ASM] Part of Speech: Interrogative pronoun Case: Accusative Number: Singular Gender: Masculine
+[I-ASN] Part of Speech: Interrogative pronoun Case: Accusative Number: Singular Gender: Neuter
+[I-DPM] Part of Speech: Interrogative pronoun Case: Dative Number: Plural Gender: Masculine
+[I-DPN] Part of Speech: Interrogative pronoun Case: Dative Number: Plural Gender: Neuter
+[I-DSF] Part of Speech: Interrogative pronoun Case: Dative Number: Singular Gender: Feminine
+[I-DSM] Part of Speech: Interrogative pronoun Case: Dative Number: Singular Gender: Masculine
+[I-DSN] Part of Speech: Interrogative pronoun Case: Dative Number: Singular Gender: Neuter
+[I-GPF] Part of Speech: Interrogative pronoun Case: Genitive Number: Plural Gender: Feminine
+[I-GPM] Part of Speech: Interrogative pronoun Case: Genitive Number: Plural Gender: Masculine
+[I-GPN] Part of Speech: Interrogative pronoun Case: Genitive Number: Plural Gender: Neuter
+[I-GSF] Part of Speech: Interrogative pronoun Case: Genitive Number: Singular Gender: Feminine
+[I-GSM] Part of Speech: Interrogative pronoun Case: Genitive Number: Singular Gender: Masculine
+[I-GSN] Part of Speech: Interrogative pronoun Case: Genitive Number: Singular Gender: Neuter
+[I-NPF] Part of Speech: Interrogative pronoun Case: Nominative Number: Plural Gender: Feminine
+[I-NPM] Part of Speech: Interrogative pronoun Case: Nominative Number: Plural Gender: Masculine
+[I-NPN] Part of Speech: Interrogative pronoun Case: Nominative Number: Plural Gender: Neuter
+[I-NSF] Part of Speech: Interrogative pronoun Case: Nominative Number: Singular Gender: Feminine
+[I-NSM] Part of Speech: Interrogative pronoun Case: Nominative Number: Singular Gender: Masculine
+[I-NSN] Part of Speech: Interrogative pronoun Case: Nominative Number: Singular Gender: Neuter
+[INJ] INterJection
+[K-APF] Part of Speech: correlative pronoun Case: Accusative Number: Plural Gender: Feminine
+[K-APM] Part of Speech: correlative pronoun Case: Accusative Number: Plural Gender: Masculine
+[K-APN] Part of Speech: correlative pronoun Case: Accusative Number: Plural Gender: Neuter
+[K-ASM] Part of Speech: correlative pronoun Case: Accusative Number: Singular Gender: Masculine
+[K-ASN] Part of Speech: correlative pronoun Case: Accusative Number: Singular Gender: Neuter
+[K-DSN] Part of Speech: correlative pronoun Case: Dative Number: Singular Gender: Neuter
+[K-GPM] Part of Speech: correlative pronoun Case: Genitive Number: Plural Gender: Masculine
+[K-GSN] Part of Speech: correlative pronoun Case: Genitive Number: Singular Gender: Neuter
+[K-NPF] Part of Speech: correlative pronoun Case: Nominative Number: Plural Gender: Feminine
+[K-NPM] Part of Speech: correlative pronoun Case: Nominative Number: Plural Gender: Masculine
+[K-NPN] Part of Speech: correlative pronoun Case: Nominative Number: Plural Gender: Neuter
+[K-NSM] Part of Speech: correlative pronoun Case: Nominative Number: Singular Gender: Masculine
+[K-NSN] Part of Speech: correlative pronoun Case: Nominative Number: Singular Gender: Neuter
+[N-APF] Part of Speech: Noun Case: Accusative Number: Plural Gender: Feminine
+[N-APF-C] Part of Speech: Noun Case: Accusative Number: Plural Gender: Feminine Degree: Comparative
+[N-APF-S] Part of Speech: Noun Case: Accusative Number: Plural Gender: Feminine Degree: Superlative
+[N-APM] Part of Speech: Noun Case: Accusative Number: Plural Gender: Masculine
+[N-APN] Part of Speech: Noun Case: Accusative Number: Plural Gender: Neuter
+[N-APN-C] Part of Speech: Noun Case: Accusative Number: Plural Gender: Neuter Degree: Comparative
+[N-APN-S] Part of Speech: Noun Case: Accusative Number: Plural Gender: Neuter Degree: Superlative
+[N-ASF] Part of Speech: Noun Case: Accusative Number: Singular Gender: Feminine
+[N-ASF-C] Part of Speech: Noun Case: Accusative Number: Singular Gender: Feminine Degree: Comparative
+[N-ASF-S] Part of Speech: Noun Case: Accusative Number: Singular Gender: Feminine Degree: Superlative
+[N-ASM] Part of Speech: Noun Case: Accusative Number: Singular Gender: Masculine
+[N-ASM-S] Part of Speech: Noun Case: Accusative Number: Singular Gender: Masculine Degree: Superlative
+[N-ASN] Part of Speech: Noun Case: Accusative Number: Singular Gender: Neuter
+[N-DPF] Part of Speech: Noun Case: Dative Number: Plural Gender: Feminine
+[N-DPM] Part of Speech: Noun Case: Dative Number: Plural Gender: Masculine
+[N-DPM-S] Part of Speech: Noun Case: Dative Number: Plural Gender: Masculine Degree: Superlative
+[N-DPN] Part of Speech: Noun Case: Dative Number: Plural Gender: Neuter
+[N-DSF] Part of Speech: Noun Case: Dative Number: Singular Gender: Feminine
+[N-DSM] Part of Speech: Noun Case: Dative Number: Singular Gender: Masculine
+[N-DSN] Part of Speech: Noun Case: Dative Number: Singular Gender: Neuter
+[N-GPF] Part of Speech: Noun Case: Genitive Number: Plural Gender: Feminine
+[N-GPM] Part of Speech: Noun Case: Genitive Number: Plural Gender: Masculine
+[N-GPN] Part of Speech: Noun Case: Genitive Number: Plural Gender: Neuter
+[N-GSF] Part of Speech: Noun Case: Genitive Number: Singular Gender: Feminine
+[N-GSM] Part of Speech: Noun Case: Genitive Number: Singular Gender: Masculine
+[N-GSN] Part of Speech: Noun Case: Genitive Number: Singular Gender: Neuter
+[N-LI] Indeclinable Letter (Noun)
+[N-NPF] Part of Speech: Noun Case: Nominative Number: Plural Gender: Feminine
+[N-NPM] Part of Speech: Noun Case: Nominative Number: Plural Gender: Masculine
+[N-NPM-S] Part of Speech: Noun Case: Nominative Number: Plural Gender: Masculine Degree: Superlative
+[N-NPN] Part of Speech: Noun Case: Nominative Number: Plural Gender: Neuter
+[N-NSF] Part of Speech: Noun Case: Nominative Number: Singular Gender: Feminine
+[N-NSM] Part of Speech: Noun Case: Nominative Number: Singular Gender: Masculine
+[N-NSM-C] Part of Speech: Noun Case: Nominative Number: Singular Gender: Masculine Degree: Comparative
+[N-NSN] Part of Speech: Noun Case: Nominative Number: Singular Gender: Neuter
+[N-NSN-C] Part of Speech: Noun Case: Nominative Number: Singular Gender: Neuter Degree: Comparative
+[N-OI] Indeclinable Noun of Other type
+[N-OI-IRR] Indeclinable Noun of Other type Irregular or Impure form
+[N-PRI] Indeclinable PRoper Noun
+[N-PRI-ABB] Indeclinable PRoper Noun ABBreviated form
+[N-VPF] Part of Speech: Noun Case: Vocative Number: Plural Gender: Feminine
+[N-VPM] Part of Speech: Noun Case: Vocative Number: Plural Gender: Masculine
+[N-VPN] Part of Speech: Noun Case: Vocative Number: Plural Gender: Neuter
+[N-VSF] Part of Speech: Noun Case: Vocative Number: Singular Gender: Feminine
+[N-VSM] Part of Speech: Noun Case: Vocative Number: Singular Gender: Masculine
+[N-VSN] Part of Speech: Noun Case: Vocative Number: Singular Gender: Neuter
+[P-1AP] Part of Speech: Personal pronoun Person: first Case: Accusative Number: Plural
+[P-1AS] Part of Speech: Personal pronoun Person: first Case: Accusative Number: Singular
+[P-1AS-C] Part of Speech: Personal pronoun Person: first Case: Accusative Number: Singular merged by crasis with a second word; declension is that of the second word
+[P-1AS-K] Part of Speech: Personal pronoun Person: first Case: Accusative Number: Singular merged by crasis with a second word; declension is that of the second word
+[P-1DP] Part of Speech: Personal pronoun Person: first Case: Dative Number: Plural
+[P-1DS] Part of Speech: Personal pronoun Person: first Case: Dative Number: Singular
+[P-1DS-C] Part of Speech: Personal pronoun Person: first Case: Dative Number: Singular merged by crasis with a second word; declension is that of the second word
+[P-1DS-K] Part of Speech: Personal pronoun Person: first Case: Dative Number: Singular merged by crasis with a second word; declension is that of the second word
+[P-1GP] Part of Speech: Personal pronoun Person: first Case: Genitive Number: Plural
+[P-1GS] Part of Speech: Personal pronoun Person: first Case: Genitive Number: Singular
+[P-1NP] Part of Speech: Personal pronoun Person: first Case: Nominative Number: Plural
+[P-1NS] Part of Speech: Personal pronoun Person: first Case: Nominative Number: Singular
+[P-1NS-C] Part of Speech: Personal pronoun Person: first Case: Nominative Number: Singular merged by crasis with a second word; declension is that of the second word
+[P-1NS-K] Part of Speech: Personal pronoun Person: first Case: Nominative Number: Singular merged by crasis with a second word; declension is that of the second word
+[P-2AP] Part of Speech: Personal pronoun Person: second Case: Accusative Number: Plural
+[P-2AS] Part of Speech: Personal pronoun Person: second Case: Accusative Number: Singular
+[P-2DP] Part of Speech: Personal pronoun Person: second Case: Dative Number: Plural
+[P-2DS] Part of Speech: Personal pronoun Person: second Case: Dative Number: Singular
+[P-2GP] Part of Speech: Personal pronoun Person: second Case: Genitive Number: Plural
+[P-2GS] Part of Speech: Personal pronoun Person: second Case: Genitive Number: Singular
+[P-2NP] Part of Speech: Personal pronoun Person: second Case: Nominative Number: Plural
+[P-2NS] Part of Speech: Personal pronoun Person: second Case: Nominative Number: Singular
+[P-AP] Part of Speech: Personal pronoun Case: Accusative Number: Plural
+[P-APF] Part of Speech: Personal pronoun Case: Accusative Number: Plural Gender: Feminine
+[P-APM] Part of Speech: Personal pronoun Case: Accusative Number: Plural Gender: Masculine
+[P-APN] Part of Speech: Personal pronoun Case: Accusative Number: Plural Gender: Neuter
+[P-AS] Part of Speech: Personal pronoun Case: Accusative Number: Singular
+[P-ASF] Part of Speech: Personal pronoun Case: Accusative Number: Singular Gender: Feminine
+[P-ASM] Part of Speech: Personal pronoun Case: Accusative Number: Singular Gender: Masculine
+[P-ASN] Part of Speech: Personal pronoun Case: Accusative Number: Singular Gender: Neuter
+[P-DP] Part of Speech: Personal pronoun Case: Dative Number: Plural
+[P-DPF] Part of Speech: Personal pronoun Case: Dative Number: Plural Gender: Feminine
+[P-DPM] Part of Speech: Personal pronoun Case: Dative Number: Plural Gender: Masculine
+[P-DPN] Part of Speech: Personal pronoun Case: Dative Number: Plural Gender: Neuter
+[P-DS] Part of Speech: Personal pronoun Case: Dative Number: Singular
+[P-DSF] Part of Speech: Personal pronoun Case: Dative Number: Singular Gender: Feminine
+[P-DSM] Part of Speech: Personal pronoun Case: Dative Number: Singular Gender: Masculine
+[P-DSN] Part of Speech: Personal pronoun Case: Dative Number: Singular Gender: Neuter
+[P-GP] Part of Speech: Personal pronoun Case: Genitive Number: Plural
+[P-GPF] Part of Speech: Personal pronoun Case: Genitive Number: Plural Gender: Feminine
+[P-GPM] Part of Speech: Personal pronoun Case: Genitive Number: Plural Gender: Masculine
+[P-GPN] Part of Speech: Personal pronoun Case: Genitive Number: Plural Gender: Neuter
+[P-GS] Part of Speech: Personal pronoun Case: Genitive Number: Singular
+[P-GSF] Part of Speech: Personal pronoun Case: Genitive Number: Singular Gender: Feminine
+[P-GSM] Part of Speech: Personal pronoun Case: Genitive Number: Singular Gender: Masculine
+[P-GSN] Part of Speech: Personal pronoun Case: Genitive Number: Singular Gender: Neuter
+[P-NP] Part of Speech: Personal pronoun Case: Nominative Number: Plural
+[P-NPM] Part of Speech: Personal pronoun Case: Nominative Number: Plural Gender: Masculine
+[P-NPN] Part of Speech: Personal pronoun Case: Nominative Number: Plural Gender: Neuter
+[P-NS] Part of Speech: Personal pronoun Case: Nominative Number: Singular
+[P-NSF] Part of Speech: Personal pronoun Case: Nominative Number: Singular Gender: Feminine
+[P-NSM] Part of Speech: Personal pronoun Case: Nominative Number: Singular Gender: Masculine
+[P-NSN] Part of Speech: Personal pronoun Case: Nominative Number: Singular Gender: Neuter
+[PREP] PREPosition
+[PRT] PaRTicle, disjunctive particle
+[PRT-I] PaRTicle, disjunctive particle Interrogative
+[PRT-N] PaRTicle, disjunctive particle Negative
+[Q-APF] Part of Speech: correlative or interrogative pronoun Case: Accusative Number: Plural Gender: Feminine
+[Q-APM] Part of Speech: correlative or interrogative pronoun Case: Accusative Number: Plural Gender: Masculine
+[Q-APN] Part of Speech: correlative or interrogative pronoun Case: Accusative Number: Plural Gender: Neuter
+[Q-ASF] Part of Speech: correlative or interrogative pronoun Case: Accusative Number: Singular Gender: Feminine
+[Q-ASN] Part of Speech: correlative or interrogative pronoun Case: Accusative Number: Singular Gender: Neuter
+[Q-DSN] Part of Speech: correlative or interrogative pronoun Case: Dative Number: Singular Gender: Neuter
+[Q-GPN] Part of Speech: correlative or interrogative pronoun Case: Genitive Number: Plural Gender: Neuter
+[Q-NPF] Part of Speech: correlative or interrogative pronoun Case: Nominative Number: Plural Gender: Feminine
+[Q-NPM] Part of Speech: correlative or interrogative pronoun Case: Nominative Number: Plural Gender: Masculine
+[Q-NSM] Part of Speech: correlative or interrogative pronoun Case: Nominative Number: Singular Gender: Masculine
+[Q-NSN] Part of Speech: correlative or interrogative pronoun Case: Nominative Number: Singular Gender: Neuter
+[R-APF] Part of Speech: Relative pronoun Case: Accusative Number: Plural Gender: Feminine
+[R-APM] Part of Speech: Relative pronoun Case: Accusative Number: Plural Gender: Masculine
+[R-APN] Part of Speech: Relative pronoun Case: Accusative Number: Plural Gender: Neuter
+[R-ASF] Part of Speech: Relative pronoun Case: Accusative Number: Singular Gender: Feminine
+[R-ASM] Part of Speech: Relative pronoun Case: Accusative Number: Singular Gender: Masculine
+[R-ASN] Part of Speech: Relative pronoun Case: Accusative Number: Singular Gender: Neuter
+[R-DPF] Part of Speech: Relative pronoun Case: Dative Number: Plural Gender: Feminine
+[R-DPM] Part of Speech: Relative pronoun Case: Dative Number: Plural Gender: Masculine
+[R-DPN] Part of Speech: Relative pronoun Case: Dative Number: Plural Gender: Neuter
+[R-DSF] Part of Speech: Relative pronoun Case: Dative Number: Singular Gender: Feminine
+[R-DSM] Part of Speech: Relative pronoun Case: Dative Number: Singular Gender: Masculine
+[R-DSN] Part of Speech: Relative pronoun Case: Dative Number: Singular Gender: Neuter
+[R-GPF] Part of Speech: Relative pronoun Case: Genitive Number: Plural Gender: Feminine
+[R-GPM] Part of Speech: Relative pronoun Case: Genitive Number: Plural Gender: Masculine
+[R-GPN] Part of Speech: Relative pronoun Case: Genitive Number: Plural Gender: Neuter
+[R-GSF] Part of Speech: Relative pronoun Case: Genitive Number: Singular Gender: Feminine
+[R-GSM] Part of Speech: Relative pronoun Case: Genitive Number: Singular Gender: Masculine
+[R-GSN] Part of Speech: Relative pronoun Case: Genitive Number: Singular Gender: Neuter
+[R-GSN-ATT] Part of Speech: Relative pronoun Case: Genitive Number: Singular Gender: Neuter ATTic form
+[R-NPF] Part of Speech: Relative pronoun Case: Nominative Number: Plural Gender: Feminine
+[R-NPM] Part of Speech: Relative pronoun Case: Nominative Number: Plural Gender: Masculine
+[R-NPN] Part of Speech: Relative pronoun Case: Nominative Number: Plural Gender: Neuter
+[R-NSF] Part of Speech: Relative pronoun Case: Nominative Number: Singular Gender: Feminine
+[R-NSM] Part of Speech: Relative pronoun Case: Nominative Number: Singular Gender: Masculine
+[R-NSN] Part of Speech: Relative pronoun Case: Nominative Number: Singular Gender: Neuter
+[S-1APF] Part of Speech: poSessive pronoun Person: first Case: Accusative Number: Plural Gender: Feminine
+[S-1APM] Part of Speech: poSessive pronoun Person: first Case: Accusative Number: Plural Gender: Masculine
+[S-1APN] Part of Speech: poSessive pronoun Person: first Case: Accusative Number: Plural Gender: Neuter
+[S-1ASF] Part of Speech: poSessive pronoun Person: first Case: Accusative Number: Singular Gender: Feminine
+[S-1ASM] Part of Speech: poSessive pronoun Person: first Case: Accusative Number: Singular Gender: Masculine
+[S-1ASN] Part of Speech: poSessive pronoun Person: first Case: Accusative Number: Singular Gender: Neuter
+[S-1DPF] Part of Speech: poSessive pronoun Person: first Case: Dative Number: Plural Gender: Feminine
+[S-1DPM] Part of Speech: poSessive pronoun Person: first Case: Dative Number: Plural Gender: Masculine
+[S-1DPN] Part of Speech: poSessive pronoun Person: first Case: Dative Number: Plural Gender: Neuter
+[S-1DSF] Part of Speech: poSessive pronoun Person: first Case: Dative Number: Singular Gender: Feminine
+[S-1DSM] Part of Speech: poSessive pronoun Person: first Case: Dative Number: Singular Gender: Masculine
+[S-1DSN] Part of Speech: poSessive pronoun Person: first Case: Dative Number: Singular Gender: Neuter
+[S-1GPF] Part of Speech: poSessive pronoun Person: first Case: Genitive Number: Plural Gender: Feminine
+[S-1GPN] Part of Speech: poSessive pronoun Person: first Case: Genitive Number: Plural Gender: Neuter
+[S-1GSF] Part of Speech: poSessive pronoun Person: first Case: Genitive Number: Singular Gender: Feminine
+[S-1NPF] Part of Speech: poSessive pronoun Person: first Case: Nominative Number: Plural Gender: Feminine
+[S-1NPM] Part of Speech: poSessive pronoun Person: first Case: Nominative Number: Plural Gender: Masculine
+[S-1NPN] Part of Speech: poSessive pronoun Person: first Case: Nominative Number: Plural Gender: Neuter
+[S-1NSF] Part of Speech: poSessive pronoun Person: first Case: Nominative Number: Singular Gender: Feminine
+[S-1NSM] Part of Speech: poSessive pronoun Person: first Case: Nominative Number: Singular Gender: Masculine
+[S-1NSN] Part of Speech: poSessive pronoun Person: first Case: Nominative Number: Singular Gender: Neuter
+[S-1PASF] Part of Speech: poSessive pronoun Person: first Number: Plural Case: Accusative Number: Singular Gender: Feminine
+[S-1PASM] Part of Speech: poSessive pronoun Person: first Number: Plural Case: Accusative Number: Singular Gender: Masculine
+[S-1PASN] Part of Speech: poSessive pronoun Person: first Number: Plural Case: Accusative Number: Singular Gender: Neuter
+[S-1PDPF] Part of Speech: poSessive pronoun Person: first Number: Plural Case: Dative Number: Plural Gender: Feminine
+[S-1PDPM] Part of Speech: poSessive pronoun Person: first Number: Plural Case: Dative Number: Plural Gender: Masculine
+[S-1PDSN] Part of Speech: poSessive pronoun Person: first Number: Plural Case: Dative Number: Singular Gender: Neuter
+[S-1PGPF] Part of Speech: poSessive pronoun Person: first Number: Plural Case: Genitive Number: Plural Gender: Feminine
+[S-1PGSF] Part of Speech: poSessive pronoun Person: first Number: Plural Case: Genitive Number: Singular Gender: Feminine
+[S-1PNPM] Part of Speech: poSessive pronoun Person: first Number: Plural Case: Nominative Number: Plural Gender: Masculine
+[S-1PNSF] Part of Speech: poSessive pronoun Person: first Number: Plural Case: Nominative Number: Singular Gender: Feminine
+[S-1SAPF] Part of Speech: poSessive pronoun Person: first Number: Singular Case: Accusative Number: Plural Gender: Feminine
+[S-1SAPM] Part of Speech: poSessive pronoun Person: first Number: Singular Case: Accusative Number: Plural Gender: Masculine
+[S-1SAPN] Part of Speech: poSessive pronoun Person: first Number: Singular Case: Accusative Number: Plural Gender: Neuter
+[S-1SASF] Part of Speech: poSessive pronoun Person: first Number: Singular Case: Accusative Number: Singular Gender: Feminine
+[S-1SASM] Part of Speech: poSessive pronoun Person: first Number: Singular Case: Accusative Number: Singular Gender: Masculine
+[S-1SASN] Part of Speech: poSessive pronoun Person: first Number: Singular Case: Accusative Number: Singular Gender: Neuter
+[S-1SDPN] Part of Speech: poSessive pronoun Person: first Number: Singular Case: Dative Number: Plural Gender: Neuter
+[S-1SDSF] Part of Speech: poSessive pronoun Person: first Number: Singular Case: Dative Number: Singular Gender: Feminine
+[S-1SDSM] Part of Speech: poSessive pronoun Person: first Number: Singular Case: Dative Number: Singular Gender: Masculine
+[S-1SDSN] Part of Speech: poSessive pronoun Person: first Number: Singular Case: Dative Number: Singular Gender: Neuter
+[S-1SGPN] Part of Speech: poSessive pronoun Person: first Number: Singular Case: Genitive Number: Plural Gender: Neuter
+[S-1SGSF] Part of Speech: poSessive pronoun Person: first Number: Singular Case: Genitive Number: Singular Gender: Feminine
+[S-1SGSN] Part of Speech: poSessive pronoun Person: first Number: Singular Case: Genitive Number: Singular Gender: Neuter
+[S-1SNPM] Part of Speech: poSessive pronoun Person: first Number: Singular Case: Nominative Number: Plural Gender: Masculine
+[S-1SNPN] Part of Speech: poSessive pronoun Person: first Number: Singular Case: Nominative Number: Plural Gender: Neuter
+[S-1SNSF] Part of Speech: poSessive pronoun Person: first Number: Singular Case: Nominative Number: Singular Gender: Feminine
+[S-1SNSM] Part of Speech: poSessive pronoun Person: first Number: Singular Case: Nominative Number: Singular Gender: Masculine
+[S-1SNSN] Part of Speech: poSessive pronoun Person: first Number: Singular Case: Nominative Number: Singular Gender: Neuter
+[S-2APF] Part of Speech: poSessive pronoun Person: second Case: Accusative Number: Plural Gender: Feminine
+[S-2APM] Part of Speech: poSessive pronoun Person: second Case: Accusative Number: Plural Gender: Masculine
+[S-2APN] Part of Speech: poSessive pronoun Person: second Case: Accusative Number: Plural Gender: Neuter
+[S-2ASF] Part of Speech: poSessive pronoun Person: second Case: Accusative Number: Singular Gender: Feminine
+[S-2ASN] Part of Speech: poSessive pronoun Person: second Case: Accusative Number: Singular Gender: Neuter
+[S-2DPF] Part of Speech: poSessive pronoun Person: second Case: Dative Number: Plural Gender: Feminine
+[S-2DPM] Part of Speech: poSessive pronoun Person: second Case: Dative Number: Plural Gender: Masculine
+[S-2DSF] Part of Speech: poSessive pronoun Person: second Case: Dative Number: Singular Gender: Feminine
+[S-2DSM] Part of Speech: poSessive pronoun Person: second Case: Dative Number: Singular Gender: Masculine
+[S-2GPF] Part of Speech: poSessive pronoun Person: second Case: Genitive Number: Plural Gender: Feminine
+[S-2GSF] Part of Speech: poSessive pronoun Person: second Case: Genitive Number: Singular Gender: Feminine
+[S-2NPF] Part of Speech: poSessive pronoun Person: second Case: Nominative Number: Plural Gender: Feminine
+[S-2NPM] Part of Speech: poSessive pronoun Person: second Case: Nominative Number: Plural Gender: Masculine
+[S-2NPN] Part of Speech: poSessive pronoun Person: second Case: Nominative Number: Plural Gender: Neuter
+[S-2NSM] Part of Speech: poSessive pronoun Person: second Case: Nominative Number: Singular Gender: Masculine
+[S-2NSN] Part of Speech: poSessive pronoun Person: second Case: Nominative Number: Singular Gender: Neuter
+[S-2PASF] Part of Speech: poSessive pronoun Person: second Number: Plural Case: Accusative Number: Singular Gender: Feminine
+[S-2PASM] Part of Speech: poSessive pronoun Person: second Number: Plural Case: Accusative Number: Singular Gender: Masculine
+[S-2PASN] Part of Speech: poSessive pronoun Person: second Number: Plural Case: Accusative Number: Singular Gender: Neuter
+[S-2PDSF] Part of Speech: poSessive pronoun Person: second Number: Plural Case: Dative Number: Singular Gender: Feminine
+[S-2PDSM] Part of Speech: poSessive pronoun Person: second Number: Plural Case: Dative Number: Singular Gender: Masculine
+[S-2PDSN] Part of Speech: poSessive pronoun Person: second Number: Plural Case: Dative Number: Singular Gender: Neuter
+[S-2PGSF] Part of Speech: poSessive pronoun Person: second Number: Plural Case: Genitive Number: Singular Gender: Feminine
+[S-2PNSF] Part of Speech: poSessive pronoun Person: second Number: Plural Case: Nominative Number: Singular Gender: Feminine
+[S-2PNSM] Part of Speech: poSessive pronoun Person: second Number: Plural Case: Nominative Number: Singular Gender: Masculine
+[S-2SAPM] Part of Speech: poSessive pronoun Person: second Number: Singular Case: Accusative Number: Plural Gender: Masculine
+[S-2SAPN] Part of Speech: poSessive pronoun Person: second Number: Singular Case: Accusative Number: Plural Gender: Neuter
+[S-2SASF] Part of Speech: poSessive pronoun Person: second Number: Singular Case: Accusative Number: Singular Gender: Feminine
+[S-2SASN] Part of Speech: poSessive pronoun Person: second Number: Singular Case: Accusative Number: Singular Gender: Neuter
+[S-2SDSF] Part of Speech: poSessive pronoun Person: second Number: Singular Case: Dative Number: Singular Gender: Feminine
+[S-2SDSM] Part of Speech: poSessive pronoun Person: second Number: Singular Case: Dative Number: Singular Gender: Masculine
+[S-2SDSN] Part of Speech: poSessive pronoun Person: second Number: Singular Case: Dative Number: Singular Gender: Neuter
+[S-2SGSF] Part of Speech: poSessive pronoun Person: second Number: Singular Case: Genitive Number: Singular Gender: Feminine
+[S-2SNPM] Part of Speech: poSessive pronoun Person: second Number: Singular Case: Nominative Number: Plural Gender: Masculine
+[S-2SNPN] Part of Speech: poSessive pronoun Person: second Number: Singular Case: Nominative Number: Plural Gender: Neuter
+[S-2SNSM] Part of Speech: poSessive pronoun Person: second Number: Singular Case: Nominative Number: Singular Gender: Masculine
+[S-2SNSN] Part of Speech: poSessive pronoun Person: second Number: Singular Case: Nominative Number: Singular Gender: Neuter
+[T-APF] Part of Speech: definite arTicle Case: Accusative Number: Plural Gender: Feminine
+[T-APM] Part of Speech: definite arTicle Case: Accusative Number: Plural Gender: Masculine
+[T-APN] Part of Speech: definite arTicle Case: Accusative Number: Plural Gender: Neuter
+[T-ASF] Part of Speech: definite arTicle Case: Accusative Number: Singular Gender: Feminine
+[T-ASM] Part of Speech: definite arTicle Case: Accusative Number: Singular Gender: Masculine
+[T-ASN] Part of Speech: definite arTicle Case: Accusative Number: Singular Gender: Neuter
+[T-DPF] Part of Speech: definite arTicle Case: Dative Number: Plural Gender: Feminine
+[T-DPM] Part of Speech: definite arTicle Case: Dative Number: Plural Gender: Masculine
+[T-DPN] Part of Speech: definite arTicle Case: Dative Number: Plural Gender: Neuter
+[T-DSF] Part of Speech: definite arTicle Case: Dative Number: Singular Gender: Feminine
+[T-DSM] Part of Speech: definite arTicle Case: Dative Number: Singular Gender: Masculine
+[T-DSN] Part of Speech: definite arTicle Case: Dative Number: Singular Gender: Neuter
+[T-GPF] Part of Speech: definite arTicle Case: Genitive Number: Plural Gender: Feminine
+[T-GPM] Part of Speech: definite arTicle Case: Genitive Number: Plural Gender: Masculine
+[T-GPN] Part of Speech: definite arTicle Case: Genitive Number: Plural Gender: Neuter
+[T-GSF] Part of Speech: definite arTicle Case: Genitive Number: Singular Gender: Feminine
+[T-GSM] Part of Speech: definite arTicle Case: Genitive Number: Singular Gender: Masculine
+[T-GSN] Part of Speech: definite arTicle Case: Genitive Number: Singular Gender: Neuter
+[T-NPF] Part of Speech: definite arTicle Case: Nominative Number: Plural Gender: Feminine
+[T-NPM] Part of Speech: definite arTicle Case: Nominative Number: Plural Gender: Masculine
+[T-NPN] Part of Speech: definite arTicle Case: Nominative Number: Plural Gender: Neuter
+[T-NSF] Part of Speech: definite arTicle Case: Nominative Number: Singular Gender: Feminine
+[T-NSM] Part of Speech: definite arTicle Case: Nominative Number: Singular Gender: Masculine
+[T-NSN] Part of Speech: definite arTicle Case: Nominative Number: Singular Gender: Neuter
+[T-VPF] Part of Speech: definite arTicle Case: Vocative Number: Plural Gender: Feminine
+[T-VPM] Part of Speech: definite arTicle Case: Vocative Number: Plural Gender: Masculine
+[T-VPN] Part of Speech: definite arTicle Case: Vocative Number: Plural Gender: Neuter
+[T-VSF] Part of Speech: definite arTicle Case: Vocative Number: Singular Gender: Feminine
+[T-VSM] Part of Speech: definite arTicle Case: Vocative Number: Singular Gender: Masculine
+[T-VSN] Part of Speech: definite arTicle Case: Vocative Number: Singular Gender: Neuter
+[V-2AAI] Part of Speech: Verb Tense: second Aorist Voice: Active Mood: Indicative TVM equivalent: G5627
+[V-2AAI-1P] Part of Speech: Verb Tense: second Aorist Voice: Active Mood: Indicative Person: first Number: Plural
+[V-2AAI-1S] Part of Speech: Verb Tense: second Aorist Voice: Active Mood: Indicative Person: first Number: Singular
+[V-2AAI-2P] Part of Speech: Verb Tense: second Aorist Voice: Active Mood: Indicative Person: second Number: Plural
+[V-2AAI-2S] Part of Speech: Verb Tense: second Aorist Voice: Active Mood: Indicative Person: second Number: Singular
+[V-2AAI-3P] Part of Speech: Verb Tense: second Aorist Voice: Active Mood: Indicative Person: third Number: Plural
+[V-2AAI-3P-ATT] Part of Speech: Verb Tense: second Aorist Voice: Active Mood: Indicative Person: third Number: Plural ATTic
+[V-2AAI-3S] Part of Speech: Verb Tense: second Aorist Voice: Active Mood: Indicative Person: third Number: Singular
+[V-2AAM] Part of Speech: Verb Tense: second Aorist Voice: Active Mood: iMperative TVM equivalent: G5628
+[V-2AAM-2P] Part of Speech: Verb Tense: second Aorist Voice: Active Mood: iMperative Person: second Number: Plural
+[V-2AAM-2S] Part of Speech: Verb Tense: second Aorist Voice: Active Mood: iMperative Person: second Number: Singular
+[V-2AAM-2S-AP] Part of Speech: Verb Tense: second Aorist Voice: Active Mood: iMperative Person: second Number: Singular Apocopated form
+[V-2AAM-2S-ATT] Part of Speech: Verb Tense: second Aorist Voice: Active Mood: iMperative Person: second Number: Singular ATTic
+[V-2AAM-3P] Part of Speech: Verb Tense: second Aorist Voice: Active Mood: iMperative Person: third Number: Plural
+[V-2AAM-3S] Part of Speech: Verb Tense: second Aorist Voice: Active Mood: iMperative Person: third Number: Singular
+[V-2AAN] Part of Speech: Verb Tense: second Aorist Voice: Active Mood: iNfinitive TVM equivalent: G5629
+[V-2AAO] Part of Speech: Verb Tense: second Aorist Voice: Active Mood: Optative TVM equivalent: G5630
+[V-2AAO-3P] Part of Speech: Verb Tense: second Aorist Voice: Active Mood: Optative Person: third Number: Plural
+[V-2AAO-3S] Part of Speech: Verb Tense: second Aorist Voice: Active Mood: Optative Person: third Number: Singular
+[V-2AAP] Part of Speech: Verb Tense: second Aorist Voice: Active Mood: Participle TVM equivalent: G5631
+[V-2AAP-APF] Part of Speech: Verb Tense: second Aorist Voice: Active Mood: Participle Case: Accusative Number: Plural Gender: Feminine
+[V-2AAP-APM] Part of Speech: Verb Tense: second Aorist Voice: Active Mood: Participle Case: Accusative Number: Plural Gender: Masculine
+[V-2AAP-ASF] Part of Speech: Verb Tense: second Aorist Voice: Active Mood: Participle Case: Accusative Number: Singular Gender: Feminine
+[V-2AAP-ASM] Part of Speech: Verb Tense: second Aorist Voice: Active Mood: Participle Case: Accusative Number: Singular Gender: Masculine
+[V-2AAP-ASN] Part of Speech: Verb Tense: second Aorist Voice: Active Mood: Participle Case: Accusative Number: Singular Gender: Neuter
+[V-2AAP-DPF] Part of Speech: Verb Tense: second Aorist Voice: Active Mood: Participle Case: Dative Number: Plural Gender: Feminine
+[V-2AAP-DPM] Part of Speech: Verb Tense: second Aorist Voice: Active Mood: Participle Case: Dative Number: Plural Gender: Masculine
+[V-2AAP-DSF] Part of Speech: Verb Tense: second Aorist Voice: Active Mood: Participle Case: Dative Number: Singular Gender: Feminine
+[V-2AAP-DSM] Part of Speech: Verb Tense: second Aorist Voice: Active Mood: Participle Case: Dative Number: Singular Gender: Masculine
+[V-2AAP-GPM] Part of Speech: Verb Tense: second Aorist Voice: Active Mood: Participle Case: Genitive Number: Plural Gender: Masculine
+[V-2AAP-GSF] Part of Speech: Verb Tense: second Aorist Voice: Active Mood: Participle Case: Genitive Number: Singular Gender: Feminine
+[V-2AAP-GSM] Part of Speech: Verb Tense: second Aorist Voice: Active Mood: Participle Case: Genitive Number: Singular Gender: Masculine
+[V-2AAP-GSN] Part of Speech: Verb Tense: second Aorist Voice: Active Mood: Participle Case: Genitive Number: Singular Gender: Neuter
+[V-2AAP-NPF] Part of Speech: Verb Tense: second Aorist Voice: Active Mood: Participle Case: Nominative Number: Plural Gender: Feminine
+[V-2AAP-NPM] Part of Speech: Verb Tense: second Aorist Voice: Active Mood: Participle Case: Nominative Number: Plural Gender: Masculine
+[V-2AAP-NPN] Part of Speech: Verb Tense: second Aorist Voice: Active Mood: Participle Case: Nominative Number: Plural Gender: Neuter
+[V-2AAP-NSF] Part of Speech: Verb Tense: second Aorist Voice: Active Mood: Participle Case: Nominative Number: Singular Gender: Feminine
+[V-2AAP-NSM] Part of Speech: Verb Tense: second Aorist Voice: Active Mood: Participle Case: Nominative Number: Singular Gender: Masculine
+[V-2AAP-NSN] Part of Speech: Verb Tense: second Aorist Voice: Active Mood: Participle Case: Nominative Number: Singular Gender: Neuter
+[V-2AAS] Part of Speech: Verb Tense: second Aorist Voice: Active Mood: Subjunctive TVM equivalent: G5632
+[V-2AAS-1P] Part of Speech: Verb Tense: second Aorist Voice: Active Mood: Subjunctive Person: first Number: Plural
+[V-2AAS-1S] Part of Speech: Verb Tense: second Aorist Voice: Active Mood: Subjunctive Person: first Number: Singular
+[V-2AAS-2P] Part of Speech: Verb Tense: second Aorist Voice: Active Mood: Subjunctive Person: second Number: Plural
+[V-2AAS-2S] Part of Speech: Verb Tense: second Aorist Voice: Active Mood: Subjunctive Person: second Number: Singular
+[V-2AAS-3P] Part of Speech: Verb Tense: second Aorist Voice: Active Mood: Subjunctive Person: third Number: Plural
+[V-2AAS-3S] Part of Speech: Verb Tense: second Aorist Voice: Active Mood: Subjunctive Person: third Number: Singular
+[V-2ADI] Part of Speech: Verb Tense: second Aorist Voice: middle Deponent Mood: Indicative TVM equivalent: G5633
+[V-2ADI-1S] Part of Speech: Verb Tense: second Aorist Voice: middle Deponent Mood: Indicative Person: first Number: Singular
+[V-2ADI-2P] Part of Speech: Verb Tense: second Aorist Voice: middle Deponent Mood: Indicative Person: second Number: Plural
+[V-2ADI-2S] Part of Speech: Verb Tense: second Aorist Voice: middle Deponent Mood: Indicative Person: second Number: Singular
+[V-2ADI-3P] Part of Speech: Verb Tense: second Aorist Voice: middle Deponent Mood: Indicative Person: third Number: Plural
+[V-2ADI-3S] Part of Speech: Verb Tense: second Aorist Voice: middle Deponent Mood: Indicative Person: third Number: Singular
+[V-2ADM] Part of Speech: Verb Tense: second Aorist Voice: middle Deponent Mood: iMperative TVM equivalent: G5634
+[V-2ADM-2P] Part of Speech: Verb Tense: second Aorist Voice: middle Deponent Mood: iMperative Person: second Number: Plural
+[V-2ADM-2S] Part of Speech: Verb Tense: second Aorist Voice: middle Deponent Mood: iMperative Person: second Number: Singular
+[V-2ADM-3S] Part of Speech: Verb Tense: second Aorist Voice: middle Deponent Mood: iMperative Person: third Number: Singular
+[V-2ADN] Part of Speech: Verb Tense: second Aorist Voice: middle Deponent Mood: iNfinitive TVM equivalent: G5635
+[V-2ADO] Part of Speech: Verb Tense: second Aorist Voice: middle Deponent Mood: Optative TVM equivalent: G5636
+[V-2ADO-1S] Part of Speech: Verb Tense: second Aorist Voice: middle Deponent Mood: Optative Person: first Number: Singular
+[V-2ADO-3S] Part of Speech: Verb Tense: second Aorist Voice: middle Deponent Mood: Optative Person: third Number: Singular
+[V-2ADP] Part of Speech: Verb Tense: second Aorist Voice: middle Deponent Mood: Participle TVM equivalent: G5637
+[V-2ADP-APM] Part of Speech: Verb Tense: second Aorist Voice: middle Deponent Mood: Participle Case: Accusative Number: Plural Gender: Masculine
+[V-2ADP-APN] Part of Speech: Verb Tense: second Aorist Voice: middle Deponent Mood: Participle Case: Accusative Number: Plural Gender: Neuter
+[V-2ADP-ASF] Part of Speech: Verb Tense: second Aorist Voice: middle Deponent Mood: Participle Case: Accusative Number: Singular Gender: Feminine
+[V-2ADP-ASM] Part of Speech: Verb Tense: second Aorist Voice: middle Deponent Mood: Participle Case: Accusative Number: Singular Gender: Masculine
+[V-2ADP-ASN] Part of Speech: Verb Tense: second Aorist Voice: middle Deponent Mood: Participle Case: Accusative Number: Singular Gender: Neuter
+[V-2ADP-DPM] Part of Speech: Verb Tense: second Aorist Voice: middle Deponent Mood: Participle Case: Dative Number: Plural Gender: Masculine
+[V-2ADP-DPN] Part of Speech: Verb Tense: second Aorist Voice: middle Deponent Mood: Participle Case: Dative Number: Plural Gender: Neuter
+[V-2ADP-GPF] Part of Speech: Verb Tense: second Aorist Voice: middle Deponent Mood: Participle Case: Genitive Number: Plural Gender: Feminine
+[V-2ADP-GPM] Part of Speech: Verb Tense: second Aorist Voice: middle Deponent Mood: Participle Case: Genitive Number: Plural Gender: Masculine
+[V-2ADP-GPN] Part of Speech: Verb Tense: second Aorist Voice: middle Deponent Mood: Participle Case: Genitive Number: Plural Gender: Neuter
+[V-2ADP-GSF] Part of Speech: Verb Tense: second Aorist Voice: middle Deponent Mood: Participle Case: Genitive Number: Singular Gender: Feminine
+[V-2ADP-GSM] Part of Speech: Verb Tense: second Aorist Voice: middle Deponent Mood: Participle Case: Genitive Number: Singular Gender: Masculine
+[V-2ADP-GSN] Part of Speech: Verb Tense: second Aorist Voice: middle Deponent Mood: Participle Case: Genitive Number: Singular Gender: Neuter
+[V-2ADP-NPF] Part of Speech: Verb Tense: second Aorist Voice: middle Deponent Mood: Participle Case: Nominative Number: Plural Gender: Feminine
+[V-2ADP-NPM] Part of Speech: Verb Tense: second Aorist Voice: middle Deponent Mood: Participle Case: Nominative Number: Plural Gender: Masculine
+[V-2ADP-NSM] Part of Speech: Verb Tense: second Aorist Voice: middle Deponent Mood: Participle Case: Nominative Number: Singular Gender: Masculine
+[V-2ADS] Part of Speech: Verb Tense: second Aorist Voice: middle Deponent Mood: Subjunctive TVM equivalent: G5638
+[V-2ADS-1P] Part of Speech: Verb Tense: second Aorist Voice: middle Deponent Mood: Subjunctive Person: first Number: Plural
+[V-2ADS-1S] Part of Speech: Verb Tense: second Aorist Voice: middle Deponent Mood: Subjunctive Person: first Number: Singular
+[V-2ADS-2P] Part of Speech: Verb Tense: second Aorist Voice: middle Deponent Mood: Subjunctive Person: second Number: Plural
+[V-2ADS-3P] Part of Speech: Verb Tense: second Aorist Voice: middle Deponent Mood: Subjunctive Person: third Number: Plural
+[V-2ADS-3S] Part of Speech: Verb Tense: second Aorist Voice: middle Deponent Mood: Subjunctive Person: third Number: Singular
+[V-2AMI] Part of Speech: Verb Tense: second Aorist Voice: Middle Mood: Indicative TVM equivalent: G5639
+[V-2AMI-1P] Part of Speech: Verb Tense: second Aorist Voice: Middle Mood: Indicative Person: first Number: Plural
+[V-2AMI-1S] Part of Speech: Verb Tense: second Aorist Voice: Middle Mood: Indicative Person: first Number: Singular
+[V-2AMI-2P] Part of Speech: Verb Tense: second Aorist Voice: Middle Mood: Indicative Person: second Number: Plural
+[V-2AMI-2S] Part of Speech: Verb Tense: second Aorist Voice: Middle Mood: Indicative Person: second Number: Singular
+[V-2AMI-3P] Part of Speech: Verb Tense: second Aorist Voice: Middle Mood: Indicative Person: third Number: Plural
+[V-2AMI-3S] Part of Speech: Verb Tense: second Aorist Voice: Middle Mood: Indicative Person: third Number: Singular
+[V-2AMM] Part of Speech: Verb Tense: second Aorist Voice: Middle Mood: iMperative TVM equivalent: G5640
+[V-2AMM-2P] Part of Speech: Verb Tense: second Aorist Voice: Middle Mood: iMperative Person: second Number: Plural
+[V-2AMM-2S] Part of Speech: Verb Tense: second Aorist Voice: Middle Mood: iMperative Person: second Number: Singular
+[V-2AMN] Part of Speech: Verb Tense: second Aorist Voice: Middle Mood: iNfinitive TVM equivalent: G5641
+[V-2AMP] Part of Speech: Verb Tense: second Aorist Voice: Middle Mood: Participle TVM equivalent: G5642
+[V-2AMP-GSM] Part of Speech: Verb Tense: second Aorist Voice: Middle Mood: Participle Case: Genitive Number: Singular Gender: Masculine
+[V-2AMP-NPM] Part of Speech: Verb Tense: second Aorist Voice: Middle Mood: Participle Case: Nominative Number: Plural Gender: Masculine
+[V-2AMP-NSM] Part of Speech: Verb Tense: second Aorist Voice: Middle Mood: Participle Case: Nominative Number: Singular Gender: Masculine
+[V-2AMS] Part of Speech: Verb Tense: second Aorist Voice: Middle Mood: Subjunctive TVM equivalent: G5643
+[V-2AMS-1P] Part of Speech: Verb Tense: second Aorist Voice: Middle Mood: Subjunctive Person: first Number: Plural
+[V-2AMS-1S] Part of Speech: Verb Tense: second Aorist Voice: Middle Mood: Subjunctive Person: first Number: Singular
+[V-2AMS-2S] Part of Speech: Verb Tense: second Aorist Voice: Middle Mood: Subjunctive Person: second Number: Singular
+[V-2AMS-3P] Part of Speech: Verb Tense: second Aorist Voice: Middle Mood: Subjunctive Person: third Number: Plural
+[V-2AMS-3S] Part of Speech: Verb Tense: second Aorist Voice: Middle Mood: Subjunctive Person: third Number: Singular
+[V-2AOI] Part of Speech: Verb Tense: second Aorist Voice: passive depOnent Mood: Indicative TVM equivalent: G5644
+[V-2AOI-1P] Part of Speech: Verb Tense: second Aorist Voice: passive depOnent Mood: Indicative Person: first Number: Plural
+[V-2AOI-1S] Part of Speech: Verb Tense: second Aorist Voice: passive depOnent Mood: Indicative Person: first Number: Singular
+[V-2AOI-2P] Part of Speech: Verb Tense: second Aorist Voice: passive depOnent Mood: Indicative Person: second Number: Plural
+[V-2AOI-3P] Part of Speech: Verb Tense: second Aorist Voice: passive depOnent Mood: Indicative Person: third Number: Plural
+[V-2AOI-3S] Part of Speech: Verb Tense: second Aorist Voice: passive depOnent Mood: Indicative Person: third Number: Singular
+[V-2AOM] Part of Speech: Verb Tense: second Aorist Voice: passive depOnent Mood: iMperative TVM equivalent: G5645
+[V-2AOM-2P] Part of Speech: Verb Tense: second Aorist Voice: passive depOnent Mood: iMperative Person: second Number: Plural
+[V-2AON] Part of Speech: Verb Tense: second Aorist Voice: passive depOnent Mood: iNfinitive TVM equivalent: G5646
+[V-2AOS] Part of Speech: Verb Tense: second Aorist Voice: passive depOnent Mood: Subjunctive TVM equivalent: G5647
+[V-2AOS-2P] Part of Speech: Verb Tense: second Aorist Voice: passive depOnent Mood: Subjunctive Person: second Number: Plural
+[V-2API] Part of Speech: Verb Tense: second Aorist Voice: Passive Mood: Indicative TVM equivalent: G5648
+[V-2API-1P] Part of Speech: Verb Tense: second Aorist Voice: Passive Mood: Indicative Person: first Number: Plural
+[V-2API-1S] Part of Speech: Verb Tense: second Aorist Voice: Passive Mood: Indicative Person: first Number: Singular
+[V-2API-2P] Part of Speech: Verb Tense: second Aorist Voice: Passive Mood: Indicative Person: second Number: Plural
+[V-2API-2S] Part of Speech: Verb Tense: second Aorist Voice: Passive Mood: Indicative Person: second Number: Singular
+[V-2API-3P] Part of Speech: Verb Tense: second Aorist Voice: Passive Mood: Indicative Person: third Number: Plural
+[V-2API-3S] Part of Speech: Verb Tense: second Aorist Voice: Passive Mood: Indicative Person: third Number: Singular
+[V-2APM] Part of Speech: Verb Tense: second Aorist Voice: Passive Mood: iMperative TVM equivalent: G5649
+[V-2APM-2P] Part of Speech: Verb Tense: second Aorist Voice: Passive Mood: iMperative Person: second Number: Plural
+[V-2APM-2S] Part of Speech: Verb Tense: second Aorist Voice: Passive Mood: iMperative Person: second Number: Singular
+[V-2APM-3S] Part of Speech: Verb Tense: second Aorist Voice: Passive Mood: iMperative Person: third Number: Singular
+[V-2APN] Part of Speech: Verb Tense: second Aorist Voice: Passive Mood: iNfinitive TVM equivalent: G5650
+[V-2APP] Part of Speech: Verb Tense: second Aorist Voice: Passive Mood: Participle TVM equivalent: G5651
+[V-2APP-ASM] Part of Speech: Verb Tense: second Aorist Voice: Passive Mood: Participle Case: Accusative Number: Singular Gender: Masculine
+[V-2APP-DSN] Part of Speech: Verb Tense: second Aorist Voice: Passive Mood: Participle Case: Dative Number: Singular Gender: Neuter
+[V-2APP-GPM] Part of Speech: Verb Tense: second Aorist Voice: Passive Mood: Participle Case: Genitive Number: Plural Gender: Masculine
+[V-2APP-NPF] Part of Speech: Verb Tense: second Aorist Voice: Passive Mood: Participle Case: Nominative Number: Plural Gender: Feminine
+[V-2APP-NPM] Part of Speech: Verb Tense: second Aorist Voice: Passive Mood: Participle Case: Nominative Number: Plural Gender: Masculine
+[V-2APP-NSF] Part of Speech: Verb Tense: second Aorist Voice: Passive Mood: Participle Case: Nominative Number: Singular Gender: Feminine
+[V-2APP-NSM] Part of Speech: Verb Tense: second Aorist Voice: Passive Mood: Participle Case: Nominative Number: Singular Gender: Masculine
+[V-2APP-NSN] Part of Speech: Verb Tense: second Aorist Voice: Passive Mood: Participle Case: Nominative Number: Singular Gender: Neuter
+[V-2APS] Part of Speech: Verb Tense: second Aorist Voice: Passive Mood: Subjunctive TVM equivalent: G5652
+[V-2APS-1P] Part of Speech: Verb Tense: second Aorist Voice: Passive Mood: Subjunctive Person: first Number: Plural
+[V-2APS-2P] Part of Speech: Verb Tense: second Aorist Voice: Passive Mood: Subjunctive Person: second Number: Plural
+[V-2APS-2S] Part of Speech: Verb Tense: second Aorist Voice: Passive Mood: Subjunctive Person: second Number: Singular
+[V-2APS-3P] Part of Speech: Verb Tense: second Aorist Voice: Passive Mood: Subjunctive Person: third Number: Plural
+[V-2APS-3S] Part of Speech: Verb Tense: second Aorist Voice: Passive Mood: Subjunctive Person: third Number: Singular
+[V-2AXM] Part of Speech: Verb Tense: second Aorist Voice: no voice stated Mood: iMperative TVM equivalent: G5653
+[V-2AXM-2P] Part of Speech: Verb Tense: second Aorist Voice: no voice stated Mood: iMperative Person: second Number: Plural
+[V-2AXP] Part of Speech: Verb Tense: second Aorist Voice: no voice stated Mood: Participle TVM equivalent: G5654
+[V-2AXP-GPM] Part of Speech: Verb Tense: second Aorist Voice: no voice stated Mood: Participle Case: Genitive Number: Plural Gender: Masculine
+[V-2AXS] Part of Speech: Verb Tense: second Aorist Voice: no voice stated Mood: Subjunctive TVM equivalent: G5655
+[V-2AXS-2P] Part of Speech: Verb Tense: second Aorist Voice: no voice stated Mood: Subjunctive Person: second Number: Plural
+[V-2FAI] Part of Speech: Verb Tense: second Future Voice: Active Mood: Indicative TVM equivalent: G5687
+[V-2FAI-1S] Part of Speech: Verb Tense: second Future Voice: Active Mood: Indicative Person: first Number: Singular
+[V-2FAI-3S] Part of Speech: Verb Tense: second Future Voice: Active Mood: Indicative Person: third Number: Singular
+[V-2FDI] Part of Speech: Verb Tense: second Future Voice: middle Deponent Mood: Indicative TVM equivalent: G5688
+[V-2FDI-2S] Part of Speech: Verb Tense: second Future Voice: middle Deponent Mood: Indicative Person: second Number: Singular
+[V-2FDI-3P] Part of Speech: Verb Tense: second Future Voice: middle Deponent Mood: Indicative Person: third Number: Plural
+[V-2FDI-3S] Part of Speech: Verb Tense: second Future Voice: middle Deponent Mood: Indicative Person: third Number: Singular
+[V-2FMI] Part of Speech: Verb Tense: second Future Voice: Middle Mood: Indicative TVM equivalent: G5689
+[V-2FMI-3S] Part of Speech: Verb Tense: second Future Voice: Middle Mood: Indicative Person: third Number: Singular
+[V-2FOI] Part of Speech: Verb Tense: second Future Voice: passive depOnent Mood: Indicative TVM equivalent: G5690
+[V-2FOI-1S] Part of Speech: Verb Tense: second Future Voice: passive depOnent Mood: Indicative Person: first Number: Singular
+[V-2FOI-3P] Part of Speech: Verb Tense: second Future Voice: passive depOnent Mood: Indicative Person: third Number: Plural
+[V-2FOI-3S] Part of Speech: Verb Tense: second Future Voice: passive depOnent Mood: Indicative Person: third Number: Singular
+[V-2FPI] Part of Speech: Verb Tense: second Future Voice: Passive Mood: Indicative TVM equivalent: G5691
+[V-2FPI-1P] Part of Speech: Verb Tense: second Future Voice: Passive Mood: Indicative Person: first Number: Plural
+[V-2FPI-2P] Part of Speech: Verb Tense: second Future Voice: Passive Mood: Indicative Person: second Number: Plural
+[V-2FPI-2S] Part of Speech: Verb Tense: second Future Voice: Passive Mood: Indicative Person: second Number: Singular
+[V-2FPI-3P] Part of Speech: Verb Tense: second Future Voice: Passive Mood: Indicative Person: third Number: Plural
+[V-2FPI-3S] Part of Speech: Verb Tense: second Future Voice: Passive Mood: Indicative Person: third Number: Singular
+[V-2LAI] Part of Speech: Verb Tense: second pLuperfect Voice: Active Mood: Indicative TVM equivalent: G5714
+[V-2LAI-1S] Part of Speech: Verb Tense: second pLuperfect Voice: Active Mood: Indicative Person: first Number: Singular
+[V-2LAI-2P] Part of Speech: Verb Tense: second pLuperfect Voice: Active Mood: Indicative Person: second Number: Plural
+[V-2LAI-2S] Part of Speech: Verb Tense: second pLuperfect Voice: Active Mood: Indicative Person: second Number: Singular
+[V-2LAI-3P] Part of Speech: Verb Tense: second pLuperfect Voice: Active Mood: Indicative Person: third Number: Plural
+[V-2LAI-3S] Part of Speech: Verb Tense: second pLuperfect Voice: Active Mood: Indicative Person: third Number: Singular
+[V-2RAI] Part of Speech: Verb Tense: second peRfect Voice: Active Mood: Indicative TVM equivalent: G5754
+[V-2RAI-1P] Part of Speech: Verb Tense: second peRfect Voice: Active Mood: Indicative Person: first Number: Plural
+[V-2RAI-1P-ATT] Part of Speech: Verb Tense: second peRfect Voice: Active Mood: Indicative Person: first Number: Plural ATTic
+[V-2RAI-1S] Part of Speech: Verb Tense: second peRfect Voice: Active Mood: Indicative Person: first Number: Singular
+[V-2RAI-2P] Part of Speech: Verb Tense: second peRfect Voice: Active Mood: Indicative Person: second Number: Plural
+[V-2RAI-2P-ATT] Part of Speech: Verb Tense: second peRfect Voice: Active Mood: Indicative Person: second Number: Plural ATTic
+[V-2RAI-2S] Part of Speech: Verb Tense: second peRfect Voice: Active Mood: Indicative Person: second Number: Singular
+[V-2RAI-3P] Part of Speech: Verb Tense: second peRfect Voice: Active Mood: Indicative Person: third Number: Plural
+[V-2RAI-3P-ATT] Part of Speech: Verb Tense: second peRfect Voice: Active Mood: Indicative Person: third Number: Plural ATTic
+[V-2RAI-3P-C] Part of Speech: Verb Tense: second peRfect Voice: Active Mood: Indicative Person: third Number: Plural Contracted form
+[V-2RAI-3S] Part of Speech: Verb Tense: second peRfect Voice: Active Mood: Indicative Person: third Number: Singular
+[V-2RAI-3S-ATT] Part of Speech: Verb Tense: second peRfect Voice: Active Mood: Indicative Person: third Number: Singular ATTic
+[V-2RAN] Part of Speech: Verb Tense: second peRfect Voice: Active Mood: iNfinitive TVM equivalent: G5755
+[V-2RAP] Part of Speech: Verb Tense: second peRfect Voice: Active Mood: Participle TVM equivalent: G5756
+[V-2RAP-APM] Part of Speech: Verb Tense: second peRfect Voice: Active Mood: Participle Case: Accusative Number: Plural Gender: Masculine
+[V-2RAP-APM-ATT] Part of Speech: Verb Tense: second peRfect Voice: Active Mood: Participle Case: Accusative Number: Plural Gender: Masculine ATTic
+[V-2RAP-APN] Part of Speech: Verb Tense: second peRfect Voice: Active Mood: Participle Case: Accusative Number: Plural Gender: Neuter
+[V-2RAP-ASF] Part of Speech: Verb Tense: second peRfect Voice: Active Mood: Participle Case: Accusative Number: Singular Gender: Feminine
+[V-2RAP-ASM] Part of Speech: Verb Tense: second peRfect Voice: Active Mood: Participle Case: Accusative Number: Singular Gender: Masculine
+[V-2RAP-ASN] Part of Speech: Verb Tense: second peRfect Voice: Active Mood: Participle Case: Accusative Number: Singular Gender: Neuter
+[V-2RAP-DSN] Part of Speech: Verb Tense: second peRfect Voice: Active Mood: Participle Case: Dative Number: Singular Gender: Neuter
+[V-2RAP-NPF] Part of Speech: Verb Tense: second peRfect Voice: Active Mood: Participle Case: Nominative Number: Plural Gender: Feminine
+[V-2RAP-NPM] Part of Speech: Verb Tense: second peRfect Voice: Active Mood: Participle Case: Nominative Number: Plural Gender: Masculine
+[V-2RAP-NSF] Part of Speech: Verb Tense: second peRfect Voice: Active Mood: Participle Case: Nominative Number: Singular Gender: Feminine
+[V-2RAP-NSM] Part of Speech: Verb Tense: second peRfect Voice: Active Mood: Participle Case: Nominative Number: Singular Gender: Masculine
+[V-2RAP-NSN] Part of Speech: Verb Tense: second peRfect Voice: Active Mood: Participle Case: Nominative Number: Singular Gender: Neuter
+[V-2RPP] Part of Speech: Verb Tense: second peRfect Voice: Passive Mood: Participle TVM equivalent: G5757
+[V-2RPP-ASM] Part of Speech: Verb Tense: second peRfect Voice: Passive Mood: Participle Case: Accusative Number: Singular Gender: Masculine
+[V-2RPP-ASN] Part of Speech: Verb Tense: second peRfect Voice: Passive Mood: Participle Case: Accusative Number: Singular Gender: Neuter
+[V-AAI] Part of Speech: Verb Tense: Aorist Voice: Active Mood: Indicative TVM equivalent: G5656
+[V-AAI-1P] Part of Speech: Verb Tense: Aorist Voice: Active Mood: Indicative Person: first Number: Plural
+[V-AAI-1S] Part of Speech: Verb Tense: Aorist Voice: Active Mood: Indicative Person: first Number: Singular
+[V-AAI-2P] Part of Speech: Verb Tense: Aorist Voice: Active Mood: Indicative Person: second Number: Plural
+[V-AAI-2S] Part of Speech: Verb Tense: Aorist Voice: Active Mood: Indicative Person: second Number: Singular
+[V-AAI-3P] Part of Speech: Verb Tense: Aorist Voice: Active Mood: Indicative Person: third Number: Plural
+[V-AAI-3S] Part of Speech: Verb Tense: Aorist Voice: Active Mood: Indicative Person: third Number: Singular
+[V-AAM] Part of Speech: Verb Tense: Aorist Voice: Active Mood: iMperative TVM equivalent: G5657
+[V-AAM-2P] Part of Speech: Verb Tense: Aorist Voice: Active Mood: iMperative Person: second Number: Plural
+[V-AAM-2S] Part of Speech: Verb Tense: Aorist Voice: Active Mood: iMperative Person: second Number: Singular
+[V-AAM-3P] Part of Speech: Verb Tense: Aorist Voice: Active Mood: iMperative Person: third Number: Plural
+[V-AAM-3S] Part of Speech: Verb Tense: Aorist Voice: Active Mood: iMperative Person: third Number: Singular
+[V-AAN] Part of Speech: Verb Tense: Aorist Voice: Active Mood: iNfinitive TVM equivalent: G5658
+[V-AAO] Part of Speech: Verb Tense: Aorist Voice: Active Mood: Optative TVM equivalent: G5659
+[V-AAO-3P] Part of Speech: Verb Tense: Aorist Voice: Active Mood: Optative Person: third Number: Plural
+[V-AAO-3P-A] Part of Speech: Verb Tense: Aorist Voice: Active Mood: Optative Person: third Number: Plural Aeolic
+[V-AAO-3S] Part of Speech: Verb Tense: Aorist Voice: Active Mood: Optative Person: third Number: Singular
+[V-AAP] Part of Speech: Verb Tense: Aorist Voice: Active Mood: Participle TVM equivalent: G5660
+[V-AAP-APF] Part of Speech: Verb Tense: Aorist Voice: Active Mood: Participle Case: Accusative Number: Plural Gender: Feminine
+[V-AAP-APM] Part of Speech: Verb Tense: Aorist Voice: Active Mood: Participle Case: Accusative Number: Plural Gender: Masculine
+[V-AAP-APN] Part of Speech: Verb Tense: Aorist Voice: Active Mood: Participle Case: Accusative Number: Plural Gender: Neuter
+[V-AAP-ASF] Part of Speech: Verb Tense: Aorist Voice: Active Mood: Participle Case: Accusative Number: Singular Gender: Feminine
+[V-AAP-ASM] Part of Speech: Verb Tense: Aorist Voice: Active Mood: Participle Case: Accusative Number: Singular Gender: Masculine
+[V-AAP-ASN] Part of Speech: Verb Tense: Aorist Voice: Active Mood: Participle Case: Accusative Number: Singular Gender: Neuter
+[V-AAP-DPF] Part of Speech: Verb Tense: Aorist Voice: Active Mood: Participle Case: Dative Number: Plural Gender: Feminine
+[V-AAP-DPM] Part of Speech: Verb Tense: Aorist Voice: Active Mood: Participle Case: Dative Number: Plural Gender: Masculine
+[V-AAP-DSF] Part of Speech: Verb Tense: Aorist Voice: Active Mood: Participle Case: Dative Number: Singular Gender: Feminine
+[V-AAP-DSM] Part of Speech: Verb Tense: Aorist Voice: Active Mood: Participle Case: Dative Number: Singular Gender: Masculine
+[V-AAP-GPM] Part of Speech: Verb Tense: Aorist Voice: Active Mood: Participle Case: Genitive Number: Plural Gender: Masculine
+[V-AAP-GSF] Part of Speech: Verb Tense: Aorist Voice: Active Mood: Participle Case: Genitive Number: Singular Gender: Feminine
+[V-AAP-GSM] Part of Speech: Verb Tense: Aorist Voice: Active Mood: Participle Case: Genitive Number: Singular Gender: Masculine
+[V-AAP-GSN] Part of Speech: Verb Tense: Aorist Voice: Active Mood: Participle Case: Genitive Number: Singular Gender: Neuter
+[V-AAP-NPF] Part of Speech: Verb Tense: Aorist Voice: Active Mood: Participle Case: Nominative Number: Plural Gender: Feminine
+[V-AAP-NPM] Part of Speech: Verb Tense: Aorist Voice: Active Mood: Participle Case: Nominative Number: Plural Gender: Masculine
+[V-AAP-NPN] Part of Speech: Verb Tense: Aorist Voice: Active Mood: Participle Case: Nominative Number: Plural Gender: Neuter
+[V-AAP-NSF] Part of Speech: Verb Tense: Aorist Voice: Active Mood: Participle Case: Nominative Number: Singular Gender: Feminine
+[V-AAP-NSM] Part of Speech: Verb Tense: Aorist Voice: Active Mood: Participle Case: Nominative Number: Singular Gender: Masculine
+[V-AAP-NSN] Part of Speech: Verb Tense: Aorist Voice: Active Mood: Participle Case: Nominative Number: Singular Gender: Neuter
+[V-AAS] Part of Speech: Verb Tense: Aorist Voice: Active Mood: Subjunctive TVM equivalent: G5661
+[V-AAS-1P] Part of Speech: Verb Tense: Aorist Voice: Active Mood: Subjunctive Person: first Number: Plural
+[V-AAS-1S] Part of Speech: Verb Tense: Aorist Voice: Active Mood: Subjunctive Person: first Number: Singular
+[V-AAS-2P] Part of Speech: Verb Tense: Aorist Voice: Active Mood: Subjunctive Person: second Number: Plural
+[V-AAS-2S] Part of Speech: Verb Tense: Aorist Voice: Active Mood: Subjunctive Person: second Number: Singular
+[V-AAS-3P] Part of Speech: Verb Tense: Aorist Voice: Active Mood: Subjunctive Person: third Number: Plural
+[V-AAS-3S] Part of Speech: Verb Tense: Aorist Voice: Active Mood: Subjunctive Person: third Number: Singular
+[V-ADI] Part of Speech: Verb Tense: Aorist Voice: middle Deponent Mood: Indicative TVM equivalent: G5662
+[V-ADI-1P] Part of Speech: Verb Tense: Aorist Voice: middle Deponent Mood: Indicative Person: first Number: Plural
+[V-ADI-1S] Part of Speech: Verb Tense: Aorist Voice: middle Deponent Mood: Indicative Person: first Number: Singular
+[V-ADI-2P] Part of Speech: Verb Tense: Aorist Voice: middle Deponent Mood: Indicative Person: second Number: Plural
+[V-ADI-2S] Part of Speech: Verb Tense: Aorist Voice: middle Deponent Mood: Indicative Person: second Number: Singular
+[V-ADI-3P] Part of Speech: Verb Tense: Aorist Voice: middle Deponent Mood: Indicative Person: third Number: Plural
+[V-ADI-3S] Part of Speech: Verb Tense: Aorist Voice: middle Deponent Mood: Indicative Person: third Number: Singular
+[V-ADM] Part of Speech: Verb Tense: Aorist Voice: middle Deponent Mood: iMperative TVM equivalent: G5663
+[V-ADM-2P] Part of Speech: Verb Tense: Aorist Voice: middle Deponent Mood: iMperative Person: second Number: Plural
+[V-ADM-2S] Part of Speech: Verb Tense: Aorist Voice: middle Deponent Mood: iMperative Person: second Number: Singular
+[V-ADM-3P] Part of Speech: Verb Tense: Aorist Voice: middle Deponent Mood: iMperative Person: third Number: Plural
+[V-ADM-3S] Part of Speech: Verb Tense: Aorist Voice: middle Deponent Mood: iMperative Person: third Number: Singular
+[V-ADN] Part of Speech: Verb Tense: Aorist Voice: middle Deponent Mood: iNfinitive TVM equivalent: G5664
+[V-ADO] Part of Speech: Verb Tense: Aorist Voice: middle Deponent Mood: Optative TVM equivalent: G5665
+[V-ADO-1S] Part of Speech: Verb Tense: Aorist Voice: middle Deponent Mood: Optative Person: first Number: Singular
+[V-ADP] Part of Speech: Verb Tense: Aorist Voice: middle Deponent Mood: Participle TVM equivalent: G5666
+[V-ADP-APM] Part of Speech: Verb Tense: Aorist Voice: middle Deponent Mood: Participle Case: Accusative Number: Plural Gender: Masculine
+[V-ADP-ASM] Part of Speech: Verb Tense: Aorist Voice: middle Deponent Mood: Participle Case: Accusative Number: Singular Gender: Masculine
+[V-ADP-DPM] Part of Speech: Verb Tense: Aorist Voice: middle Deponent Mood: Participle Case: Dative Number: Plural Gender: Masculine
+[V-ADP-GSF] Part of Speech: Verb Tense: Aorist Voice: middle Deponent Mood: Participle Case: Genitive Number: Singular Gender: Feminine
+[V-ADP-NPM] Part of Speech: Verb Tense: Aorist Voice: middle Deponent Mood: Participle Case: Nominative Number: Plural Gender: Masculine
+[V-ADP-NSF] Part of Speech: Verb Tense: Aorist Voice: middle Deponent Mood: Participle Case: Nominative Number: Singular Gender: Feminine
+[V-ADP-NSM] Part of Speech: Verb Tense: Aorist Voice: middle Deponent Mood: Participle Case: Nominative Number: Singular Gender: Masculine
+[V-ADS] Part of Speech: Verb Tense: Aorist Voice: middle Deponent Mood: Subjunctive TVM equivalent: G5667
+[V-ADS-1P] Part of Speech: Verb Tense: Aorist Voice: middle Deponent Mood: Subjunctive Person: first Number: Plural
+[V-ADS-1S] Part of Speech: Verb Tense: Aorist Voice: middle Deponent Mood: Subjunctive Person: first Number: Singular
+[V-ADS-2P] Part of Speech: Verb Tense: Aorist Voice: middle Deponent Mood: Subjunctive Person: second Number: Plural
+[V-ADS-2S] Part of Speech: Verb Tense: Aorist Voice: middle Deponent Mood: Subjunctive Person: second Number: Singular
+[V-ADS-3P] Part of Speech: Verb Tense: Aorist Voice: middle Deponent Mood: Subjunctive Person: third Number: Plural
+[V-ADS-3S] Part of Speech: Verb Tense: Aorist Voice: middle Deponent Mood: Subjunctive Person: third Number: Singular
+[V-AMI] Part of Speech: Verb Tense: Aorist Voice: Middle Mood: Indicative TVM equivalent: G5668
+[V-AMI-1P] Part of Speech: Verb Tense: Aorist Voice: Middle Mood: Indicative Person: first Number: Plural
+[V-AMI-1S] Part of Speech: Verb Tense: Aorist Voice: Middle Mood: Indicative Person: first Number: Singular
+[V-AMI-2P] Part of Speech: Verb Tense: Aorist Voice: Middle Mood: Indicative Person: second Number: Plural
+[V-AMI-2S] Part of Speech: Verb Tense: Aorist Voice: Middle Mood: Indicative Person: second Number: Singular
+[V-AMI-3P] Part of Speech: Verb Tense: Aorist Voice: Middle Mood: Indicative Person: third Number: Plural
+[V-AMI-3S] Part of Speech: Verb Tense: Aorist Voice: Middle Mood: Indicative Person: third Number: Singular
+[V-AMM] Part of Speech: Verb Tense: Aorist Voice: Middle Mood: iMperative TVM equivalent: G5669
+[V-AMM-2P] Part of Speech: Verb Tense: Aorist Voice: Middle Mood: iMperative Person: second Number: Plural
+[V-AMM-2S] Part of Speech: Verb Tense: Aorist Voice: Middle Mood: iMperative Person: second Number: Singular
+[V-AMM-3P] Part of Speech: Verb Tense: Aorist Voice: Middle Mood: iMperative Person: third Number: Plural
+[V-AMM-3S] Part of Speech: Verb Tense: Aorist Voice: Middle Mood: iMperative Person: third Number: Singular
+[V-AMN] Part of Speech: Verb Tense: Aorist Voice: Middle Mood: iNfinitive TVM equivalent: G5670
+[V-AMO-1S] Part of Speech: Verb Tense: Aorist Voice: Middle Mood: Optative Person: first Number: Singular
+[V-AMO-3S] Part of Speech: Verb Tense: Aorist Voice: Middle Mood: Optative Person: third Number: Singular
+[V-AMP] Part of Speech: Verb Tense: Aorist Voice: Middle Mood: Participle TVM equivalent: G5671
+[V-AMP-APM] Part of Speech: Verb Tense: Aorist Voice: Middle Mood: Participle Case: Accusative Number: Plural Gender: Masculine
+[V-AMP-APN] Part of Speech: Verb Tense: Aorist Voice: Middle Mood: Participle Case: Accusative Number: Plural Gender: Neuter
+[V-AMP-ASF] Part of Speech: Verb Tense: Aorist Voice: Middle Mood: Participle Case: Accusative Number: Singular Gender: Feminine
+[V-AMP-ASM] Part of Speech: Verb Tense: Aorist Voice: Middle Mood: Participle Case: Accusative Number: Singular Gender: Masculine
+[V-AMP-ASN] Part of Speech: Verb Tense: Aorist Voice: Middle Mood: Participle Case: Accusative Number: Singular Gender: Neuter
+[V-AMP-DPM] Part of Speech: Verb Tense: Aorist Voice: Middle Mood: Participle Case: Dative Number: Plural Gender: Masculine
+[V-AMP-DPN] Part of Speech: Verb Tense: Aorist Voice: Middle Mood: Participle Case: Dative Number: Plural Gender: Neuter
+[V-AMP-GPF] Part of Speech: Verb Tense: Aorist Voice: Middle Mood: Participle Case: Genitive Number: Plural Gender: Feminine
+[V-AMP-GPM] Part of Speech: Verb Tense: Aorist Voice: Middle Mood: Participle Case: Genitive Number: Plural Gender: Masculine
+[V-AMP-GPN] Part of Speech: Verb Tense: Aorist Voice: Middle Mood: Participle Case: Genitive Number: Plural Gender: Neuter
+[V-AMP-GSF] Part of Speech: Verb Tense: Aorist Voice: Middle Mood: Participle Case: Genitive Number: Singular Gender: Feminine
+[V-AMP-GSM] Part of Speech: Verb Tense: Aorist Voice: Middle Mood: Participle Case: Genitive Number: Singular Gender: Masculine
+[V-AMP-GSN] Part of Speech: Verb Tense: Aorist Voice: Middle Mood: Participle Case: Genitive Number: Singular Gender: Neuter
+[V-AMP-NPF] Part of Speech: Verb Tense: Aorist Voice: Middle Mood: Participle Case: Nominative Number: Plural Gender: Feminine
+[V-AMP-NPM] Part of Speech: Verb Tense: Aorist Voice: Middle Mood: Participle Case: Nominative Number: Plural Gender: Masculine
+[V-AMP-NSF] Part of Speech: Verb Tense: Aorist Voice: Middle Mood: Participle Case: Nominative Number: Singular Gender: Feminine
+[V-AMP-NSM] Part of Speech: Verb Tense: Aorist Voice: Middle Mood: Participle Case: Nominative Number: Singular Gender: Masculine
+[V-AMP-NSN] Part of Speech: Verb Tense: Aorist Voice: Middle Mood: Participle Case: Nominative Number: Singular Gender: Neuter
+[V-AMS] Part of Speech: Verb Tense: Aorist Voice: Middle Mood: Subjunctive TVM equivalent: G5672
+[V-AMS-1P] Part of Speech: Verb Tense: Aorist Voice: Middle Mood: Subjunctive Person: first Number: Plural
+[V-AMS-1S] Part of Speech: Verb Tense: Aorist Voice: Middle Mood: Subjunctive Person: first Number: Singular
+[V-AMS-2P] Part of Speech: Verb Tense: Aorist Voice: Middle Mood: Subjunctive Person: second Number: Plural
+[V-AMS-2S] Part of Speech: Verb Tense: Aorist Voice: Middle Mood: Subjunctive Person: second Number: Singular
+[V-AMS-3P] Part of Speech: Verb Tense: Aorist Voice: Middle Mood: Subjunctive Person: third Number: Plural
+[V-AMS-3S] Part of Speech: Verb Tense: Aorist Voice: Middle Mood: Subjunctive Person: third Number: Singular
+[V-ANI] Part of Speech: Verb Tense: Aorist Voice: middle or passive depoNent Mood: Indicative TVM equivalent: G5673
+[V-ANI-3P] Part of Speech: Verb Tense: Aorist Voice: middle or passive depoNent Mood: Indicative Person: third Number: Plural
+[V-ANI-3S] Part of Speech: Verb Tense: Aorist Voice: middle or passive depoNent Mood: Indicative Person: third Number: Singular
+[V-ANP] Part of Speech: Verb Tense: Aorist Voice: middle or passive depoNent Mood: Participle TVM equivalent: G5674
+[V-ANP-NSM] Part of Speech: Verb Tense: Aorist Voice: middle or passive depoNent Mood: Participle Case: Nominative Number: Singular Gender: Masculine
+[V-ANP-NSN] Part of Speech: Verb Tense: Aorist Voice: middle or passive depoNent Mood: Participle Case: Nominative Number: Singular Gender: Neuter
+[V-AOI] Part of Speech: Verb Tense: Aorist Voice: passive depOnent Mood: Indicative TVM equivalent: G5675
+[V-AOI-1P] Part of Speech: Verb Tense: Aorist Voice: passive depOnent Mood: Indicative Person: first Number: Plural
+[V-AOI-1P-ATT] Part of Speech: Verb Tense: Aorist Voice: passive depOnent Mood: Indicative Person: first Number: Plural ATTic
+[V-AOI-1S] Part of Speech: Verb Tense: Aorist Voice: passive depOnent Mood: Indicative Person: first Number: Singular
+[V-AOI-1S-ATT] Part of Speech: Verb Tense: Aorist Voice: passive depOnent Mood: Indicative Person: first Number: Singular ATTic
+[V-AOI-2P] Part of Speech: Verb Tense: Aorist Voice: passive depOnent Mood: Indicative Person: second Number: Plural
+[V-AOI-2P-ATT] Part of Speech: Verb Tense: Aorist Voice: passive depOnent Mood: Indicative Person: second Number: Plural ATTic
+[V-AOI-3P] Part of Speech: Verb Tense: Aorist Voice: passive depOnent Mood: Indicative Person: third Number: Plural
+[V-AOI-3P-ATT] Part of Speech: Verb Tense: Aorist Voice: passive depOnent Mood: Indicative Person: third Number: Plural ATTic
+[V-AOI-3S] Part of Speech: Verb Tense: Aorist Voice: passive depOnent Mood: Indicative Person: third Number: Singular
+[V-AOI-3S-ATT] Part of Speech: Verb Tense: Aorist Voice: passive depOnent Mood: Indicative Person: third Number: Singular ATTic
+[V-AOM] Part of Speech: Verb Tense: Aorist Voice: passive depOnent Mood: iMperative TVM equivalent: G5676
+[V-AOM-2P] Part of Speech: Verb Tense: Aorist Voice: passive depOnent Mood: iMperative Person: second Number: Plural
+[V-AOM-2S] Part of Speech: Verb Tense: Aorist Voice: passive depOnent Mood: iMperative Person: second Number: Singular
+[V-AOM-3S] Part of Speech: Verb Tense: Aorist Voice: passive depOnent Mood: iMperative Person: third Number: Singular
+[V-AON] Part of Speech: Verb Tense: Aorist Voice: passive depOnent Mood: iNfinitive TVM equivalent: G5677
+[V-AOO] Part of Speech: Verb Tense: Aorist Voice: passive depOnent Mood: Optative TVM equivalent: G5678
+[V-AOO-3S] Part of Speech: Verb Tense: Aorist Voice: passive depOnent Mood: Optative Person: third Number: Singular
+[V-AOP] Part of Speech: Verb Tense: Aorist Voice: passive depOnent Mood: Participle TVM equivalent: G5679
+[V-AOP-APM] Part of Speech: Verb Tense: Aorist Voice: passive depOnent Mood: Participle Case: Accusative Number: Plural Gender: Masculine
+[V-AOP-ASM] Part of Speech: Verb Tense: Aorist Voice: passive depOnent Mood: Participle Case: Accusative Number: Singular Gender: Masculine
+[V-AOP-DSM] Part of Speech: Verb Tense: Aorist Voice: passive depOnent Mood: Participle Case: Dative Number: Singular Gender: Masculine
+[V-AOP-GPM] Part of Speech: Verb Tense: Aorist Voice: passive depOnent Mood: Participle Case: Genitive Number: Plural Gender: Masculine
+[V-AOP-GPN] Part of Speech: Verb Tense: Aorist Voice: passive depOnent Mood: Participle Case: Genitive Number: Plural Gender: Neuter
+[V-AOP-GSM] Part of Speech: Verb Tense: Aorist Voice: passive depOnent Mood: Participle Case: Genitive Number: Singular Gender: Masculine
+[V-AOP-NPF] Part of Speech: Verb Tense: Aorist Voice: passive depOnent Mood: Participle Case: Nominative Number: Plural Gender: Feminine
+[V-AOP-NPM] Part of Speech: Verb Tense: Aorist Voice: passive depOnent Mood: Participle Case: Nominative Number: Plural Gender: Masculine
+[V-AOP-NSF] Part of Speech: Verb Tense: Aorist Voice: passive depOnent Mood: Participle Case: Nominative Number: Singular Gender: Feminine
+[V-AOP-NSM] Part of Speech: Verb Tense: Aorist Voice: passive depOnent Mood: Participle Case: Nominative Number: Singular Gender: Masculine
+[V-AOP-NSN] Part of Speech: Verb Tense: Aorist Voice: passive depOnent Mood: Participle Case: Nominative Number: Singular Gender: Neuter
+[V-AOS] Part of Speech: Verb Tense: Aorist Voice: passive depOnent Mood: Subjunctive TVM equivalent: G5680
+[V-AOS-1P] Part of Speech: Verb Tense: Aorist Voice: passive depOnent Mood: Subjunctive Person: first Number: Plural
+[V-AOS-1S] Part of Speech: Verb Tense: Aorist Voice: passive depOnent Mood: Subjunctive Person: first Number: Singular
+[V-AOS-2P] Part of Speech: Verb Tense: Aorist Voice: passive depOnent Mood: Subjunctive Person: second Number: Plural
+[V-AOS-2S] Part of Speech: Verb Tense: Aorist Voice: passive depOnent Mood: Subjunctive Person: second Number: Singular
+[V-AOS-3P] Part of Speech: Verb Tense: Aorist Voice: passive depOnent Mood: Subjunctive Person: third Number: Plural
+[V-AOS-3S] Part of Speech: Verb Tense: Aorist Voice: passive depOnent Mood: Subjunctive Person: third Number: Singular
+[V-API] Part of Speech: Verb Tense: Aorist Voice: Passive Mood: Indicative TVM equivalent: G5681
+[V-API-1P] Part of Speech: Verb Tense: Aorist Voice: Passive Mood: Indicative Person: first Number: Plural
+[V-API-1S] Part of Speech: Verb Tense: Aorist Voice: Passive Mood: Indicative Person: first Number: Singular
+[V-API-2P] Part of Speech: Verb Tense: Aorist Voice: Passive Mood: Indicative Person: second Number: Plural
+[V-API-2S] Part of Speech: Verb Tense: Aorist Voice: Passive Mood: Indicative Person: second Number: Singular
+[V-API-3P] Part of Speech: Verb Tense: Aorist Voice: Passive Mood: Indicative Person: third Number: Plural
+[V-API-3S] Part of Speech: Verb Tense: Aorist Voice: Passive Mood: Indicative Person: third Number: Singular
+[V-API-3S-M] Part of Speech: Verb Tense: Aorist Voice: Passive Mood: Indicative Person: third Number: Singular Middle significance
+[V-APM] Part of Speech: Verb Tense: Aorist Voice: Passive Mood: iMperative TVM equivalent: G5682
+[V-APM-2P] Part of Speech: Verb Tense: Aorist Voice: Passive Mood: iMperative Person: second Number: Plural
+[V-APM-2S] Part of Speech: Verb Tense: Aorist Voice: Passive Mood: iMperative Person: second Number: Singular
+[V-APM-3P] Part of Speech: Verb Tense: Aorist Voice: Passive Mood: iMperative Person: third Number: Plural
+[V-APM-3S] Part of Speech: Verb Tense: Aorist Voice: Passive Mood: iMperative Person: third Number: Singular
+[V-APN] Part of Speech: Verb Tense: Aorist Voice: Passive Mood: iNfinitive TVM equivalent: G5683
+[V-APN-M] Part of Speech: Verb Tense: Aorist Voice: Passive Mood: iNfinitive Middle significance
+[V-APO] Part of Speech: Verb Tense: Aorist Voice: Passive Mood: Optative TVM equivalent: G5684
+[V-APO-3S] Part of Speech: Verb Tense: Aorist Voice: Passive Mood: Optative Person: third Number: Singular
+[V-APP] Part of Speech: Verb Tense: Aorist Voice: Passive Mood: Participle TVM equivalent: G5685
+[V-APP-APM] Part of Speech: Verb Tense: Aorist Voice: Passive Mood: Participle Case: Accusative Number: Plural Gender: Masculine
+[V-APP-APN] Part of Speech: Verb Tense: Aorist Voice: Passive Mood: Participle Case: Accusative Number: Plural Gender: Neuter
+[V-APP-ASF] Part of Speech: Verb Tense: Aorist Voice: Passive Mood: Participle Case: Accusative Number: Singular Gender: Feminine
+[V-APP-ASM] Part of Speech: Verb Tense: Aorist Voice: Passive Mood: Participle Case: Accusative Number: Singular Gender: Masculine
+[V-APP-ASN] Part of Speech: Verb Tense: Aorist Voice: Passive Mood: Participle Case: Accusative Number: Singular Gender: Neuter
+[V-APP-DPN] Part of Speech: Verb Tense: Aorist Voice: Passive Mood: Participle Case: Dative Number: Plural Gender: Neuter
+[V-APP-DSF] Part of Speech: Verb Tense: Aorist Voice: Passive Mood: Participle Case: Dative Number: Singular Gender: Feminine
+[V-APP-DSM] Part of Speech: Verb Tense: Aorist Voice: Passive Mood: Participle Case: Dative Number: Singular Gender: Masculine
+[V-APP-DSN] Part of Speech: Verb Tense: Aorist Voice: Passive Mood: Participle Case: Dative Number: Singular Gender: Neuter
+[V-APP-GPF] Part of Speech: Verb Tense: Aorist Voice: Passive Mood: Participle Case: Genitive Number: Plural Gender: Feminine
+[V-APP-GPM] Part of Speech: Verb Tense: Aorist Voice: Passive Mood: Participle Case: Genitive Number: Plural Gender: Masculine
+[V-APP-GPN] Part of Speech: Verb Tense: Aorist Voice: Passive Mood: Participle Case: Genitive Number: Plural Gender: Neuter
+[V-APP-GSF] Part of Speech: Verb Tense: Aorist Voice: Passive Mood: Participle Case: Genitive Number: Singular Gender: Feminine
+[V-APP-GSM] Part of Speech: Verb Tense: Aorist Voice: Passive Mood: Participle Case: Genitive Number: Singular Gender: Masculine
+[V-APP-GSN] Part of Speech: Verb Tense: Aorist Voice: Passive Mood: Participle Case: Genitive Number: Singular Gender: Neuter
+[V-APP-NPF] Part of Speech: Verb Tense: Aorist Voice: Passive Mood: Participle Case: Nominative Number: Plural Gender: Feminine
+[V-APP-NPM] Part of Speech: Verb Tense: Aorist Voice: Passive Mood: Participle Case: Nominative Number: Plural Gender: Masculine
+[V-APP-NPN] Part of Speech: Verb Tense: Aorist Voice: Passive Mood: Participle Case: Nominative Number: Plural Gender: Neuter
+[V-APP-NSF] Part of Speech: Verb Tense: Aorist Voice: Passive Mood: Participle Case: Nominative Number: Singular Gender: Feminine
+[V-APP-NSM] Part of Speech: Verb Tense: Aorist Voice: Passive Mood: Participle Case: Nominative Number: Singular Gender: Masculine
+[V-APP-NSM-M] Part of Speech: Verb Tense: Aorist Voice: Passive Mood: Participle Case: Nominative Number: Singular Gender: Masculine Middle significance
+[V-APP-NSN] Part of Speech: Verb Tense: Aorist Voice: Passive Mood: Participle Case: Nominative Number: Singular Gender: Neuter
+[V-APS] Part of Speech: Verb Tense: Aorist Voice: Passive Mood: Subjunctive TVM equivalent: G5686
+[V-APS-1P] Part of Speech: Verb Tense: Aorist Voice: Passive Mood: Subjunctive Person: first Number: Plural
+[V-APS-1S] Part of Speech: Verb Tense: Aorist Voice: Passive Mood: Subjunctive Person: first Number: Singular
+[V-APS-2P] Part of Speech: Verb Tense: Aorist Voice: Passive Mood: Subjunctive Person: second Number: Plural
+[V-APS-2S] Part of Speech: Verb Tense: Aorist Voice: Passive Mood: Subjunctive Person: second Number: Singular
+[V-APS-3P] Part of Speech: Verb Tense: Aorist Voice: Passive Mood: Subjunctive Person: third Number: Plural
+[V-APS-3S] Part of Speech: Verb Tense: Aorist Voice: Passive Mood: Subjunctive Person: third Number: Singular
+[V-FAI] Part of Speech: Verb Tense: Future Voice: Active Mood: Indicative TVM equivalent: G5692
+[V-FAI-1P] Part of Speech: Verb Tense: Future Voice: Active Mood: Indicative Person: first Number: Plural
+[V-FAI-1S] Part of Speech: Verb Tense: Future Voice: Active Mood: Indicative Person: first Number: Singular
+[V-FAI-1S-ATT] Part of Speech: Verb Tense: Future Voice: Active Mood: Indicative Person: first Number: Singular ATTic
+[V-FAI-2P] Part of Speech: Verb Tense: Future Voice: Active Mood: Indicative Person: second Number: Plural
+[V-FAI-2S] Part of Speech: Verb Tense: Future Voice: Active Mood: Indicative Person: second Number: Singular
+[V-FAI-3P] Part of Speech: Verb Tense: Future Voice: Active Mood: Indicative Person: third Number: Plural
+[V-FAI-3P-ATT] Part of Speech: Verb Tense: Future Voice: Active Mood: Indicative Person: third Number: Plural ATTic
+[V-FAI-3S] Part of Speech: Verb Tense: Future Voice: Active Mood: Indicative Person: third Number: Singular
+[V-FAI-3S-ATT] Part of Speech: Verb Tense: Future Voice: Active Mood: Indicative Person: third Number: Singular ATTic
+[V-FAN] Part of Speech: Verb Tense: Future Voice: Active Mood: iNfinitive TVM equivalent: G5693
+[V-FAP] Part of Speech: Verb Tense: Future Voice: Active Mood: Participle TVM equivalent: G5694
+[V-FAP-APN] Part of Speech: Verb Tense: Future Voice: Active Mood: Participle Case: Accusative Number: Plural Gender: Neuter
+[V-FAP-GPM] Part of Speech: Verb Tense: Future Voice: Active Mood: Participle Case: Genitive Number: Plural Gender: Masculine
+[V-FAP-NPM] Part of Speech: Verb Tense: Future Voice: Active Mood: Participle Case: Nominative Number: Plural Gender: Masculine
+[V-FAP-NSM] Part of Speech: Verb Tense: Future Voice: Active Mood: Participle Case: Nominative Number: Singular Gender: Masculine
+[V-FAS-1S] Part of Speech: Verb Tense: Future Voice: Active Mood: Subjunctive Person: first Number: Singular
+[V-FDI] Part of Speech: Verb Tense: Future Voice: middle Deponent Mood: Indicative TVM equivalent: G5695
+[V-FDI-1P] Part of Speech: Verb Tense: Future Voice: middle Deponent Mood: Indicative Person: first Number: Plural
+[V-FDI-1S] Part of Speech: Verb Tense: Future Voice: middle Deponent Mood: Indicative Person: first Number: Singular
+[V-FDI-2P] Part of Speech: Verb Tense: Future Voice: middle Deponent Mood: Indicative Person: second Number: Plural
+[V-FDI-2P-ATT] Part of Speech: Verb Tense: Future Voice: middle Deponent Mood: Indicative Person: second Number: Plural ATTic
+[V-FDI-2S] Part of Speech: Verb Tense: Future Voice: middle Deponent Mood: Indicative Person: second Number: Singular
+[V-FDI-2S-ATT] Part of Speech: Verb Tense: Future Voice: middle Deponent Mood: Indicative Person: second Number: Singular ATTic
+[V-FDI-3P] Part of Speech: Verb Tense: Future Voice: middle Deponent Mood: Indicative Person: third Number: Plural
+[V-FDI-3S] Part of Speech: Verb Tense: Future Voice: middle Deponent Mood: Indicative Person: third Number: Singular
+[V-FDI-3S-ATT] Part of Speech: Verb Tense: Future Voice: middle Deponent Mood: Indicative Person: third Number: Singular ATTic
+[V-FDN] Part of Speech: Verb Tense: Future Voice: middle Deponent Mood: iNfinitive TVM equivalent: G5696
+[V-FDP] Part of Speech: Verb Tense: Future Voice: middle Deponent Mood: Participle TVM equivalent: G5697
+[V-FDP-ASN] Part of Speech: Verb Tense: Future Voice: middle Deponent Mood: Participle Case: Accusative Number: Singular Gender: Neuter
+[V-FDP-NPM] Part of Speech: Verb Tense: Future Voice: middle Deponent Mood: Participle Case: Nominative Number: Plural Gender: Masculine
+[V-FDP-NSM] Part of Speech: Verb Tense: Future Voice: middle Deponent Mood: Participle Case: Nominative Number: Singular Gender: Masculine
+[V-FMI] Part of Speech: Verb Tense: Future Voice: Middle Mood: Indicative TVM equivalent: G5698
+[V-FMI-1P] Part of Speech: Verb Tense: Future Voice: Middle Mood: Indicative Person: first Number: Plural
+[V-FMI-1S] Part of Speech: Verb Tense: Future Voice: Middle Mood: Indicative Person: first Number: Singular
+[V-FMI-2P] Part of Speech: Verb Tense: Future Voice: Middle Mood: Indicative Person: second Number: Plural
+[V-FMI-2S] Part of Speech: Verb Tense: Future Voice: Middle Mood: Indicative Person: second Number: Singular
+[V-FMI-3P] Part of Speech: Verb Tense: Future Voice: Middle Mood: Indicative Person: third Number: Plural
+[V-FMI-3S] Part of Speech: Verb Tense: Future Voice: Middle Mood: Indicative Person: third Number: Singular
+[V-FMN] Part of Speech: Verb Tense: Future Voice: Middle Mood: iNfinitive
+[V-FMP-ASN] Part of Speech: Verb Tense: Future Voice: Middle Mood: Participle Case: Accusative Number: Singular Gender: Neuter
+[V-FMP-NPM] Part of Speech: Verb Tense: Future Voice: Middle Mood: Participle Case: Nominative Number: Plural Gender: Masculine
+[V-FNI] Part of Speech: Verb Tense: Future Voice: middle or passive depoNent Mood: Indicative TVM equivalent: G5699
+[V-FNI-3P] Part of Speech: Verb Tense: Future Voice: middle or passive depoNent Mood: Indicative Person: third Number: Plural
+[V-FNI-3S] Part of Speech: Verb Tense: Future Voice: middle or passive depoNent Mood: Indicative Person: third Number: Singular
+[V-FOI] Part of Speech: Verb Tense: Future Voice: passive depOnent Mood: Indicative TVM equivalent: G5700
+[V-FOI-1S] Part of Speech: Verb Tense: Future Voice: passive depOnent Mood: Indicative Person: first Number: Singular
+[V-FOI-3P] Part of Speech: Verb Tense: Future Voice: passive depOnent Mood: Indicative Person: third Number: Plural
+[V-FOI-3S] Part of Speech: Verb Tense: Future Voice: passive depOnent Mood: Indicative Person: third Number: Singular
+[V-FPI] Part of Speech: Verb Tense: Future Voice: Passive Mood: Indicative TVM equivalent: G5701
+[V-FPI-1P] Part of Speech: Verb Tense: Future Voice: Passive Mood: Indicative Person: first Number: Plural
+[V-FPI-1S] Part of Speech: Verb Tense: Future Voice: Passive Mood: Indicative Person: first Number: Singular
+[V-FPI-2P] Part of Speech: Verb Tense: Future Voice: Passive Mood: Indicative Person: second Number: Plural
+[V-FPI-2S] Part of Speech: Verb Tense: Future Voice: Passive Mood: Indicative Person: second Number: Singular
+[V-FPI-3P] Part of Speech: Verb Tense: Future Voice: Passive Mood: Indicative Person: third Number: Plural
+[V-FPI-3S] Part of Speech: Verb Tense: Future Voice: Passive Mood: Indicative Person: third Number: Singular
+[V-FPP] Part of Speech: Verb Tense: Future Voice: Passive Mood: Participle TVM equivalent: G5702
+[V-FPP-GPN] Part of Speech: Verb Tense: Future Voice: Passive Mood: Participle Case: Genitive Number: Plural Gender: Neuter
+[V-FPS] Part of Speech: Verb Tense: Future Voice: Passive Mood: Subjunctive TVM equivalent: G5703
+[V-FPS-1S] Part of Speech: Verb Tense: Future Voice: Passive Mood: Subjunctive Person: first Number: Singular
+[V-FXI] Part of Speech: Verb Tense: Future Voice: no voice stated Mood: Indicative TVM equivalent: G5704
+[V-FXI-1P] Part of Speech: Verb Tense: Future Voice: no voice stated Mood: Indicative Person: first Number: Plural
+[V-FXI-1S] Part of Speech: Verb Tense: Future Voice: no voice stated Mood: Indicative Person: first Number: Singular
+[V-FXI-2P] Part of Speech: Verb Tense: Future Voice: no voice stated Mood: Indicative Person: second Number: Plural
+[V-FXI-2S] Part of Speech: Verb Tense: Future Voice: no voice stated Mood: Indicative Person: second Number: Singular
+[V-FXI-3P] Part of Speech: Verb Tense: Future Voice: no voice stated Mood: Indicative Person: third Number: Plural
+[V-FXI-3S] Part of Speech: Verb Tense: Future Voice: no voice stated Mood: Indicative Person: third Number: Singular
+[V-FXN] Part of Speech: Verb Tense: Future Voice: no voice stated Mood: iNfinitive TVM equivalent: G5705
+[V-FXP] Part of Speech: Verb Tense: Future Voice: no voice stated Mood: Participle TVM equivalent: G5706
+[V-FXP-ASN] Part of Speech: Verb Tense: Future Voice: no voice stated Mood: Participle Case: Accusative Number: Singular Gender: Neuter
+[V-FXP-NSM] Part of Speech: Verb Tense: Future Voice: no voice stated Mood: Participle Case: Nominative Number: Singular Gender: Masculine
+[V-IAI] Part of Speech: Verb Tense: Imperfect Voice: Active Mood: Indicative TVM equivalent: G5707
+[V-IAI-1P] Part of Speech: Verb Tense: Imperfect Voice: Active Mood: Indicative Person: first Number: Plural
+[V-IAI-1S] Part of Speech: Verb Tense: Imperfect Voice: Active Mood: Indicative Person: first Number: Singular
+[V-IAI-1S-ATT] Part of Speech: Verb Tense: Imperfect Voice: Active Mood: Indicative Person: first Number: Singular ATTic
+[V-IAI-2P] Part of Speech: Verb Tense: Imperfect Voice: Active Mood: Indicative Person: second Number: Plural
+[V-IAI-2S] Part of Speech: Verb Tense: Imperfect Voice: Active Mood: Indicative Person: second Number: Singular
+[V-IAI-2S-ATT] Part of Speech: Verb Tense: Imperfect Voice: Active Mood: Indicative Person: second Number: Singular ATTic
+[V-IAI-3P] Part of Speech: Verb Tense: Imperfect Voice: Active Mood: Indicative Person: third Number: Plural
+[V-IAI-3P-ATT] Part of Speech: Verb Tense: Imperfect Voice: Active Mood: Indicative Person: third Number: Plural ATTic
+[V-IAI-3S] Part of Speech: Verb Tense: Imperfect Voice: Active Mood: Indicative Person: third Number: Singular
+[V-IAI-3S-ATT] Part of Speech: Verb Tense: Imperfect Voice: Active Mood: Indicative Person: third Number: Singular ATTic
+[V-IDI] Part of Speech: Verb Tense: Imperfect Voice: middle Deponent Mood: Indicative TVM equivalent: G5708
+[V-IDI-3P] Part of Speech: Verb Tense: Imperfect Voice: middle Deponent Mood: Indicative Person: third Number: Plural
+[V-IEI] Part of Speech: Verb Tense: Imperfect Voice: Either middle or passive Mood: Indicative TVM equivalent: G5709
+[V-IEI-3S] Part of Speech: Verb Tense: Imperfect Voice: Either middle or passive Mood: Indicative Person: third Number: Singular
+[V-IMI] Part of Speech: Verb Tense: Imperfect Voice: Middle Mood: Indicative TVM equivalent: G5710
+[V-IMI-1P] Part of Speech: Verb Tense: Imperfect Voice: Middle Mood: Indicative Person: first Number: Plural
+[V-IMI-1S] Part of Speech: Verb Tense: Imperfect Voice: Middle Mood: Indicative Person: first Number: Singular
+[V-IMI-2P] Part of Speech: Verb Tense: Imperfect Voice: Middle Mood: Indicative Person: second Number: Plural
+[V-IMI-2S] Part of Speech: Verb Tense: Imperfect Voice: Middle Mood: Indicative Person: second Number: Singular
+[V-IMI-3P] Part of Speech: Verb Tense: Imperfect Voice: Middle Mood: Indicative Person: third Number: Plural
+[V-IMI-3S] Part of Speech: Verb Tense: Imperfect Voice: Middle Mood: Indicative Person: third Number: Singular
+[V-INI] Part of Speech: Verb Tense: Imperfect Voice: middle or passive depoNent Mood: Indicative TVM equivalent: G5711
+[V-INI-1P] Part of Speech: Verb Tense: Imperfect Voice: middle or passive depoNent Mood: Indicative Person: first Number: Plural
+[V-INI-1S] Part of Speech: Verb Tense: Imperfect Voice: middle or passive depoNent Mood: Indicative Person: first Number: Singular
+[V-INI-2P] Part of Speech: Verb Tense: Imperfect Voice: middle or passive depoNent Mood: Indicative Person: second Number: Plural
+[V-INI-2P-ATT] Part of Speech: Verb Tense: Imperfect Voice: middle or passive depoNent Mood: Indicative Person: second Number: Plural ATTic
+[V-INI-2S] Part of Speech: Verb Tense: Imperfect Voice: middle or passive depoNent Mood: Indicative Person: second Number: Singular
+[V-INI-3P] Part of Speech: Verb Tense: Imperfect Voice: middle or passive depoNent Mood: Indicative Person: third Number: Plural
+[V-INI-3P-ATT] Part of Speech: Verb Tense: Imperfect Voice: middle or passive depoNent Mood: Indicative Person: third Number: Plural ATTic
+[V-INI-3S] Part of Speech: Verb Tense: Imperfect Voice: middle or passive depoNent Mood: Indicative Person: third Number: Singular
+[V-INI-3S-ATT] Part of Speech: Verb Tense: Imperfect Voice: middle or passive depoNent Mood: Indicative Person: third Number: Singular ATTic
+[V-IPI] Part of Speech: Verb Tense: Imperfect Voice: Passive Mood: Indicative TVM equivalent: G5712
+[V-IPI-1P] Part of Speech: Verb Tense: Imperfect Voice: Passive Mood: Indicative Person: first Number: Plural
+[V-IPI-1S] Part of Speech: Verb Tense: Imperfect Voice: Passive Mood: Indicative Person: first Number: Singular
+[V-IPI-2P] Part of Speech: Verb Tense: Imperfect Voice: Passive Mood: Indicative Person: second Number: Plural
+[V-IPI-3P] Part of Speech: Verb Tense: Imperfect Voice: Passive Mood: Indicative Person: third Number: Plural
+[V-IPI-3S] Part of Speech: Verb Tense: Imperfect Voice: Passive Mood: Indicative Person: third Number: Singular
+[V-IQI] Part of Speech: Verb Tense: Imperfect Voice: impersonal active Mood: Indicative TVM equivalent: G5900
+[V-IQI-3S] Part of Speech: Verb Tense: Imperfect Voice: impersonal active Mood: Indicative Person: third Number: Singular
+[V-IXI] Part of Speech: Verb Tense: Imperfect Voice: no voice stated Mood: Indicative TVM equivalent: G5713
+[V-IXI-1P] Part of Speech: Verb Tense: Imperfect Voice: no voice stated Mood: Indicative Person: first Number: Plural
+[V-IXI-1S] Part of Speech: Verb Tense: Imperfect Voice: no voice stated Mood: Indicative Person: first Number: Singular
+[V-IXI-2P] Part of Speech: Verb Tense: Imperfect Voice: no voice stated Mood: Indicative Person: second Number: Plural
+[V-IXI-2S] Part of Speech: Verb Tense: Imperfect Voice: no voice stated Mood: Indicative Person: second Number: Singular
+[V-IXI-3P] Part of Speech: Verb Tense: Imperfect Voice: no voice stated Mood: Indicative Person: third Number: Plural
+[V-IXI-3S] Part of Speech: Verb Tense: Imperfect Voice: no voice stated Mood: Indicative Person: third Number: Singular
+[V-LAI] Part of Speech: Verb Tense: pLuperfect Voice: Active Mood: Indicative TVM equivalent: G5715
+[V-LAI-1S] Part of Speech: Verb Tense: pLuperfect Voice: Active Mood: Indicative Person: first Number: Singular
+[V-LAI-2P] Part of Speech: Verb Tense: pLuperfect Voice: Active Mood: Indicative Person: second Number: Plural
+[V-LAI-2S] Part of Speech: Verb Tense: pLuperfect Voice: Active Mood: Indicative Person: second Number: Singular
+[V-LAI-3P] Part of Speech: Verb Tense: pLuperfect Voice: Active Mood: Indicative Person: third Number: Plural
+[V-LAI-3P-ATT] Part of Speech: Verb Tense: pLuperfect Voice: Active Mood: Indicative Person: third Number: Plural ATTic
+[V-LAI-3S] Part of Speech: Verb Tense: pLuperfect Voice: Active Mood: Indicative Person: third Number: Singular
+[V-LAI-3S-ATT] Part of Speech: Verb Tense: pLuperfect Voice: Active Mood: Indicative Person: third Number: Singular ATTic
+[V-LDI] Part of Speech: Verb Tense: pLuperfect Voice: middle Deponent Mood: Indicative TVM equivalent: G5716
+[V-LDI-3S] Part of Speech: Verb Tense: pLuperfect Voice: middle Deponent Mood: Indicative Person: third Number: Singular
+[V-LMI] Part of Speech: Verb Tense: pLuperfect Voice: Middle Mood: Indicative TVM equivalent: G5717
+[V-LMI-3P] Part of Speech: Verb Tense: pLuperfect Voice: Middle Mood: Indicative Person: third Number: Plural
+[V-LPI] Part of Speech: Verb Tense: pLuperfect Voice: Passive Mood: Indicative TVM equivalent: G5718
+[V-LPI-3S] Part of Speech: Verb Tense: pLuperfect Voice: Passive Mood: Indicative Person: third Number: Singular
+[V-PAI] Part of Speech: Verb Tense: Present Voice: Active Mood: Indicative TVM equivalent: G5724
+[V-PAI-1P] Part of Speech: Verb Tense: Present Voice: Active Mood: Indicative Person: first Number: Plural
+[V-PAI-1S] Part of Speech: Verb Tense: Present Voice: Active Mood: Indicative Person: first Number: Singular
+[V-PAI-1S-C] Part of Speech: Verb Tense: Present Voice: Active Mood: Indicative Person: first Number: Singular Contracted form
+[V-PAI-2P] Part of Speech: Verb Tense: Present Voice: Active Mood: Indicative Person: second Number: Plural
+[V-PAI-2S] Part of Speech: Verb Tense: Present Voice: Active Mood: Indicative Person: second Number: Singular
+[V-PAI-2S-IRR] Part of Speech: Verb Tense: Present Voice: Active Mood: Indicative Person: second Number: Singular Irregular or Impure form
+[V-PAI-3P] Part of Speech: Verb Tense: Present Voice: Active Mood: Indicative Person: third Number: Plural
+[V-PAI-3P-ATT] Part of Speech: Verb Tense: Present Voice: Active Mood: Indicative Person: third Number: Plural ATTic
+[V-PAI-3S] Part of Speech: Verb Tense: Present Voice: Active Mood: Indicative Person: third Number: Singular
+[V-PAM] Part of Speech: Verb Tense: Present Voice: Active Mood: iMperative TVM equivalent: G5720
+[V-PAM-2P] Part of Speech: Verb Tense: Present Voice: Active Mood: iMperative Person: second Number: Plural
+[V-PAM-2S] Part of Speech: Verb Tense: Present Voice: Active Mood: iMperative Person: second Number: Singular
+[V-PAM-3P] Part of Speech: Verb Tense: Present Voice: Active Mood: iMperative Person: third Number: Plural
+[V-PAM-3S] Part of Speech: Verb Tense: Present Voice: Active Mood: iMperative Person: third Number: Singular
+[V-PAN] Part of Speech: Verb Tense: Present Voice: Active Mood: iNfinitive TVM equivalent: G5721
+[V-PAO] Part of Speech: Verb Tense: Present Voice: Active Mood: Optative TVM equivalent: G5722
+[V-PAO-2P] Part of Speech: Verb Tense: Present Voice: Active Mood: Optative Person: second Number: Plural
+[V-PAO-2S] Part of Speech: Verb Tense: Present Voice: Active Mood: Optative Person: second Number: Singular
+[V-PAO-3P] Part of Speech: Verb Tense: Present Voice: Active Mood: Optative Person: third Number: Plural
+[V-PAO-3S] Part of Speech: Verb Tense: Present Voice: Active Mood: Optative Person: third Number: Singular
+[V-PAP] Part of Speech: Verb Tense: Present Voice: Active Mood: Participle TVM equivalent: G5723
+[V-PAP-APF] Part of Speech: Verb Tense: Present Voice: Active Mood: Participle Case: Accusative Number: Plural Gender: Feminine
+[V-PAP-APM] Part of Speech: Verb Tense: Present Voice: Active Mood: Participle Case: Accusative Number: Plural Gender: Masculine
+[V-PAP-APN] Part of Speech: Verb Tense: Present Voice: Active Mood: Participle Case: Accusative Number: Plural Gender: Neuter
+[V-PAP-ASF] Part of Speech: Verb Tense: Present Voice: Active Mood: Participle Case: Accusative Number: Singular Gender: Feminine
+[V-PAP-ASM] Part of Speech: Verb Tense: Present Voice: Active Mood: Participle Case: Accusative Number: Singular Gender: Masculine
+[V-PAP-ASN] Part of Speech: Verb Tense: Present Voice: Active Mood: Participle Case: Accusative Number: Singular Gender: Neuter
+[V-PAP-DPF] Part of Speech: Verb Tense: Present Voice: Active Mood: Participle Case: Dative Number: Plural Gender: Feminine
+[V-PAP-DPM] Part of Speech: Verb Tense: Present Voice: Active Mood: Participle Case: Dative Number: Plural Gender: Masculine
+[V-PAP-DPN] Part of Speech: Verb Tense: Present Voice: Active Mood: Participle Case: Dative Number: Plural Gender: Neuter
+[V-PAP-DSF] Part of Speech: Verb Tense: Present Voice: Active Mood: Participle Case: Dative Number: Singular Gender: Feminine
+[V-PAP-DSM] Part of Speech: Verb Tense: Present Voice: Active Mood: Participle Case: Dative Number: Singular Gender: Masculine
+[V-PAP-DSN] Part of Speech: Verb Tense: Present Voice: Active Mood: Participle Case: Dative Number: Singular Gender: Neuter
+[V-PAP-GPF] Part of Speech: Verb Tense: Present Voice: Active Mood: Participle Case: Genitive Number: Plural Gender: Feminine
+[V-PAP-GPM] Part of Speech: Verb Tense: Present Voice: Active Mood: Participle Case: Genitive Number: Plural Gender: Masculine
+[V-PAP-GPN] Part of Speech: Verb Tense: Present Voice: Active Mood: Participle Case: Genitive Number: Plural Gender: Neuter
+[V-PAP-GSF] Part of Speech: Verb Tense: Present Voice: Active Mood: Participle Case: Genitive Number: Singular Gender: Feminine
+[V-PAP-GSM] Part of Speech: Verb Tense: Present Voice: Active Mood: Participle Case: Genitive Number: Singular Gender: Masculine
+[V-PAP-GSN] Part of Speech: Verb Tense: Present Voice: Active Mood: Participle Case: Genitive Number: Singular Gender: Neuter
+[V-PAP-NPF] Part of Speech: Verb Tense: Present Voice: Active Mood: Participle Case: Nominative Number: Plural Gender: Feminine
+[V-PAP-NPM] Part of Speech: Verb Tense: Present Voice: Active Mood: Participle Case: Nominative Number: Plural Gender: Masculine
+[V-PAP-NPN] Part of Speech: Verb Tense: Present Voice: Active Mood: Participle Case: Nominative Number: Plural Gender: Neuter
+[V-PAP-NSF] Part of Speech: Verb Tense: Present Voice: Active Mood: Participle Case: Nominative Number: Singular Gender: Feminine
+[V-PAP-NSM] Part of Speech: Verb Tense: Present Voice: Active Mood: Participle Case: Nominative Number: Singular Gender: Masculine
+[V-PAP-NSN] Part of Speech: Verb Tense: Present Voice: Active Mood: Participle Case: Nominative Number: Singular Gender: Neuter
+[V-PAP-VPM] Part of Speech: Verb Tense: Present Voice: Active Mood: Participle Case: Vocative Number: Plural Gender: Masculine
+[V-PAP-VSF] Part of Speech: Verb Tense: Present Voice: Active Mood: Participle Case: Vocative Number: Singular Gender: Feminine
+[V-PAP-VSM] Part of Speech: Verb Tense: Present Voice: Active Mood: Participle Case: Vocative Number: Singular Gender: Masculine
+[V-PAS] Part of Speech: Verb Tense: Present Voice: Active Mood: Subjunctive TVM equivalent: G5725
+[V-PAS-1P] Part of Speech: Verb Tense: Present Voice: Active Mood: Subjunctive Person: first Number: Plural
+[V-PAS-1S] Part of Speech: Verb Tense: Present Voice: Active Mood: Subjunctive Person: first Number: Singular
+[V-PAS-2P] Part of Speech: Verb Tense: Present Voice: Active Mood: Subjunctive Person: second Number: Plural
+[V-PAS-2S] Part of Speech: Verb Tense: Present Voice: Active Mood: Subjunctive Person: second Number: Singular
+[V-PAS-3P] Part of Speech: Verb Tense: Present Voice: Active Mood: Subjunctive Person: third Number: Plural
+[V-PAS-3S] Part of Speech: Verb Tense: Present Voice: Active Mood: Subjunctive Person: third Number: Singular
+[V-PDN] Part of Speech: Verb Tense: Present Voice: middle Deponent Mood: iNfinitive
+[V-PDP] Part of Speech: Verb Tense: Present Voice: middle Deponent Mood: Participle TVM equivalent: G5726
+[V-PDP-NPM] Part of Speech: Verb Tense: Present Voice: middle Deponent Mood: Participle Case: Nominative Number: Plural Gender: Masculine
+[V-PEI] Part of Speech: Verb Tense: Present Voice: Either middle or passive Mood: Indicative TVM equivalent: G5727
+[V-PEI-1P] Part of Speech: Verb Tense: Present Voice: Either middle or passive Mood: Indicative Person: first Number: Plural
+[V-PEI-1S] Part of Speech: Verb Tense: Present Voice: Either middle or passive Mood: Indicative Person: first Number: Singular
+[V-PEI-2P] Part of Speech: Verb Tense: Present Voice: Either middle or passive Mood: Indicative Person: second Number: Plural
+[V-PEI-3P] Part of Speech: Verb Tense: Present Voice: Either middle or passive Mood: Indicative Person: third Number: Plural
+[V-PEI-3S] Part of Speech: Verb Tense: Present Voice: Either middle or passive Mood: Indicative Person: third Number: Singular
+[V-PEM] Part of Speech: Verb Tense: Present Voice: Either middle or passive Mood: iMperative TVM equivalent: G5728
+[V-PEM-2P] Part of Speech: Verb Tense: Present Voice: Either middle or passive Mood: iMperative Person: second Number: Plural
+[V-PEM-2S] Part of Speech: Verb Tense: Present Voice: Either middle or passive Mood: iMperative Person: second Number: Singular
+[V-PEN] Part of Speech: Verb Tense: Present Voice: Either middle or passive Mood: iNfinitive TVM equivalent: G5729
+[V-PEP] Part of Speech: Verb Tense: Present Voice: Either middle or passive Mood: Participle TVM equivalent: G5730
+[V-PEP-DPM] Part of Speech: Verb Tense: Present Voice: Either middle or passive Mood: Participle Case: Dative Number: Plural Gender: Masculine
+[V-PEP-DSM] Part of Speech: Verb Tense: Present Voice: Either middle or passive Mood: Participle Case: Dative Number: Singular Gender: Masculine
+[V-PEP-GPN] Part of Speech: Verb Tense: Present Voice: Either middle or passive Mood: Participle Case: Genitive Number: Plural Gender: Neuter
+[V-PEP-GSF] Part of Speech: Verb Tense: Present Voice: Either middle or passive Mood: Participle Case: Genitive Number: Singular Gender: Feminine
+[V-PEP-GSM] Part of Speech: Verb Tense: Present Voice: Either middle or passive Mood: Participle Case: Genitive Number: Singular Gender: Masculine
+[V-PEP-NPF] Part of Speech: Verb Tense: Present Voice: Either middle or passive Mood: Participle Case: Nominative Number: Plural Gender: Feminine
+[V-PEP-NPM] Part of Speech: Verb Tense: Present Voice: Either middle or passive Mood: Participle Case: Nominative Number: Plural Gender: Masculine
+[V-PEP-NSF] Part of Speech: Verb Tense: Present Voice: Either middle or passive Mood: Participle Case: Nominative Number: Singular Gender: Feminine
+[V-PMI] Part of Speech: Verb Tense: Present Voice: Middle Mood: Indicative TVM equivalent: G5731
+[V-PMI-1P] Part of Speech: Verb Tense: Present Voice: Middle Mood: Indicative Person: first Number: Plural
+[V-PMI-1S] Part of Speech: Verb Tense: Present Voice: Middle Mood: Indicative Person: first Number: Singular
+[V-PMI-2P] Part of Speech: Verb Tense: Present Voice: Middle Mood: Indicative Person: second Number: Plural
+[V-PMI-2S] Part of Speech: Verb Tense: Present Voice: Middle Mood: Indicative Person: second Number: Singular
+[V-PMI-3P] Part of Speech: Verb Tense: Present Voice: Middle Mood: Indicative Person: third Number: Plural
+[V-PMI-3S] Part of Speech: Verb Tense: Present Voice: Middle Mood: Indicative Person: third Number: Singular
+[V-PMM] Part of Speech: Verb Tense: Present Voice: Middle Mood: iMperative TVM equivalent: G5732
+[V-PMM-2P] Part of Speech: Verb Tense: Present Voice: Middle Mood: iMperative Person: second Number: Plural
+[V-PMM-2S] Part of Speech: Verb Tense: Present Voice: Middle Mood: iMperative Person: second Number: Singular
+[V-PMM-3P] Part of Speech: Verb Tense: Present Voice: Middle Mood: iMperative Person: third Number: Plural
+[V-PMM-3S] Part of Speech: Verb Tense: Present Voice: Middle Mood: iMperative Person: third Number: Singular
+[V-PMN] Part of Speech: Verb Tense: Present Voice: Middle Mood: iNfinitive TVM equivalent: G5733
+[V-PMO-1S] Part of Speech: Verb Tense: Present Voice: Middle Mood: Optative Person: first Number: Singular
+[V-PMO-3P] Part of Speech: Verb Tense: Present Voice: Middle Mood: Optative Person: third Number: Plural
+[V-PMO-3S] Part of Speech: Verb Tense: Present Voice: Middle Mood: Optative Person: third Number: Singular
+[V-PMP] Part of Speech: Verb Tense: Present Voice: Middle Mood: Participle TVM equivalent: G5734
+[V-PMP-APF] Part of Speech: Verb Tense: Present Voice: Middle Mood: Participle Case: Accusative Number: Plural Gender: Feminine
+[V-PMP-APM] Part of Speech: Verb Tense: Present Voice: Middle Mood: Participle Case: Accusative Number: Plural Gender: Masculine
+[V-PMP-APN] Part of Speech: Verb Tense: Present Voice: Middle Mood: Participle Case: Accusative Number: Plural Gender: Neuter
+[V-PMP-ASF] Part of Speech: Verb Tense: Present Voice: Middle Mood: Participle Case: Accusative Number: Singular Gender: Feminine
+[V-PMP-ASM] Part of Speech: Verb Tense: Present Voice: Middle Mood: Participle Case: Accusative Number: Singular Gender: Masculine
+[V-PMP-ASN] Part of Speech: Verb Tense: Present Voice: Middle Mood: Participle Case: Accusative Number: Singular Gender: Neuter
+[V-PMP-DPF] Part of Speech: Verb Tense: Present Voice: Middle Mood: Participle Case: Dative Number: Plural Gender: Feminine
+[V-PMP-DPM] Part of Speech: Verb Tense: Present Voice: Middle Mood: Participle Case: Dative Number: Plural Gender: Masculine
+[V-PMP-DPN] Part of Speech: Verb Tense: Present Voice: Middle Mood: Participle Case: Dative Number: Plural Gender: Neuter
+[V-PMP-DSF] Part of Speech: Verb Tense: Present Voice: Middle Mood: Participle Case: Dative Number: Singular Gender: Feminine
+[V-PMP-DSM] Part of Speech: Verb Tense: Present Voice: Middle Mood: Participle Case: Dative Number: Singular Gender: Masculine
+[V-PMP-DSN] Part of Speech: Verb Tense: Present Voice: Middle Mood: Participle Case: Dative Number: Singular Gender: Neuter
+[V-PMP-GPF] Part of Speech: Verb Tense: Present Voice: Middle Mood: Participle Case: Genitive Number: Plural Gender: Feminine
+[V-PMP-GPM] Part of Speech: Verb Tense: Present Voice: Middle Mood: Participle Case: Genitive Number: Plural Gender: Masculine
+[V-PMP-GPN] Part of Speech: Verb Tense: Present Voice: Middle Mood: Participle Case: Genitive Number: Plural Gender: Neuter
+[V-PMP-GSF] Part of Speech: Verb Tense: Present Voice: Middle Mood: Participle Case: Genitive Number: Singular Gender: Feminine
+[V-PMP-GSM] Part of Speech: Verb Tense: Present Voice: Middle Mood: Participle Case: Genitive Number: Singular Gender: Masculine
+[V-PMP-GSM-T] Part of Speech: Verb Tense: Present Voice: Middle Mood: Participle Case: Genitive Number: Singular Gender: Masculine Transitive
+[V-PMP-GSN] Part of Speech: Verb Tense: Present Voice: Middle Mood: Participle Case: Genitive Number: Singular Gender: Neuter
+[V-PMP-NPF] Part of Speech: Verb Tense: Present Voice: Middle Mood: Participle Case: Nominative Number: Plural Gender: Feminine
+[V-PMP-NPM] Part of Speech: Verb Tense: Present Voice: Middle Mood: Participle Case: Nominative Number: Plural Gender: Masculine
+[V-PMP-NPN] Part of Speech: Verb Tense: Present Voice: Middle Mood: Participle Case: Nominative Number: Plural Gender: Neuter
+[V-PMP-NSF] Part of Speech: Verb Tense: Present Voice: Middle Mood: Participle Case: Nominative Number: Singular Gender: Feminine
+[V-PMP-NSM] Part of Speech: Verb Tense: Present Voice: Middle Mood: Participle Case: Nominative Number: Singular Gender: Masculine
+[V-PMP-NSN] Part of Speech: Verb Tense: Present Voice: Middle Mood: Participle Case: Nominative Number: Singular Gender: Neuter
+[V-PMP-VPM] Part of Speech: Verb Tense: Present Voice: Middle Mood: Participle Case: Vocative Number: Plural Gender: Masculine
+[V-PMP-VSM] Part of Speech: Verb Tense: Present Voice: Middle Mood: Participle Case: Vocative Number: Singular Gender: Masculine
+[V-PMS] Part of Speech: Verb Tense: Present Voice: Middle Mood: Subjunctive TVM equivalent: G5735
+[V-PMS-1P] Part of Speech: Verb Tense: Present Voice: Middle Mood: Subjunctive Person: first Number: Plural
+[V-PMS-1S] Part of Speech: Verb Tense: Present Voice: Middle Mood: Subjunctive Person: first Number: Singular
+[V-PMS-2P] Part of Speech: Verb Tense: Present Voice: Middle Mood: Subjunctive Person: second Number: Plural
+[V-PMS-2S] Part of Speech: Verb Tense: Present Voice: Middle Mood: Subjunctive Person: second Number: Singular
+[V-PMS-3P] Part of Speech: Verb Tense: Present Voice: Middle Mood: Subjunctive Person: third Number: Plural
+[V-PMS-3S] Part of Speech: Verb Tense: Present Voice: Middle Mood: Subjunctive Person: third Number: Singular
+[V-PNI] Part of Speech: Verb Tense: Present Voice: middle or passive depoNent Mood: Indicative TVM equivalent: G5736
+[V-PNI-1P] Part of Speech: Verb Tense: Present Voice: middle or passive depoNent Mood: Indicative Person: first Number: Plural
+[V-PNI-1S] Part of Speech: Verb Tense: Present Voice: middle or passive depoNent Mood: Indicative Person: first Number: Singular
+[V-PNI-1S-C] Part of Speech: Verb Tense: Present Voice: middle or passive depoNent Mood: Indicative Person: first Number: Singular Contracted form
+[V-PNI-2P] Part of Speech: Verb Tense: Present Voice: middle or passive depoNent Mood: Indicative Person: second Number: Plural
+[V-PNI-2S] Part of Speech: Verb Tense: Present Voice: middle or passive depoNent Mood: Indicative Person: second Number: Singular
+[V-PNI-2S-ATT] Part of Speech: Verb Tense: Present Voice: middle or passive depoNent Mood: Indicative Person: second Number: Singular ATTic
+[V-PNI-2S-C] Part of Speech: Verb Tense: Present Voice: middle or passive depoNent Mood: Indicative Person: second Number: Singular Contracted form
+[V-PNI-3P] Part of Speech: Verb Tense: Present Voice: middle or passive depoNent Mood: Indicative Person: third Number: Plural
+[V-PNI-3S] Part of Speech: Verb Tense: Present Voice: middle or passive depoNent Mood: Indicative Person: third Number: Singular
+[V-PNI-3S-IRR] Part of Speech: Verb Tense: Present Voice: middle or passive depoNent Mood: Indicative Person: third Number: Singular Irregular or Impure form
+[V-PNM] Part of Speech: Verb Tense: Present Voice: middle or passive depoNent Mood: iMperative TVM equivalent: G5737
+[V-PNM-2P] Part of Speech: Verb Tense: Present Voice: middle or passive depoNent Mood: iMperative Person: second Number: Plural
+[V-PNM-2S] Part of Speech: Verb Tense: Present Voice: middle or passive depoNent Mood: iMperative Person: second Number: Singular
+[V-PNM-3P] Part of Speech: Verb Tense: Present Voice: middle or passive depoNent Mood: iMperative Person: third Number: Plural
+[V-PNM-3S] Part of Speech: Verb Tense: Present Voice: middle or passive depoNent Mood: iMperative Person: third Number: Singular
+[V-PNN] Part of Speech: Verb Tense: Present Voice: middle or passive depoNent Mood: iNfinitive TVM equivalent: G5738
+[V-PNO] Part of Speech: Verb Tense: Present Voice: middle or passive depoNent Mood: Optative TVM equivalent: G5739
+[V-PNO-1S] Part of Speech: Verb Tense: Present Voice: middle or passive depoNent Mood: Optative Person: first Number: Singular
+[V-PNO-3P] Part of Speech: Verb Tense: Present Voice: middle or passive depoNent Mood: Optative Person: third Number: Plural
+[V-PNO-3S] Part of Speech: Verb Tense: Present Voice: middle or passive depoNent Mood: Optative Person: third Number: Singular
+[V-PNP] Part of Speech: Verb Tense: Present Voice: middle or passive depoNent Mood: Participle TVM equivalent: G5740
+[V-PNP-APF] Part of Speech: Verb Tense: Present Voice: middle or passive depoNent Mood: Participle Case: Accusative Number: Plural Gender: Feminine
+[V-PNP-APM] Part of Speech: Verb Tense: Present Voice: middle or passive depoNent Mood: Participle Case: Accusative Number: Plural Gender: Masculine
+[V-PNP-APN] Part of Speech: Verb Tense: Present Voice: middle or passive depoNent Mood: Participle Case: Accusative Number: Plural Gender: Neuter
+[V-PNP-ASF] Part of Speech: Verb Tense: Present Voice: middle or passive depoNent Mood: Participle Case: Accusative Number: Singular Gender: Feminine
+[V-PNP-ASM] Part of Speech: Verb Tense: Present Voice: middle or passive depoNent Mood: Participle Case: Accusative Number: Singular Gender: Masculine
+[V-PNP-ASN] Part of Speech: Verb Tense: Present Voice: middle or passive depoNent Mood: Participle Case: Accusative Number: Singular Gender: Neuter
+[V-PNP-DPF] Part of Speech: Verb Tense: Present Voice: middle or passive depoNent Mood: Participle Case: Dative Number: Plural Gender: Feminine
+[V-PNP-DPM] Part of Speech: Verb Tense: Present Voice: middle or passive depoNent Mood: Participle Case: Dative Number: Plural Gender: Masculine
+[V-PNP-DPN] Part of Speech: Verb Tense: Present Voice: middle or passive depoNent Mood: Participle Case: Dative Number: Plural Gender: Neuter
+[V-PNP-DSF] Part of Speech: Verb Tense: Present Voice: middle or passive depoNent Mood: Participle Case: Dative Number: Singular Gender: Feminine
+[V-PNP-DSM] Part of Speech: Verb Tense: Present Voice: middle or passive depoNent Mood: Participle Case: Dative Number: Singular Gender: Masculine
+[V-PNP-DSN] Part of Speech: Verb Tense: Present Voice: middle or passive depoNent Mood: Participle Case: Dative Number: Singular Gender: Neuter
+[V-PNP-GPF] Part of Speech: Verb Tense: Present Voice: middle or passive depoNent Mood: Participle Case: Genitive Number: Plural Gender: Feminine
+[V-PNP-GPM] Part of Speech: Verb Tense: Present Voice: middle or passive depoNent Mood: Participle Case: Genitive Number: Plural Gender: Masculine
+[V-PNP-GPN] Part of Speech: Verb Tense: Present Voice: middle or passive depoNent Mood: Participle Case: Genitive Number: Plural Gender: Neuter
+[V-PNP-GSF] Part of Speech: Verb Tense: Present Voice: middle or passive depoNent Mood: Participle Case: Genitive Number: Singular Gender: Feminine
+[V-PNP-GSM] Part of Speech: Verb Tense: Present Voice: middle or passive depoNent Mood: Participle Case: Genitive Number: Singular Gender: Masculine
+[V-PNP-GSN] Part of Speech: Verb Tense: Present Voice: middle or passive depoNent Mood: Participle Case: Genitive Number: Singular Gender: Neuter
+[V-PNP-NPF] Part of Speech: Verb Tense: Present Voice: middle or passive depoNent Mood: Participle Case: Nominative Number: Plural Gender: Feminine
+[V-PNP-NPM] Part of Speech: Verb Tense: Present Voice: middle or passive depoNent Mood: Participle Case: Nominative Number: Plural Gender: Masculine
+[V-PNP-NPN] Part of Speech: Verb Tense: Present Voice: middle or passive depoNent Mood: Participle Case: Nominative Number: Plural Gender: Neuter
+[V-PNP-NSF] Part of Speech: Verb Tense: Present Voice: middle or passive depoNent Mood: Participle Case: Nominative Number: Singular Gender: Feminine
+[V-PNP-NSM] Part of Speech: Verb Tense: Present Voice: middle or passive depoNent Mood: Participle Case: Nominative Number: Singular Gender: Masculine
+[V-PNP-NSN] Part of Speech: Verb Tense: Present Voice: middle or passive depoNent Mood: Participle Case: Nominative Number: Singular Gender: Neuter
+[V-PNS] Part of Speech: Verb Tense: Present Voice: middle or passive depoNent Mood: Subjunctive TVM equivalent: G5741
+[V-PNS-1P] Part of Speech: Verb Tense: Present Voice: middle or passive depoNent Mood: Subjunctive Person: first Number: Plural
+[V-PNS-1S] Part of Speech: Verb Tense: Present Voice: middle or passive depoNent Mood: Subjunctive Person: first Number: Singular
+[V-PNS-2P] Part of Speech: Verb Tense: Present Voice: middle or passive depoNent Mood: Subjunctive Person: second Number: Plural
+[V-PNS-2S] Part of Speech: Verb Tense: Present Voice: middle or passive depoNent Mood: Subjunctive Person: second Number: Singular
+[V-PNS-3P] Part of Speech: Verb Tense: Present Voice: middle or passive depoNent Mood: Subjunctive Person: third Number: Plural
+[V-PNS-3S] Part of Speech: Verb Tense: Present Voice: middle or passive depoNent Mood: Subjunctive Person: third Number: Singular
+[V-POP] Part of Speech: Verb Tense: Present Voice: passive depOnent Mood: Participle TVM equivalent: G5742
+[V-POP-NPM] Part of Speech: Verb Tense: Present Voice: passive depOnent Mood: Participle Case: Nominative Number: Plural Gender: Masculine
+[V-PPI] Part of Speech: Verb Tense: Present Voice: Passive Mood: Indicative TVM equivalent: G5743
+[V-PPI-1P] Part of Speech: Verb Tense: Present Voice: Passive Mood: Indicative Person: first Number: Plural
+[V-PPI-1S] Part of Speech: Verb Tense: Present Voice: Passive Mood: Indicative Person: first Number: Singular
+[V-PPI-2P] Part of Speech: Verb Tense: Present Voice: Passive Mood: Indicative Person: second Number: Plural
+[V-PPI-2S] Part of Speech: Verb Tense: Present Voice: Passive Mood: Indicative Person: second Number: Singular
+[V-PPI-2S-IRR] Part of Speech: Verb Tense: Present Voice: Passive Mood: Indicative Person: second Number: Singular Irregular or Impure form
+[V-PPI-3P] Part of Speech: Verb Tense: Present Voice: Passive Mood: Indicative Person: third Number: Plural
+[V-PPI-3S] Part of Speech: Verb Tense: Present Voice: Passive Mood: Indicative Person: third Number: Singular
+[V-PPM] Part of Speech: Verb Tense: Present Voice: Passive Mood: iMperative TVM equivalent: G5744
+[V-PPM-2P] Part of Speech: Verb Tense: Present Voice: Passive Mood: iMperative Person: second Number: Plural
+[V-PPM-2S] Part of Speech: Verb Tense: Present Voice: Passive Mood: iMperative Person: second Number: Singular
+[V-PPM-3P] Part of Speech: Verb Tense: Present Voice: Passive Mood: iMperative Person: third Number: Plural
+[V-PPM-3S] Part of Speech: Verb Tense: Present Voice: Passive Mood: iMperative Person: third Number: Singular
+[V-PPN] Part of Speech: Verb Tense: Present Voice: Passive Mood: iNfinitive TVM equivalent: G5745
+[V-PPN-2P] Part of Speech: Verb Tense: Present Voice: Passive Mood: iNfinitive Person: second Number: Plural
+[V-PPP] Part of Speech: Verb Tense: Present Voice: Passive Mood: Participle TVM equivalent: G5746
+[V-PPP-APF] Part of Speech: Verb Tense: Present Voice: Passive Mood: Participle Case: Accusative Number: Plural Gender: Feminine
+[V-PPP-APM] Part of Speech: Verb Tense: Present Voice: Passive Mood: Participle Case: Accusative Number: Plural Gender: Masculine
+[V-PPP-APN] Part of Speech: Verb Tense: Present Voice: Passive Mood: Participle Case: Accusative Number: Plural Gender: Neuter
+[V-PPP-ASF] Part of Speech: Verb Tense: Present Voice: Passive Mood: Participle Case: Accusative Number: Singular Gender: Feminine
+[V-PPP-ASM] Part of Speech: Verb Tense: Present Voice: Passive Mood: Participle Case: Accusative Number: Singular Gender: Masculine
+[V-PPP-ASN] Part of Speech: Verb Tense: Present Voice: Passive Mood: Participle Case: Accusative Number: Singular Gender: Neuter
+[V-PPP-DPM] Part of Speech: Verb Tense: Present Voice: Passive Mood: Participle Case: Dative Number: Plural Gender: Masculine
+[V-PPP-DPN] Part of Speech: Verb Tense: Present Voice: Passive Mood: Participle Case: Dative Number: Plural Gender: Neuter
+[V-PPP-DSF] Part of Speech: Verb Tense: Present Voice: Passive Mood: Participle Case: Dative Number: Singular Gender: Feminine
+[V-PPP-DSM] Part of Speech: Verb Tense: Present Voice: Passive Mood: Participle Case: Dative Number: Singular Gender: Masculine
+[V-PPP-DSN] Part of Speech: Verb Tense: Present Voice: Passive Mood: Participle Case: Dative Number: Singular Gender: Neuter
+[V-PPP-GPM] Part of Speech: Verb Tense: Present Voice: Passive Mood: Participle Case: Genitive Number: Plural Gender: Masculine
+[V-PPP-GPN] Part of Speech: Verb Tense: Present Voice: Passive Mood: Participle Case: Genitive Number: Plural Gender: Neuter
+[V-PPP-GSF] Part of Speech: Verb Tense: Present Voice: Passive Mood: Participle Case: Genitive Number: Singular Gender: Feminine
+[V-PPP-GSM] Part of Speech: Verb Tense: Present Voice: Passive Mood: Participle Case: Genitive Number: Singular Gender: Masculine
+[V-PPP-GSN] Part of Speech: Verb Tense: Present Voice: Passive Mood: Participle Case: Genitive Number: Singular Gender: Neuter
+[V-PPP-NPF] Part of Speech: Verb Tense: Present Voice: Passive Mood: Participle Case: Nominative Number: Plural Gender: Feminine
+[V-PPP-NPM] Part of Speech: Verb Tense: Present Voice: Passive Mood: Participle Case: Nominative Number: Plural Gender: Masculine
+[V-PPP-NPN] Part of Speech: Verb Tense: Present Voice: Passive Mood: Participle Case: Nominative Number: Plural Gender: Neuter
+[V-PPP-NSF] Part of Speech: Verb Tense: Present Voice: Passive Mood: Participle Case: Nominative Number: Singular Gender: Feminine
+[V-PPP-NSM] Part of Speech: Verb Tense: Present Voice: Passive Mood: Participle Case: Nominative Number: Singular Gender: Masculine
+[V-PPP-NSN] Part of Speech: Verb Tense: Present Voice: Passive Mood: Participle Case: Nominative Number: Singular Gender: Neuter
+[V-PPS] Part of Speech: Verb Tense: Present Voice: Passive Mood: Subjunctive TVM equivalent: G5747
+[V-PPS-1P] Part of Speech: Verb Tense: Present Voice: Passive Mood: Subjunctive Person: first Number: Plural
+[V-PPS-1S] Part of Speech: Verb Tense: Present Voice: Passive Mood: Subjunctive Person: first Number: Singular
+[V-PPS-2P] Part of Speech: Verb Tense: Present Voice: Passive Mood: Subjunctive Person: second Number: Plural
+[V-PPS-3P] Part of Speech: Verb Tense: Present Voice: Passive Mood: Subjunctive Person: third Number: Plural
+[V-PPS-3S] Part of Speech: Verb Tense: Present Voice: Passive Mood: Subjunctive Person: third Number: Singular
+[V-PQI] Part of Speech: Verb Tense: Present Voice: impersonal active Mood: Indicative TVM equivalent: G5904
+[V-PQI-3S] Part of Speech: Verb Tense: Present Voice: impersonal active Mood: Indicative Person: third Number: Singular
+[V-PQN] Part of Speech: Verb Tense: Present Voice: impersonal active Mood: iNfinitive TVM equivalent: G5903
+[V-PQP] Part of Speech: Verb Tense: Present Voice: impersonal active Mood: Participle TVM equivalent: G5901
+[V-PQP-APN] Part of Speech: Verb Tense: Present Voice: impersonal active Mood: Participle Case: Accusative Number: Plural Gender: Neuter
+[V-PQP-NSN] Part of Speech: Verb Tense: Present Voice: impersonal active Mood: Participle Case: Nominative Number: Singular Gender: Neuter
+[V-PQS] Part of Speech: Verb Tense: Present Voice: impersonal active Mood: Subjunctive TVM equivalent: G5902
+[V-PQS-3S] Part of Speech: Verb Tense: Present Voice: impersonal active Mood: Subjunctive Person: third Number: Singular
+[V-PXI] Part of Speech: Verb Tense: Present Voice: no voice stated Mood: Indicative TVM equivalent: G5748
+[V-PXI-1P] Part of Speech: Verb Tense: Present Voice: no voice stated Mood: Indicative Person: first Number: Plural
+[V-PXI-1S] Part of Speech: Verb Tense: Present Voice: no voice stated Mood: Indicative Person: first Number: Singular
+[V-PXI-2P] Part of Speech: Verb Tense: Present Voice: no voice stated Mood: Indicative Person: second Number: Plural
+[V-PXI-2S] Part of Speech: Verb Tense: Present Voice: no voice stated Mood: Indicative Person: second Number: Singular
+[V-PXI-3P] Part of Speech: Verb Tense: Present Voice: no voice stated Mood: Indicative Person: third Number: Plural
+[V-PXI-3S] Part of Speech: Verb Tense: Present Voice: no voice stated Mood: Indicative Person: third Number: Singular
+[V-PXM] Part of Speech: Verb Tense: Present Voice: no voice stated Mood: iMperative TVM equivalent: G5749
+[V-PXM-2S] Part of Speech: Verb Tense: Present Voice: no voice stated Mood: iMperative Person: second Number: Singular
+[V-PXM-3P] Part of Speech: Verb Tense: Present Voice: no voice stated Mood: iMperative Person: third Number: Plural
+[V-PXM-3S] Part of Speech: Verb Tense: Present Voice: no voice stated Mood: iMperative Person: third Number: Singular
+[V-PXN] Part of Speech: Verb Tense: Present Voice: no voice stated Mood: iNfinitive TVM equivalent: G5750
+[V-PXO] Part of Speech: Verb Tense: Present Voice: no voice stated Mood: Optative TVM equivalent: G5751
+[V-PXO-2S] Part of Speech: Verb Tense: Present Voice: no voice stated Mood: Optative Person: second Number: Singular
+[V-PXO-3S] Part of Speech: Verb Tense: Present Voice: no voice stated Mood: Optative Person: third Number: Singular
+[V-PXP] Part of Speech: Verb Tense: Present Voice: no voice stated Mood: Participle TVM equivalent: G5752
+[V-PXP-APM] Part of Speech: Verb Tense: Present Voice: no voice stated Mood: Participle Case: Accusative Number: Plural Gender: Masculine
+[V-PXP-APN] Part of Speech: Verb Tense: Present Voice: no voice stated Mood: Participle Case: Accusative Number: Plural Gender: Neuter
+[V-PXP-ASF] Part of Speech: Verb Tense: Present Voice: no voice stated Mood: Participle Case: Accusative Number: Singular Gender: Feminine
+[V-PXP-ASM] Part of Speech: Verb Tense: Present Voice: no voice stated Mood: Participle Case: Accusative Number: Singular Gender: Masculine
+[V-PXP-ASN] Part of Speech: Verb Tense: Present Voice: no voice stated Mood: Participle Case: Accusative Number: Singular Gender: Neuter
+[V-PXP-DPM] Part of Speech: Verb Tense: Present Voice: no voice stated Mood: Participle Case: Dative Number: Plural Gender: Masculine
+[V-PXP-DPN] Part of Speech: Verb Tense: Present Voice: no voice stated Mood: Participle Case: Dative Number: Plural Gender: Neuter
+[V-PXP-DSF] Part of Speech: Verb Tense: Present Voice: no voice stated Mood: Participle Case: Dative Number: Singular Gender: Feminine
+[V-PXP-DSM] Part of Speech: Verb Tense: Present Voice: no voice stated Mood: Participle Case: Dative Number: Singular Gender: Masculine
+[V-PXP-GPF] Part of Speech: Verb Tense: Present Voice: no voice stated Mood: Participle Case: Genitive Number: Plural Gender: Feminine
+[V-PXP-GPM] Part of Speech: Verb Tense: Present Voice: no voice stated Mood: Participle Case: Genitive Number: Plural Gender: Masculine
+[V-PXP-GPN] Part of Speech: Verb Tense: Present Voice: no voice stated Mood: Participle Case: Genitive Number: Plural Gender: Neuter
+[V-PXP-GSF] Part of Speech: Verb Tense: Present Voice: no voice stated Mood: Participle Case: Genitive Number: Singular Gender: Feminine
+[V-PXP-GSM] Part of Speech: Verb Tense: Present Voice: no voice stated Mood: Participle Case: Genitive Number: Singular Gender: Masculine
+[V-PXP-GSN] Part of Speech: Verb Tense: Present Voice: no voice stated Mood: Participle Case: Genitive Number: Singular Gender: Neuter
+[V-PXP-NPF] Part of Speech: Verb Tense: Present Voice: no voice stated Mood: Participle Case: Nominative Number: Plural Gender: Feminine
+[V-PXP-NPM] Part of Speech: Verb Tense: Present Voice: no voice stated Mood: Participle Case: Nominative Number: Plural Gender: Masculine
+[V-PXP-NPN] Part of Speech: Verb Tense: Present Voice: no voice stated Mood: Participle Case: Nominative Number: Plural Gender: Neuter
+[V-PXP-NSF] Part of Speech: Verb Tense: Present Voice: no voice stated Mood: Participle Case: Nominative Number: Singular Gender: Feminine
+[V-PXP-NSM] Part of Speech: Verb Tense: Present Voice: no voice stated Mood: Participle Case: Nominative Number: Singular Gender: Masculine
+[V-PXP-NSN] Part of Speech: Verb Tense: Present Voice: no voice stated Mood: Participle Case: Nominative Number: Singular Gender: Neuter
+[V-PXS] Part of Speech: Verb Tense: Present Voice: no voice stated Mood: Subjunctive TVM equivalent: G5753
+[V-PXS-1P] Part of Speech: Verb Tense: Present Voice: no voice stated Mood: Subjunctive Person: first Number: Plural
+[V-PXS-1S] Part of Speech: Verb Tense: Present Voice: no voice stated Mood: Subjunctive Person: first Number: Singular
+[V-PXS-2P] Part of Speech: Verb Tense: Present Voice: no voice stated Mood: Subjunctive Person: second Number: Plural
+[V-PXS-2S] Part of Speech: Verb Tense: Present Voice: no voice stated Mood: Subjunctive Person: second Number: Singular
+[V-PXS-3P] Part of Speech: Verb Tense: Present Voice: no voice stated Mood: Subjunctive Person: third Number: Plural
+[V-PXS-3S] Part of Speech: Verb Tense: Present Voice: no voice stated Mood: Subjunctive Person: third Number: Singular
+[V-RAI] Part of Speech: Verb Tense: peRfect Voice: Active Mood: Indicative TVM equivalent: G5758
+[V-RAI-1P] Part of Speech: Verb Tense: peRfect Voice: Active Mood: Indicative Person: first Number: Plural
+[V-RAI-1P-ATT] Part of Speech: Verb Tense: peRfect Voice: Active Mood: Indicative Person: first Number: Plural ATTic
+[V-RAI-1S] Part of Speech: Verb Tense: peRfect Voice: Active Mood: Indicative Person: first Number: Singular
+[V-RAI-1S-ATT] Part of Speech: Verb Tense: peRfect Voice: Active Mood: Indicative Person: first Number: Singular ATTic
+[V-RAI-2P] Part of Speech: Verb Tense: peRfect Voice: Active Mood: Indicative Person: second Number: Plural
+[V-RAI-2P-ATT] Part of Speech: Verb Tense: peRfect Voice: Active Mood: Indicative Person: second Number: Plural ATTic
+[V-RAI-2S] Part of Speech: Verb Tense: peRfect Voice: Active Mood: Indicative Person: second Number: Singular
+[V-RAI-2S-ATT] Part of Speech: Verb Tense: peRfect Voice: Active Mood: Indicative Person: second Number: Singular ATTic
+[V-RAI-3P] Part of Speech: Verb Tense: peRfect Voice: Active Mood: Indicative Person: third Number: Plural
+[V-RAI-3P-ATT] Part of Speech: Verb Tense: peRfect Voice: Active Mood: Indicative Person: third Number: Plural ATTic
+[V-RAI-3S] Part of Speech: Verb Tense: peRfect Voice: Active Mood: Indicative Person: third Number: Singular
+[V-RAI-3S-ATT] Part of Speech: Verb Tense: peRfect Voice: Active Mood: Indicative Person: third Number: Singular ATTic
+[V-RAM] Part of Speech: Verb Tense: peRfect Voice: Active Mood: iMperative TVM equivalent: G5759
+[V-RAM-2P] Part of Speech: Verb Tense: peRfect Voice: Active Mood: iMperative Person: second Number: Plural
+[V-RAN] Part of Speech: Verb Tense: peRfect Voice: Active Mood: iNfinitive TVM equivalent: G5760
+[V-RAN-ATT] Part of Speech: Verb Tense: peRfect Voice: Active Mood: iNfinitive ATTic
+[V-RAP] Part of Speech: Verb Tense: peRfect Voice: Active Mood: Participle TVM equivalent: G5761
+[V-RAP-APM] Part of Speech: Verb Tense: peRfect Voice: Active Mood: Participle Case: Accusative Number: Plural Gender: Masculine
+[V-RAP-APN] Part of Speech: Verb Tense: peRfect Voice: Active Mood: Participle Case: Accusative Number: Plural Gender: Neuter
+[V-RAP-ASF] Part of Speech: Verb Tense: peRfect Voice: Active Mood: Participle Case: Accusative Number: Singular Gender: Feminine
+[V-RAP-ASM] Part of Speech: Verb Tense: peRfect Voice: Active Mood: Participle Case: Accusative Number: Singular Gender: Masculine
+[V-RAP-ASM-C] Part of Speech: Verb Tense: peRfect Voice: Active Mood: Participle Case: Accusative Number: Singular Gender: Masculine Contracted form
+[V-RAP-ASN] Part of Speech: Verb Tense: peRfect Voice: Active Mood: Participle Case: Accusative Number: Singular Gender: Neuter
+[V-RAP-DPM] Part of Speech: Verb Tense: peRfect Voice: Active Mood: Participle Case: Dative Number: Plural Gender: Masculine
+[V-RAP-DSM] Part of Speech: Verb Tense: peRfect Voice: Active Mood: Participle Case: Dative Number: Singular Gender: Masculine
+[V-RAP-DSN] Part of Speech: Verb Tense: peRfect Voice: Active Mood: Participle Case: Dative Number: Singular Gender: Neuter
+[V-RAP-GPM] Part of Speech: Verb Tense: peRfect Voice: Active Mood: Participle Case: Genitive Number: Plural Gender: Masculine
+[V-RAP-GPN] Part of Speech: Verb Tense: peRfect Voice: Active Mood: Participle Case: Genitive Number: Plural Gender: Neuter
+[V-RAP-GSF] Part of Speech: Verb Tense: peRfect Voice: Active Mood: Participle Case: Genitive Number: Singular Gender: Feminine
+[V-RAP-GSM] Part of Speech: Verb Tense: peRfect Voice: Active Mood: Participle Case: Genitive Number: Singular Gender: Masculine
+[V-RAP-GSM-ATT] Part of Speech: Verb Tense: peRfect Voice: Active Mood: Participle Case: Genitive Number: Singular Gender: Masculine ATTic
+[V-RAP-GSN-ATT] Part of Speech: Verb Tense: peRfect Voice: Active Mood: Participle Case: Genitive Number: Singular Gender: Neuter ATTic
+[V-RAP-NPF] Part of Speech: Verb Tense: peRfect Voice: Active Mood: Participle Case: Nominative Number: Plural Gender: Feminine
+[V-RAP-NPM] Part of Speech: Verb Tense: peRfect Voice: Active Mood: Participle Case: Nominative Number: Plural Gender: Masculine
+[V-RAP-NPM-ATT] Part of Speech: Verb Tense: peRfect Voice: Active Mood: Participle Case: Nominative Number: Plural Gender: Masculine ATTic
+[V-RAP-NPM-C] Part of Speech: Verb Tense: peRfect Voice: Active Mood: Participle Case: Nominative Number: Plural Gender: Masculine Contracted form
+[V-RAP-NPN] Part of Speech: Verb Tense: peRfect Voice: Active Mood: Participle Case: Nominative Number: Plural Gender: Neuter
+[V-RAP-NSF] Part of Speech: Verb Tense: peRfect Voice: Active Mood: Participle Case: Nominative Number: Singular Gender: Feminine
+[V-RAP-NSM] Part of Speech: Verb Tense: peRfect Voice: Active Mood: Participle Case: Nominative Number: Singular Gender: Masculine
+[V-RAP-NSM-ATT] Part of Speech: Verb Tense: peRfect Voice: Active Mood: Participle Case: Nominative Number: Singular Gender: Masculine ATTic
+[V-RAP-NSN] Part of Speech: Verb Tense: peRfect Voice: Active Mood: Participle Case: Nominative Number: Singular Gender: Neuter
+[V-RAS] Part of Speech: Verb Tense: peRfect Voice: Active Mood: Subjunctive TVM equivalent: G5762
+[V-RAS-1P] Part of Speech: Verb Tense: peRfect Voice: Active Mood: Subjunctive Person: first Number: Plural
+[V-RAS-1S] Part of Speech: Verb Tense: peRfect Voice: Active Mood: Subjunctive Person: first Number: Singular
+[V-RAS-2P] Part of Speech: Verb Tense: peRfect Voice: Active Mood: Subjunctive Person: second Number: Plural
+[V-RAS-2S] Part of Speech: Verb Tense: peRfect Voice: Active Mood: Subjunctive Person: second Number: Singular
+[V-RDI] Part of Speech: Verb Tense: peRfect Voice: middle Deponent Mood: Indicative TVM equivalent: G5763
+[V-RDI-3S] Part of Speech: Verb Tense: peRfect Voice: middle Deponent Mood: Indicative Person: third Number: Singular
+[V-RMI] Part of Speech: Verb Tense: peRfect Voice: Middle Mood: Indicative TVM equivalent: G5764
+[V-RMI-1P] Part of Speech: Verb Tense: peRfect Voice: Middle Mood: Indicative Person: first Number: Plural
+[V-RMI-1S] Part of Speech: Verb Tense: peRfect Voice: Middle Mood: Indicative Person: first Number: Singular
+[V-RMI-2P] Part of Speech: Verb Tense: peRfect Voice: Middle Mood: Indicative Person: second Number: Plural
+[V-RMI-2S] Part of Speech: Verb Tense: peRfect Voice: Middle Mood: Indicative Person: second Number: Singular
+[V-RMI-3P] Part of Speech: Verb Tense: peRfect Voice: Middle Mood: Indicative Person: third Number: Plural
+[V-RMI-3S] Part of Speech: Verb Tense: peRfect Voice: Middle Mood: Indicative Person: third Number: Singular
+[V-RMM-2P] Part of Speech: Verb Tense: peRfect Voice: Middle Mood: iMperative Person: second Number: Plural
+[V-RMN] Part of Speech: Verb Tense: peRfect Voice: Middle Mood: iNfinitive
+[V-RMP] Part of Speech: Verb Tense: peRfect Voice: Middle Mood: Participle TVM equivalent: G5765
+[V-RMP-APM] Part of Speech: Verb Tense: peRfect Voice: Middle Mood: Participle Case: Accusative Number: Plural Gender: Masculine
+[V-RMP-ASF] Part of Speech: Verb Tense: peRfect Voice: Middle Mood: Participle Case: Accusative Number: Singular Gender: Feminine
+[V-RMP-ASM] Part of Speech: Verb Tense: peRfect Voice: Middle Mood: Participle Case: Accusative Number: Singular Gender: Masculine
+[V-RMP-DPF] Part of Speech: Verb Tense: peRfect Voice: Middle Mood: Participle Case: Dative Number: Plural Gender: Feminine
+[V-RMP-DPM] Part of Speech: Verb Tense: peRfect Voice: Middle Mood: Participle Case: Dative Number: Plural Gender: Masculine
+[V-RMP-GPM] Part of Speech: Verb Tense: peRfect Voice: Middle Mood: Participle Case: Genitive Number: Plural Gender: Masculine
+[V-RMP-GSF] Part of Speech: Verb Tense: peRfect Voice: Middle Mood: Participle Case: Genitive Number: Singular Gender: Feminine
+[V-RMP-NPM] Part of Speech: Verb Tense: peRfect Voice: Middle Mood: Participle Case: Nominative Number: Plural Gender: Masculine
+[V-RMP-NSF] Part of Speech: Verb Tense: peRfect Voice: Middle Mood: Participle Case: Nominative Number: Singular Gender: Feminine
+[V-RMP-NSM] Part of Speech: Verb Tense: peRfect Voice: Middle Mood: Participle Case: Nominative Number: Singular Gender: Masculine
+[V-RMP-VSF] Part of Speech: Verb Tense: peRfect Voice: Middle Mood: Participle Case: Vocative Number: Singular Gender: Feminine
+[V-RNI] Part of Speech: Verb Tense: peRfect Voice: middle or passive depoNent Mood: Indicative TVM equivalent: G5766
+[V-RNI-1P] Part of Speech: Verb Tense: peRfect Voice: middle or passive depoNent Mood: Indicative Person: first Number: Plural
+[V-RNI-1S] Part of Speech: Verb Tense: peRfect Voice: middle or passive depoNent Mood: Indicative Person: first Number: Singular
+[V-RNI-3S] Part of Speech: Verb Tense: peRfect Voice: middle or passive depoNent Mood: Indicative Person: third Number: Singular
+[V-RNN] Part of Speech: Verb Tense: peRfect Voice: middle or passive depoNent Mood: iNfinitive TVM equivalent: G5767
+[V-RNP] Part of Speech: Verb Tense: peRfect Voice: middle or passive depoNent Mood: Participle TVM equivalent: G5768
+[V-RNP-APM] Part of Speech: Verb Tense: peRfect Voice: middle or passive depoNent Mood: Participle Case: Accusative Number: Plural Gender: Masculine
+[V-RNP-ASF] Part of Speech: Verb Tense: peRfect Voice: middle or passive depoNent Mood: Participle Case: Accusative Number: Singular Gender: Feminine
+[V-RNP-DPF] Part of Speech: Verb Tense: peRfect Voice: middle or passive depoNent Mood: Participle Case: Dative Number: Plural Gender: Feminine
+[V-RNP-NPM] Part of Speech: Verb Tense: peRfect Voice: middle or passive depoNent Mood: Participle Case: Nominative Number: Plural Gender: Masculine
+[V-RNP-NSM] Part of Speech: Verb Tense: peRfect Voice: middle or passive depoNent Mood: Participle Case: Nominative Number: Singular Gender: Masculine
+[V-RPI] Part of Speech: Verb Tense: peRfect Voice: Passive Mood: Indicative TVM equivalent: G5769
+[V-RPI-1P] Part of Speech: Verb Tense: peRfect Voice: Passive Mood: Indicative Person: first Number: Plural
+[V-RPI-1S] Part of Speech: Verb Tense: peRfect Voice: Passive Mood: Indicative Person: first Number: Singular
+[V-RPI-2P] Part of Speech: Verb Tense: peRfect Voice: Passive Mood: Indicative Person: second Number: Plural
+[V-RPI-2S] Part of Speech: Verb Tense: peRfect Voice: Passive Mood: Indicative Person: second Number: Singular
+[V-RPI-3P] Part of Speech: Verb Tense: peRfect Voice: Passive Mood: Indicative Person: third Number: Plural
+[V-RPI-3S] Part of Speech: Verb Tense: peRfect Voice: Passive Mood: Indicative Person: third Number: Singular
+[V-RPM] Part of Speech: Verb Tense: peRfect Voice: Passive Mood: iMperative TVM equivalent: G5770
+[V-RPM-2P] Part of Speech: Verb Tense: peRfect Voice: Passive Mood: iMperative Person: second Number: Plural
+[V-RPM-2S] Part of Speech: Verb Tense: peRfect Voice: Passive Mood: iMperative Person: second Number: Singular
+[V-RPN] Part of Speech: Verb Tense: peRfect Voice: Passive Mood: iNfinitive TVM equivalent: G5771
+[V-RPP] Part of Speech: Verb Tense: peRfect Voice: Passive Mood: Participle TVM equivalent: G5772
+[V-RPP-APF] Part of Speech: Verb Tense: peRfect Voice: Passive Mood: Participle Case: Accusative Number: Plural Gender: Feminine
+[V-RPP-APM] Part of Speech: Verb Tense: peRfect Voice: Passive Mood: Participle Case: Accusative Number: Plural Gender: Masculine
+[V-RPP-APN] Part of Speech: Verb Tense: peRfect Voice: Passive Mood: Participle Case: Accusative Number: Plural Gender: Neuter
+[V-RPP-ASF] Part of Speech: Verb Tense: peRfect Voice: Passive Mood: Participle Case: Accusative Number: Singular Gender: Feminine
+[V-RPP-ASM] Part of Speech: Verb Tense: peRfect Voice: Passive Mood: Participle Case: Accusative Number: Singular Gender: Masculine
+[V-RPP-ASN] Part of Speech: Verb Tense: peRfect Voice: Passive Mood: Participle Case: Accusative Number: Singular Gender: Neuter
+[V-RPP-ASN-ATT] Part of Speech: Verb Tense: peRfect Voice: Passive Mood: Participle Case: Accusative Number: Singular Gender: Neuter ATTic
+[V-RPP-DPM] Part of Speech: Verb Tense: peRfect Voice: Passive Mood: Participle Case: Dative Number: Plural Gender: Masculine
+[V-RPP-DPN] Part of Speech: Verb Tense: peRfect Voice: Passive Mood: Participle Case: Dative Number: Plural Gender: Neuter
+[V-RPP-DSF] Part of Speech: Verb Tense: peRfect Voice: Passive Mood: Participle Case: Dative Number: Singular Gender: Feminine
+[V-RPP-DSM] Part of Speech: Verb Tense: peRfect Voice: Passive Mood: Participle Case: Dative Number: Singular Gender: Masculine
+[V-RPP-DSN] Part of Speech: Verb Tense: peRfect Voice: Passive Mood: Participle Case: Dative Number: Singular Gender: Neuter
+[V-RPP-GPF] Part of Speech: Verb Tense: peRfect Voice: Passive Mood: Participle Case: Genitive Number: Plural Gender: Feminine
+[V-RPP-GPM] Part of Speech: Verb Tense: peRfect Voice: Passive Mood: Participle Case: Genitive Number: Plural Gender: Masculine
+[V-RPP-GPN] Part of Speech: Verb Tense: peRfect Voice: Passive Mood: Participle Case: Genitive Number: Plural Gender: Neuter
+[V-RPP-GSF] Part of Speech: Verb Tense: peRfect Voice: Passive Mood: Participle Case: Genitive Number: Singular Gender: Feminine
+[V-RPP-GSM] Part of Speech: Verb Tense: peRfect Voice: Passive Mood: Participle Case: Genitive Number: Singular Gender: Masculine
+[V-RPP-GSN] Part of Speech: Verb Tense: peRfect Voice: Passive Mood: Participle Case: Genitive Number: Singular Gender: Neuter
+[V-RPP-NPF] Part of Speech: Verb Tense: peRfect Voice: Passive Mood: Participle Case: Nominative Number: Plural Gender: Feminine
+[V-RPP-NPM] Part of Speech: Verb Tense: peRfect Voice: Passive Mood: Participle Case: Nominative Number: Plural Gender: Masculine
+[V-RPP-NPN] Part of Speech: Verb Tense: peRfect Voice: Passive Mood: Participle Case: Nominative Number: Plural Gender: Neuter
+[V-RPP-NSF] Part of Speech: Verb Tense: peRfect Voice: Passive Mood: Participle Case: Nominative Number: Singular Gender: Feminine
+[V-RPP-NSM] Part of Speech: Verb Tense: peRfect Voice: Passive Mood: Participle Case: Nominative Number: Singular Gender: Masculine
+[V-RPP-NSN] Part of Speech: Verb Tense: peRfect Voice: Passive Mood: Participle Case: Nominative Number: Singular Gender: Neuter
+[V-RPP-NSN-ATT] Part of Speech: Verb Tense: peRfect Voice: Passive Mood: Participle Case: Nominative Number: Singular Gender: Neuter ATTic
+[V-RPP-VPM] Part of Speech: Verb Tense: peRfect Voice: Passive Mood: Participle Case: Vocative Number: Plural Gender: Masculine
+[V-RPP-VSF] Part of Speech: Verb Tense: peRfect Voice: Passive Mood: Participle Case: Vocative Number: Singular Gender: Feminine
+[V-RPP-VSM] Part of Speech: Verb Tense: peRfect Voice: Passive Mood: Participle Case: Vocative Number: Singular Gender: Masculine
+[V-RPR-ASN] Part of Speech: Verb Tense: peRfect Voice: Passive Mood: impeRative-sense participle Case: Accusative Number: Singular Gender: Neuter
+[V-XXM] Part of Speech: Verb Tense: no tense stated (adverbial imperative) Voice: no voice stated Mood: iMperative TVM equivalent: G5773
+[V-XXM-2P] Part of Speech: Verb Tense: no tense stated (adverbial imperative) Voice: no voice stated Mood: iMperative Person: second Number: Plural
+[V-XXM-2S] Part of Speech: Verb Tense: no tense stated (adverbial imperative) Voice: no voice stated Mood: iMperative Person: second Number: Singular
+[X-APF] Part of Speech: indefinite pronoun Case: Accusative Number: Plural Gender: Feminine
+[X-APM] Part of Speech: indefinite pronoun Case: Accusative Number: Plural Gender: Masculine
+[X-APN] Part of Speech: indefinite pronoun Case: Accusative Number: Plural Gender: Neuter
+[X-ASF] Part of Speech: indefinite pronoun Case: Accusative Number: Singular Gender: Feminine
+[X-ASM] Part of Speech: indefinite pronoun Case: Accusative Number: Singular Gender: Masculine
+[X-ASN] Part of Speech: indefinite pronoun Case: Accusative Number: Singular Gender: Neuter
+[X-DPM] Part of Speech: indefinite pronoun Case: Dative Number: Plural Gender: Masculine
+[X-DSF] Part of Speech: indefinite pronoun Case: Dative Number: Singular Gender: Feminine
+[X-DSM] Part of Speech: indefinite pronoun Case: Dative Number: Singular Gender: Masculine
+[X-DSN] Part of Speech: indefinite pronoun Case: Dative Number: Singular Gender: Neuter
+[X-GPF] Part of Speech: indefinite pronoun Case: Genitive Number: Plural Gender: Feminine
+[X-GPM] Part of Speech: indefinite pronoun Case: Genitive Number: Plural Gender: Masculine
+[X-GPN] Part of Speech: indefinite pronoun Case: Genitive Number: Plural Gender: Neuter
+[X-GSF] Part of Speech: indefinite pronoun Case: Genitive Number: Singular Gender: Feminine
+[X-GSM] Part of Speech: indefinite pronoun Case: Genitive Number: Singular Gender: Masculine
+[X-GSN] Part of Speech: indefinite pronoun Case: Genitive Number: Singular Gender: Neuter
+[X-NPF] Part of Speech: indefinite pronoun Case: Nominative Number: Plural Gender: Feminine
+[X-NPM] Part of Speech: indefinite pronoun Case: Nominative Number: Plural Gender: Masculine
+[X-NPN] Part of Speech: indefinite pronoun Case: Nominative Number: Plural Gender: Neuter
+[X-NSF] Part of Speech: indefinite pronoun Case: Nominative Number: Singular Gender: Feminine
+[X-NSM] Part of Speech: indefinite pronoun Case: Nominative Number: Singular Gender: Masculine
+[X-NSN] Part of Speech: indefinite pronoun Case: Nominative Number: Singular Gender: Neuter

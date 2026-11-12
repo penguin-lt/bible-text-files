@@ -1,0 +1,809 @@
+[Klingon Language Version Klingon to English mapping lexicon] [n.d.] [Klingon Language Version Klingon to English mapping lexicon]
+['A'] though
+['ABMEY] soundings
+['ACH] but even
+['ANGTA'] revealed
+['AR] much
+['EL] enter
+['ELTA'] entered
+['ERHOMMEY] lambs
+['ERMEY] rams
+['ETLH] sword
+['IH] beautiful
+['IHCHOHMOH] beautify
+['IHTAHGHACH] beauty
+['IJ] listen
+['IL] sincere sincerely
+['ILTAH] sincerity
+['IV] who whoever whom whose
+['IW] blood
+['OH] am are it
+['OHBE'] isn't
+['OP] some
+['OY'] sore
+['OY'MEY] sores
+['OY'NAQ QIDPU'GHACHMEY] stripes
+['UCH] hold
+['UGH] heavy
+['UGHGHACH JUVWI'] balance
+['UQ] meal
+['UQ'A'] feast
+['UR] backsliding
+[BA'] sit
+[BA'TA'] sat
+[BAGH] bound
+[BAGHMOHWI'] bands
+[BAL] bottle
+[BALMEY] bottles
+[BAQ] fruit
+[BAS CHIS] silver
+[BAS LI'BE'] tin
+[BATLH] glory
+[BE'] woman
+[BE' VOQHA'MOH] adulteress
+[BE'HOM] girl
+[BE'NAL] wife wife's
+[BE'NALPU'] wives
+[BE'PU'] women
+[BE'PU' VOQHA'MOH] adulteresses
+[BEL] pleasant
+[BELMOH] comfort
+[BEM] sole
+[BEN] ago
+[BEYTAH] bemoaning
+[BID] half
+[BING] beneath bottom bottoms down under
+[BIQ] water
+[BIQ'A'] sea
+[BIQMEY] waters
+[BIQTIQ] river
+[BO'DIJ] court
+[BO'DIJMEY] courts
+[BOGH] born
+[BOGHMOH] bore
+[BOM] psalm sing song
+[BOMMEY] songs
+[BOMTA'] sang
+[BOMTAH] sings singing
+[BORTAS] avenge
+[BOSTA'] gathered
+[CHA'] show two
+[CHA' WA'MAH] twelve
+[CHA'DICH] second
+[CHA'MAH] twenty
+[CHA'NOB] offering
+[CHA'NOBMEY] oblations
+[CHAH] them they those
+[CHAJ] their
+[CHAL] heaven heavens skies
+[CHANG'ENG] pair
+[CHARGH] conquer
+[CHAW'] let
+[CHAY'] how
+[CHE'] reign
+[CHE'TA'] reigned
+[CHEGH] return
+[CHEGHTA'] returned
+[CHEL] add
+[CHELTA'] added
+[CHELTAH] adds
+[CHEMVAH] oxen
+[CHEN] build makes
+[CHENMOH] make
+[CHENMOHTA'] made
+[CHENQA'] restores
+[CHENTA'] built
+[CHEP] prosper
+[CHEPTA'] prospered
+[CHEPTAH] prospers
+[CHER] set
+[CHICH] sake
+[CHILQU'] perish
+[CHIS] white
+[CHOHTAH] converts
+[CHOLTAH] comes coming
+[CHOP] bite
+[CHOPTA'] bit
+[CHOPTAH] bites
+[CHOR] belly
+[CHOT] murder
+[CHOTWI'] murderer
+[CHOTWI'PU'] murderers
+[CHU'] new
+[CHUCHHOMMEY] snow
+[CHUCHHOMMEY PUMTA'] snowed
+[CHUGH] if
+[CHUH] cast
+[CHUT] law
+[CHUTMEY] ordinances statutes
+[CHUV] remnant
+[DA] deal manner
+[DAB] encamp
+[DABTA'] encamped
+[DABTAH] encamps encamping
+[DAH] now
+[DAHJAJ] today
+[DAJ] her his
+[DAQ] against at in into on place presence to
+[DAQ QAD] sanctuary
+[DAQMEY] places
+[DAW'] revolt
+[DEV] guides lead leads
+[DEVWI'] shepherd
+[DEVWI' NAQ] rod
+[DEVWIPU'] rulers
+[DICH] certain
+[DICH (2)] assuredly surely
+[DICHDAQ] will
+[DICHDAQ (2)] shall
+[DIR] skin
+[DIRDU'] skins
+[DIS] year
+[DISMEY] generations years
+[DOCH] thing
+[DOCHMEY] things
+[DOCHMEY LI'BE'] dross
+[DOCHVAMMEY] these
+[DOH] away back backward
+[DOQ] crimson red scarlet
+[DOY'] weary
+[DUD] mixed
+[DUH] possible
+[DUHHA'] impossible
+[DUJ] ark ship
+[DUJMEY] chariots vessels
+[DUN] great
+[DUNG] above over up
+[DUNGLUQ] noon noonday
+[DUY] angel
+[DUY''A'PU'] angels
+[DUYPU'] messengers
+[GHAB] flesh
+[GHAH] he him is she
+[GHAHTA'] was
+[GHAJ] have own possess
+[GHAJBE'] hasn't haven't
+[GHAJTA'] had
+[GHAJTAH] has having
+[GHAJWI'] owner
+[GHIJVIPTAH] terror
+[GHITLHTA'] written
+[GHO'] trample
+[GHOBE'] neither no nor not
+[GHOGH] voice
+[GHOJ] learn
+[GHOJMOH] teach
+[GHOJWI'PU'] disciples
+[GHOM] meet
+[GHOP] hand
+[GHOPMEY] hands
+[GHOR] break
+[GHORGH] when
+[GHORTA'] broken
+[GHOS] come going
+[GHOSTA'] came gone
+[GHOTPU] people
+[GHOTPU'] beings peoples
+[GHU] baby
+[GHUH] prepare
+[GHUM] sounding
+[GHUMTA'] sounded
+[GHUPU'] babes babies
+[GHURMOH] bless
+[GHURMOHTAH] blesses
+[GHURTAH] blessed blessedness
+[HA'DIBAH] animals beast
+[HA'DIBAHMEY] beasts
+[HADI'BAH] lion
+[HAL] source
+[HAR] believe
+[HARTA'] believed
+[HARTAH] believes believing
+[HARTAHGHACH] faith
+[HARWI'] believer
+[HARWI'PU'] believers
+[HATLH] country nation
+[HAW'] flee
+[HAW'TA'] fled
+[HE'] incense
+[HE'TAHGHACH] iniquity
+[HEGH] death die
+[HEGHBE'NAL] widow
+[HEGHMOH] deadly
+[HEGHPU'] dead
+[HEGHTA'] died slain
+[HEJWI'PU'] thieves
+[HEMEY] paths ways
+[HERGH] oil
+[HEV] receive
+[HEVTA'] received
+[HIJA'] yes
+[HIQ] wine
+[HIQ WIJ] vineyard
+[HIVJE'] cup
+[HOCH] all every everyone whole
+[HOCHHOM] most
+[HOD] captain
+[HODPU'] captains
+[HOH] kill
+[HOHQU'] slaughter
+[HOHQU'TA'] slaughtered
+[HOHTA'] killed
+[HOMDU'] bones
+[HOP] far
+[HOPPU'] estranged
+[HOS] mighty power strength strong
+[HOSGHAJ] almighty
+[HOV] star
+[HU'] arise arose rise
+[HUCH] money
+[HUD] hill mountain
+[HUDMEY] mountains
+[HURGHTAHGHACH] darkness
+[HUT] nine
+[HUTLH] lack without
+[JA'] call called tell
+[JA''EGHQA'] meditate
+[JA''EGHQA'GHACH] meditation
+[JA''EGHQA'TA'] meditated
+[JA''EGHQA'TAH] meditates
+[JA'TA'] said saying told
+[JA'TAH] calling
+[JACH] shout shouts
+[JACHTA'] shouted
+[JACHTAH] shouting
+[JAGH] adversary enemy
+[JAGHPU'] adversaries enemies
+[JAH] go
+[JAJ] day day's
+[JAJ SOCHDICH] sabbath
+[JAJMEY] days
+[JANG] answer
+[JANGTA'] answered
+[JAR] month
+[JAT] tongue
+[JATLH] say speak
+[JATLHPU'] spoken
+[JATLHTA'] spoke
+[JATLHTAH] says
+[JATMEY] tongues
+[JAV] six
+[JAVDICH] sixth
+[JAVMAH] sixty
+[JE] also and besides
+[JE'MOHTA'] nourished
+[JE'TA'] bought
+[JE'TAH] redeeming
+[JEN] high
+[JIB] hair hairs
+[JIB GHAJBE'] bald baldness
+[JIH] i me
+[JIH'EGH] myself
+[JIL] neighbor
+[JOH] king king's lord lord's
+[JOH'A'] god god's yah yahweh yahweh's
+[JOHHOM] prince princes
+[JOHPU'] kings
+[JOJ] between
+[JOQ] or
+[JOTMOHTA'] mollified
+[JUH] habitation lodge
+[JUHHOM] tent
+[JUHMEY] houses
+[JUS] pass
+[JUSTA'] passed
+[JUV] measure
+[JUVTA'] measured
+[JUVTAH] measures
+[LAH] able can could
+[LALDAN QACH] temple
+[LALDAN TOY'] worship
+[LALDAN VUMWI'] priest
+[LALDAN VUMWI'PU'] priests
+[LALDANTA' DAQ] altar
+[LAN] put
+[LATLH] more other
+[LAW'] many
+[LAY'] covenant
+[LE'] holy
+[LE' GHOT] saint
+[LE' GHOTPU'] saints
+[LEGH] look see
+[LEGHPU'] seen sight
+[LEGHTA'] saw
+[LEGHTAH] looking seeing
+[LEGHTAHGHACH] vision
+[LEGHWI'PU'] prophet prophets
+[LES] rest
+[LESCHU'] ease
+[LI'BE'] useless vain
+[LIJ] your
+[LITHA'] off
+[LOBLU'TAH] obedient
+[LOD] man
+[LODHOM] boy
+[LODNAL] husband
+[LODNI'] brother
+[LODNI'PU'] brothers
+[LODPU'] men
+[LOJMIT] door gate
+[LOJMITMEY] gates
+[LON] forsake
+[LONTA'] forsaken
+[LOS] four wait
+[LOSMAH] forty
+[LOTLH] rebel
+[LOTLHPU'] rebelled
+[LOTLHQU'] rebellious
+[LUGH] correct
+[LUJQU'PU'] overthrown
+[LULIGH] refuge
+[LUNG] serpent
+[MACH] little small
+[MAGH] betray
+[MAGHTA'] betrayed
+[MAGHTAH] betrays
+[MAGHWI'PU'] betrayers
+[MAH] us we
+[MAJ] our
+[MANG] soldier
+[MANGGHOM] host
+[MANGGHOMPU'] hosts
+[MANGPU'] soldiers soldiers'
+[MAS] moon
+[MASMEY] moons
+[MAY'] battle
+[MEJ] depart leave
+[MEJTA'] went
+[MEQ] reason
+[MEQ (2)] burn
+[MEQBE'MOH] quench
+[MEQPU'] burned
+[MEQQU'PU'] burnt
+[MEV] cease
+[MEVTA'] ceased
+[MEVTAH] ceasing
+[MI'] number
+[MIGH] wicked
+[MIGHTAHGHACH] evil wickedness
+[MIN] eye
+[MINDU'] eyes
+[MIP] prosperity prosperous
+[MIPHA'] poor
+[MISMOHPU'] confounded
+[MOB] alone
+[MOB (2)] desolate
+[MOJ] become
+[MOJTA'] became
+[MOQ] ball
+[MU'] word
+[MU'MEY] words
+[MU'QAD] curse
+[MUP] stricken strike
+[MUS] hates
+[MUSHA'] love
+[MUSHA'GHACH] lovingkindness
+[MUSHA'TAH] loves loving
+[MUSQU'] despised
+[NACH] head
+[NACHDU'] heads
+[NAD] praise
+[NADEV] here
+[NAGH] rock stone
+[NAGHMEY] stones
+[NAHMEY] cucumbers
+[NAP] simple
+[NAPTAHGHACH] simplicity
+[NAQ] staff
+[NARGH] appear
+[NAYBE'WI'] prostitute
+[NEH] desire desired only
+[NEJ] seek
+[NEJTA'] looked sought
+[NEPHUCHMEY] bribes
+[NGABTAH] fades
+[NGANPU'] inhabitants
+[NGECH] valley
+[NGEH] send spread
+[NGEHTA'] sent
+[NGEM] wilderness
+[NGIP] borrow
+[NGIPTA'] borrowed
+[NGIPTAH] borrows
+[NGIPWI'] borrower
+[NGOHTA'] anointed
+[NIH] right
+[NOB] give gives offer
+[NOBHA'] restore
+[NOBMEY] offerings sacrifices
+[NOBPU'] given
+[NOBTA'] gave offered
+[NOH] judge
+[NON] spoil
+[NOVPU'] strangers
+[NUJ] mouth
+[NUJDU'] mouth
+[NUQ] what which
+[NUQ (2)] bother
+[NUQDAQ] where
+[NUQTA'] bothers
+[PA'] out there
+[PA'HOM] booth
+[PA'HOMMEY] booths
+[PACHDU'] pinions
+[PAGH] none nothing
+[PAQ] book
+[PAQMEY] books
+[PARMAQQAY] beloved
+[PE'] cut
+[PEGH] secret
+[PEM] daytime
+[PEMHOV] sun
+[PEMHOV 'ET] west
+[PEMHOV 'O'] east
+[PEMHOV NIH] north
+[PEMHOV POS] south
+[PIN] chief master
+[PITLH] end
+[PO] morning
+[PO'] skilled
+[POH] time
+[POHMEY] times
+[POL] keep preserve
+[POLTA'] kept preserved
+[POLTAH] preserves
+[PONG] name name's
+[PONGMEY] names
+[POP] reward
+[POPMEY] rewards
+[POQTA'] required
+[PORGH] body
+[PORGHMEY] bodies
+[POS] left
+[POSMAHPU'] opened
+[POSMOH] open
+[PUH] land
+[PUHMEY] lands
+[PUJ] faint
+[PUM] fall
+[PUMTA'] fell
+[PUNG] kindness mercy
+[PUQ] child
+[PUQBE'] daughter
+[PUQBE'PU'] daughters
+[PUQLOD] son
+[PUQLODPU'] sons sons'
+[PUQPU'] children
+[PUV] fly
+[PUV DUQWI'] arrow
+[PUVTAH] flies
+[QA'] soul spirit
+[QA' (2)] ox
+[QA'MEY] bulls
+[QA'PU'] souls
+[QAB] bad face
+[QABQU'BOGHGHACH] abomination
+[QABQU'BOGHGHACHMEY] abominations
+[QAH] help relieve
+[QAL] corruptly
+[QAM] foot
+[QAM (2)] stand
+[QAMBING] underfoot
+[QAMDU'] feet
+[QAMPU'] stood
+[QAN] old
+[QAPTA'] won
+[QAQ] good goodness well
+[QAQ MU'] gospel
+[QAQTAHGHACH] righteous righteousness soundness
+[QAS] happen
+[QASPA'] before beforehand
+[QASTA'] happened
+[QASTAHVIS] while
+[QAT] besiege
+[QATLH] why
+[QATPU'] besieged
+[QATTA'] besieging
+[QAW] remember
+[QAW'] destroy
+[QAW'TA'] destroyed
+[QEH] anger
+[QEHPU'] wrath
+[QEL] consider
+[QEM] bring
+[QEMPU'] brought
+[QENG] bearing laden
+[QENGTA'] carried lifted
+[QENGWI'] bearer
+[QENGWI'PU'] bearers
+[QEP] meeting
+[QEQ] aim
+[QES] counsel
+[QESWI'PU'] counselors
+[QETTAH] runs
+[QEV] multitude
+[QEVMEY] multitude
+[QIB] shadow
+[QIDGHACHMEY] bruises
+[QIDPU'GHACHMEY] wounds
+[QIH] destruction
+[QIP] beat
+[QO'] world world's
+[QO' (2)] refuse
+[QOCHBE'GHACH] agreement
+[QOGH] ear
+[QOGHDU'] ears
+[QONG] sleep
+[QONGTA'] slept
+[QONGTAH] sleeping sleeps
+[QONGWI'] sleeper
+[QORDU'] family
+[QORDU'PU'] families
+[QOS] birthday
+[QOS (2)] sorry
+[QOSQU'] sorrow sorrowful
+[QOSQU'GHACHMEY] sorrows
+[QOSQU'TAH] sorrowing
+[QOT] lie
+[QOY] hear
+[QOY'TAHGHACHMEY] prayers
+[QOYMOHLAHBOGH] aloud
+[QOYTA'] heard
+[QUCH] forehead happy joy
+[QUCHQU'] glad
+[QUCHQU'TAHGHACH] gladness
+[QUL] fire
+[QULHOM] spark
+[QULHOMMEY] sparks
+[QUNPU'] gods
+[QUP] young
+[QUPPU'] elders
+[QUS'A'] throne
+[QUV] honor
+[RA'TA'] commanded
+[RA'TA'GHACH MU'] commandment
+[RA'TA'GHACH MU'MEY] command commandments
+[RAM] night
+[RAP] same
+[RAQ] camp
+[RED] wall
+[REH] forever
+[RETLH] beside side
+[ROJ] peace
+[ROL] beard
+[ROLDU'] beards
+[ROP] sick
+[ROP'A'] pestilence plague
+[ROPTAH] ails
+[ROR] fat
+[RUR] like similar
+[RUV] justice
+[SAD] thousand
+[SADMEY] thousands
+[SAGH] solemn
+[SAQ] cry
+[SAQTA'] cried
+[SARGHHOM] donkey
+[SAY] clean
+[SAY'HA'] unclean
+[SENG] trouble wash
+[SIBI'] immediately
+[SIH] bend
+[SIHTA'BOGH] bent
+[SIQ] bear endure
+[SIQTAH] endures
+[SO'] cover hide
+[SOCH] seven
+[SOCHDICH] seventh
+[SOH] you
+[SOH'EGH] yourself
+[SOJ] food food's
+[SOP] devour eat
+[SOPDAQ] crib table
+[SOPPU'] consumed devoured
+[SOPTA'] fed
+[SOQ] closed
+[SOR] tree
+[SOR'A'] oak
+[SOR'A'MEY] oaks
+[SORMEY] trees
+[SORNAV] leaf
+[SOS] mother
+[SOV] know knowledge
+[SOVTA'] known
+[SOVTAH] knows
+[SUD] green
+[SUD BAS] gold
+[SUM] by near
+[SUS] wind
+[SUT] clothing
+[SUV] fight
+[SUVTA'] fought oppressed
+[SUY'] sheep
+[TA'] do
+[TA'BE'] didn't doesn't
+[TA'LAHBE'] can't
+[TA'MEY] acts doings
+[TA'MOHWI'PU'] doers
+[TA'PU'] done
+[TA'TA'] did
+[TA'TAH] does
+[TAGH] beginning
+[TAGHTA'] began
+[TAH] be been being
+[TAHVIP] fear
+[TAM] silent
+[TAMMOH] silence
+[TAMMOHTA'] silenced
+[TAR GHAJBOGH LUNG] adder
+[TAR GHAJBOGH LUNGMEY] adders adders'
+[TAR LUNGHOM] cobra
+[TAY'] together
+[TAY' GHOTPU'] congregation
+[TAY'MOH] gather
+[TEBLU'TA'] full
+[TEBTA'] filled
+[TELDU'] wings
+[TEP] bag baggage
+[TEQ] remove
+[TEQTA'] removed
+[TEQTAH] removing removes
+[TERA'] earth
+[TI YOTLH] pastures pasture
+[TIQ] heart long
+[TIQDU'] hearts
+[TIR] seed
+[TIR SOJ] bread
+[TIV] delight
+[TLHA'] follow
+[TLHA'TA'] followed
+[TLHA'TAH] follows
+[TLHAP] get take
+[TLHAPPU'] taken
+[TLHAPTA'] took
+[TLHE'] turn
+[TLHE'TA'] turned
+[TLHEGH] line
+[TLHEGHMEY] lines
+[TLHEJ] with
+[TLHEJWI'PU'] companions
+[TLHICH] smoke
+[TLHICH NOB] smoking
+[TLHIH'EGH] yourselves
+[TLHO'] thank thanks
+[TLHO'TAHGHACH] thanksgiving
+[TLHOB] ask plead pray
+[TLHOBTA'] asked
+[TLHOBTAHGHACH] prayer
+[TLHOL] fresh
+[TLHUTLH] drink
+[TOD] deliver save
+[TODPU'] saved
+[TODTA'] delivered redeemed
+[TODTAHGHACH] salvation
+[TODWI'] savior
+[TOGHTA'] numbered
+[TOH] ah aha o
+[TOJTA'GHACH] snare
+[TOQ] bird
+[TOQ WAMWI'] fowler
+[TOQMEY] birds birds'
+[TOY'] serve
+[TOY'TAHGHACH] service
+[TOY'WI'] servant servant's
+[TOY'WI''A'] slave
+[TOY'WI''A'PU'] slaves
+[TOY'WI'PU'] servants
+[TU'] find
+[TU'TA'] found
+[TUH] ashamed shame
+[TUL] hope
+[TUQ] house tribe
+[TUQPU'] nations tribes
+[VAD] for
+[VAGH] five
+[VAGHMAH] fifty
+[VAJ] so then therefore
+[VAL] wise
+[VALHA'] unwise
+[VALTAHGHACH] wisdom
+[VAM] this
+[VANG] act
+[VANGTA'] acted
+[VANGTA'GHACH] action
+[VANGTA'GHACHMEY] actions
+[VATLH] hundred
+[VAV] father father's
+[VAV GHAJBE'] fatherless
+[VAVPU'] fathers fathers'
+[VAY'] any anything
+[VEGH] through
+[VEH] border boundary bounds
+[VEH HUTLH] boundless
+[VEHMEY] borders boundaries
+[VENG] city
+[VENGHOM] town
+[VENGMEY] cities
+[VES] war
+[VETLH] that
+[VIH] move
+[VIHHA'] still
+[VIHTA'] moved
+[VIHTAH] moves moving
+[VIP] afraid
+[VIT] truth
+[VO'] forth from of
+[VOQ] trust
+[VOQGHACH] belief
+[VOQHA'MOHLU'] adultery
+[VOQHA'MOHWI'] adulterer
+[VOQHA'MOHWI'PU'] adulterers
+[VOQMOH] faithful
+[VOQTAHGHACH] faithfulness
+[VOQTAHQU'] confident
+[VUM] work works
+[VUT] bake
+[VUTTA'] baked
+[VUTTAH] bakes
+[VUTWI'] baker
+[VUTWI'PU'] bakers bakers'
+[WA'] one
+[WA'DICH] first
+[WA'LES] tomorrow
+[WA'MAH] ten
+[WA'MAH JAV] sixteen
+[WA'MAH JAVDICH] sixteenth
+[WA'MAHMEY] tens
+[WAB] sound
+[WABMEY] sounds
+[WAMWI'] hunter
+[WEJ] three
+[WEJDICH] third
+[WEJMAH] thirty
+[WIB] sour
+[WIJ] my
+[WIJGHACHHOM] garden
+[WIJGHACHHOMMEY] gardens
+[WIV] appointed
+[WIVPU'] chosen
+[WOD] dash purge
+[WODTAH] wastes
+[WOV] light
+[WUSDU'] lips
+[YAB] mind
+[YAJTAHGHACH] understanding
+[YAP] enough
+[YAV] ground
+[YEJ] assembly
+[YEJMEY] assemblies
+[YEM] sin
+[YEMMEY] sins
+[YEMPU'] sinned
+[YEMQU'TAH] sinful
+[YEMTAH] sinning
+[YEMWI'] sinner
+[YEMWI'PU'] sinners transgressors
+[YEP] carefully
+[YILEGH] behold
+[YIMEV] don't
+[YIN] alive dwell life live lives
+[YINTA'] lived
+[YINTAH] dwells living lodged
+[YIQCHOHMOH] baptize
+[YIQCHOHMOHGHACH] baptism
+[YIQCHOHMOHGHACHMEY] baptisms
+[YIQCHOHMOHTA'] baptized
+[YIQCHOHMOHTAH] baptizes baptizing
+[YIQCHOHMOHWI'] baptist baptizer
+[YIT] tread walk
+[YITIV] merry rejoice
+[YITTA'] walked
+[YITTAH] walks
+[YOD] buckler shield
+[YODJUH'A'] fortress
+[YOJ] judgment
+[YONMOH] satisfy
+[YOTLH] field
+[YOV] charge
+[YUB] chaff
+[YUPMA'MEY] feasts

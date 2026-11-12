@@ -1,0 +1,130 @@
+0208f07e54cbafd2092206c0d0c865032ed9c451417006aefa2e40abefb1da4d  translations/Garth's Hyper-literal Translation [GHT].txt
+02e3008d11a75457cdf1e17e80fd52e9fb1dc30fa0c4cc09c2ee9ec4ca5e36ea  translations/Open Source English Bible [OSEN].txt
+065c88fd0573c5dc067507e6b1902af8b5c43d7081c2f9b8a157391378a61145  translations/Twentieth Century New Testament [TCNT].txt
+0785be3d25a5a56881eca66acdeb76cc696920ad1dd728e216aab5cb04d88aef  critical-editions/Septuagint (Greek Old Testament) [grclxx].txt
+08c14f7709d90ff6caa2294bd35181237f30333030bc3556d8927780206d63a6  translations/Coverdale Bible [Coverdale].txt
+09675812d0b71b2b41ade88ea6a938d75b66e172a9a66bc81ce76cc4e017907a  translations/Anderson's New Testament [Anderson].txt
+11419ae35c7e03616511f812f955eb100ec75570fe3077f156b2352d61970f94  translations/Riverside New Testament [RIVERSIDE].txt
+125662afbbe857275896e1cd3ffd946bd588dec07e033d6b3782d9e6ff6a572b  translations/Tyndale New Testament (eBible.org edition) [TNT].txt
+1be360471e4155f634bf98abcf48b08b499ca84bfdfc65b597fd3b744e3f2219  translations/Etheridge's Peshitta New Testament [Etheridge].txt
+1c26a5990cb730502927bc156f2809d414806dd89932b1dcd9df0c847449dacb  lexicons/C. H. Spurgeon's Morning and Evening - Daily Readings.txt
+1e5f9603e2e11db3f458e22b39ed931e5649271d046c7dcfccfb0bb2f5676d29  translations/World Messianic Bible [WMB].txt
+1eb32f54038004a06873dfe222849ec8ae408ec43b7d4b36979f40b34e1898c7  critical-editions/Church Slavonic Elizabeth Bible 1757, New Testament [chuEliz].txt
+26739362f409a331e8c71a254a77b25d4ca278dd960a0754982e200c28bf904e  critical-editions/Syriac Peshitta New Testament (BFBS 1905) [syrpesh].txt
+298194a8abecc1589fa4d6dec7fbff0fa414130696cf48d5d2ee1b0486c21c93  translations/Bible in Basic English [BBE].txt
+2c9f3a0431c02cf980768f7f8bd8402793ea19de5d40e0ed8b7dc5cdb143fe46  lexicons/Klingon Language Version Klingon to English mapping lexicon.txt
+2e29078fef0349523e8a4e97dc4a9324d006411915831baabb3931edc399aa4d  translations/Majority Standard Bible [MSB].txt
+2e8e1c897f4958a68e1c8fbbf1b3c6ce464f31ee2e6c61b9cfa68f4d72b13032  critical-editions/Vulgate, Sixtine Edition 1590, New Testament [latVulSist].txt
+309ec6ddb1be7ef9f9333de70787b4355235d7ff8f45d80652893c0245c78392  critical-editions/Greek New Testament, Majority Text (Robinson-Pierpont) [grcmt].txt
+3323482b58b2321921e26a72d3697b9804cbc784896e9acf826862f91b443f6c  critical-editions/Brenton's Greek Text of the Septuagint [grcbrent].txt
+33aa9de3a368d7a2c66270151bb1775df5c4666d1276075e61afed26d866bc93  translations/The Living Oracles [LIVINGORACLES].txt
+35774fc64fb9204f5da4bed0ac688ab38c3398d88caf23dd45179fd971115656  translations/Panin Numeric New Testament [PANIN].txt
+3699213a4ba7705002815dc180d2368888b21fa70f3e5c4a29f273b6f4be2140  critical-editions/Patriarchal Greek New Testament (1904, Antoniades) [grcbyz].txt
+381e4537cd7e6409f4afb433669111e000a9b35903a4c875023828ff106d2323  lexicons/An Intermediate GreekΓÇôEnglish Lexicon Keyed to Strong's Numbers.txt
+383aa62f95053ce1b2bea2e9d5b45e395665270c67c4f899111d206768c78308  translations/Berean Literal Bible [BLB].txt
+3e084d2f174c749ff7d1dc9902b1f51c5182862c03919dd50c5c82adf5730a78  translations/Open English Bible (US Spelling) [OEBUS].txt
+416c58be6303ae14b75993cd9788af5cd78c965607eb1dd74c2be4d23b9d82c8  translations/Updated King James Version [UKJV].txt
+4314f7082413a4e1155e5ee02e6d7ece0c691b53e9fb0f3c8605bdf03c305844  lexicons/Dodson Greek-English Lexicon.txt
+4608bfc490071040705b0c43ee94671f3afd95ed97d890e26beea4a4f767cea8  translations/Montgomery New Testament (Centenary Translation) [MONTGOMERY].txt
+463b3ad0de2b5f5c2f50a281ec761adaa514913637dccad6acd0fdc00af8ed0e  translations/Tegid Isaiah (John Jones, from the Hebrew) [TEG].txt
+47114039ae3af5f29668cb0efc6498e924be9d09ca2a57d6cd3eb60edcd2d36f  translations/King James Version with Apocrypha [KJVA].txt
+4df994ee6cee1b2b1754c7cda7d9049e433054ace182002448de4c95674a06e4  translations/American Bible Union New Testament [ABU1865].txt
+4f6992277ade4eace96e0560785a517454d5104e37b5f5449162e65456209ae1  lexicons/Translators Brief lexicon of Extended Strong's ΓÇö Greek.txt
+4fc9054d798c0d904f6df7ed2d2234e163e1ebde59ee8166337eaeb351824101  translations/King James Version, Cambridge Paragraph Bible [engkjvcpb].txt
+517a406f0cc2900c4e62a6da4ee884ab622c1f69e7a1eb676b8a79fa683b0fe8  translations/King James Bible (1611 First Edition) [KJV1611].txt
+55b33a5bf9b88c128513349e1646f4e96d543dcf902c1d77ee1f91821ce6a94a  lexicons/Strong's Greek Bible Dictionary.txt
+5782d38a8e265087e7a9926cbff504d86be850f18b91e7ba1e1a448864f92d44  translations/Godbey New Testament [Godbey].txt
+5cef04c450f1e5738bd4ddab9be01c0421fcb520e724a3bd7272654464110545  critical-editions/Vulgate (Clementine, 1598) [latVUC].txt
+5d72a799fc885085d1f847c3d1e36e6ec5307fc0d5cfdfca1ddf1e96bd8b2256  lexicons/Open Scriptures Hebrew Morphology.txt
+6033c9b00b274ffd843349ad2bce5af627fe5b8250043cfb07cc7500e8708084  translations/Moffatt New Testament [MOFFATT].txt
+60ac5c3913ac273132e62bb9e64ff84fe387dfbb142c005463fe81979d49b856  translations/American Standard Version [ASV].txt
+617c7d08279036d41a5d81603d3a76bd8ce3d7be15ff503de5068c1c7a9369fc  translations/unfoldingWord Simplified Text [UST].txt
+648e5fde95a1f11d6826932ddbc4c23eb4464d2801fdf8a9f7d93072adae81b8  translations/Literal Standard Version [LSV].txt
+65780e0ce18841467bf90d612ae27fba9f539ec51a87f30367a8aac23f3ff609  lexicons/Condensed Biblical Cyclopedia.txt
+6787063cd54513c3460c85ee0af0c89f31e841f2bf3d06479c67e3505c0f3a3d  lexicons/Codes dΓÇÖanalyse morphologique de Packard.txt
+692b0e05a55e780ef2c5ebe09ee3cdebd636ef5c2741cbc7139f1a9d85acde45  critical-editions/Westminster Leningrad Codex with Strong's and morphology [hboWLC].txt
+6aa5f294fd2b9341efacf62e865ff9e82a2e1018b41659da01e683e1aafc577f  translations/The Emphatic Diaglott (Benjamin Wilson Emphatic Version) [DIAGLOTT].txt
+6db362330464582e2a81c5543b3ef11142573e275214d21af1ace4abc26bcc48  translations/Sawyer New Testament (chronological) [SAWYER].txt
+6de6bd8b27b6513d6cb5a2739a3cfb44c8781f3595a7fb0011e10609384b9148  lexicons/American Tract Society Bible Dictionary.txt
+6eb8a3b702e8518140dbb2962d4b41714c1f61ea3274973a83d2da623f7f80da  translations/Rotherham's Emphasised Bible [Rotherham].txt
+6efdd9bbc891f0266e601fca816c57a0f5a4d4a9c28c0b1907bdb417a204cc34  translations/Noyes Bible [Noyes].txt
+6f0b4754be94231c0609075ccc71727f72727cd103f70e0e05bbe2ad43af2f49  translations/Restored Name King James Version [RNKJV].txt
+6f830916a6dabadea4fb74566c4f252d304ecce0bd2ab86531ad84db3c4c83f5  translations/Easy to Translate English Jonah [E2T].txt
+7274c49714dc439fe925f4ffe0feaaf9a3eddc6cd9b39f4a7d40d30582877056  translations/A Conservative Version [ACV].txt
+759a4c95bccea276cbe0721191c0be7a33fb51e955941e569d1a0ae2714c1866  lexicons/Robinson's Morphological Analysis Codes.txt
+77e1d6d397518249c5f343347f3f08d51277e6de0dc15236da8debc9fde60db8  translations/2001 Translation of the Holy Bible (2001) [T2001].txt
+7825cac3f92e6bc65572e110e91d51faaef2656438cab332bc3183507c246deb  lexicons/Brown-Driver-Briggs Hebrew and English Lexicon (full).txt
+79c97b7e10aac89381ff1a9a40caeb2404be0c1d66173da6eb474aff8682157d  translations/Worsley New Testament [Worsley].txt
+7b747d9e466fb1b1d923a4841964c143fb4e00c2e52d7896f829a22bb07e0c40  lexicons/G. Abbott-Smith's A Manual Greek Lexicon (with Strongs) of the New Testament.txt
+814b01d30d1bafaffc8d365be3b357d8faa19e4fcada8bb7fd843d5d882ddb39  translations/Geneva Bible (1599) [GNV1599].txt
+821975e8edd64ffe7b601ae9ddc1abe2ccebc92d08902ac253e2d6afa9c36687  translations/World English Bible Updated [engwebu].txt
+82ed6976773c1ebdd407348fcb3a376fe4d38466182260149383c3c3df5b0c76  translations/American King James Version [AKJV].txt
+8367c8aa040b0d64d53925a57f3b7cc9f1d5776cbd4727571f4b8566579639c1  translations/Text-Critical English New Testament [TCENT].txt
+852f7d257bafa0baf500398fd8c770df524c2c0117b9159edcf1c2bc9e4c7f13  critical-editions/Greek Textus Receptus (Stephanus, Elzevir, Scrivener) [grctr].txt
+86a62e8150bfe5acf462c28c621a5c18f8390940526bebe34e4f7a98d90e57af  lexicons/Klingon Language Version English to Klingon mapping lexicon.txt
+86e7d0dc0fc98fb2331e453a22c32e51f61b5e74787c4c49adc5cf6c4609eaf9  lexicons/Strong's Hebrew Bible Dictionary.txt
+8940be891bed9dd4414a57d66ff7edd3b01b9af125165b9ff4e17df8b650206a  critical-editions/Tischendorf Greek New Testament (8th edition) [grc-tisch].txt
+8b0fa29e619d1d1aefbc4e1046323562ead81189601d2647a4d1858decedca35  translations/Geneva Bible (1560) [GNV1560].txt
+8cf4599fa3aeb3075397217bfa6ba117803b7c072723c42661dc581d04bc4a6d  lexicons/Packard's Morphological Analysis Codes.txt
+908032458a35a11c505729d4b9d0570e8241d29ccaa0ec331029f040f6dddc96  lexicons/Codes dΓÇÖanalyse morphologique de Robinson.txt
+938199c9622ee5a4c1291d2d1af15d560f669206045738ec878070098e34e13e  critical-editions/Hebrew Bible (Letteris, 1866) [hbolet].txt
+946564531b91c63dee24424d0d82c5ded1ec91d4140077a5219f8f5c3a127ae1  critical-editions/Westcott and Hort Greek New Testament (1881) [grcwh].txt
+94ef154b5bdaf1c5e118d72cb3b4cb96448b6e727fa764fa6161bb3334b80b80  critical-editions/Text-Critical Greek New Testament [grctcgnt].txt
+950fa04a52159492733548d8a148a7ec428227ab85ad2798940739d8608e8219  lexicons/Easton's Bible Dictionary.txt
+95aedb5de1b9c00474efc7f21dcc898c483dc95d200a300cb95feab62e252f18  lexicons/International Standard Bible Encyclopedia.txt
+99ff86820dc1d885dd438c4a60ce65454e0a4ccd8e9b0a791737e4d1b695a209  critical-editions/Tregelles Greek New Testament 1864 [grctreg].txt
+9a2e35ddeb9bad49488a0e3fcf51e0139dfbb87e526f447dcc5a6c4adaeb2709  translations/Weymouth New Testament [Weymouth].txt
+9cd1800b5e096e26c4aa2e9b27b5b8e35edfaa0ff1330de6b5da305327b3eaf3  translations/Douay-Rheims Bible (American Edition) [DRA].txt
+9d3256e803c97f33a90dd4fdbaf39fa8395e8debc7be3fef526a74fc10ca7e67  translations/Revised King James New Testament [RKJNT].txt
+9dc8f3fb62b5a5e7563c7b56420331b67189686142542be3b654108d4f0ce7c7  critical-editions/Sahidic Coptic New Testament (Horner, 1911) [copsahh].txt
+9ef297e9c01d17908fd27e1b92e3386cda19b6f0f1d11b658c9c291eb1ec572e  translations/Bishops' Bible [BISHOPS].txt
+a0bf09f734aba850bc2d9db57fe5fe2747b968b481de544e1977f75f596fd243  translations/Matthew Bible [Matthew].txt
+a1b6fe7d6bfd57a40d36ba815efbf21a8dd6e569f23cdb57e1bbbf96904108d1  translations/Darby Translation [DBY].txt
+a790313f148d2f118191b2b446ffcc5b48e1518912f68135400c1551f74b2be9  critical-editions/Solid Rock Greek New Testament (Scholar's Edition) [grcsr].txt
+a929025726e0fc53bd516bb34612360f7b1a018fa94f6fc6df5fef0c83bdf3d4  translations/Young's Literal Translation [YLT].txt
+aa88f2c540e3a52342235670133abaf5c4a553097e7ae8c91a9cb4639903fbb4  translations/Whiston Primitive New Testament [WHISTON].txt
+ab17587b8e1239c690ee2e510162090efbc5b7fb3da864a70add7b55baf7f8e7  translations/Wycliffe Bible (Later Version, c. 1395) [WYCLIFFE].txt
+ae2a8562b7b62ba76247d87190c42c368ffc60cb1308269c41f1e2cc14819b20  translations/One Unity Resource Bible [OURB].txt
+afe77afffbac565489d86fe6ad79ed283a53ac5f1a47766f2d344ce0a6825d1f  translations/Translation for Translators [T4T].txt
+b1ef31cadf052ac4b01cd55e8c8b8aaea5467e1c513cc6933e5e9b03f844a910  lexicons/Liddell-Scott-Jones Greek-English Lexicon (full, biblical vocabulary).txt
+b2e3e09e329543c07d1f8736787624ad88441f56ee61be2971cc645ce4c014dd  translations/JPS TaNaKH (Jewish Publication Society) [JPS1917].txt
+b703af71d8ed7dd61897727584f730029b5ea6ca44b84baf749cf37baa6d9556  translations/American Standard Version Byzantine Text [ASVBT].txt
+b7e8d9840bb4925aebdc5e3f16536ca9a3e44ebfa6ad9fdcd5a37f1a0ed14dad  translations/Free Bible Version [FBV].txt
+b7efdc5472c073415af2b2e2c8dbccadc2607a8fec4c1a5a0f5f659a555ae446  lexicons/Translators Brief lexicon of Extended Strong's ΓÇö Hebrew.txt
+b7fb2b2112f448229bd05ec2579f366ff37e6384705a399198f0e2cf5805c9dd  translations/Targum Onkelos Etheridge (English) [OnkelosETHERIDGE].txt
+b8270ee528f113b23cb749e71f53e8ad62f1c77756d902b5bf34b597f85d6b07  translations/World English Bible Classic [WEB].txt
+b90e4e74b7371e81343014b2a9af6ce03c6a50c913ad8cf4628f33f5d5383777  translations/Revised Version with Apocrypha [RV1895].txt
+bba4f9676d4c90e682f90103c59396fd503c992c1992a169b04da6ef1a408c41  translations/Great Bible [GREAT].txt
+c0fac662db3a927e5e55be8c290122f46f3054e909ce8d9c4bfc08c228bca76c  translations/Orthodox Jewish Bible [OJB].txt
+c0ffae097e384ab492d7fe1d2c6fd35d2f695ffe169678dea253a10fad81582f  translations/Open Translation Bible (British English) [OTB].txt
+c3f72d1ae8b1358db368f113650ea778a435e38c8f9ad1b96872de0ad7e2bdcf  critical-editions/Coptic New Testament (Bohairic, narrative form) [copcnt].txt
+c4bb6e89c8aefc7a543b20213c01e684a5319b9a9e741007afbedb67d9409a35  translations/William Tyndale Bible (surviving corpus) [Tyndale].txt
+c57df0558c7129ae00f3fc4b1987c9f6560f02dbb0ce9bf2e287ddbd92ef57a8  translations/Leeser Tanakh [Leeser].txt
+c83f7434468a06960c12d9e84fe287fb2443514219afee5750a01320a3b4157d  translations/Worrell New Testament [Worrell].txt
+c8e5235f7feab25ed215a6dcf7a72beae6733a615888d4d7b00eff7068373b9f  translations/Murdock's Peshitta New Testament [Murdock].txt
+c95cfcf0d0804d2cd36afb81aee78f5e6f9e9630ac82735510c1231469ed9b9a  translations/Brenton Septuagint Translation [Brenton].txt
+ce78e98971786323e2b4a4f8e9818ad210f0b06cbc44e81263b3a7740251f2ee  translations/Catholic Public Domain Version [CPDV].txt
+cef55648adfed8c80a95b2f55535520e8628955884c205137c22eaaf4467eabb  translations/Charles Thomson Septuagint (transcribed books) [THOMSON].txt
+d03101b24d3bc464efb8c5b5e85f0ececeb95e5124c9b95472db42c27d39e1e9  translations/Haweis New Testament [HAWEIS].txt
+d274a0c1db545e54462d23d4153fa239d2ef3379de1be4f606d69541d9d3023d  translations/Family 35 New Testament (Wilbur Pickering) [F35].txt
+d3a81361171d875788480aa8fefb908938f48c92b345095859ce093968b73c4b  translations/Ottley Isaiah (from the Septuagint) [OTTLEY].txt
+d5e7206291397212cb0e9692d4b71713fd6033b00fbe7cd1618707902de5adda  translations/LXX2012 - Septuagint in American English [LXX2012].txt
+d5ecab2050891fb1be49ad89428a54d8ee65116293d490e4ddcadc0efe4efe1f  critical-editions/Hebrew Masoretic Text (Westminster Leningrad Codex) [hbo].txt
+db0c9da6a95c2e27bf5d0f9d23a1d0a77a0904ccd3e6d3de3393522d6565a6df  translations/Mace New Testament [MACE].txt
+dc53312914564095940a09f49b926fc0c638189eadc091d299a65246319d5032  translations/Plain English Version [PEV].txt
+e3b224b8b748191840b3c624ff6f97ffdb8357c4237fc737d39f23461327a220  lexicons/Smith's Bible Dictionary.txt
+e3ef9d5ca024abf2128c0cd4749c016b569f33f47666fb6e9757a884f5d89a08  translations/Smith's Literal Translation (Julia E. Smith Parker) [SLT].txt
+e4cdc418d5b47152306e3793a1befc9e254be9a2cb15e754450f9f18a92945ea  translations/New Heart English Bible [NHEB].txt
+e7e1541a9d04329951c4ca2993b5d95b4282b1b2e1fcdb59e08377764bd3f3de  translations/Joseph Smith Translation (Inspired Version) [JST].txt
+e80183f79f2efa7e1ddcef7a3cb7689f9e84dac80d8b6d8841cc1ce9008e5f29  translations/Wycliffe Bible with Modern Spelling [WYCMS].txt
+e9796a1fb1495cf7679a52fd96af8e1ef57c3cfb5baefdac3b8eb10ded805b08  translations/Berean Standard Bible [BSB].txt
+edf17532b51a6534b030d74bd1dbd5deb29c32bbbf21b898ed9ed19bceab52fb  translations/Updated Brenton English Septuagint [LXXUP].txt
+eebc39d08b5204cd4f2986ca4910cccc47e256047cf984b6c64514f916c5791f  translations/Wesley New Testament [Wesley].txt
+f0892e182cd1349f8999118ce439e1914c9dc892a5cd28e29a6142e8ba803406  critical-editions/Coptic New Testament, Bohairic [copbhc].txt
+f233feaf043e12f81f7164e732df9e264d377d0807519b4312de60c0f22398e3  translations/World English Bible, Catholic Edition [engwebc].txt
+f440fff9b93f0649547f6aae1abfd807f55e7dea41f3d49ee7cfe1cf7d2e8f4d  translations/unfoldingWord Literal Text [ULT].txt
+f46cb497539133b58031571cc95d033b9757fcdc79ce83fb96752a260711055f  translations/Webster Bible [Webster].txt
+f887cf847daa46f78d4a9b6516bd0a82b7a9dff77b48143129d31045af60f16f  critical-editions/Nestle Greek New Testament (1904) [grcnestle].txt
+fa39b5a5a90f413bde16b067147f5eddaff842b3da3325c64f418e4035f52d72  lexicons/BDB Glosses (Strong's).txt
+fe32063b8330344b829d877f5f2404ceb25e13eaca8de86abf3cc93f70423da5  lexicons/Ordf├╢rklaringar och sakupplysningar.txt
+fe65db6bb49c88757fb272d63d8e1304a842d3aa357fcc5b6df3dc321281a585  lexicons/A Dictionary of Christian Biography and Literature to the End of the Sixth Century A.D., with an Account of the Principal Sects and Heresies.txt

@@ -1,0 +1,1592 @@
+[Codes d’analyse morphologique de Robinson] [n.d.] [Codes d’analyse morphologique de Robinson]
+[A-APF] Catégorie grammaticale: Adjectif Cas: Accusatif Nombre: Pluriel Genre: Féminin
+[A-APF-C] Catégorie grammaticale: Adjectif Cas: Accusatif Nombre: Pluriel Genre: Féminin Degré: Comparatif
+[A-APF-S] Catégorie grammaticale: Adjectif Cas: Accusatif Nombre: Pluriel Genre: Féminin Degré: Superlatif
+[A-APM] Catégorie grammaticale: Adjectif Cas: Accusatif Nombre: Pluriel Genre: Masculin
+[A-APM-C] Catégorie grammaticale: Adjectif Cas: Accusatif Nombre: Pluriel Genre: Masculin Degré: Comparatif
+[A-APM-S] Catégorie grammaticale: Adjectif Cas: Accusatif Nombre: Pluriel Genre: Masculin Degré: Superlatif
+[A-APN] Catégorie grammaticale: Adjectif Cas: Accusatif Nombre: Pluriel Genre: Neutre
+[A-APN-C] Catégorie grammaticale: Adjectif Cas: Accusatif Nombre: Pluriel Genre: Neutre Degré: Comparatif
+[A-APN-S] Catégorie grammaticale: Adjectif Cas: Accusatif Nombre: Pluriel Genre: Neutre Degré: Superlatif
+[A-ASF] Catégorie grammaticale: Adjectif Cas: Accusatif Nombre: Singulier Genre: Féminin
+[A-ASF-C] Catégorie grammaticale: Adjectif Cas: Accusatif Nombre: Singulier Genre: Féminin Degré: Comparatif
+[A-ASF-N] Catégorie grammaticale: Adjectif Cas: Accusatif Nombre: Singulier Genre: Féminin Négatif
+[A-ASF-S] Catégorie grammaticale: Adjectif Cas: Accusatif Nombre: Singulier Genre: Féminin Degré: Superlatif
+[A-ASM] Catégorie grammaticale: Adjectif Cas: Accusatif Nombre: Singulier Genre: Masculin
+[A-ASM-C] Catégorie grammaticale: Adjectif Cas: Accusatif Nombre: Singulier Genre: Masculin Degré: Comparatif
+[A-ASM-N] Catégorie grammaticale: Adjectif Cas: Accusatif Nombre: Singulier Genre: Masculin Négatif
+[A-ASM-S] Catégorie grammaticale: Adjectif Cas: Accusatif Nombre: Singulier Genre: Masculin Degré: Superlatif
+[A-ASN] Catégorie grammaticale: Adjectif Cas: Accusatif Nombre: Singulier Genre: Neutre
+[A-ASN-C] Catégorie grammaticale: Adjectif Cas: Accusatif Nombre: Singulier Genre: Neutre Degré: Comparatif
+[A-ASN-N] Catégorie grammaticale: Adjectif Cas: Accusatif Nombre: Singulier Genre: Neutre Négatif
+[A-ASN-S] Catégorie grammaticale: Adjectif Cas: Accusatif Nombre: Singulier Genre: Neutre Degré: Superlatif
+[A-DPF] Catégorie grammaticale: Adjectif Cas: Datif Nombre: Pluriel Genre: Féminin
+[A-DPF-C] Catégorie grammaticale: Adjectif Cas: Datif Nombre: Pluriel Genre: Féminin Degré: Comparatif
+[A-DPF-S] Catégorie grammaticale: Adjectif Cas: Datif Nombre: Pluriel Genre: Féminin Degré: Superlatif
+[A-DPM] Catégorie grammaticale: Adjectif Cas: Datif Nombre: Pluriel Genre: Masculin
+[A-DPM-C] Catégorie grammaticale: Adjectif Cas: Datif Nombre: Pluriel Genre: Masculin Degré: Comparatif
+[A-DPM-S] Catégorie grammaticale: Adjectif Cas: Datif Nombre: Pluriel Genre: Masculin Degré: Superlatif
+[A-DPN] Catégorie grammaticale: Adjectif Cas: Datif Nombre: Pluriel Genre: Neutre
+[A-DPN-S] Catégorie grammaticale: Adjectif Cas: Datif Nombre: Pluriel Genre: Neutre Degré: Superlatif
+[A-DSF] Catégorie grammaticale: Adjectif Cas: Datif Nombre: Singulier Genre: Féminin
+[A-DSF-C] Catégorie grammaticale: Adjectif Cas: Datif Nombre: Singulier Genre: Féminin Degré: Comparatif
+[A-DSF-S] Catégorie grammaticale: Adjectif Cas: Datif Nombre: Singulier Genre: Féminin Degré: Superlatif
+[A-DSM] Catégorie grammaticale: Adjectif Cas: Datif Nombre: Singulier Genre: Masculin
+[A-DSM-C] Catégorie grammaticale: Adjectif Cas: Datif Nombre: Singulier Genre: Masculin Degré: Comparatif
+[A-DSM-N] Catégorie grammaticale: Adjectif Cas: Datif Nombre: Singulier Genre: Masculin Négatif
+[A-DSM-S] Catégorie grammaticale: Adjectif Cas: Datif Nombre: Singulier Genre: Masculin Degré: Superlatif
+[A-DSN] Catégorie grammaticale: Adjectif Cas: Datif Nombre: Singulier Genre: Neutre
+[A-DSN-C] Catégorie grammaticale: Adjectif Cas: Datif Nombre: Singulier Genre: Neutre Degré: Comparatif
+[A-DSN-N] Catégorie grammaticale: Adjectif Cas: Datif Nombre: Singulier Genre: Neutre Négatif
+[A-DSN-S] Catégorie grammaticale: Adjectif Cas: Datif Nombre: Singulier Genre: Neutre Degré: Superlatif
+[A-GPF] Catégorie grammaticale: Adjectif Cas: Génitif Nombre: Pluriel Genre: Féminin
+[A-GPF-S] Catégorie grammaticale: Adjectif Cas: Génitif Nombre: Pluriel Genre: Féminin Degré: Superlatif
+[A-GPM] Catégorie grammaticale: Adjectif Cas: Génitif Nombre: Pluriel Genre: Masculin
+[A-GPM-C] Catégorie grammaticale: Adjectif Cas: Génitif Nombre: Pluriel Genre: Masculin Degré: Comparatif
+[A-GPM-S] Catégorie grammaticale: Adjectif Cas: Génitif Nombre: Pluriel Genre: Masculin Degré: Superlatif
+[A-GPN] Catégorie grammaticale: Adjectif Cas: Génitif Nombre: Pluriel Genre: Neutre
+[A-GPN-C] Catégorie grammaticale: Adjectif Cas: Génitif Nombre: Pluriel Genre: Neutre Degré: Comparatif
+[A-GPN-S] Catégorie grammaticale: Adjectif Cas: Génitif Nombre: Pluriel Genre: Neutre Degré: Superlatif
+[A-GSF] Catégorie grammaticale: Adjectif Cas: Génitif Nombre: Singulier Genre: Féminin
+[A-GSF-C] Catégorie grammaticale: Adjectif Cas: Génitif Nombre: Singulier Genre: Féminin Degré: Comparatif
+[A-GSF-S] Catégorie grammaticale: Adjectif Cas: Génitif Nombre: Singulier Genre: Féminin Degré: Superlatif
+[A-GSM] Catégorie grammaticale: Adjectif Cas: Génitif Nombre: Singulier Genre: Masculin
+[A-GSM-C] Catégorie grammaticale: Adjectif Cas: Génitif Nombre: Singulier Genre: Masculin Degré: Comparatif
+[A-GSM-N] Catégorie grammaticale: Adjectif Cas: Génitif Nombre: Singulier Genre: Masculin Négatif
+[A-GSM-S] Catégorie grammaticale: Adjectif Cas: Génitif Nombre: Singulier Genre: Masculin Degré: Superlatif
+[A-GSN] Catégorie grammaticale: Adjectif Cas: Génitif Nombre: Singulier Genre: Neutre
+[A-GSN-N] Catégorie grammaticale: Adjectif Cas: Génitif Nombre: Singulier Genre: Neutre Négatif
+[A-GSN-S] Catégorie grammaticale: Adjectif Cas: Génitif Nombre: Singulier Genre: Neutre Degré: Superlatif
+[A-NPF] Catégorie grammaticale: Adjectif Cas: Nominatif Nombre: Pluriel Genre: Féminin
+[A-NPF-C] Catégorie grammaticale: Adjectif Cas: Nominatif Nombre: Pluriel Genre: Féminin Degré: Comparatif
+[A-NPF-S] Catégorie grammaticale: Adjectif Cas: Nominatif Nombre: Pluriel Genre: Féminin Degré: Superlatif
+[A-NPM] Catégorie grammaticale: Adjectif Cas: Nominatif Nombre: Pluriel Genre: Masculin
+[A-NPM-C] Catégorie grammaticale: Adjectif Cas: Nominatif Nombre: Pluriel Genre: Masculin Degré: Comparatif
+[A-NPM-S] Catégorie grammaticale: Adjectif Cas: Nominatif Nombre: Pluriel Genre: Masculin Degré: Superlatif
+[A-NPN] Catégorie grammaticale: Adjectif Cas: Nominatif Nombre: Pluriel Genre: Neutre
+[A-NPN-C] Catégorie grammaticale: Adjectif Cas: Nominatif Nombre: Pluriel Genre: Neutre Degré: Comparatif
+[A-NPN-S] Catégorie grammaticale: Adjectif Cas: Nominatif Nombre: Pluriel Genre: Neutre Degré: Superlatif
+[A-NSF] Catégorie grammaticale: Adjectif Cas: Nominatif Nombre: Singulier Genre: Féminin
+[A-NSF-C] Catégorie grammaticale: Adjectif Cas: Nominatif Nombre: Singulier Genre: Féminin Degré: Comparatif
+[A-NSF-N] Catégorie grammaticale: Adjectif Cas: Nominatif Nombre: Singulier Genre: Féminin Négatif
+[A-NSF-S] Catégorie grammaticale: Adjectif Cas: Nominatif Nombre: Singulier Genre: Féminin Degré: Superlatif
+[A-NSM] Catégorie grammaticale: Adjectif Cas: Nominatif Nombre: Singulier Genre: Masculin
+[A-NSM-ATT] Catégorie grammaticale: Adjectif Cas: Nominatif Nombre: Singulier Genre: Masculin Forme ATTique
+[A-NSM-C] Catégorie grammaticale: Adjectif Cas: Nominatif Nombre: Singulier Genre: Masculin Degré: Comparatif
+[A-NSM-N] Catégorie grammaticale: Adjectif Cas: Nominatif Nombre: Singulier Genre: Masculin Négatif
+[A-NSM-S] Catégorie grammaticale: Adjectif Cas: Nominatif Nombre: Singulier Genre: Masculin Degré: Superlatif
+[A-NSN] Catégorie grammaticale: Adjectif Cas: Nominatif Nombre: Singulier Genre: Neutre
+[A-NSN-C] Catégorie grammaticale: Adjectif Cas: Nominatif Nombre: Singulier Genre: Neutre Degré: Comparatif
+[A-NSN-N] Catégorie grammaticale: Adjectif Cas: Nominatif Nombre: Singulier Genre: Neutre Négatif
+[A-NSN-S] Catégorie grammaticale: Adjectif Cas: Nominatif Nombre: Singulier Genre: Neutre Degré: Superlatif
+[A-NUI] Numeral indéclinable (Adjectif)
+[A-NUI-ABB] Numeral indéclinable (Adjectif) Forme Abrégée
+[A-VPF] Catégorie grammaticale: Adjectif Cas: Vocatif Nombre: Pluriel Genre: Féminin
+[A-VPM] Catégorie grammaticale: Adjectif Cas: Vocatif Nombre: Pluriel Genre: Masculin
+[A-VPM-C] Catégorie grammaticale: Adjectif Cas: Vocatif Nombre: Pluriel Genre: Masculin Degré: Comparatif
+[A-VPN] Catégorie grammaticale: Adjectif Cas: Vocatif Nombre: Pluriel Genre: Neutre
+[A-VSF] Catégorie grammaticale: Adjectif Cas: Vocatif Nombre: Singulier Genre: Féminin
+[A-VSM] Catégorie grammaticale: Adjectif Cas: Vocatif Nombre: Singulier Genre: Masculin
+[A-VSM-S] Catégorie grammaticale: Adjectif Cas: Vocatif Nombre: Singulier Genre: Masculin Degré: Superlatif
+[A-VSN] Catégorie grammaticale: Adjectif Cas: Vocatif Nombre: Singulier Genre: Neutre
+[ADV] ADVerbee ou adverbe et particule combinés
+[ADV-C] ADVerbee ou adverbe et particule combinés Degré: Comparatif
+[ADV-I] ADVerbee ou adverbe et particule combinés Interrogatif
+[ADV-K] ADVerbee ou adverbe et particule combinés fusionné par crase avec un deuxième mot; la déclinaison est celle du deuxième mot
+[ADV-N] ADVerbee ou adverbe et particule combinés Négatif
+[ADV-S] ADVerbee ou adverbe et particule combinés Degré: Superlatif
+[ARAM] Mot ARAMéen translittéré (indéclinable)
+[C-APM] Catégorie grammaticale: pronom reCiproque Cas: Accusatif Nombre: Pluriel Genre: Masculin
+[C-DPM] Catégorie grammaticale: pronom reCiproque Cas: Datif Nombre: Pluriel Genre: Masculin
+[C-DPN] Catégorie grammaticale: pronom reCiproque Cas: Datif Nombre: Pluriel Genre: Neutre
+[C-GPM] Catégorie grammaticale: pronom reCiproque Cas: Génitif Nombre: Pluriel Genre: Masculin
+[C-GPN] Catégorie grammaticale: pronom reCiproque Cas: Génitif Nombre: Pluriel Genre: Neutre
+[COND] Particule ou conjonction CONDitionnelle
+[COND-C] Particule ou conjonction CONDitionnelle fusionné par crase avec un deuxième mot; la déclinaison est celle du deuxième mot
+[COND-K] Particule ou conjonction CONDitionnelle fusionné par crase avec un deuxième mot; la déclinaison est celle du deuxième mot
+[COND-P] Particule ou conjonction CONDitionnelle Particule attachée
+[CONJ] CONJonction ou particule conjonctive
+[CONJ-N] CONJonction ou particule conjonctive Négatif
+[D-APF] Catégorie grammaticale: Pronom démonstratif Cas: Accusatif Nombre: Pluriel Genre: Féminin
+[D-APM] Catégorie grammaticale: Pronom démonstratif Cas: Accusatif Nombre: Pluriel Genre: Masculin
+[D-APM-C] Catégorie grammaticale: Pronom démonstratif Cas: Accusatif Nombre: Pluriel Genre: Masculin Degré: Comparatif
+[D-APM-K] Catégorie grammaticale: Pronom démonstratif Cas: Accusatif Nombre: Pluriel Genre: Masculin fusionné par crase avec un deuxième mot; la déclinaison est celle du deuxième mot
+[D-APN] Catégorie grammaticale: Pronom démonstratif Cas: Accusatif Nombre: Pluriel Genre: Neutre
+[D-APN-K] Catégorie grammaticale: Pronom démonstratif Cas: Accusatif Nombre: Pluriel Genre: Neutre fusionné par crase avec un deuxième mot; la déclinaison est celle du deuxième mot
+[D-ASF] Catégorie grammaticale: Pronom démonstratif Cas: Accusatif Nombre: Singulier Genre: Féminin
+[D-ASM] Catégorie grammaticale: Pronom démonstratif Cas: Accusatif Nombre: Singulier Genre: Masculin
+[D-ASM-C] Catégorie grammaticale: Pronom démonstratif Cas: Accusatif Nombre: Singulier Genre: Masculin Degré: Comparatif
+[D-ASM-K] Catégorie grammaticale: Pronom démonstratif Cas: Accusatif Nombre: Singulier Genre: Masculin fusionné par crase avec un deuxième mot; la déclinaison est celle du deuxième mot
+[D-ASN] Catégorie grammaticale: Pronom démonstratif Cas: Accusatif Nombre: Singulier Genre: Neutre
+[D-DPF] Catégorie grammaticale: Pronom démonstratif Cas: Datif Nombre: Pluriel Genre: Féminin
+[D-DPM] Catégorie grammaticale: Pronom démonstratif Cas: Datif Nombre: Pluriel Genre: Masculin
+[D-DPM-C] Catégorie grammaticale: Pronom démonstratif Cas: Datif Nombre: Pluriel Genre: Masculin Degré: Comparatif
+[D-DPM-K] Catégorie grammaticale: Pronom démonstratif Cas: Datif Nombre: Pluriel Genre: Masculin fusionné par crase avec un deuxième mot; la déclinaison est celle du deuxième mot
+[D-DPN] Catégorie grammaticale: Pronom démonstratif Cas: Datif Nombre: Pluriel Genre: Neutre
+[D-DSF] Catégorie grammaticale: Pronom démonstratif Cas: Datif Nombre: Singulier Genre: Féminin
+[D-DSM] Catégorie grammaticale: Pronom démonstratif Cas: Datif Nombre: Singulier Genre: Masculin
+[D-DSN] Catégorie grammaticale: Pronom démonstratif Cas: Datif Nombre: Singulier Genre: Neutre
+[D-GPF] Catégorie grammaticale: Pronom démonstratif Cas: Génitif Nombre: Pluriel Genre: Féminin
+[D-GPM] Catégorie grammaticale: Pronom démonstratif Cas: Génitif Nombre: Pluriel Genre: Masculin
+[D-GPN] Catégorie grammaticale: Pronom démonstratif Cas: Génitif Nombre: Pluriel Genre: Neutre
+[D-GSF] Catégorie grammaticale: Pronom démonstratif Cas: Génitif Nombre: Singulier Genre: Féminin
+[D-GSM] Catégorie grammaticale: Pronom démonstratif Cas: Génitif Nombre: Singulier Genre: Masculin
+[D-GSN] Catégorie grammaticale: Pronom démonstratif Cas: Génitif Nombre: Singulier Genre: Neutre
+[D-NPF] Catégorie grammaticale: Pronom démonstratif Cas: Nominatif Nombre: Pluriel Genre: Féminin
+[D-NPM] Catégorie grammaticale: Pronom démonstratif Cas: Nominatif Nombre: Pluriel Genre: Masculin
+[D-NPM-C] Catégorie grammaticale: Pronom démonstratif Cas: Nominatif Nombre: Pluriel Genre: Masculin Degré: Comparatif
+[D-NPM-K] Catégorie grammaticale: Pronom démonstratif Cas: Nominatif Nombre: Pluriel Genre: Masculin fusionné par crase avec un deuxième mot; la déclinaison est celle du deuxième mot
+[D-NPN] Catégorie grammaticale: Pronom démonstratif Cas: Nominatif Nombre: Pluriel Genre: Neutre
+[D-NPN-C] Catégorie grammaticale: Pronom démonstratif Cas: Nominatif Nombre: Pluriel Genre: Neutre Degré: Comparatif
+[D-NPN-K] Catégorie grammaticale: Pronom démonstratif Cas: Nominatif Nombre: Pluriel Genre: Neutre fusionné par crase avec un deuxième mot; la déclinaison est celle du deuxième mot
+[D-NSF] Catégorie grammaticale: Pronom démonstratif Cas: Nominatif Nombre: Singulier Genre: Féminin
+[D-NSF-K] Catégorie grammaticale: Pronom démonstratif Cas: Nominatif Nombre: Singulier Genre: Féminin fusionné par crase avec un deuxième mot; la déclinaison est celle du deuxième mot
+[D-NSM] Catégorie grammaticale: Pronom démonstratif Cas: Nominatif Nombre: Singulier Genre: Masculin
+[D-NSM-C] Catégorie grammaticale: Pronom démonstratif Cas: Nominatif Nombre: Singulier Genre: Masculin Degré: Comparatif
+[D-NSM-K] Catégorie grammaticale: Pronom démonstratif Cas: Nominatif Nombre: Singulier Genre: Masculin fusionné par crase avec un deuxième mot; la déclinaison est celle du deuxième mot
+[D-NSN] Catégorie grammaticale: Pronom démonstratif Cas: Nominatif Nombre: Singulier Genre: Neutre
+[F-1APM] Catégorie grammaticale: Pronom reFlexif Personne: Première Cas: Accusatif Nombre: Pluriel Genre: Masculin
+[F-1ASM] Catégorie grammaticale: Pronom reFlexif Personne: Première Cas: Accusatif Nombre: Singulier Genre: Masculin
+[F-1DPM] Catégorie grammaticale: Pronom reFlexif Personne: Première Cas: Datif Nombre: Pluriel Genre: Masculin
+[F-1DSM] Catégorie grammaticale: Pronom reFlexif Personne: Première Cas: Datif Nombre: Singulier Genre: Masculin
+[F-1GPM] Catégorie grammaticale: Pronom reFlexif Personne: Première Cas: Génitif Nombre: Pluriel Genre: Masculin
+[F-1GSM] Catégorie grammaticale: Pronom reFlexif Personne: Première Cas: Génitif Nombre: Singulier Genre: Masculin
+[F-2APF] Catégorie grammaticale: Pronom reFlexif Personne: Deuxième Cas: Accusatif Nombre: Pluriel Genre: Féminin
+[F-2APM] Catégorie grammaticale: Pronom reFlexif Personne: Deuxième Cas: Accusatif Nombre: Pluriel Genre: Masculin
+[F-2APN] Catégorie grammaticale: Pronom reFlexif Personne: Deuxième Cas: Accusatif Nombre: Pluriel Genre: Neutre
+[F-2ASM] Catégorie grammaticale: Pronom reFlexif Personne: Deuxième Cas: Accusatif Nombre: Singulier Genre: Masculin
+[F-2ASM-C] Catégorie grammaticale: Pronom reFlexif Personne: Deuxième Cas: Accusatif Nombre: Singulier Genre: Masculin fusionné par crase avec un deuxième mot; la déclinaison est celle du deuxième mot
+[F-2ASM-K] Catégorie grammaticale: Pronom reFlexif Personne: Deuxième Cas: Accusatif Nombre: Singulier Genre: Masculin fusionné par crase avec un deuxième mot; la déclinaison est celle du deuxième mot
+[F-2DPF] Catégorie grammaticale: Pronom reFlexif Personne: Deuxième Cas: Datif Nombre: Pluriel Genre: Féminin
+[F-2DPM] Catégorie grammaticale: Pronom reFlexif Personne: Deuxième Cas: Datif Nombre: Pluriel Genre: Masculin
+[F-2DSM] Catégorie grammaticale: Pronom reFlexif Personne: Deuxième Cas: Datif Nombre: Singulier Genre: Masculin
+[F-2GPM] Catégorie grammaticale: Pronom reFlexif Personne: Deuxième Cas: Génitif Nombre: Pluriel Genre: Masculin
+[F-2GSM] Catégorie grammaticale: Pronom reFlexif Personne: Deuxième Cas: Génitif Nombre: Singulier Genre: Masculin
+[F-3APF] Catégorie grammaticale: Pronom reFlexif Personne: Troisième Cas: Accusatif Nombre: Pluriel Genre: Féminin
+[F-3APM] Catégorie grammaticale: Pronom reFlexif Personne: Troisième Cas: Accusatif Nombre: Pluriel Genre: Masculin
+[F-3APN] Catégorie grammaticale: Pronom reFlexif Personne: Troisième Cas: Accusatif Nombre: Pluriel Genre: Neutre
+[F-3ASF] Catégorie grammaticale: Pronom reFlexif Personne: Troisième Cas: Accusatif Nombre: Singulier Genre: Féminin
+[F-3ASM] Catégorie grammaticale: Pronom reFlexif Personne: Troisième Cas: Accusatif Nombre: Singulier Genre: Masculin
+[F-3ASN] Catégorie grammaticale: Pronom reFlexif Personne: Troisième Cas: Accusatif Nombre: Singulier Genre: Neutre
+[F-3DPF] Catégorie grammaticale: Pronom reFlexif Personne: Troisième Cas: Datif Nombre: Pluriel Genre: Féminin
+[F-3DPM] Catégorie grammaticale: Pronom reFlexif Personne: Troisième Cas: Datif Nombre: Pluriel Genre: Masculin
+[F-3DSF] Catégorie grammaticale: Pronom reFlexif Personne: Troisième Cas: Datif Nombre: Singulier Genre: Féminin
+[F-3DSM] Catégorie grammaticale: Pronom reFlexif Personne: Troisième Cas: Datif Nombre: Singulier Genre: Masculin
+[F-3GPF] Catégorie grammaticale: Pronom reFlexif Personne: Troisième Cas: Génitif Nombre: Pluriel Genre: Féminin
+[F-3GPM] Catégorie grammaticale: Pronom reFlexif Personne: Troisième Cas: Génitif Nombre: Pluriel Genre: Masculin
+[F-3GPN] Catégorie grammaticale: Pronom reFlexif Personne: Troisième Cas: Génitif Nombre: Pluriel Genre: Neutre
+[F-3GSF] Catégorie grammaticale: Pronom reFlexif Personne: Troisième Cas: Génitif Nombre: Singulier Genre: Féminin
+[F-3GSM] Catégorie grammaticale: Pronom reFlexif Personne: Troisième Cas: Génitif Nombre: Singulier Genre: Masculin
+[F-3GSN] Catégorie grammaticale: Pronom reFlexif Personne: Troisième Cas: Génitif Nombre: Singulier Genre: Neutre
+[F-GPF] Catégorie grammaticale: Pronom reFlexif Cas: Génitif Nombre: Pluriel Genre: Féminin
+[G5627] V-2AAI
+[G5628] V-2AAM
+[G5629] V-2AAN
+[G5630] V-2AAO
+[G5631] V-2AAP
+[G5632] V-2AAS
+[G5633] V-2ADI
+[G5634] V-2ADM
+[G5635] V-2ADN
+[G5636] V-2ADO
+[G5637] V-2ADP
+[G5638] V-2ADS
+[G5639] V-2AMI
+[G5640] V-2AMM
+[G5641] V-2AMN
+[G5642] V-2AMP
+[G5643] V-2AMS
+[G5644] V-2AOI
+[G5645] V-2AOM
+[G5646] V-2AON
+[G5647] V-2AOS
+[G5648] V-2API
+[G5649] V-2APM
+[G5650] V-2APN
+[G5651] V-2APP
+[G5652] V-2APS
+[G5653] V-2AXM
+[G5654] V-2AXP
+[G5655] V-2AXS
+[G5656] V-AAI
+[G5657] V-AAM
+[G5658] V-AAN
+[G5659] V-AAO
+[G5660] V-AAP
+[G5661] V-AAS
+[G5662] V-ADI
+[G5663] V-ADM
+[G5664] V-ADN
+[G5665] V-ADO
+[G5666] V-ADP
+[G5667] V-ADS
+[G5668] V-AMI
+[G5669] V-AMM
+[G5670] V-AMN
+[G5671] V-AMP
+[G5672] V-AMS
+[G5673] V-ANI
+[G5674] V-ANP
+[G5675] V-AOI
+[G5676] V-AOM
+[G5677] V-AON
+[G5678] V-AOO
+[G5679] V-AOP
+[G5680] V-AOS
+[G5681] V-API
+[G5682] V-APM
+[G5683] V-APN
+[G5684] V-APO
+[G5685] V-APP
+[G5686] V-APS
+[G5687] V-2FAI
+[G5688] V-2FDI
+[G5689] V-2FMI
+[G5690] V-2FOI
+[G5691] V-2FPI
+[G5692] V-FAI
+[G5693] V-FAN
+[G5694] V-FAP
+[G5695] V-FDI
+[G5696] V-FDN
+[G5697] V-FDP
+[G5698] V-FMI
+[G5699] V-FNI
+[G5700] V-FOI
+[G5701] V-FPI
+[G5702] V-FPP
+[G5703] V-FPS
+[G5704] V-FXI
+[G5705] V-FXN
+[G5706] V-FXP
+[G5707] V-IAI
+[G5708] V-IDI
+[G5709] V-IEI
+[G5710] V-IMI
+[G5711] V-INI
+[G5712] V-IPI
+[G5713] V-IXI
+[G5714] V-2LAI
+[G5715] V-LAI
+[G5716] V-LDI
+[G5717] V-LMI
+[G5718] V-LPI
+[G5720] V-PAM
+[G5721] V-PAN
+[G5722] V-PAO
+[G5723] V-PAP
+[G5724] V-PAI
+[G5725] V-PAS
+[G5726] V-PDP
+[G5727] V-PEI
+[G5728] V-PEM
+[G5729] V-PEN
+[G5730] V-PEP
+[G5731] V-PMI
+[G5732] V-PMM
+[G5733] V-PMN
+[G5734] V-PMP
+[G5735] V-PMS
+[G5736] V-PNI
+[G5737] V-PNM
+[G5738] V-PNN
+[G5739] V-PNO
+[G5740] V-PNP
+[G5741] V-PNS
+[G5742] V-POP
+[G5743] V-PPI
+[G5744] V-PPM
+[G5745] V-PPN
+[G5746] V-PPP
+[G5747] V-PPS
+[G5748] V-PXI
+[G5749] V-PXM
+[G5750] V-PXN
+[G5751] V-PXO
+[G5752] V-PXP
+[G5753] V-PXS
+[G5754] V-2RAI
+[G5755] V-2RAN
+[G5756] V-2RAP
+[G5757] V-2RPP
+[G5758] V-RAI
+[G5759] V-RAM
+[G5760] V-RAN
+[G5761] V-RAP
+[G5762] V-RAS
+[G5763] V-RDI
+[G5764] V-RMI
+[G5765] V-RMP
+[G5766] V-RNI
+[G5767] V-RNN
+[G5768] V-RNP
+[G5769] V-RPI
+[G5770] V-RPM
+[G5771] V-RPN
+[G5772] V-RPP
+[G5773] V-XXM
+[G5900] V-IQI
+[G5901] V-PQP
+[G5902] V-PQS
+[G5903] V-PQN
+[G5904] V-PQI
+[HEB] Mot translittéré de l’hébreu (indéclinable)
+[I-APF] Catégorie grammaticale: Pronom interrogatif Cas: Accusatif Nombre: Pluriel Genre: Féminin
+[I-APM] Catégorie grammaticale: Pronom interrogatif Cas: Accusatif Nombre: Pluriel Genre: Masculin
+[I-APN] Catégorie grammaticale: Pronom interrogatif Cas: Accusatif Nombre: Pluriel Genre: Neutre
+[I-ASF] Catégorie grammaticale: Pronom interrogatif Cas: Accusatif Nombre: Singulier Genre: Féminin
+[I-ASM] Catégorie grammaticale: Pronom interrogatif Cas: Accusatif Nombre: Singulier Genre: Masculin
+[I-ASN] Catégorie grammaticale: Pronom interrogatif Cas: Accusatif Nombre: Singulier Genre: Neutre
+[I-DPM] Catégorie grammaticale: Pronom interrogatif Cas: Datif Nombre: Pluriel Genre: Masculin
+[I-DPN] Catégorie grammaticale: Pronom interrogatif Cas: Datif Nombre: Pluriel Genre: Neutre
+[I-DSF] Catégorie grammaticale: Pronom interrogatif Cas: Datif Nombre: Singulier Genre: Féminin
+[I-DSM] Catégorie grammaticale: Pronom interrogatif Cas: Datif Nombre: Singulier Genre: Masculin
+[I-DSN] Catégorie grammaticale: Pronom interrogatif Cas: Datif Nombre: Singulier Genre: Neutre
+[I-GPF] Catégorie grammaticale: Pronom interrogatif Cas: Génitif Nombre: Pluriel Genre: Féminin
+[I-GPM] Catégorie grammaticale: Pronom interrogatif Cas: Génitif Nombre: Pluriel Genre: Masculin
+[I-GPN] Catégorie grammaticale: Pronom interrogatif Cas: Génitif Nombre: Pluriel Genre: Neutre
+[I-GSF] Catégorie grammaticale: Pronom interrogatif Cas: Génitif Nombre: Singulier Genre: Féminin
+[I-GSM] Catégorie grammaticale: Pronom interrogatif Cas: Génitif Nombre: Singulier Genre: Masculin
+[I-GSN] Catégorie grammaticale: Pronom interrogatif Cas: Génitif Nombre: Singulier Genre: Neutre
+[I-NPF] Catégorie grammaticale: Pronom interrogatif Cas: Nominatif Nombre: Pluriel Genre: Féminin
+[I-NPM] Catégorie grammaticale: Pronom interrogatif Cas: Nominatif Nombre: Pluriel Genre: Masculin
+[I-NPN] Catégorie grammaticale: Pronom interrogatif Cas: Nominatif Nombre: Pluriel Genre: Neutre
+[I-NSF] Catégorie grammaticale: Pronom interrogatif Cas: Nominatif Nombre: Singulier Genre: Féminin
+[I-NSM] Catégorie grammaticale: Pronom interrogatif Cas: Nominatif Nombre: Singulier Genre: Masculin
+[I-NSN] Catégorie grammaticale: Pronom interrogatif Cas: Nominatif Nombre: Singulier Genre: Neutre
+[INJ] INterJection
+[K-APF] Catégorie grammaticale: pronom corrélatif Cas: Accusatif Nombre: Pluriel Genre: Féminin
+[K-APM] Catégorie grammaticale: pronom corrélatif Cas: Accusatif Nombre: Pluriel Genre: Masculin
+[K-APN] Catégorie grammaticale: pronom corrélatif Cas: Accusatif Nombre: Pluriel Genre: Neutre
+[K-ASM] Catégorie grammaticale: pronom corrélatif Cas: Accusatif Nombre: Singulier Genre: Masculin
+[K-ASN] Catégorie grammaticale: pronom corrélatif Cas: Accusatif Nombre: Singulier Genre: Neutre
+[K-DSN] Catégorie grammaticale: pronom corrélatif Cas: Datif Nombre: Singulier Genre: Neutre
+[K-GPM] Catégorie grammaticale: pronom corrélatif Cas: Génitif Nombre: Pluriel Genre: Masculin
+[K-GSN] Catégorie grammaticale: pronom corrélatif Cas: Génitif Nombre: Singulier Genre: Neutre
+[K-NPF] Catégorie grammaticale: pronom corrélatif Cas: Nominatif Nombre: Pluriel Genre: Féminin
+[K-NPM] Catégorie grammaticale: pronom corrélatif Cas: Nominatif Nombre: Pluriel Genre: Masculin
+[K-NPN] Catégorie grammaticale: pronom corrélatif Cas: Nominatif Nombre: Pluriel Genre: Neutre
+[K-NSM] Catégorie grammaticale: pronom corrélatif Cas: Nominatif Nombre: Singulier Genre: Masculin
+[K-NSN] Catégorie grammaticale: pronom corrélatif Cas: Nominatif Nombre: Singulier Genre: Neutre
+[N-APF] Catégorie grammaticale: Nom Cas: Accusatif Nombre: Pluriel Genre: Féminin
+[N-APF-C] Catégorie grammaticale: Nom Cas: Accusatif Nombre: Pluriel Genre: Féminin Degré: Comparatif
+[N-APF-S] Catégorie grammaticale: Nom Cas: Accusatif Nombre: Pluriel Genre: Féminin Degré: Superlatif
+[N-APM] Catégorie grammaticale: Nom Cas: Accusatif Nombre: Pluriel Genre: Masculin
+[N-APN] Catégorie grammaticale: Nom Cas: Accusatif Nombre: Pluriel Genre: Neutre
+[N-APN-C] Catégorie grammaticale: Nom Cas: Accusatif Nombre: Pluriel Genre: Neutre Degré: Comparatif
+[N-APN-S] Catégorie grammaticale: Nom Cas: Accusatif Nombre: Pluriel Genre: Neutre Degré: Superlatif
+[N-ASF] Catégorie grammaticale: Nom Cas: Accusatif Nombre: Singulier Genre: Féminin
+[N-ASF-C] Catégorie grammaticale: Nom Cas: Accusatif Nombre: Singulier Genre: Féminin Degré: Comparatif
+[N-ASF-S] Catégorie grammaticale: Nom Cas: Accusatif Nombre: Singulier Genre: Féminin Degré: Superlatif
+[N-ASM] Catégorie grammaticale: Nom Cas: Accusatif Nombre: Singulier Genre: Masculin
+[N-ASM-S] Catégorie grammaticale: Nom Cas: Accusatif Nombre: Singulier Genre: Masculin Degré: Superlatif
+[N-ASN] Catégorie grammaticale: Nom Cas: Accusatif Nombre: Singulier Genre: Neutre
+[N-DPF] Catégorie grammaticale: Nom Cas: Datif Nombre: Pluriel Genre: Féminin
+[N-DPM] Catégorie grammaticale: Nom Cas: Datif Nombre: Pluriel Genre: Masculin
+[N-DPM-S] Catégorie grammaticale: Nom Cas: Datif Nombre: Pluriel Genre: Masculin Degré: Superlatif
+[N-DPN] Catégorie grammaticale: Nom Cas: Datif Nombre: Pluriel Genre: Neutre
+[N-DSF] Catégorie grammaticale: Nom Cas: Datif Nombre: Singulier Genre: Féminin
+[N-DSM] Catégorie grammaticale: Nom Cas: Datif Nombre: Singulier Genre: Masculin
+[N-DSN] Catégorie grammaticale: Nom Cas: Datif Nombre: Singulier Genre: Neutre
+[N-GPF] Catégorie grammaticale: Nom Cas: Génitif Nombre: Pluriel Genre: Féminin
+[N-GPM] Catégorie grammaticale: Nom Cas: Génitif Nombre: Pluriel Genre: Masculin
+[N-GPN] Catégorie grammaticale: Nom Cas: Génitif Nombre: Pluriel Genre: Neutre
+[N-GSF] Catégorie grammaticale: Nom Cas: Génitif Nombre: Singulier Genre: Féminin
+[N-GSM] Catégorie grammaticale: Nom Cas: Génitif Nombre: Singulier Genre: Masculin
+[N-GSN] Catégorie grammaticale: Nom Cas: Génitif Nombre: Singulier Genre: Neutre
+[N-LI] Lettre indéclinable (Nom)
+[N-NPF] Catégorie grammaticale: Nom Cas: Nominatif Nombre: Pluriel Genre: Féminin
+[N-NPM] Catégorie grammaticale: Nom Cas: Nominatif Nombre: Pluriel Genre: Masculin
+[N-NPM-S] Catégorie grammaticale: Nom Cas: Nominatif Nombre: Pluriel Genre: Masculin Degré: Superlatif
+[N-NPN] Catégorie grammaticale: Nom Cas: Nominatif Nombre: Pluriel Genre: Neutre
+[N-NSF] Catégorie grammaticale: Nom Cas: Nominatif Nombre: Singulier Genre: Féminin
+[N-NSM] Catégorie grammaticale: Nom Cas: Nominatif Nombre: Singulier Genre: Masculin
+[N-NSM-C] Catégorie grammaticale: Nom Cas: Nominatif Nombre: Singulier Genre: Masculin Degré: Comparatif
+[N-NSN] Catégorie grammaticale: Nom Cas: Nominatif Nombre: Singulier Genre: Neutre
+[N-NSN-C] Catégorie grammaticale: Nom Cas: Nominatif Nombre: Singulier Genre: Neutre Degré: Comparatif
+[N-OI] Nom indéclinable d’un autre type
+[N-OI-IRR] Nom indéclinable d’un autre type Forme irrégulière ou impure
+[N-PRI] Nom PRopre indéclinable
+[N-PRI-ABB] Nom PRopre indéclinable Forme Abrégée
+[N-VPF] Catégorie grammaticale: Nom Cas: Vocatif Nombre: Pluriel Genre: Féminin
+[N-VPM] Catégorie grammaticale: Nom Cas: Vocatif Nombre: Pluriel Genre: Masculin
+[N-VPN] Catégorie grammaticale: Nom Cas: Vocatif Nombre: Pluriel Genre: Neutre
+[N-VSF] Catégorie grammaticale: Nom Cas: Vocatif Nombre: Singulier Genre: Féminin
+[N-VSM] Catégorie grammaticale: Nom Cas: Vocatif Nombre: Singulier Genre: Masculin
+[N-VSN] Catégorie grammaticale: Nom Cas: Vocatif Nombre: Singulier Genre: Neutre
+[P-1AP] Catégorie grammaticale: Pronom personnel Personne: Première Cas: Accusatif Nombre: Pluriel
+[P-1AS] Catégorie grammaticale: Pronom personnel Personne: Première Cas: Accusatif Nombre: Singulier
+[P-1AS-C] Catégorie grammaticale: Pronom personnel Personne: Première Cas: Accusatif Nombre: Singulier fusionné par crase avec un deuxième mot; la déclinaison est celle du deuxième mot
+[P-1AS-K] Catégorie grammaticale: Pronom personnel Personne: Première Cas: Accusatif Nombre: Singulier fusionné par crase avec un deuxième mot; la déclinaison est celle du deuxième mot
+[P-1DP] Catégorie grammaticale: Pronom personnel Personne: Première Cas: Datif Nombre: Pluriel
+[P-1DS] Catégorie grammaticale: Pronom personnel Personne: Première Cas: Datif Nombre: Singulier
+[P-1DS-C] Catégorie grammaticale: Pronom personnel Personne: Première Cas: Datif Nombre: Singulier fusionné par crase avec un deuxième mot; la déclinaison est celle du deuxième mot
+[P-1DS-K] Catégorie grammaticale: Pronom personnel Personne: Première Cas: Datif Nombre: Singulier fusionné par crase avec un deuxième mot; la déclinaison est celle du deuxième mot
+[P-1GP] Catégorie grammaticale: Pronom personnel Personne: Première Cas: Génitif Nombre: Pluriel
+[P-1GS] Catégorie grammaticale: Pronom personnel Personne: Première Cas: Génitif Nombre: Singulier
+[P-1NP] Catégorie grammaticale: Pronom personnel Personne: Première Cas: Nominatif Nombre: Pluriel
+[P-1NS] Catégorie grammaticale: Pronom personnel Personne: Première Cas: Nominatif Nombre: Singulier
+[P-1NS-C] Catégorie grammaticale: Pronom personnel Personne: Première Cas: Nominatif Nombre: Singulier fusionné par crase avec un deuxième mot; la déclinaison est celle du deuxième mot
+[P-1NS-K] Catégorie grammaticale: Pronom personnel Personne: Première Cas: Nominatif Nombre: Singulier fusionné par crase avec un deuxième mot; la déclinaison est celle du deuxième mot
+[P-2AP] Catégorie grammaticale: Pronom personnel Personne: Deuxième Cas: Accusatif Nombre: Pluriel
+[P-2AS] Catégorie grammaticale: Pronom personnel Personne: Deuxième Cas: Accusatif Nombre: Singulier
+[P-2DP] Catégorie grammaticale: Pronom personnel Personne: Deuxième Cas: Datif Nombre: Pluriel
+[P-2DS] Catégorie grammaticale: Pronom personnel Personne: Deuxième Cas: Datif Nombre: Singulier
+[P-2GP] Catégorie grammaticale: Pronom personnel Personne: Deuxième Cas: Génitif Nombre: Pluriel
+[P-2GS] Catégorie grammaticale: Pronom personnel Personne: Deuxième Cas: Génitif Nombre: Singulier
+[P-2NP] Catégorie grammaticale: Pronom personnel Personne: Deuxième Cas: Nominatif Nombre: Pluriel
+[P-2NS] Catégorie grammaticale: Pronom personnel Personne: Deuxième Cas: Nominatif Nombre: Singulier
+[P-AP] Catégorie grammaticale: Pronom personnel Cas: Accusatif Nombre: Pluriel
+[P-APF] Catégorie grammaticale: Pronom personnel Cas: Accusatif Nombre: Pluriel Genre: Féminin
+[P-APM] Catégorie grammaticale: Pronom personnel Cas: Accusatif Nombre: Pluriel Genre: Masculin
+[P-APN] Catégorie grammaticale: Pronom personnel Cas: Accusatif Nombre: Pluriel Genre: Neutre
+[P-AS] Catégorie grammaticale: Pronom personnel Cas: Accusatif Nombre: Singulier
+[P-ASF] Catégorie grammaticale: Pronom personnel Cas: Accusatif Nombre: Singulier Genre: Féminin
+[P-ASM] Catégorie grammaticale: Pronom personnel Cas: Accusatif Nombre: Singulier Genre: Masculin
+[P-ASN] Catégorie grammaticale: Pronom personnel Cas: Accusatif Nombre: Singulier Genre: Neutre
+[P-DP] Catégorie grammaticale: Pronom personnel Cas: Datif Nombre: Pluriel
+[P-DPF] Catégorie grammaticale: Pronom personnel Cas: Datif Nombre: Pluriel Genre: Féminin
+[P-DPM] Catégorie grammaticale: Pronom personnel Cas: Datif Nombre: Pluriel Genre: Masculin
+[P-DPN] Catégorie grammaticale: Pronom personnel Cas: Datif Nombre: Pluriel Genre: Neutre
+[P-DS] Catégorie grammaticale: Pronom personnel Cas: Datif Nombre: Singulier
+[P-DSF] Catégorie grammaticale: Pronom personnel Cas: Datif Nombre: Singulier Genre: Féminin
+[P-DSM] Catégorie grammaticale: Pronom personnel Cas: Datif Nombre: Singulier Genre: Masculin
+[P-DSN] Catégorie grammaticale: Pronom personnel Cas: Datif Nombre: Singulier Genre: Neutre
+[P-GP] Catégorie grammaticale: Pronom personnel Cas: Génitif Nombre: Pluriel
+[P-GPF] Catégorie grammaticale: Pronom personnel Cas: Génitif Nombre: Pluriel Genre: Féminin
+[P-GPM] Catégorie grammaticale: Pronom personnel Cas: Génitif Nombre: Pluriel Genre: Masculin
+[P-GPN] Catégorie grammaticale: Pronom personnel Cas: Génitif Nombre: Pluriel Genre: Neutre
+[P-GS] Catégorie grammaticale: Pronom personnel Cas: Génitif Nombre: Singulier
+[P-GSF] Catégorie grammaticale: Pronom personnel Cas: Génitif Nombre: Singulier Genre: Féminin
+[P-GSM] Catégorie grammaticale: Pronom personnel Cas: Génitif Nombre: Singulier Genre: Masculin
+[P-GSN] Catégorie grammaticale: Pronom personnel Cas: Génitif Nombre: Singulier Genre: Neutre
+[P-NP] Catégorie grammaticale: Pronom personnel Cas: Nominatif Nombre: Pluriel
+[P-NPM] Catégorie grammaticale: Pronom personnel Cas: Nominatif Nombre: Pluriel Genre: Masculin
+[P-NPN] Catégorie grammaticale: Pronom personnel Cas: Nominatif Nombre: Pluriel Genre: Neutre
+[P-NS] Catégorie grammaticale: Pronom personnel Cas: Nominatif Nombre: Singulier
+[P-NSF] Catégorie grammaticale: Pronom personnel Cas: Nominatif Nombre: Singulier Genre: Féminin
+[P-NSM] Catégorie grammaticale: Pronom personnel Cas: Nominatif Nombre: Singulier Genre: Masculin
+[P-NSN] Catégorie grammaticale: Pronom personnel Cas: Nominatif Nombre: Singulier Genre: Neutre
+[PREP] PREPosition
+[PRT] PaRTicule, particule disjonctive
+[PRT-I] PaRTicule, particule disjonctive Interrogatif
+[PRT-N] PaRTicule, particule disjonctive Négatif
+[Q-APF] Catégorie grammaticale: pronom corrélatif ou interrogatif Cas: Accusatif Nombre: Pluriel Genre: Féminin
+[Q-APM] Catégorie grammaticale: pronom corrélatif ou interrogatif Cas: Accusatif Nombre: Pluriel Genre: Masculin
+[Q-APN] Catégorie grammaticale: pronom corrélatif ou interrogatif Cas: Accusatif Nombre: Pluriel Genre: Neutre
+[Q-ASF] Catégorie grammaticale: pronom corrélatif ou interrogatif Cas: Accusatif Nombre: Singulier Genre: Féminin
+[Q-ASN] Catégorie grammaticale: pronom corrélatif ou interrogatif Cas: Accusatif Nombre: Singulier Genre: Neutre
+[Q-DSN] Catégorie grammaticale: pronom corrélatif ou interrogatif Cas: Datif Nombre: Singulier Genre: Neutre
+[Q-GPN] Catégorie grammaticale: pronom corrélatif ou interrogatif Cas: Génitif Nombre: Pluriel Genre: Neutre
+[Q-NPF] Catégorie grammaticale: pronom corrélatif ou interrogatif Cas: Nominatif Nombre: Pluriel Genre: Féminin
+[Q-NPM] Catégorie grammaticale: pronom corrélatif ou interrogatif Cas: Nominatif Nombre: Pluriel Genre: Masculin
+[Q-NSM] Catégorie grammaticale: pronom corrélatif ou interrogatif Cas: Nominatif Nombre: Singulier Genre: Masculin
+[Q-NSN] Catégorie grammaticale: pronom corrélatif ou interrogatif Cas: Nominatif Nombre: Singulier Genre: Neutre
+[R-APF] Catégorie grammaticale: Pronom relatif Cas: Accusatif Nombre: Pluriel Genre: Féminin
+[R-APM] Catégorie grammaticale: Pronom relatif Cas: Accusatif Nombre: Pluriel Genre: Masculin
+[R-APN] Catégorie grammaticale: Pronom relatif Cas: Accusatif Nombre: Pluriel Genre: Neutre
+[R-ASF] Catégorie grammaticale: Pronom relatif Cas: Accusatif Nombre: Singulier Genre: Féminin
+[R-ASM] Catégorie grammaticale: Pronom relatif Cas: Accusatif Nombre: Singulier Genre: Masculin
+[R-ASN] Catégorie grammaticale: Pronom relatif Cas: Accusatif Nombre: Singulier Genre: Neutre
+[R-DPF] Catégorie grammaticale: Pronom relatif Cas: Datif Nombre: Pluriel Genre: Féminin
+[R-DPM] Catégorie grammaticale: Pronom relatif Cas: Datif Nombre: Pluriel Genre: Masculin
+[R-DPN] Catégorie grammaticale: Pronom relatif Cas: Datif Nombre: Pluriel Genre: Neutre
+[R-DSF] Catégorie grammaticale: Pronom relatif Cas: Datif Nombre: Singulier Genre: Féminin
+[R-DSM] Catégorie grammaticale: Pronom relatif Cas: Datif Nombre: Singulier Genre: Masculin
+[R-DSN] Catégorie grammaticale: Pronom relatif Cas: Datif Nombre: Singulier Genre: Neutre
+[R-GPF] Catégorie grammaticale: Pronom relatif Cas: Génitif Nombre: Pluriel Genre: Féminin
+[R-GPM] Catégorie grammaticale: Pronom relatif Cas: Génitif Nombre: Pluriel Genre: Masculin
+[R-GPN] Catégorie grammaticale: Pronom relatif Cas: Génitif Nombre: Pluriel Genre: Neutre
+[R-GSF] Catégorie grammaticale: Pronom relatif Cas: Génitif Nombre: Singulier Genre: Féminin
+[R-GSM] Catégorie grammaticale: Pronom relatif Cas: Génitif Nombre: Singulier Genre: Masculin
+[R-GSN] Catégorie grammaticale: Pronom relatif Cas: Génitif Nombre: Singulier Genre: Neutre
+[R-GSN-ATT] Catégorie grammaticale: Pronom relatif Cas: Génitif Nombre: Singulier Genre: Neutre Forme ATTique
+[R-NPF] Catégorie grammaticale: Pronom relatif Cas: Nominatif Nombre: Pluriel Genre: Féminin
+[R-NPM] Catégorie grammaticale: Pronom relatif Cas: Nominatif Nombre: Pluriel Genre: Masculin
+[R-NPN] Catégorie grammaticale: Pronom relatif Cas: Nominatif Nombre: Pluriel Genre: Neutre
+[R-NSF] Catégorie grammaticale: Pronom relatif Cas: Nominatif Nombre: Singulier Genre: Féminin
+[R-NSM] Catégorie grammaticale: Pronom relatif Cas: Nominatif Nombre: Singulier Genre: Masculin
+[R-NSN] Catégorie grammaticale: Pronom relatif Cas: Nominatif Nombre: Singulier Genre: Neutre
+[S-1APF] Catégorie grammaticale: Pronom poSessif Personne: Première Cas: Accusatif Nombre: Pluriel Genre: Féminin
+[S-1APM] Catégorie grammaticale: Pronom poSessif Personne: Première Cas: Accusatif Nombre: Pluriel Genre: Masculin
+[S-1APN] Catégorie grammaticale: Pronom poSessif Personne: Première Cas: Accusatif Nombre: Pluriel Genre: Neutre
+[S-1ASF] Catégorie grammaticale: Pronom poSessif Personne: Première Cas: Accusatif Nombre: Singulier Genre: Féminin
+[S-1ASM] Catégorie grammaticale: Pronom poSessif Personne: Première Cas: Accusatif Nombre: Singulier Genre: Masculin
+[S-1ASN] Catégorie grammaticale: Pronom poSessif Personne: Première Cas: Accusatif Nombre: Singulier Genre: Neutre
+[S-1DPF] Catégorie grammaticale: Pronom poSessif Personne: Première Cas: Datif Nombre: Pluriel Genre: Féminin
+[S-1DPM] Catégorie grammaticale: Pronom poSessif Personne: Première Cas: Datif Nombre: Pluriel Genre: Masculin
+[S-1DPN] Catégorie grammaticale: Pronom poSessif Personne: Première Cas: Datif Nombre: Pluriel Genre: Neutre
+[S-1DSF] Catégorie grammaticale: Pronom poSessif Personne: Première Cas: Datif Nombre: Singulier Genre: Féminin
+[S-1DSM] Catégorie grammaticale: Pronom poSessif Personne: Première Cas: Datif Nombre: Singulier Genre: Masculin
+[S-1DSN] Catégorie grammaticale: Pronom poSessif Personne: Première Cas: Datif Nombre: Singulier Genre: Neutre
+[S-1GPF] Catégorie grammaticale: Pronom poSessif Personne: Première Cas: Génitif Nombre: Pluriel Genre: Féminin
+[S-1GPN] Catégorie grammaticale: Pronom poSessif Personne: Première Cas: Génitif Nombre: Pluriel Genre: Neutre
+[S-1GSF] Catégorie grammaticale: Pronom poSessif Personne: Première Cas: Génitif Nombre: Singulier Genre: Féminin
+[S-1NPF] Catégorie grammaticale: Pronom poSessif Personne: Première Cas: Nominatif Nombre: Pluriel Genre: Féminin
+[S-1NPM] Catégorie grammaticale: Pronom poSessif Personne: Première Cas: Nominatif Nombre: Pluriel Genre: Masculin
+[S-1NPN] Catégorie grammaticale: Pronom poSessif Personne: Première Cas: Nominatif Nombre: Pluriel Genre: Neutre
+[S-1NSF] Catégorie grammaticale: Pronom poSessif Personne: Première Cas: Nominatif Nombre: Singulier Genre: Féminin
+[S-1NSM] Catégorie grammaticale: Pronom poSessif Personne: Première Cas: Nominatif Nombre: Singulier Genre: Masculin
+[S-1NSN] Catégorie grammaticale: Pronom poSessif Personne: Première Cas: Nominatif Nombre: Singulier Genre: Neutre
+[S-1PASF] Catégorie grammaticale: Pronom poSessif Personne: Première Nombre: Pluriel Cas: Accusatif Nombre: Singulier Genre: Féminin
+[S-1PASM] Catégorie grammaticale: Pronom poSessif Personne: Première Nombre: Pluriel Cas: Accusatif Nombre: Singulier Genre: Masculin
+[S-1PASN] Catégorie grammaticale: Pronom poSessif Personne: Première Nombre: Pluriel Cas: Accusatif Nombre: Singulier Genre: Neutre
+[S-1PDPF] Catégorie grammaticale: Pronom poSessif Personne: Première Nombre: Pluriel Cas: Datif Nombre: Pluriel Genre: Féminin
+[S-1PDPM] Catégorie grammaticale: Pronom poSessif Personne: Première Nombre: Pluriel Cas: Datif Nombre: Pluriel Genre: Masculin
+[S-1PDSN] Catégorie grammaticale: Pronom poSessif Personne: Première Nombre: Pluriel Cas: Datif Nombre: Singulier Genre: Neutre
+[S-1PGPF] Catégorie grammaticale: Pronom poSessif Personne: Première Nombre: Pluriel Cas: Génitif Nombre: Pluriel Genre: Féminin
+[S-1PGSF] Catégorie grammaticale: Pronom poSessif Personne: Première Nombre: Pluriel Cas: Génitif Nombre: Singulier Genre: Féminin
+[S-1PNPM] Catégorie grammaticale: Pronom poSessif Personne: Première Nombre: Pluriel Cas: Nominatif Nombre: Pluriel Genre: Masculin
+[S-1PNSF] Catégorie grammaticale: Pronom poSessif Personne: Première Nombre: Pluriel Cas: Nominatif Nombre: Singulier Genre: Féminin
+[S-1SAPF] Catégorie grammaticale: Pronom poSessif Personne: Première Nombre: Singulier Cas: Accusatif Nombre: Pluriel Genre: Féminin
+[S-1SAPM] Catégorie grammaticale: Pronom poSessif Personne: Première Nombre: Singulier Cas: Accusatif Nombre: Pluriel Genre: Masculin
+[S-1SAPN] Catégorie grammaticale: Pronom poSessif Personne: Première Nombre: Singulier Cas: Accusatif Nombre: Pluriel Genre: Neutre
+[S-1SASF] Catégorie grammaticale: Pronom poSessif Personne: Première Nombre: Singulier Cas: Accusatif Nombre: Singulier Genre: Féminin
+[S-1SASM] Catégorie grammaticale: Pronom poSessif Personne: Première Nombre: Singulier Cas: Accusatif Nombre: Singulier Genre: Masculin
+[S-1SASN] Catégorie grammaticale: Pronom poSessif Personne: Première Nombre: Singulier Cas: Accusatif Nombre: Singulier Genre: Neutre
+[S-1SDPN] Catégorie grammaticale: Pronom poSessif Personne: Première Nombre: Singulier Cas: Datif Nombre: Pluriel Genre: Neutre
+[S-1SDSF] Catégorie grammaticale: Pronom poSessif Personne: Première Nombre: Singulier Cas: Datif Nombre: Singulier Genre: Féminin
+[S-1SDSM] Catégorie grammaticale: Pronom poSessif Personne: Première Nombre: Singulier Cas: Datif Nombre: Singulier Genre: Masculin
+[S-1SDSN] Catégorie grammaticale: Pronom poSessif Personne: Première Nombre: Singulier Cas: Datif Nombre: Singulier Genre: Neutre
+[S-1SGPN] Catégorie grammaticale: Pronom poSessif Personne: Première Nombre: Singulier Cas: Génitif Nombre: Pluriel Genre: Neutre
+[S-1SGSF] Catégorie grammaticale: Pronom poSessif Personne: Première Nombre: Singulier Cas: Génitif Nombre: Singulier Genre: Féminin
+[S-1SGSN] Catégorie grammaticale: Pronom poSessif Personne: Première Nombre: Singulier Cas: Génitif Nombre: Singulier Genre: Neutre
+[S-1SNPM] Catégorie grammaticale: Pronom poSessif Personne: Première Nombre: Singulier Cas: Nominatif Nombre: Pluriel Genre: Masculin
+[S-1SNPN] Catégorie grammaticale: Pronom poSessif Personne: Première Nombre: Singulier Cas: Nominatif Nombre: Pluriel Genre: Neutre
+[S-1SNSF] Catégorie grammaticale: Pronom poSessif Personne: Première Nombre: Singulier Cas: Nominatif Nombre: Singulier Genre: Féminin
+[S-1SNSM] Catégorie grammaticale: Pronom poSessif Personne: Première Nombre: Singulier Cas: Nominatif Nombre: Singulier Genre: Masculin
+[S-1SNSN] Catégorie grammaticale: Pronom poSessif Personne: Première Nombre: Singulier Cas: Nominatif Nombre: Singulier Genre: Neutre
+[S-2APF] Catégorie grammaticale: Pronom poSessif Personne: Deuxième Cas: Accusatif Nombre: Pluriel Genre: Féminin
+[S-2APM] Catégorie grammaticale: Pronom poSessif Personne: Deuxième Cas: Accusatif Nombre: Pluriel Genre: Masculin
+[S-2APN] Catégorie grammaticale: Pronom poSessif Personne: Deuxième Cas: Accusatif Nombre: Pluriel Genre: Neutre
+[S-2ASF] Catégorie grammaticale: Pronom poSessif Personne: Deuxième Cas: Accusatif Nombre: Singulier Genre: Féminin
+[S-2ASN] Catégorie grammaticale: Pronom poSessif Personne: Deuxième Cas: Accusatif Nombre: Singulier Genre: Neutre
+[S-2DPF] Catégorie grammaticale: Pronom poSessif Personne: Deuxième Cas: Datif Nombre: Pluriel Genre: Féminin
+[S-2DPM] Catégorie grammaticale: Pronom poSessif Personne: Deuxième Cas: Datif Nombre: Pluriel Genre: Masculin
+[S-2DSF] Catégorie grammaticale: Pronom poSessif Personne: Deuxième Cas: Datif Nombre: Singulier Genre: Féminin
+[S-2DSM] Catégorie grammaticale: Pronom poSessif Personne: Deuxième Cas: Datif Nombre: Singulier Genre: Masculin
+[S-2GPF] Catégorie grammaticale: Pronom poSessif Personne: Deuxième Cas: Génitif Nombre: Pluriel Genre: Féminin
+[S-2GSF] Catégorie grammaticale: Pronom poSessif Personne: Deuxième Cas: Génitif Nombre: Singulier Genre: Féminin
+[S-2NPF] Catégorie grammaticale: Pronom poSessif Personne: Deuxième Cas: Nominatif Nombre: Pluriel Genre: Féminin
+[S-2NPM] Catégorie grammaticale: Pronom poSessif Personne: Deuxième Cas: Nominatif Nombre: Pluriel Genre: Masculin
+[S-2NPN] Catégorie grammaticale: Pronom poSessif Personne: Deuxième Cas: Nominatif Nombre: Pluriel Genre: Neutre
+[S-2NSM] Catégorie grammaticale: Pronom poSessif Personne: Deuxième Cas: Nominatif Nombre: Singulier Genre: Masculin
+[S-2NSN] Catégorie grammaticale: Pronom poSessif Personne: Deuxième Cas: Nominatif Nombre: Singulier Genre: Neutre
+[S-2PASF] Catégorie grammaticale: Pronom poSessif Personne: Deuxième Nombre: Pluriel Cas: Accusatif Nombre: Singulier Genre: Féminin
+[S-2PASM] Catégorie grammaticale: Pronom poSessif Personne: Deuxième Nombre: Pluriel Cas: Accusatif Nombre: Singulier Genre: Masculin
+[S-2PASN] Catégorie grammaticale: Pronom poSessif Personne: Deuxième Nombre: Pluriel Cas: Accusatif Nombre: Singulier Genre: Neutre
+[S-2PDSF] Catégorie grammaticale: Pronom poSessif Personne: Deuxième Nombre: Pluriel Cas: Datif Nombre: Singulier Genre: Féminin
+[S-2PDSM] Catégorie grammaticale: Pronom poSessif Personne: Deuxième Nombre: Pluriel Cas: Datif Nombre: Singulier Genre: Masculin
+[S-2PDSN] Catégorie grammaticale: Pronom poSessif Personne: Deuxième Nombre: Pluriel Cas: Datif Nombre: Singulier Genre: Neutre
+[S-2PGSF] Catégorie grammaticale: Pronom poSessif Personne: Deuxième Nombre: Pluriel Cas: Génitif Nombre: Singulier Genre: Féminin
+[S-2PNSF] Catégorie grammaticale: Pronom poSessif Personne: Deuxième Nombre: Pluriel Cas: Nominatif Nombre: Singulier Genre: Féminin
+[S-2PNSM] Catégorie grammaticale: Pronom poSessif Personne: Deuxième Nombre: Pluriel Cas: Nominatif Nombre: Singulier Genre: Masculin
+[S-2SAPM] Catégorie grammaticale: Pronom poSessif Personne: Deuxième Nombre: Singulier Cas: Accusatif Nombre: Pluriel Genre: Masculin
+[S-2SAPN] Catégorie grammaticale: Pronom poSessif Personne: Deuxième Nombre: Singulier Cas: Accusatif Nombre: Pluriel Genre: Neutre
+[S-2SASF] Catégorie grammaticale: Pronom poSessif Personne: Deuxième Nombre: Singulier Cas: Accusatif Nombre: Singulier Genre: Féminin
+[S-2SASN] Catégorie grammaticale: Pronom poSessif Personne: Deuxième Nombre: Singulier Cas: Accusatif Nombre: Singulier Genre: Neutre
+[S-2SDSF] Catégorie grammaticale: Pronom poSessif Personne: Deuxième Nombre: Singulier Cas: Datif Nombre: Singulier Genre: Féminin
+[S-2SDSM] Catégorie grammaticale: Pronom poSessif Personne: Deuxième Nombre: Singulier Cas: Datif Nombre: Singulier Genre: Masculin
+[S-2SDSN] Catégorie grammaticale: Pronom poSessif Personne: Deuxième Nombre: Singulier Cas: Datif Nombre: Singulier Genre: Neutre
+[S-2SGSF] Catégorie grammaticale: Pronom poSessif Personne: Deuxième Nombre: Singulier Cas: Génitif Nombre: Singulier Genre: Féminin
+[S-2SNPM] Catégorie grammaticale: Pronom poSessif Personne: Deuxième Nombre: Singulier Cas: Nominatif Nombre: Pluriel Genre: Masculin
+[S-2SNPN] Catégorie grammaticale: Pronom poSessif Personne: Deuxième Nombre: Singulier Cas: Nominatif Nombre: Pluriel Genre: Neutre
+[S-2SNSM] Catégorie grammaticale: Pronom poSessif Personne: Deuxième Nombre: Singulier Cas: Nominatif Nombre: Singulier Genre: Masculin
+[S-2SNSN] Catégorie grammaticale: Pronom poSessif Personne: Deuxième Nombre: Singulier Cas: Nominatif Nombre: Singulier Genre: Neutre
+[T-APF] Catégorie grammaticale: arTicle défini Cas: Accusatif Nombre: Pluriel Genre: Féminin
+[T-APM] Catégorie grammaticale: arTicle défini Cas: Accusatif Nombre: Pluriel Genre: Masculin
+[T-APN] Catégorie grammaticale: arTicle défini Cas: Accusatif Nombre: Pluriel Genre: Neutre
+[T-ASF] Catégorie grammaticale: arTicle défini Cas: Accusatif Nombre: Singulier Genre: Féminin
+[T-ASM] Catégorie grammaticale: arTicle défini Cas: Accusatif Nombre: Singulier Genre: Masculin
+[T-ASN] Catégorie grammaticale: arTicle défini Cas: Accusatif Nombre: Singulier Genre: Neutre
+[T-DPF] Catégorie grammaticale: arTicle défini Cas: Datif Nombre: Pluriel Genre: Féminin
+[T-DPM] Catégorie grammaticale: arTicle défini Cas: Datif Nombre: Pluriel Genre: Masculin
+[T-DPN] Catégorie grammaticale: arTicle défini Cas: Datif Nombre: Pluriel Genre: Neutre
+[T-DSF] Catégorie grammaticale: arTicle défini Cas: Datif Nombre: Singulier Genre: Féminin
+[T-DSM] Catégorie grammaticale: arTicle défini Cas: Datif Nombre: Singulier Genre: Masculin
+[T-DSN] Catégorie grammaticale: arTicle défini Cas: Datif Nombre: Singulier Genre: Neutre
+[T-GPF] Catégorie grammaticale: arTicle défini Cas: Génitif Nombre: Pluriel Genre: Féminin
+[T-GPM] Catégorie grammaticale: arTicle défini Cas: Génitif Nombre: Pluriel Genre: Masculin
+[T-GPN] Catégorie grammaticale: arTicle défini Cas: Génitif Nombre: Pluriel Genre: Neutre
+[T-GSF] Catégorie grammaticale: arTicle défini Cas: Génitif Nombre: Singulier Genre: Féminin
+[T-GSM] Catégorie grammaticale: arTicle défini Cas: Génitif Nombre: Singulier Genre: Masculin
+[T-GSN] Catégorie grammaticale: arTicle défini Cas: Génitif Nombre: Singulier Genre: Neutre
+[T-NPF] Catégorie grammaticale: arTicle défini Cas: Nominatif Nombre: Pluriel Genre: Féminin
+[T-NPM] Catégorie grammaticale: arTicle défini Cas: Nominatif Nombre: Pluriel Genre: Masculin
+[T-NPN] Catégorie grammaticale: arTicle défini Cas: Nominatif Nombre: Pluriel Genre: Neutre
+[T-NSF] Catégorie grammaticale: arTicle défini Cas: Nominatif Nombre: Singulier Genre: Féminin
+[T-NSM] Catégorie grammaticale: arTicle défini Cas: Nominatif Nombre: Singulier Genre: Masculin
+[T-NSN] Catégorie grammaticale: arTicle défini Cas: Nominatif Nombre: Singulier Genre: Neutre
+[T-VPF] Catégorie grammaticale: arTicle défini Cas: Vocatif Nombre: Pluriel Genre: Féminin
+[T-VPM] Catégorie grammaticale: arTicle défini Cas: Vocatif Nombre: Pluriel Genre: Masculin
+[T-VPN] Catégorie grammaticale: arTicle défini Cas: Vocatif Nombre: Pluriel Genre: Neutre
+[T-VSF] Catégorie grammaticale: arTicle défini Cas: Vocatif Nombre: Singulier Genre: Féminin
+[T-VSM] Catégorie grammaticale: arTicle défini Cas: Vocatif Nombre: Singulier Genre: Masculin
+[T-VSN] Catégorie grammaticale: arTicle défini Cas: Vocatif Nombre: Singulier Genre: Neutre
+[V-2AAI] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Actif Mode: Indicatif équivalent TVM: G5627
+[V-2AAI-1P] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Actif Mode: Indicatif Personne: Première Nombre: Pluriel
+[V-2AAI-1S] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Actif Mode: Indicatif Personne: Première Nombre: Singulier
+[V-2AAI-2P] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Actif Mode: Indicatif Personne: Deuxième Nombre: Pluriel
+[V-2AAI-2S] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Actif Mode: Indicatif Personne: Deuxième Nombre: Singulier
+[V-2AAI-3P] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Actif Mode: Indicatif Personne: Troisième Nombre: Pluriel
+[V-2AAI-3P-ATT] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Actif Mode: Indicatif Personne: Troisième Nombre: Pluriel ATTique
+[V-2AAI-3S] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Actif Mode: Indicatif Personne: Troisième Nombre: Singulier
+[V-2AAM] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Actif Mode: iMpératif équivalent TVM: G5628
+[V-2AAM-2P] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Actif Mode: iMpératif Personne: Deuxième Nombre: Pluriel
+[V-2AAM-2S] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Actif Mode: iMpératif Personne: Deuxième Nombre: Singulier
+[V-2AAM-2S-AP] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Actif Mode: iMpératif Personne: Deuxième Nombre: Singulier Forme apocopée
+[V-2AAM-2S-ATT] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Actif Mode: iMpératif Personne: Deuxième Nombre: Singulier ATTique
+[V-2AAM-3P] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Actif Mode: iMpératif Personne: Troisième Nombre: Pluriel
+[V-2AAM-3S] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Actif Mode: iMpératif Personne: Troisième Nombre: Singulier
+[V-2AAN] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Actif Mode: iNfinitif équivalent TVM: G5629
+[V-2AAO] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Actif Mode: Optatif équivalent TVM: G5630
+[V-2AAO-3P] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Actif Mode: Optatif Personne: Troisième Nombre: Pluriel
+[V-2AAO-3S] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Actif Mode: Optatif Personne: Troisième Nombre: Singulier
+[V-2AAP] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Actif Mode: Participe équivalent TVM: G5631
+[V-2AAP-APF] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Actif Mode: Participe Cas: Accusatif Nombre: Pluriel Genre: Féminin
+[V-2AAP-APM] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Actif Mode: Participe Cas: Accusatif Nombre: Pluriel Genre: Masculin
+[V-2AAP-ASF] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Actif Mode: Participe Cas: Accusatif Nombre: Singulier Genre: Féminin
+[V-2AAP-ASM] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Actif Mode: Participe Cas: Accusatif Nombre: Singulier Genre: Masculin
+[V-2AAP-ASN] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Actif Mode: Participe Cas: Accusatif Nombre: Singulier Genre: Neutre
+[V-2AAP-DPF] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Actif Mode: Participe Cas: Datif Nombre: Pluriel Genre: Féminin
+[V-2AAP-DPM] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Actif Mode: Participe Cas: Datif Nombre: Pluriel Genre: Masculin
+[V-2AAP-DSF] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Actif Mode: Participe Cas: Datif Nombre: Singulier Genre: Féminin
+[V-2AAP-DSM] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Actif Mode: Participe Cas: Datif Nombre: Singulier Genre: Masculin
+[V-2AAP-GPM] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Actif Mode: Participe Cas: Génitif Nombre: Pluriel Genre: Masculin
+[V-2AAP-GSF] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Actif Mode: Participe Cas: Génitif Nombre: Singulier Genre: Féminin
+[V-2AAP-GSM] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Actif Mode: Participe Cas: Génitif Nombre: Singulier Genre: Masculin
+[V-2AAP-GSN] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Actif Mode: Participe Cas: Génitif Nombre: Singulier Genre: Neutre
+[V-2AAP-NPF] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Actif Mode: Participe Cas: Nominatif Nombre: Pluriel Genre: Féminin
+[V-2AAP-NPM] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Actif Mode: Participe Cas: Nominatif Nombre: Pluriel Genre: Masculin
+[V-2AAP-NPN] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Actif Mode: Participe Cas: Nominatif Nombre: Pluriel Genre: Neutre
+[V-2AAP-NSF] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Actif Mode: Participe Cas: Nominatif Nombre: Singulier Genre: Féminin
+[V-2AAP-NSM] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Actif Mode: Participe Cas: Nominatif Nombre: Singulier Genre: Masculin
+[V-2AAP-NSN] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Actif Mode: Participe Cas: Nominatif Nombre: Singulier Genre: Neutre
+[V-2AAS] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Actif Mode: Subjonctif équivalent TVM: G5632
+[V-2AAS-1P] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Actif Mode: Subjonctif Personne: Première Nombre: Pluriel
+[V-2AAS-1S] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Actif Mode: Subjonctif Personne: Première Nombre: Singulier
+[V-2AAS-2P] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Actif Mode: Subjonctif Personne: Deuxième Nombre: Pluriel
+[V-2AAS-2S] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Actif Mode: Subjonctif Personne: Deuxième Nombre: Singulier
+[V-2AAS-3P] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Actif Mode: Subjonctif Personne: Troisième Nombre: Pluriel
+[V-2AAS-3S] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Actif Mode: Subjonctif Personne: Troisième Nombre: Singulier
+[V-2ADI] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Déponent moyen Mode: Indicatif équivalent TVM: G5633
+[V-2ADI-1S] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Déponent moyen Mode: Indicatif Personne: Première Nombre: Singulier
+[V-2ADI-2P] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Déponent moyen Mode: Indicatif Personne: Deuxième Nombre: Pluriel
+[V-2ADI-2S] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Déponent moyen Mode: Indicatif Personne: Deuxième Nombre: Singulier
+[V-2ADI-3P] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Déponent moyen Mode: Indicatif Personne: Troisième Nombre: Pluriel
+[V-2ADI-3S] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Déponent moyen Mode: Indicatif Personne: Troisième Nombre: Singulier
+[V-2ADM] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Déponent moyen Mode: iMpératif équivalent TVM: G5634
+[V-2ADM-2P] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Déponent moyen Mode: iMpératif Personne: Deuxième Nombre: Pluriel
+[V-2ADM-2S] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Déponent moyen Mode: iMpératif Personne: Deuxième Nombre: Singulier
+[V-2ADM-3S] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Déponent moyen Mode: iMpératif Personne: Troisième Nombre: Singulier
+[V-2ADN] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Déponent moyen Mode: iNfinitif équivalent TVM: G5635
+[V-2ADO] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Déponent moyen Mode: Optatif équivalent TVM: G5636
+[V-2ADO-1S] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Déponent moyen Mode: Optatif Personne: Première Nombre: Singulier
+[V-2ADO-3S] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Déponent moyen Mode: Optatif Personne: Troisième Nombre: Singulier
+[V-2ADP] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Déponent moyen Mode: Participe équivalent TVM: G5637
+[V-2ADP-APM] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Déponent moyen Mode: Participe Cas: Accusatif Nombre: Pluriel Genre: Masculin
+[V-2ADP-APN] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Déponent moyen Mode: Participe Cas: Accusatif Nombre: Pluriel Genre: Neutre
+[V-2ADP-ASF] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Déponent moyen Mode: Participe Cas: Accusatif Nombre: Singulier Genre: Féminin
+[V-2ADP-ASM] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Déponent moyen Mode: Participe Cas: Accusatif Nombre: Singulier Genre: Masculin
+[V-2ADP-ASN] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Déponent moyen Mode: Participe Cas: Accusatif Nombre: Singulier Genre: Neutre
+[V-2ADP-DPM] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Déponent moyen Mode: Participe Cas: Datif Nombre: Pluriel Genre: Masculin
+[V-2ADP-DPN] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Déponent moyen Mode: Participe Cas: Datif Nombre: Pluriel Genre: Neutre
+[V-2ADP-GPF] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Déponent moyen Mode: Participe Cas: Génitif Nombre: Pluriel Genre: Féminin
+[V-2ADP-GPM] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Déponent moyen Mode: Participe Cas: Génitif Nombre: Pluriel Genre: Masculin
+[V-2ADP-GPN] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Déponent moyen Mode: Participe Cas: Génitif Nombre: Pluriel Genre: Neutre
+[V-2ADP-GSF] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Déponent moyen Mode: Participe Cas: Génitif Nombre: Singulier Genre: Féminin
+[V-2ADP-GSM] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Déponent moyen Mode: Participe Cas: Génitif Nombre: Singulier Genre: Masculin
+[V-2ADP-GSN] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Déponent moyen Mode: Participe Cas: Génitif Nombre: Singulier Genre: Neutre
+[V-2ADP-NPF] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Déponent moyen Mode: Participe Cas: Nominatif Nombre: Pluriel Genre: Féminin
+[V-2ADP-NPM] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Déponent moyen Mode: Participe Cas: Nominatif Nombre: Pluriel Genre: Masculin
+[V-2ADP-NSM] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Déponent moyen Mode: Participe Cas: Nominatif Nombre: Singulier Genre: Masculin
+[V-2ADS] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Déponent moyen Mode: Subjonctif équivalent TVM: G5638
+[V-2ADS-1P] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Déponent moyen Mode: Subjonctif Personne: Première Nombre: Pluriel
+[V-2ADS-1S] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Déponent moyen Mode: Subjonctif Personne: Première Nombre: Singulier
+[V-2ADS-2P] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Déponent moyen Mode: Subjonctif Personne: Deuxième Nombre: Pluriel
+[V-2ADS-3P] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Déponent moyen Mode: Subjonctif Personne: Troisième Nombre: Pluriel
+[V-2ADS-3S] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Déponent moyen Mode: Subjonctif Personne: Troisième Nombre: Singulier
+[V-2AMI] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Moyen Mode: Indicatif équivalent TVM: G5639
+[V-2AMI-1P] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Moyen Mode: Indicatif Personne: Première Nombre: Pluriel
+[V-2AMI-1S] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Moyen Mode: Indicatif Personne: Première Nombre: Singulier
+[V-2AMI-2P] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Moyen Mode: Indicatif Personne: Deuxième Nombre: Pluriel
+[V-2AMI-2S] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Moyen Mode: Indicatif Personne: Deuxième Nombre: Singulier
+[V-2AMI-3P] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Moyen Mode: Indicatif Personne: Troisième Nombre: Pluriel
+[V-2AMI-3S] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Moyen Mode: Indicatif Personne: Troisième Nombre: Singulier
+[V-2AMM] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Moyen Mode: iMpératif équivalent TVM: G5640
+[V-2AMM-2P] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Moyen Mode: iMpératif Personne: Deuxième Nombre: Pluriel
+[V-2AMM-2S] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Moyen Mode: iMpératif Personne: Deuxième Nombre: Singulier
+[V-2AMN] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Moyen Mode: iNfinitif équivalent TVM: G5641
+[V-2AMP] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Moyen Mode: Participe équivalent TVM: G5642
+[V-2AMP-GSM] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Moyen Mode: Participe Cas: Génitif Nombre: Singulier Genre: Masculin
+[V-2AMP-NPM] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Moyen Mode: Participe Cas: Nominatif Nombre: Pluriel Genre: Masculin
+[V-2AMP-NSM] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Moyen Mode: Participe Cas: Nominatif Nombre: Singulier Genre: Masculin
+[V-2AMS] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Moyen Mode: Subjonctif équivalent TVM: G5643
+[V-2AMS-1P] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Moyen Mode: Subjonctif Personne: Première Nombre: Pluriel
+[V-2AMS-1S] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Moyen Mode: Subjonctif Personne: Première Nombre: Singulier
+[V-2AMS-2S] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Moyen Mode: Subjonctif Personne: Deuxième Nombre: Singulier
+[V-2AMS-3P] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Moyen Mode: Subjonctif Personne: Troisième Nombre: Pluriel
+[V-2AMS-3S] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Moyen Mode: Subjonctif Personne: Troisième Nombre: Singulier
+[V-2AOI] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: dépOnent passif Mode: Indicatif équivalent TVM: G5644
+[V-2AOI-1P] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: dépOnent passif Mode: Indicatif Personne: Première Nombre: Pluriel
+[V-2AOI-1S] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: dépOnent passif Mode: Indicatif Personne: Première Nombre: Singulier
+[V-2AOI-2P] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: dépOnent passif Mode: Indicatif Personne: Deuxième Nombre: Pluriel
+[V-2AOI-3P] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: dépOnent passif Mode: Indicatif Personne: Troisième Nombre: Pluriel
+[V-2AOI-3S] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: dépOnent passif Mode: Indicatif Personne: Troisième Nombre: Singulier
+[V-2AOM] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: dépOnent passif Mode: iMpératif équivalent TVM: G5645
+[V-2AOM-2P] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: dépOnent passif Mode: iMpératif Personne: Deuxième Nombre: Pluriel
+[V-2AON] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: dépOnent passif Mode: iNfinitif équivalent TVM: G5646
+[V-2AOS] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: dépOnent passif Mode: Subjonctif équivalent TVM: G5647
+[V-2AOS-2P] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: dépOnent passif Mode: Subjonctif Personne: Deuxième Nombre: Pluriel
+[V-2API] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Passif Mode: Indicatif équivalent TVM: G5648
+[V-2API-1P] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Passif Mode: Indicatif Personne: Première Nombre: Pluriel
+[V-2API-1S] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Passif Mode: Indicatif Personne: Première Nombre: Singulier
+[V-2API-2P] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Passif Mode: Indicatif Personne: Deuxième Nombre: Pluriel
+[V-2API-2S] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Passif Mode: Indicatif Personne: Deuxième Nombre: Singulier
+[V-2API-3P] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Passif Mode: Indicatif Personne: Troisième Nombre: Pluriel
+[V-2API-3S] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Passif Mode: Indicatif Personne: Troisième Nombre: Singulier
+[V-2APM] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Passif Mode: iMpératif équivalent TVM: G5649
+[V-2APM-2P] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Passif Mode: iMpératif Personne: Deuxième Nombre: Pluriel
+[V-2APM-2S] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Passif Mode: iMpératif Personne: Deuxième Nombre: Singulier
+[V-2APM-3S] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Passif Mode: iMpératif Personne: Troisième Nombre: Singulier
+[V-2APN] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Passif Mode: iNfinitif équivalent TVM: G5650
+[V-2APP] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Passif Mode: Participe équivalent TVM: G5651
+[V-2APP-ASM] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Passif Mode: Participe Cas: Accusatif Nombre: Singulier Genre: Masculin
+[V-2APP-DSN] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Passif Mode: Participe Cas: Datif Nombre: Singulier Genre: Neutre
+[V-2APP-GPM] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Passif Mode: Participe Cas: Génitif Nombre: Pluriel Genre: Masculin
+[V-2APP-NPF] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Passif Mode: Participe Cas: Nominatif Nombre: Pluriel Genre: Féminin
+[V-2APP-NPM] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Passif Mode: Participe Cas: Nominatif Nombre: Pluriel Genre: Masculin
+[V-2APP-NSF] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Passif Mode: Participe Cas: Nominatif Nombre: Singulier Genre: Féminin
+[V-2APP-NSM] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Passif Mode: Participe Cas: Nominatif Nombre: Singulier Genre: Masculin
+[V-2APP-NSN] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Passif Mode: Participe Cas: Nominatif Nombre: Singulier Genre: Neutre
+[V-2APS] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Passif Mode: Subjonctif équivalent TVM: G5652
+[V-2APS-1P] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Passif Mode: Subjonctif Personne: Première Nombre: Pluriel
+[V-2APS-2P] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Passif Mode: Subjonctif Personne: Deuxième Nombre: Pluriel
+[V-2APS-2S] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Passif Mode: Subjonctif Personne: Deuxième Nombre: Singulier
+[V-2APS-3P] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Passif Mode: Subjonctif Personne: Troisième Nombre: Pluriel
+[V-2APS-3S] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: Passif Mode: Subjonctif Personne: Troisième Nombre: Singulier
+[V-2AXM] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: pas de voix établie Mode: iMpératif équivalent TVM: G5653
+[V-2AXM-2P] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: pas de voix établie Mode: iMpératif Personne: Deuxième Nombre: Pluriel
+[V-2AXP] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: pas de voix établie Mode: Participe équivalent TVM: G5654
+[V-2AXP-GPM] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: pas de voix établie Mode: Participe Cas: Génitif Nombre: Pluriel Genre: Masculin
+[V-2AXS] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: pas de voix établie Mode: Subjonctif équivalent TVM: G5655
+[V-2AXS-2P] Catégorie grammaticale: Verbe Temps: Aoristee second Voix: pas de voix établie Mode: Subjonctif Personne: Deuxième Nombre: Pluriel
+[V-2FAI] Catégorie grammaticale: Verbe Temps: Deuxième Futur Voix: Actif Mode: Indicatif équivalent TVM: G5687
+[V-2FAI-1S] Catégorie grammaticale: Verbe Temps: Deuxième Futur Voix: Actif Mode: Indicatif Personne: Première Nombre: Singulier
+[V-2FAI-3S] Catégorie grammaticale: Verbe Temps: Deuxième Futur Voix: Actif Mode: Indicatif Personne: Troisième Nombre: Singulier
+[V-2FDI] Catégorie grammaticale: Verbe Temps: Deuxième Futur Voix: Déponent moyen Mode: Indicatif équivalent TVM: G5688
+[V-2FDI-2S] Catégorie grammaticale: Verbe Temps: Deuxième Futur Voix: Déponent moyen Mode: Indicatif Personne: Deuxième Nombre: Singulier
+[V-2FDI-3P] Catégorie grammaticale: Verbe Temps: Deuxième Futur Voix: Déponent moyen Mode: Indicatif Personne: Troisième Nombre: Pluriel
+[V-2FDI-3S] Catégorie grammaticale: Verbe Temps: Deuxième Futur Voix: Déponent moyen Mode: Indicatif Personne: Troisième Nombre: Singulier
+[V-2FMI] Catégorie grammaticale: Verbe Temps: Deuxième Futur Voix: Moyen Mode: Indicatif équivalent TVM: G5689
+[V-2FMI-3S] Catégorie grammaticale: Verbe Temps: Deuxième Futur Voix: Moyen Mode: Indicatif Personne: Troisième Nombre: Singulier
+[V-2FOI] Catégorie grammaticale: Verbe Temps: Deuxième Futur Voix: dépOnent passif Mode: Indicatif équivalent TVM: G5690
+[V-2FOI-1S] Catégorie grammaticale: Verbe Temps: Deuxième Futur Voix: dépOnent passif Mode: Indicatif Personne: Première Nombre: Singulier
+[V-2FOI-3P] Catégorie grammaticale: Verbe Temps: Deuxième Futur Voix: dépOnent passif Mode: Indicatif Personne: Troisième Nombre: Pluriel
+[V-2FOI-3S] Catégorie grammaticale: Verbe Temps: Deuxième Futur Voix: dépOnent passif Mode: Indicatif Personne: Troisième Nombre: Singulier
+[V-2FPI] Catégorie grammaticale: Verbe Temps: Deuxième Futur Voix: Passif Mode: Indicatif équivalent TVM: G5691
+[V-2FPI-1P] Catégorie grammaticale: Verbe Temps: Deuxième Futur Voix: Passif Mode: Indicatif Personne: Première Nombre: Pluriel
+[V-2FPI-2P] Catégorie grammaticale: Verbe Temps: Deuxième Futur Voix: Passif Mode: Indicatif Personne: Deuxième Nombre: Pluriel
+[V-2FPI-2S] Catégorie grammaticale: Verbe Temps: Deuxième Futur Voix: Passif Mode: Indicatif Personne: Deuxième Nombre: Singulier
+[V-2FPI-3P] Catégorie grammaticale: Verbe Temps: Deuxième Futur Voix: Passif Mode: Indicatif Personne: Troisième Nombre: Pluriel
+[V-2FPI-3S] Catégorie grammaticale: Verbe Temps: Deuxième Futur Voix: Passif Mode: Indicatif Personne: Troisième Nombre: Singulier
+[V-2LAI] Catégorie grammaticale: Verbe Temps: Deuxième pLus-que-parfait Voix: Actif Mode: Indicatif équivalent TVM: G5714
+[V-2LAI-1S] Catégorie grammaticale: Verbe Temps: Deuxième pLus-que-parfait Voix: Actif Mode: Indicatif Personne: Première Nombre: Singulier
+[V-2LAI-2P] Catégorie grammaticale: Verbe Temps: Deuxième pLus-que-parfait Voix: Actif Mode: Indicatif Personne: Deuxième Nombre: Pluriel
+[V-2LAI-2S] Catégorie grammaticale: Verbe Temps: Deuxième pLus-que-parfait Voix: Actif Mode: Indicatif Personne: Deuxième Nombre: Singulier
+[V-2LAI-3P] Catégorie grammaticale: Verbe Temps: Deuxième pLus-que-parfait Voix: Actif Mode: Indicatif Personne: Troisième Nombre: Pluriel
+[V-2LAI-3S] Catégorie grammaticale: Verbe Temps: Deuxième pLus-que-parfait Voix: Actif Mode: Indicatif Personne: Troisième Nombre: Singulier
+[V-2RAI] Catégorie grammaticale: Verbe Temps: Deuxième paRfait Voix: Actif Mode: Indicatif équivalent TVM: G5754
+[V-2RAI-1P] Catégorie grammaticale: Verbe Temps: Deuxième paRfait Voix: Actif Mode: Indicatif Personne: Première Nombre: Pluriel
+[V-2RAI-1P-ATT] Catégorie grammaticale: Verbe Temps: Deuxième paRfait Voix: Actif Mode: Indicatif Personne: Première Nombre: Pluriel ATTique
+[V-2RAI-1S] Catégorie grammaticale: Verbe Temps: Deuxième paRfait Voix: Actif Mode: Indicatif Personne: Première Nombre: Singulier
+[V-2RAI-2P] Catégorie grammaticale: Verbe Temps: Deuxième paRfait Voix: Actif Mode: Indicatif Personne: Deuxième Nombre: Pluriel
+[V-2RAI-2P-ATT] Catégorie grammaticale: Verbe Temps: Deuxième paRfait Voix: Actif Mode: Indicatif Personne: Deuxième Nombre: Pluriel ATTique
+[V-2RAI-2S] Catégorie grammaticale: Verbe Temps: Deuxième paRfait Voix: Actif Mode: Indicatif Personne: Deuxième Nombre: Singulier
+[V-2RAI-3P] Catégorie grammaticale: Verbe Temps: Deuxième paRfait Voix: Actif Mode: Indicatif Personne: Troisième Nombre: Pluriel
+[V-2RAI-3P-ATT] Catégorie grammaticale: Verbe Temps: Deuxième paRfait Voix: Actif Mode: Indicatif Personne: Troisième Nombre: Pluriel ATTique
+[V-2RAI-3P-C] Catégorie grammaticale: Verbe Temps: Deuxième paRfait Voix: Actif Mode: Indicatif Personne: Troisième Nombre: Pluriel Forme contractuelle
+[V-2RAI-3S] Catégorie grammaticale: Verbe Temps: Deuxième paRfait Voix: Actif Mode: Indicatif Personne: Troisième Nombre: Singulier
+[V-2RAI-3S-ATT] Catégorie grammaticale: Verbe Temps: Deuxième paRfait Voix: Actif Mode: Indicatif Personne: Troisième Nombre: Singulier ATTique
+[V-2RAN] Catégorie grammaticale: Verbe Temps: Deuxième paRfait Voix: Actif Mode: iNfinitif équivalent TVM: G5755
+[V-2RAP] Catégorie grammaticale: Verbe Temps: Deuxième paRfait Voix: Actif Mode: Participe équivalent TVM: G5756
+[V-2RAP-APM] Catégorie grammaticale: Verbe Temps: Deuxième paRfait Voix: Actif Mode: Participe Cas: Accusatif Nombre: Pluriel Genre: Masculin
+[V-2RAP-APM-ATT] Catégorie grammaticale: Verbe Temps: Deuxième paRfait Voix: Actif Mode: Participe Cas: Accusatif Nombre: Pluriel Genre: Masculin ATTique
+[V-2RAP-APN] Catégorie grammaticale: Verbe Temps: Deuxième paRfait Voix: Actif Mode: Participe Cas: Accusatif Nombre: Pluriel Genre: Neutre
+[V-2RAP-ASF] Catégorie grammaticale: Verbe Temps: Deuxième paRfait Voix: Actif Mode: Participe Cas: Accusatif Nombre: Singulier Genre: Féminin
+[V-2RAP-ASM] Catégorie grammaticale: Verbe Temps: Deuxième paRfait Voix: Actif Mode: Participe Cas: Accusatif Nombre: Singulier Genre: Masculin
+[V-2RAP-ASN] Catégorie grammaticale: Verbe Temps: Deuxième paRfait Voix: Actif Mode: Participe Cas: Accusatif Nombre: Singulier Genre: Neutre
+[V-2RAP-DSN] Catégorie grammaticale: Verbe Temps: Deuxième paRfait Voix: Actif Mode: Participe Cas: Datif Nombre: Singulier Genre: Neutre
+[V-2RAP-NPF] Catégorie grammaticale: Verbe Temps: Deuxième paRfait Voix: Actif Mode: Participe Cas: Nominatif Nombre: Pluriel Genre: Féminin
+[V-2RAP-NPM] Catégorie grammaticale: Verbe Temps: Deuxième paRfait Voix: Actif Mode: Participe Cas: Nominatif Nombre: Pluriel Genre: Masculin
+[V-2RAP-NSF] Catégorie grammaticale: Verbe Temps: Deuxième paRfait Voix: Actif Mode: Participe Cas: Nominatif Nombre: Singulier Genre: Féminin
+[V-2RAP-NSM] Catégorie grammaticale: Verbe Temps: Deuxième paRfait Voix: Actif Mode: Participe Cas: Nominatif Nombre: Singulier Genre: Masculin
+[V-2RAP-NSN] Catégorie grammaticale: Verbe Temps: Deuxième paRfait Voix: Actif Mode: Participe Cas: Nominatif Nombre: Singulier Genre: Neutre
+[V-2RPP] Catégorie grammaticale: Verbe Temps: Deuxième paRfait Voix: Passif Mode: Participe équivalent TVM: G5757
+[V-2RPP-ASM] Catégorie grammaticale: Verbe Temps: Deuxième paRfait Voix: Passif Mode: Participe Cas: Accusatif Nombre: Singulier Genre: Masculin
+[V-2RPP-ASN] Catégorie grammaticale: Verbe Temps: Deuxième paRfait Voix: Passif Mode: Participe Cas: Accusatif Nombre: Singulier Genre: Neutre
+[V-AAI] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Actif Mode: Indicatif équivalent TVM: G5656
+[V-AAI-1P] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Actif Mode: Indicatif Personne: Première Nombre: Pluriel
+[V-AAI-1S] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Actif Mode: Indicatif Personne: Première Nombre: Singulier
+[V-AAI-2P] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Actif Mode: Indicatif Personne: Deuxième Nombre: Pluriel
+[V-AAI-2S] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Actif Mode: Indicatif Personne: Deuxième Nombre: Singulier
+[V-AAI-3P] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Actif Mode: Indicatif Personne: Troisième Nombre: Pluriel
+[V-AAI-3S] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Actif Mode: Indicatif Personne: Troisième Nombre: Singulier
+[V-AAM] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Actif Mode: iMpératif équivalent TVM: G5657
+[V-AAM-2P] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Actif Mode: iMpératif Personne: Deuxième Nombre: Pluriel
+[V-AAM-2S] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Actif Mode: iMpératif Personne: Deuxième Nombre: Singulier
+[V-AAM-3P] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Actif Mode: iMpératif Personne: Troisième Nombre: Pluriel
+[V-AAM-3S] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Actif Mode: iMpératif Personne: Troisième Nombre: Singulier
+[V-AAN] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Actif Mode: iNfinitif équivalent TVM: G5658
+[V-AAO] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Actif Mode: Optatif équivalent TVM: G5659
+[V-AAO-3P] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Actif Mode: Optatif Personne: Troisième Nombre: Pluriel
+[V-AAO-3P-A] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Actif Mode: Optatif Personne: Troisième Nombre: Pluriel Éolique
+[V-AAO-3S] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Actif Mode: Optatif Personne: Troisième Nombre: Singulier
+[V-AAP] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Actif Mode: Participe équivalent TVM: G5660
+[V-AAP-APF] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Actif Mode: Participe Cas: Accusatif Nombre: Pluriel Genre: Féminin
+[V-AAP-APM] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Actif Mode: Participe Cas: Accusatif Nombre: Pluriel Genre: Masculin
+[V-AAP-APN] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Actif Mode: Participe Cas: Accusatif Nombre: Pluriel Genre: Neutre
+[V-AAP-ASF] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Actif Mode: Participe Cas: Accusatif Nombre: Singulier Genre: Féminin
+[V-AAP-ASM] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Actif Mode: Participe Cas: Accusatif Nombre: Singulier Genre: Masculin
+[V-AAP-ASN] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Actif Mode: Participe Cas: Accusatif Nombre: Singulier Genre: Neutre
+[V-AAP-DPF] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Actif Mode: Participe Cas: Datif Nombre: Pluriel Genre: Féminin
+[V-AAP-DPM] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Actif Mode: Participe Cas: Datif Nombre: Pluriel Genre: Masculin
+[V-AAP-DSF] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Actif Mode: Participe Cas: Datif Nombre: Singulier Genre: Féminin
+[V-AAP-DSM] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Actif Mode: Participe Cas: Datif Nombre: Singulier Genre: Masculin
+[V-AAP-GPM] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Actif Mode: Participe Cas: Génitif Nombre: Pluriel Genre: Masculin
+[V-AAP-GSF] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Actif Mode: Participe Cas: Génitif Nombre: Singulier Genre: Féminin
+[V-AAP-GSM] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Actif Mode: Participe Cas: Génitif Nombre: Singulier Genre: Masculin
+[V-AAP-GSN] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Actif Mode: Participe Cas: Génitif Nombre: Singulier Genre: Neutre
+[V-AAP-NPF] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Actif Mode: Participe Cas: Nominatif Nombre: Pluriel Genre: Féminin
+[V-AAP-NPM] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Actif Mode: Participe Cas: Nominatif Nombre: Pluriel Genre: Masculin
+[V-AAP-NPN] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Actif Mode: Participe Cas: Nominatif Nombre: Pluriel Genre: Neutre
+[V-AAP-NSF] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Actif Mode: Participe Cas: Nominatif Nombre: Singulier Genre: Féminin
+[V-AAP-NSM] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Actif Mode: Participe Cas: Nominatif Nombre: Singulier Genre: Masculin
+[V-AAP-NSN] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Actif Mode: Participe Cas: Nominatif Nombre: Singulier Genre: Neutre
+[V-AAS] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Actif Mode: Subjonctif équivalent TVM: G5661
+[V-AAS-1P] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Actif Mode: Subjonctif Personne: Première Nombre: Pluriel
+[V-AAS-1S] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Actif Mode: Subjonctif Personne: Première Nombre: Singulier
+[V-AAS-2P] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Actif Mode: Subjonctif Personne: Deuxième Nombre: Pluriel
+[V-AAS-2S] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Actif Mode: Subjonctif Personne: Deuxième Nombre: Singulier
+[V-AAS-3P] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Actif Mode: Subjonctif Personne: Troisième Nombre: Pluriel
+[V-AAS-3S] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Actif Mode: Subjonctif Personne: Troisième Nombre: Singulier
+[V-ADI] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Déponent moyen Mode: Indicatif équivalent TVM: G5662
+[V-ADI-1P] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Déponent moyen Mode: Indicatif Personne: Première Nombre: Pluriel
+[V-ADI-1S] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Déponent moyen Mode: Indicatif Personne: Première Nombre: Singulier
+[V-ADI-2P] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Déponent moyen Mode: Indicatif Personne: Deuxième Nombre: Pluriel
+[V-ADI-2S] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Déponent moyen Mode: Indicatif Personne: Deuxième Nombre: Singulier
+[V-ADI-3P] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Déponent moyen Mode: Indicatif Personne: Troisième Nombre: Pluriel
+[V-ADI-3S] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Déponent moyen Mode: Indicatif Personne: Troisième Nombre: Singulier
+[V-ADM] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Déponent moyen Mode: iMpératif équivalent TVM: G5663
+[V-ADM-2P] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Déponent moyen Mode: iMpératif Personne: Deuxième Nombre: Pluriel
+[V-ADM-2S] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Déponent moyen Mode: iMpératif Personne: Deuxième Nombre: Singulier
+[V-ADM-3P] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Déponent moyen Mode: iMpératif Personne: Troisième Nombre: Pluriel
+[V-ADM-3S] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Déponent moyen Mode: iMpératif Personne: Troisième Nombre: Singulier
+[V-ADN] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Déponent moyen Mode: iNfinitif équivalent TVM: G5664
+[V-ADO] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Déponent moyen Mode: Optatif équivalent TVM: G5665
+[V-ADO-1S] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Déponent moyen Mode: Optatif Personne: Première Nombre: Singulier
+[V-ADP] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Déponent moyen Mode: Participe équivalent TVM: G5666
+[V-ADP-APM] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Déponent moyen Mode: Participe Cas: Accusatif Nombre: Pluriel Genre: Masculin
+[V-ADP-ASM] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Déponent moyen Mode: Participe Cas: Accusatif Nombre: Singulier Genre: Masculin
+[V-ADP-DPM] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Déponent moyen Mode: Participe Cas: Datif Nombre: Pluriel Genre: Masculin
+[V-ADP-GSF] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Déponent moyen Mode: Participe Cas: Génitif Nombre: Singulier Genre: Féminin
+[V-ADP-NPM] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Déponent moyen Mode: Participe Cas: Nominatif Nombre: Pluriel Genre: Masculin
+[V-ADP-NSF] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Déponent moyen Mode: Participe Cas: Nominatif Nombre: Singulier Genre: Féminin
+[V-ADP-NSM] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Déponent moyen Mode: Participe Cas: Nominatif Nombre: Singulier Genre: Masculin
+[V-ADS] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Déponent moyen Mode: Subjonctif équivalent TVM: G5667
+[V-ADS-1P] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Déponent moyen Mode: Subjonctif Personne: Première Nombre: Pluriel
+[V-ADS-1S] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Déponent moyen Mode: Subjonctif Personne: Première Nombre: Singulier
+[V-ADS-2P] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Déponent moyen Mode: Subjonctif Personne: Deuxième Nombre: Pluriel
+[V-ADS-2S] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Déponent moyen Mode: Subjonctif Personne: Deuxième Nombre: Singulier
+[V-ADS-3P] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Déponent moyen Mode: Subjonctif Personne: Troisième Nombre: Pluriel
+[V-ADS-3S] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Déponent moyen Mode: Subjonctif Personne: Troisième Nombre: Singulier
+[V-AMI] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Moyen Mode: Indicatif équivalent TVM: G5668
+[V-AMI-1P] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Moyen Mode: Indicatif Personne: Première Nombre: Pluriel
+[V-AMI-1S] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Moyen Mode: Indicatif Personne: Première Nombre: Singulier
+[V-AMI-2P] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Moyen Mode: Indicatif Personne: Deuxième Nombre: Pluriel
+[V-AMI-2S] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Moyen Mode: Indicatif Personne: Deuxième Nombre: Singulier
+[V-AMI-3P] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Moyen Mode: Indicatif Personne: Troisième Nombre: Pluriel
+[V-AMI-3S] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Moyen Mode: Indicatif Personne: Troisième Nombre: Singulier
+[V-AMM] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Moyen Mode: iMpératif équivalent TVM: G5669
+[V-AMM-2P] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Moyen Mode: iMpératif Personne: Deuxième Nombre: Pluriel
+[V-AMM-2S] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Moyen Mode: iMpératif Personne: Deuxième Nombre: Singulier
+[V-AMM-3P] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Moyen Mode: iMpératif Personne: Troisième Nombre: Pluriel
+[V-AMM-3S] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Moyen Mode: iMpératif Personne: Troisième Nombre: Singulier
+[V-AMN] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Moyen Mode: iNfinitif équivalent TVM: G5670
+[V-AMO-1S] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Moyen Mode: Optatif Personne: Première Nombre: Singulier
+[V-AMO-3S] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Moyen Mode: Optatif Personne: Troisième Nombre: Singulier
+[V-AMP] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Moyen Mode: Participe équivalent TVM: G5671
+[V-AMP-APM] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Moyen Mode: Participe Cas: Accusatif Nombre: Pluriel Genre: Masculin
+[V-AMP-APN] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Moyen Mode: Participe Cas: Accusatif Nombre: Pluriel Genre: Neutre
+[V-AMP-ASF] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Moyen Mode: Participe Cas: Accusatif Nombre: Singulier Genre: Féminin
+[V-AMP-ASM] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Moyen Mode: Participe Cas: Accusatif Nombre: Singulier Genre: Masculin
+[V-AMP-ASN] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Moyen Mode: Participe Cas: Accusatif Nombre: Singulier Genre: Neutre
+[V-AMP-DPM] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Moyen Mode: Participe Cas: Datif Nombre: Pluriel Genre: Masculin
+[V-AMP-DPN] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Moyen Mode: Participe Cas: Datif Nombre: Pluriel Genre: Neutre
+[V-AMP-GPF] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Moyen Mode: Participe Cas: Génitif Nombre: Pluriel Genre: Féminin
+[V-AMP-GPM] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Moyen Mode: Participe Cas: Génitif Nombre: Pluriel Genre: Masculin
+[V-AMP-GPN] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Moyen Mode: Participe Cas: Génitif Nombre: Pluriel Genre: Neutre
+[V-AMP-GSF] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Moyen Mode: Participe Cas: Génitif Nombre: Singulier Genre: Féminin
+[V-AMP-GSM] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Moyen Mode: Participe Cas: Génitif Nombre: Singulier Genre: Masculin
+[V-AMP-GSN] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Moyen Mode: Participe Cas: Génitif Nombre: Singulier Genre: Neutre
+[V-AMP-NPF] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Moyen Mode: Participe Cas: Nominatif Nombre: Pluriel Genre: Féminin
+[V-AMP-NPM] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Moyen Mode: Participe Cas: Nominatif Nombre: Pluriel Genre: Masculin
+[V-AMP-NSF] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Moyen Mode: Participe Cas: Nominatif Nombre: Singulier Genre: Féminin
+[V-AMP-NSM] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Moyen Mode: Participe Cas: Nominatif Nombre: Singulier Genre: Masculin
+[V-AMP-NSN] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Moyen Mode: Participe Cas: Nominatif Nombre: Singulier Genre: Neutre
+[V-AMS] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Moyen Mode: Subjonctif équivalent TVM: G5672
+[V-AMS-1P] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Moyen Mode: Subjonctif Personne: Première Nombre: Pluriel
+[V-AMS-1S] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Moyen Mode: Subjonctif Personne: Première Nombre: Singulier
+[V-AMS-2P] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Moyen Mode: Subjonctif Personne: Deuxième Nombre: Pluriel
+[V-AMS-2S] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Moyen Mode: Subjonctif Personne: Deuxième Nombre: Singulier
+[V-AMS-3P] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Moyen Mode: Subjonctif Personne: Troisième Nombre: Pluriel
+[V-AMS-3S] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Moyen Mode: Subjonctif Personne: Troisième Nombre: Singulier
+[V-ANI] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Déponent moyen ou passif Mode: Indicatif équivalent TVM: G5673
+[V-ANI-3P] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Déponent moyen ou passif Mode: Indicatif Personne: Troisième Nombre: Pluriel
+[V-ANI-3S] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Déponent moyen ou passif Mode: Indicatif Personne: Troisième Nombre: Singulier
+[V-ANP] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Déponent moyen ou passif Mode: Participe équivalent TVM: G5674
+[V-ANP-NSM] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Déponent moyen ou passif Mode: Participe Cas: Nominatif Nombre: Singulier Genre: Masculin
+[V-ANP-NSN] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Déponent moyen ou passif Mode: Participe Cas: Nominatif Nombre: Singulier Genre: Neutre
+[V-AOI] Catégorie grammaticale: Verbe Temps: Aoriste Voix: dépOnent passif Mode: Indicatif équivalent TVM: G5675
+[V-AOI-1P] Catégorie grammaticale: Verbe Temps: Aoriste Voix: dépOnent passif Mode: Indicatif Personne: Première Nombre: Pluriel
+[V-AOI-1P-ATT] Catégorie grammaticale: Verbe Temps: Aoriste Voix: dépOnent passif Mode: Indicatif Personne: Première Nombre: Pluriel ATTique
+[V-AOI-1S] Catégorie grammaticale: Verbe Temps: Aoriste Voix: dépOnent passif Mode: Indicatif Personne: Première Nombre: Singulier
+[V-AOI-1S-ATT] Catégorie grammaticale: Verbe Temps: Aoriste Voix: dépOnent passif Mode: Indicatif Personne: Première Nombre: Singulier ATTique
+[V-AOI-2P] Catégorie grammaticale: Verbe Temps: Aoriste Voix: dépOnent passif Mode: Indicatif Personne: Deuxième Nombre: Pluriel
+[V-AOI-2P-ATT] Catégorie grammaticale: Verbe Temps: Aoriste Voix: dépOnent passif Mode: Indicatif Personne: Deuxième Nombre: Pluriel ATTique
+[V-AOI-3P] Catégorie grammaticale: Verbe Temps: Aoriste Voix: dépOnent passif Mode: Indicatif Personne: Troisième Nombre: Pluriel
+[V-AOI-3P-ATT] Catégorie grammaticale: Verbe Temps: Aoriste Voix: dépOnent passif Mode: Indicatif Personne: Troisième Nombre: Pluriel ATTique
+[V-AOI-3S] Catégorie grammaticale: Verbe Temps: Aoriste Voix: dépOnent passif Mode: Indicatif Personne: Troisième Nombre: Singulier
+[V-AOI-3S-ATT] Catégorie grammaticale: Verbe Temps: Aoriste Voix: dépOnent passif Mode: Indicatif Personne: Troisième Nombre: Singulier ATTique
+[V-AOM] Catégorie grammaticale: Verbe Temps: Aoriste Voix: dépOnent passif Mode: iMpératif équivalent TVM: G5676
+[V-AOM-2P] Catégorie grammaticale: Verbe Temps: Aoriste Voix: dépOnent passif Mode: iMpératif Personne: Deuxième Nombre: Pluriel
+[V-AOM-2S] Catégorie grammaticale: Verbe Temps: Aoriste Voix: dépOnent passif Mode: iMpératif Personne: Deuxième Nombre: Singulier
+[V-AOM-3S] Catégorie grammaticale: Verbe Temps: Aoriste Voix: dépOnent passif Mode: iMpératif Personne: Troisième Nombre: Singulier
+[V-AON] Catégorie grammaticale: Verbe Temps: Aoriste Voix: dépOnent passif Mode: iNfinitif équivalent TVM: G5677
+[V-AOO] Catégorie grammaticale: Verbe Temps: Aoriste Voix: dépOnent passif Mode: Optatif équivalent TVM: G5678
+[V-AOO-3S] Catégorie grammaticale: Verbe Temps: Aoriste Voix: dépOnent passif Mode: Optatif Personne: Troisième Nombre: Singulier
+[V-AOP] Catégorie grammaticale: Verbe Temps: Aoriste Voix: dépOnent passif Mode: Participe équivalent TVM: G5679
+[V-AOP-APM] Catégorie grammaticale: Verbe Temps: Aoriste Voix: dépOnent passif Mode: Participe Cas: Accusatif Nombre: Pluriel Genre: Masculin
+[V-AOP-ASM] Catégorie grammaticale: Verbe Temps: Aoriste Voix: dépOnent passif Mode: Participe Cas: Accusatif Nombre: Singulier Genre: Masculin
+[V-AOP-DSM] Catégorie grammaticale: Verbe Temps: Aoriste Voix: dépOnent passif Mode: Participe Cas: Datif Nombre: Singulier Genre: Masculin
+[V-AOP-GPM] Catégorie grammaticale: Verbe Temps: Aoriste Voix: dépOnent passif Mode: Participe Cas: Génitif Nombre: Pluriel Genre: Masculin
+[V-AOP-GPN] Catégorie grammaticale: Verbe Temps: Aoriste Voix: dépOnent passif Mode: Participe Cas: Génitif Nombre: Pluriel Genre: Neutre
+[V-AOP-GSM] Catégorie grammaticale: Verbe Temps: Aoriste Voix: dépOnent passif Mode: Participe Cas: Génitif Nombre: Singulier Genre: Masculin
+[V-AOP-NPF] Catégorie grammaticale: Verbe Temps: Aoriste Voix: dépOnent passif Mode: Participe Cas: Nominatif Nombre: Pluriel Genre: Féminin
+[V-AOP-NPM] Catégorie grammaticale: Verbe Temps: Aoriste Voix: dépOnent passif Mode: Participe Cas: Nominatif Nombre: Pluriel Genre: Masculin
+[V-AOP-NSF] Catégorie grammaticale: Verbe Temps: Aoriste Voix: dépOnent passif Mode: Participe Cas: Nominatif Nombre: Singulier Genre: Féminin
+[V-AOP-NSM] Catégorie grammaticale: Verbe Temps: Aoriste Voix: dépOnent passif Mode: Participe Cas: Nominatif Nombre: Singulier Genre: Masculin
+[V-AOP-NSN] Catégorie grammaticale: Verbe Temps: Aoriste Voix: dépOnent passif Mode: Participe Cas: Nominatif Nombre: Singulier Genre: Neutre
+[V-AOS] Catégorie grammaticale: Verbe Temps: Aoriste Voix: dépOnent passif Mode: Subjonctif équivalent TVM: G5680
+[V-AOS-1P] Catégorie grammaticale: Verbe Temps: Aoriste Voix: dépOnent passif Mode: Subjonctif Personne: Première Nombre: Pluriel
+[V-AOS-1S] Catégorie grammaticale: Verbe Temps: Aoriste Voix: dépOnent passif Mode: Subjonctif Personne: Première Nombre: Singulier
+[V-AOS-2P] Catégorie grammaticale: Verbe Temps: Aoriste Voix: dépOnent passif Mode: Subjonctif Personne: Deuxième Nombre: Pluriel
+[V-AOS-2S] Catégorie grammaticale: Verbe Temps: Aoriste Voix: dépOnent passif Mode: Subjonctif Personne: Deuxième Nombre: Singulier
+[V-AOS-3P] Catégorie grammaticale: Verbe Temps: Aoriste Voix: dépOnent passif Mode: Subjonctif Personne: Troisième Nombre: Pluriel
+[V-AOS-3S] Catégorie grammaticale: Verbe Temps: Aoriste Voix: dépOnent passif Mode: Subjonctif Personne: Troisième Nombre: Singulier
+[V-API] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Passif Mode: Indicatif équivalent TVM: G5681
+[V-API-1P] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Passif Mode: Indicatif Personne: Première Nombre: Pluriel
+[V-API-1S] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Passif Mode: Indicatif Personne: Première Nombre: Singulier
+[V-API-2P] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Passif Mode: Indicatif Personne: Deuxième Nombre: Pluriel
+[V-API-2S] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Passif Mode: Indicatif Personne: Deuxième Nombre: Singulier
+[V-API-3P] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Passif Mode: Indicatif Personne: Troisième Nombre: Pluriel
+[V-API-3S] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Passif Mode: Indicatif Personne: Troisième Nombre: Singulier
+[V-API-3S-M] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Passif Mode: Indicatif Personne: Troisième Nombre: Singulier Signification moyenne
+[V-APM] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Passif Mode: iMpératif équivalent TVM: G5682
+[V-APM-2P] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Passif Mode: iMpératif Personne: Deuxième Nombre: Pluriel
+[V-APM-2S] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Passif Mode: iMpératif Personne: Deuxième Nombre: Singulier
+[V-APM-3P] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Passif Mode: iMpératif Personne: Troisième Nombre: Pluriel
+[V-APM-3S] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Passif Mode: iMpératif Personne: Troisième Nombre: Singulier
+[V-APN] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Passif Mode: iNfinitif équivalent TVM: G5683
+[V-APN-M] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Passif Mode: iNfinitif Signification moyenne
+[V-APO] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Passif Mode: Optatif équivalent TVM: G5684
+[V-APO-3S] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Passif Mode: Optatif Personne: Troisième Nombre: Singulier
+[V-APP] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Passif Mode: Participe équivalent TVM: G5685
+[V-APP-APM] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Passif Mode: Participe Cas: Accusatif Nombre: Pluriel Genre: Masculin
+[V-APP-APN] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Passif Mode: Participe Cas: Accusatif Nombre: Pluriel Genre: Neutre
+[V-APP-ASF] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Passif Mode: Participe Cas: Accusatif Nombre: Singulier Genre: Féminin
+[V-APP-ASM] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Passif Mode: Participe Cas: Accusatif Nombre: Singulier Genre: Masculin
+[V-APP-ASN] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Passif Mode: Participe Cas: Accusatif Nombre: Singulier Genre: Neutre
+[V-APP-DPN] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Passif Mode: Participe Cas: Datif Nombre: Pluriel Genre: Neutre
+[V-APP-DSF] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Passif Mode: Participe Cas: Datif Nombre: Singulier Genre: Féminin
+[V-APP-DSM] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Passif Mode: Participe Cas: Datif Nombre: Singulier Genre: Masculin
+[V-APP-DSN] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Passif Mode: Participe Cas: Datif Nombre: Singulier Genre: Neutre
+[V-APP-GPF] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Passif Mode: Participe Cas: Génitif Nombre: Pluriel Genre: Féminin
+[V-APP-GPM] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Passif Mode: Participe Cas: Génitif Nombre: Pluriel Genre: Masculin
+[V-APP-GPN] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Passif Mode: Participe Cas: Génitif Nombre: Pluriel Genre: Neutre
+[V-APP-GSF] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Passif Mode: Participe Cas: Génitif Nombre: Singulier Genre: Féminin
+[V-APP-GSM] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Passif Mode: Participe Cas: Génitif Nombre: Singulier Genre: Masculin
+[V-APP-GSN] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Passif Mode: Participe Cas: Génitif Nombre: Singulier Genre: Neutre
+[V-APP-NPF] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Passif Mode: Participe Cas: Nominatif Nombre: Pluriel Genre: Féminin
+[V-APP-NPM] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Passif Mode: Participe Cas: Nominatif Nombre: Pluriel Genre: Masculin
+[V-APP-NPN] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Passif Mode: Participe Cas: Nominatif Nombre: Pluriel Genre: Neutre
+[V-APP-NSF] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Passif Mode: Participe Cas: Nominatif Nombre: Singulier Genre: Féminin
+[V-APP-NSM] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Passif Mode: Participe Cas: Nominatif Nombre: Singulier Genre: Masculin
+[V-APP-NSM-M] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Passif Mode: Participe Cas: Nominatif Nombre: Singulier Genre: Masculin Signification moyenne
+[V-APP-NSN] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Passif Mode: Participe Cas: Nominatif Nombre: Singulier Genre: Neutre
+[V-APS] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Passif Mode: Subjonctif équivalent TVM: G5686
+[V-APS-1P] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Passif Mode: Subjonctif Personne: Première Nombre: Pluriel
+[V-APS-1S] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Passif Mode: Subjonctif Personne: Première Nombre: Singulier
+[V-APS-2P] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Passif Mode: Subjonctif Personne: Deuxième Nombre: Pluriel
+[V-APS-2S] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Passif Mode: Subjonctif Personne: Deuxième Nombre: Singulier
+[V-APS-3P] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Passif Mode: Subjonctif Personne: Troisième Nombre: Pluriel
+[V-APS-3S] Catégorie grammaticale: Verbe Temps: Aoriste Voix: Passif Mode: Subjonctif Personne: Troisième Nombre: Singulier
+[V-FAI] Catégorie grammaticale: Verbe Temps: Futur Voix: Actif Mode: Indicatif équivalent TVM: G5692
+[V-FAI-1P] Catégorie grammaticale: Verbe Temps: Futur Voix: Actif Mode: Indicatif Personne: Première Nombre: Pluriel
+[V-FAI-1S] Catégorie grammaticale: Verbe Temps: Futur Voix: Actif Mode: Indicatif Personne: Première Nombre: Singulier
+[V-FAI-1S-ATT] Catégorie grammaticale: Verbe Temps: Futur Voix: Actif Mode: Indicatif Personne: Première Nombre: Singulier ATTique
+[V-FAI-2P] Catégorie grammaticale: Verbe Temps: Futur Voix: Actif Mode: Indicatif Personne: Deuxième Nombre: Pluriel
+[V-FAI-2S] Catégorie grammaticale: Verbe Temps: Futur Voix: Actif Mode: Indicatif Personne: Deuxième Nombre: Singulier
+[V-FAI-3P] Catégorie grammaticale: Verbe Temps: Futur Voix: Actif Mode: Indicatif Personne: Troisième Nombre: Pluriel
+[V-FAI-3P-ATT] Catégorie grammaticale: Verbe Temps: Futur Voix: Actif Mode: Indicatif Personne: Troisième Nombre: Pluriel ATTique
+[V-FAI-3S] Catégorie grammaticale: Verbe Temps: Futur Voix: Actif Mode: Indicatif Personne: Troisième Nombre: Singulier
+[V-FAI-3S-ATT] Catégorie grammaticale: Verbe Temps: Futur Voix: Actif Mode: Indicatif Personne: Troisième Nombre: Singulier ATTique
+[V-FAN] Catégorie grammaticale: Verbe Temps: Futur Voix: Actif Mode: iNfinitif équivalent TVM: G5693
+[V-FAP] Catégorie grammaticale: Verbe Temps: Futur Voix: Actif Mode: Participe équivalent TVM: G5694
+[V-FAP-APN] Catégorie grammaticale: Verbe Temps: Futur Voix: Actif Mode: Participe Cas: Accusatif Nombre: Pluriel Genre: Neutre
+[V-FAP-GPM] Catégorie grammaticale: Verbe Temps: Futur Voix: Actif Mode: Participe Cas: Génitif Nombre: Pluriel Genre: Masculin
+[V-FAP-NPM] Catégorie grammaticale: Verbe Temps: Futur Voix: Actif Mode: Participe Cas: Nominatif Nombre: Pluriel Genre: Masculin
+[V-FAP-NSM] Catégorie grammaticale: Verbe Temps: Futur Voix: Actif Mode: Participe Cas: Nominatif Nombre: Singulier Genre: Masculin
+[V-FAS-1S] Catégorie grammaticale: Verbe Temps: Futur Voix: Actif Mode: Subjonctif Personne: Première Nombre: Singulier
+[V-FDI] Catégorie grammaticale: Verbe Temps: Futur Voix: Déponent moyen Mode: Indicatif équivalent TVM: G5695
+[V-FDI-1P] Catégorie grammaticale: Verbe Temps: Futur Voix: Déponent moyen Mode: Indicatif Personne: Première Nombre: Pluriel
+[V-FDI-1S] Catégorie grammaticale: Verbe Temps: Futur Voix: Déponent moyen Mode: Indicatif Personne: Première Nombre: Singulier
+[V-FDI-2P] Catégorie grammaticale: Verbe Temps: Futur Voix: Déponent moyen Mode: Indicatif Personne: Deuxième Nombre: Pluriel
+[V-FDI-2P-ATT] Catégorie grammaticale: Verbe Temps: Futur Voix: Déponent moyen Mode: Indicatif Personne: Deuxième Nombre: Pluriel ATTique
+[V-FDI-2S] Catégorie grammaticale: Verbe Temps: Futur Voix: Déponent moyen Mode: Indicatif Personne: Deuxième Nombre: Singulier
+[V-FDI-2S-ATT] Catégorie grammaticale: Verbe Temps: Futur Voix: Déponent moyen Mode: Indicatif Personne: Deuxième Nombre: Singulier ATTique
+[V-FDI-3P] Catégorie grammaticale: Verbe Temps: Futur Voix: Déponent moyen Mode: Indicatif Personne: Troisième Nombre: Pluriel
+[V-FDI-3S] Catégorie grammaticale: Verbe Temps: Futur Voix: Déponent moyen Mode: Indicatif Personne: Troisième Nombre: Singulier
+[V-FDI-3S-ATT] Catégorie grammaticale: Verbe Temps: Futur Voix: Déponent moyen Mode: Indicatif Personne: Troisième Nombre: Singulier ATTique
+[V-FDN] Catégorie grammaticale: Verbe Temps: Futur Voix: Déponent moyen Mode: iNfinitif équivalent TVM: G5696
+[V-FDP] Catégorie grammaticale: Verbe Temps: Futur Voix: Déponent moyen Mode: Participe équivalent TVM: G5697
+[V-FDP-ASN] Catégorie grammaticale: Verbe Temps: Futur Voix: Déponent moyen Mode: Participe Cas: Accusatif Nombre: Singulier Genre: Neutre
+[V-FDP-NPM] Catégorie grammaticale: Verbe Temps: Futur Voix: Déponent moyen Mode: Participe Cas: Nominatif Nombre: Pluriel Genre: Masculin
+[V-FDP-NSM] Catégorie grammaticale: Verbe Temps: Futur Voix: Déponent moyen Mode: Participe Cas: Nominatif Nombre: Singulier Genre: Masculin
+[V-FMI] Catégorie grammaticale: Verbe Temps: Futur Voix: Moyen Mode: Indicatif équivalent TVM: G5698
+[V-FMI-1P] Catégorie grammaticale: Verbe Temps: Futur Voix: Moyen Mode: Indicatif Personne: Première Nombre: Pluriel
+[V-FMI-1S] Catégorie grammaticale: Verbe Temps: Futur Voix: Moyen Mode: Indicatif Personne: Première Nombre: Singulier
+[V-FMI-2P] Catégorie grammaticale: Verbe Temps: Futur Voix: Moyen Mode: Indicatif Personne: Deuxième Nombre: Pluriel
+[V-FMI-2S] Catégorie grammaticale: Verbe Temps: Futur Voix: Moyen Mode: Indicatif Personne: Deuxième Nombre: Singulier
+[V-FMI-3P] Catégorie grammaticale: Verbe Temps: Futur Voix: Moyen Mode: Indicatif Personne: Troisième Nombre: Pluriel
+[V-FMI-3S] Catégorie grammaticale: Verbe Temps: Futur Voix: Moyen Mode: Indicatif Personne: Troisième Nombre: Singulier
+[V-FMN] Catégorie grammaticale: Verbe Temps: Futur Voix: Moyen Mode: iNfinitif
+[V-FMP-ASN] Catégorie grammaticale: Verbe Temps: Futur Voix: Moyen Mode: Participe Cas: Accusatif Nombre: Singulier Genre: Neutre
+[V-FMP-NPM] Catégorie grammaticale: Verbe Temps: Futur Voix: Moyen Mode: Participe Cas: Nominatif Nombre: Pluriel Genre: Masculin
+[V-FNI] Catégorie grammaticale: Verbe Temps: Futur Voix: Déponent moyen ou passif Mode: Indicatif équivalent TVM: G5699
+[V-FNI-3P] Catégorie grammaticale: Verbe Temps: Futur Voix: Déponent moyen ou passif Mode: Indicatif Personne: Troisième Nombre: Pluriel
+[V-FNI-3S] Catégorie grammaticale: Verbe Temps: Futur Voix: Déponent moyen ou passif Mode: Indicatif Personne: Troisième Nombre: Singulier
+[V-FOI] Catégorie grammaticale: Verbe Temps: Futur Voix: dépOnent passif Mode: Indicatif équivalent TVM: G5700
+[V-FOI-1S] Catégorie grammaticale: Verbe Temps: Futur Voix: dépOnent passif Mode: Indicatif Personne: Première Nombre: Singulier
+[V-FOI-3P] Catégorie grammaticale: Verbe Temps: Futur Voix: dépOnent passif Mode: Indicatif Personne: Troisième Nombre: Pluriel
+[V-FOI-3S] Catégorie grammaticale: Verbe Temps: Futur Voix: dépOnent passif Mode: Indicatif Personne: Troisième Nombre: Singulier
+[V-FPI] Catégorie grammaticale: Verbe Temps: Futur Voix: Passif Mode: Indicatif équivalent TVM: G5701
+[V-FPI-1P] Catégorie grammaticale: Verbe Temps: Futur Voix: Passif Mode: Indicatif Personne: Première Nombre: Pluriel
+[V-FPI-1S] Catégorie grammaticale: Verbe Temps: Futur Voix: Passif Mode: Indicatif Personne: Première Nombre: Singulier
+[V-FPI-2P] Catégorie grammaticale: Verbe Temps: Futur Voix: Passif Mode: Indicatif Personne: Deuxième Nombre: Pluriel
+[V-FPI-2S] Catégorie grammaticale: Verbe Temps: Futur Voix: Passif Mode: Indicatif Personne: Deuxième Nombre: Singulier
+[V-FPI-3P] Catégorie grammaticale: Verbe Temps: Futur Voix: Passif Mode: Indicatif Personne: Troisième Nombre: Pluriel
+[V-FPI-3S] Catégorie grammaticale: Verbe Temps: Futur Voix: Passif Mode: Indicatif Personne: Troisième Nombre: Singulier
+[V-FPP] Catégorie grammaticale: Verbe Temps: Futur Voix: Passif Mode: Participe équivalent TVM: G5702
+[V-FPP-GPN] Catégorie grammaticale: Verbe Temps: Futur Voix: Passif Mode: Participe Cas: Génitif Nombre: Pluriel Genre: Neutre
+[V-FPS] Catégorie grammaticale: Verbe Temps: Futur Voix: Passif Mode: Subjonctif équivalent TVM: G5703
+[V-FPS-1S] Catégorie grammaticale: Verbe Temps: Futur Voix: Passif Mode: Subjonctif Personne: Première Nombre: Singulier
+[V-FXI] Catégorie grammaticale: Verbe Temps: Futur Voix: pas de voix établie Mode: Indicatif équivalent TVM: G5704
+[V-FXI-1P] Catégorie grammaticale: Verbe Temps: Futur Voix: pas de voix établie Mode: Indicatif Personne: Première Nombre: Pluriel
+[V-FXI-1S] Catégorie grammaticale: Verbe Temps: Futur Voix: pas de voix établie Mode: Indicatif Personne: Première Nombre: Singulier
+[V-FXI-2P] Catégorie grammaticale: Verbe Temps: Futur Voix: pas de voix établie Mode: Indicatif Personne: Deuxième Nombre: Pluriel
+[V-FXI-2S] Catégorie grammaticale: Verbe Temps: Futur Voix: pas de voix établie Mode: Indicatif Personne: Deuxième Nombre: Singulier
+[V-FXI-3P] Catégorie grammaticale: Verbe Temps: Futur Voix: pas de voix établie Mode: Indicatif Personne: Troisième Nombre: Pluriel
+[V-FXI-3S] Catégorie grammaticale: Verbe Temps: Futur Voix: pas de voix établie Mode: Indicatif Personne: Troisième Nombre: Singulier
+[V-FXN] Catégorie grammaticale: Verbe Temps: Futur Voix: pas de voix établie Mode: iNfinitif équivalent TVM: G5705
+[V-FXP] Catégorie grammaticale: Verbe Temps: Futur Voix: pas de voix établie Mode: Participe équivalent TVM: G5706
+[V-FXP-ASN] Catégorie grammaticale: Verbe Temps: Futur Voix: pas de voix établie Mode: Participe Cas: Accusatif Nombre: Singulier Genre: Neutre
+[V-FXP-NSM] Catégorie grammaticale: Verbe Temps: Futur Voix: pas de voix établie Mode: Participe Cas: Nominatif Nombre: Singulier Genre: Masculin
+[V-IAI] Catégorie grammaticale: Verbe Temps: Imparfait Voix: Actif Mode: Indicatif équivalent TVM: G5707
+[V-IAI-1P] Catégorie grammaticale: Verbe Temps: Imparfait Voix: Actif Mode: Indicatif Personne: Première Nombre: Pluriel
+[V-IAI-1S] Catégorie grammaticale: Verbe Temps: Imparfait Voix: Actif Mode: Indicatif Personne: Première Nombre: Singulier
+[V-IAI-1S-ATT] Catégorie grammaticale: Verbe Temps: Imparfait Voix: Actif Mode: Indicatif Personne: Première Nombre: Singulier ATTique
+[V-IAI-2P] Catégorie grammaticale: Verbe Temps: Imparfait Voix: Actif Mode: Indicatif Personne: Deuxième Nombre: Pluriel
+[V-IAI-2S] Catégorie grammaticale: Verbe Temps: Imparfait Voix: Actif Mode: Indicatif Personne: Deuxième Nombre: Singulier
+[V-IAI-2S-ATT] Catégorie grammaticale: Verbe Temps: Imparfait Voix: Actif Mode: Indicatif Personne: Deuxième Nombre: Singulier ATTique
+[V-IAI-3P] Catégorie grammaticale: Verbe Temps: Imparfait Voix: Actif Mode: Indicatif Personne: Troisième Nombre: Pluriel
+[V-IAI-3P-ATT] Catégorie grammaticale: Verbe Temps: Imparfait Voix: Actif Mode: Indicatif Personne: Troisième Nombre: Pluriel ATTique
+[V-IAI-3S] Catégorie grammaticale: Verbe Temps: Imparfait Voix: Actif Mode: Indicatif Personne: Troisième Nombre: Singulier
+[V-IAI-3S-ATT] Catégorie grammaticale: Verbe Temps: Imparfait Voix: Actif Mode: Indicatif Personne: Troisième Nombre: Singulier ATTique
+[V-IDI] Catégorie grammaticale: Verbe Temps: Imparfait Voix: Déponent moyen Mode: Indicatif équivalent TVM: G5708
+[V-IDI-3P] Catégorie grammaticale: Verbe Temps: Imparfait Voix: Déponent moyen Mode: Indicatif Personne: Troisième Nombre: Pluriel
+[V-IEI] Catégorie grammaticale: Verbe Temps: Imparfait Voix: Soit moyen, soit passif Mode: Indicatif équivalent TVM: G5709
+[V-IEI-3S] Catégorie grammaticale: Verbe Temps: Imparfait Voix: Soit moyen, soit passif Mode: Indicatif Personne: Troisième Nombre: Singulier
+[V-IMI] Catégorie grammaticale: Verbe Temps: Imparfait Voix: Moyen Mode: Indicatif équivalent TVM: G5710
+[V-IMI-1P] Catégorie grammaticale: Verbe Temps: Imparfait Voix: Moyen Mode: Indicatif Personne: Première Nombre: Pluriel
+[V-IMI-1S] Catégorie grammaticale: Verbe Temps: Imparfait Voix: Moyen Mode: Indicatif Personne: Première Nombre: Singulier
+[V-IMI-2P] Catégorie grammaticale: Verbe Temps: Imparfait Voix: Moyen Mode: Indicatif Personne: Deuxième Nombre: Pluriel
+[V-IMI-2S] Catégorie grammaticale: Verbe Temps: Imparfait Voix: Moyen Mode: Indicatif Personne: Deuxième Nombre: Singulier
+[V-IMI-3P] Catégorie grammaticale: Verbe Temps: Imparfait Voix: Moyen Mode: Indicatif Personne: Troisième Nombre: Pluriel
+[V-IMI-3S] Catégorie grammaticale: Verbe Temps: Imparfait Voix: Moyen Mode: Indicatif Personne: Troisième Nombre: Singulier
+[V-INI] Catégorie grammaticale: Verbe Temps: Imparfait Voix: Déponent moyen ou passif Mode: Indicatif équivalent TVM: G5711
+[V-INI-1P] Catégorie grammaticale: Verbe Temps: Imparfait Voix: Déponent moyen ou passif Mode: Indicatif Personne: Première Nombre: Pluriel
+[V-INI-1S] Catégorie grammaticale: Verbe Temps: Imparfait Voix: Déponent moyen ou passif Mode: Indicatif Personne: Première Nombre: Singulier
+[V-INI-2P] Catégorie grammaticale: Verbe Temps: Imparfait Voix: Déponent moyen ou passif Mode: Indicatif Personne: Deuxième Nombre: Pluriel
+[V-INI-2P-ATT] Catégorie grammaticale: Verbe Temps: Imparfait Voix: Déponent moyen ou passif Mode: Indicatif Personne: Deuxième Nombre: Pluriel ATTique
+[V-INI-2S] Catégorie grammaticale: Verbe Temps: Imparfait Voix: Déponent moyen ou passif Mode: Indicatif Personne: Deuxième Nombre: Singulier
+[V-INI-3P] Catégorie grammaticale: Verbe Temps: Imparfait Voix: Déponent moyen ou passif Mode: Indicatif Personne: Troisième Nombre: Pluriel
+[V-INI-3P-ATT] Catégorie grammaticale: Verbe Temps: Imparfait Voix: Déponent moyen ou passif Mode: Indicatif Personne: Troisième Nombre: Pluriel ATTique
+[V-INI-3S] Catégorie grammaticale: Verbe Temps: Imparfait Voix: Déponent moyen ou passif Mode: Indicatif Personne: Troisième Nombre: Singulier
+[V-INI-3S-ATT] Catégorie grammaticale: Verbe Temps: Imparfait Voix: Déponent moyen ou passif Mode: Indicatif Personne: Troisième Nombre: Singulier ATTique
+[V-IPI] Catégorie grammaticale: Verbe Temps: Imparfait Voix: Passif Mode: Indicatif équivalent TVM: G5712
+[V-IPI-1P] Catégorie grammaticale: Verbe Temps: Imparfait Voix: Passif Mode: Indicatif Personne: Première Nombre: Pluriel
+[V-IPI-1S] Catégorie grammaticale: Verbe Temps: Imparfait Voix: Passif Mode: Indicatif Personne: Première Nombre: Singulier
+[V-IPI-2P] Catégorie grammaticale: Verbe Temps: Imparfait Voix: Passif Mode: Indicatif Personne: Deuxième Nombre: Pluriel
+[V-IPI-3P] Catégorie grammaticale: Verbe Temps: Imparfait Voix: Passif Mode: Indicatif Personne: Troisième Nombre: Pluriel
+[V-IPI-3S] Catégorie grammaticale: Verbe Temps: Imparfait Voix: Passif Mode: Indicatif Personne: Troisième Nombre: Singulier
+[V-IQI] Catégorie grammaticale: Verbe Temps: Imparfait Voix: impersonnel actif Mode: Indicatif équivalent TVM: G5900
+[V-IQI-3S] Catégorie grammaticale: Verbe Temps: Imparfait Voix: impersonnel actif Mode: Indicatif Personne: Troisième Nombre: Singulier
+[V-IXI] Catégorie grammaticale: Verbe Temps: Imparfait Voix: pas de voix établie Mode: Indicatif équivalent TVM: G5713
+[V-IXI-1P] Catégorie grammaticale: Verbe Temps: Imparfait Voix: pas de voix établie Mode: Indicatif Personne: Première Nombre: Pluriel
+[V-IXI-1S] Catégorie grammaticale: Verbe Temps: Imparfait Voix: pas de voix établie Mode: Indicatif Personne: Première Nombre: Singulier
+[V-IXI-2P] Catégorie grammaticale: Verbe Temps: Imparfait Voix: pas de voix établie Mode: Indicatif Personne: Deuxième Nombre: Pluriel
+[V-IXI-2S] Catégorie grammaticale: Verbe Temps: Imparfait Voix: pas de voix établie Mode: Indicatif Personne: Deuxième Nombre: Singulier
+[V-IXI-3P] Catégorie grammaticale: Verbe Temps: Imparfait Voix: pas de voix établie Mode: Indicatif Personne: Troisième Nombre: Pluriel
+[V-IXI-3S] Catégorie grammaticale: Verbe Temps: Imparfait Voix: pas de voix établie Mode: Indicatif Personne: Troisième Nombre: Singulier
+[V-LAI] Catégorie grammaticale: Verbe Temps: pLus-que-parfait Voix: Actif Mode: Indicatif équivalent TVM: G5715
+[V-LAI-1S] Catégorie grammaticale: Verbe Temps: pLus-que-parfait Voix: Actif Mode: Indicatif Personne: Première Nombre: Singulier
+[V-LAI-2P] Catégorie grammaticale: Verbe Temps: pLus-que-parfait Voix: Actif Mode: Indicatif Personne: Deuxième Nombre: Pluriel
+[V-LAI-2S] Catégorie grammaticale: Verbe Temps: pLus-que-parfait Voix: Actif Mode: Indicatif Personne: Deuxième Nombre: Singulier
+[V-LAI-3P] Catégorie grammaticale: Verbe Temps: pLus-que-parfait Voix: Actif Mode: Indicatif Personne: Troisième Nombre: Pluriel
+[V-LAI-3P-ATT] Catégorie grammaticale: Verbe Temps: pLus-que-parfait Voix: Actif Mode: Indicatif Personne: Troisième Nombre: Pluriel ATTique
+[V-LAI-3S] Catégorie grammaticale: Verbe Temps: pLus-que-parfait Voix: Actif Mode: Indicatif Personne: Troisième Nombre: Singulier
+[V-LAI-3S-ATT] Catégorie grammaticale: Verbe Temps: pLus-que-parfait Voix: Actif Mode: Indicatif Personne: Troisième Nombre: Singulier ATTique
+[V-LDI] Catégorie grammaticale: Verbe Temps: pLus-que-parfait Voix: Déponent moyen Mode: Indicatif équivalent TVM: G5716
+[V-LDI-3S] Catégorie grammaticale: Verbe Temps: pLus-que-parfait Voix: Déponent moyen Mode: Indicatif Personne: Troisième Nombre: Singulier
+[V-LMI] Catégorie grammaticale: Verbe Temps: pLus-que-parfait Voix: Moyen Mode: Indicatif équivalent TVM: G5717
+[V-LMI-3P] Catégorie grammaticale: Verbe Temps: pLus-que-parfait Voix: Moyen Mode: Indicatif Personne: Troisième Nombre: Pluriel
+[V-LPI] Catégorie grammaticale: Verbe Temps: pLus-que-parfait Voix: Passif Mode: Indicatif équivalent TVM: G5718
+[V-LPI-3S] Catégorie grammaticale: Verbe Temps: pLus-que-parfait Voix: Passif Mode: Indicatif Personne: Troisième Nombre: Singulier
+[V-PAI] Catégorie grammaticale: Verbe Temps: Présent Voix: Actif Mode: Indicatif équivalent TVM: G5724
+[V-PAI-1P] Catégorie grammaticale: Verbe Temps: Présent Voix: Actif Mode: Indicatif Personne: Première Nombre: Pluriel
+[V-PAI-1S] Catégorie grammaticale: Verbe Temps: Présent Voix: Actif Mode: Indicatif Personne: Première Nombre: Singulier
+[V-PAI-1S-C] Catégorie grammaticale: Verbe Temps: Présent Voix: Actif Mode: Indicatif Personne: Première Nombre: Singulier Forme contractuelle
+[V-PAI-2P] Catégorie grammaticale: Verbe Temps: Présent Voix: Actif Mode: Indicatif Personne: Deuxième Nombre: Pluriel
+[V-PAI-2S] Catégorie grammaticale: Verbe Temps: Présent Voix: Actif Mode: Indicatif Personne: Deuxième Nombre: Singulier
+[V-PAI-2S-IRR] Catégorie grammaticale: Verbe Temps: Présent Voix: Actif Mode: Indicatif Personne: Deuxième Nombre: Singulier Forme irrégulière ou impure
+[V-PAI-3P] Catégorie grammaticale: Verbe Temps: Présent Voix: Actif Mode: Indicatif Personne: Troisième Nombre: Pluriel
+[V-PAI-3P-ATT] Catégorie grammaticale: Verbe Temps: Présent Voix: Actif Mode: Indicatif Personne: Troisième Nombre: Pluriel ATTique
+[V-PAI-3S] Catégorie grammaticale: Verbe Temps: Présent Voix: Actif Mode: Indicatif Personne: Troisième Nombre: Singulier
+[V-PAM] Catégorie grammaticale: Verbe Temps: Présent Voix: Actif Mode: iMpératif équivalent TVM: G5720
+[V-PAM-2P] Catégorie grammaticale: Verbe Temps: Présent Voix: Actif Mode: iMpératif Personne: Deuxième Nombre: Pluriel
+[V-PAM-2S] Catégorie grammaticale: Verbe Temps: Présent Voix: Actif Mode: iMpératif Personne: Deuxième Nombre: Singulier
+[V-PAM-3P] Catégorie grammaticale: Verbe Temps: Présent Voix: Actif Mode: iMpératif Personne: Troisième Nombre: Pluriel
+[V-PAM-3S] Catégorie grammaticale: Verbe Temps: Présent Voix: Actif Mode: iMpératif Personne: Troisième Nombre: Singulier
+[V-PAN] Catégorie grammaticale: Verbe Temps: Présent Voix: Actif Mode: iNfinitif équivalent TVM: G5721
+[V-PAO] Catégorie grammaticale: Verbe Temps: Présent Voix: Actif Mode: Optatif équivalent TVM: G5722
+[V-PAO-2P] Catégorie grammaticale: Verbe Temps: Présent Voix: Actif Mode: Optatif Personne: Deuxième Nombre: Pluriel
+[V-PAO-2S] Catégorie grammaticale: Verbe Temps: Présent Voix: Actif Mode: Optatif Personne: Deuxième Nombre: Singulier
+[V-PAO-3P] Catégorie grammaticale: Verbe Temps: Présent Voix: Actif Mode: Optatif Personne: Troisième Nombre: Pluriel
+[V-PAO-3S] Catégorie grammaticale: Verbe Temps: Présent Voix: Actif Mode: Optatif Personne: Troisième Nombre: Singulier
+[V-PAP] Catégorie grammaticale: Verbe Temps: Présent Voix: Actif Mode: Participe équivalent TVM: G5723
+[V-PAP-APF] Catégorie grammaticale: Verbe Temps: Présent Voix: Actif Mode: Participe Cas: Accusatif Nombre: Pluriel Genre: Féminin
+[V-PAP-APM] Catégorie grammaticale: Verbe Temps: Présent Voix: Actif Mode: Participe Cas: Accusatif Nombre: Pluriel Genre: Masculin
+[V-PAP-APN] Catégorie grammaticale: Verbe Temps: Présent Voix: Actif Mode: Participe Cas: Accusatif Nombre: Pluriel Genre: Neutre
+[V-PAP-ASF] Catégorie grammaticale: Verbe Temps: Présent Voix: Actif Mode: Participe Cas: Accusatif Nombre: Singulier Genre: Féminin
+[V-PAP-ASM] Catégorie grammaticale: Verbe Temps: Présent Voix: Actif Mode: Participe Cas: Accusatif Nombre: Singulier Genre: Masculin
+[V-PAP-ASN] Catégorie grammaticale: Verbe Temps: Présent Voix: Actif Mode: Participe Cas: Accusatif Nombre: Singulier Genre: Neutre
+[V-PAP-DPF] Catégorie grammaticale: Verbe Temps: Présent Voix: Actif Mode: Participe Cas: Datif Nombre: Pluriel Genre: Féminin
+[V-PAP-DPM] Catégorie grammaticale: Verbe Temps: Présent Voix: Actif Mode: Participe Cas: Datif Nombre: Pluriel Genre: Masculin
+[V-PAP-DPN] Catégorie grammaticale: Verbe Temps: Présent Voix: Actif Mode: Participe Cas: Datif Nombre: Pluriel Genre: Neutre
+[V-PAP-DSF] Catégorie grammaticale: Verbe Temps: Présent Voix: Actif Mode: Participe Cas: Datif Nombre: Singulier Genre: Féminin
+[V-PAP-DSM] Catégorie grammaticale: Verbe Temps: Présent Voix: Actif Mode: Participe Cas: Datif Nombre: Singulier Genre: Masculin
+[V-PAP-DSN] Catégorie grammaticale: Verbe Temps: Présent Voix: Actif Mode: Participe Cas: Datif Nombre: Singulier Genre: Neutre
+[V-PAP-GPF] Catégorie grammaticale: Verbe Temps: Présent Voix: Actif Mode: Participe Cas: Génitif Nombre: Pluriel Genre: Féminin
+[V-PAP-GPM] Catégorie grammaticale: Verbe Temps: Présent Voix: Actif Mode: Participe Cas: Génitif Nombre: Pluriel Genre: Masculin
+[V-PAP-GPN] Catégorie grammaticale: Verbe Temps: Présent Voix: Actif Mode: Participe Cas: Génitif Nombre: Pluriel Genre: Neutre
+[V-PAP-GSF] Catégorie grammaticale: Verbe Temps: Présent Voix: Actif Mode: Participe Cas: Génitif Nombre: Singulier Genre: Féminin
+[V-PAP-GSM] Catégorie grammaticale: Verbe Temps: Présent Voix: Actif Mode: Participe Cas: Génitif Nombre: Singulier Genre: Masculin
+[V-PAP-GSN] Catégorie grammaticale: Verbe Temps: Présent Voix: Actif Mode: Participe Cas: Génitif Nombre: Singulier Genre: Neutre
+[V-PAP-NPF] Catégorie grammaticale: Verbe Temps: Présent Voix: Actif Mode: Participe Cas: Nominatif Nombre: Pluriel Genre: Féminin
+[V-PAP-NPM] Catégorie grammaticale: Verbe Temps: Présent Voix: Actif Mode: Participe Cas: Nominatif Nombre: Pluriel Genre: Masculin
+[V-PAP-NPN] Catégorie grammaticale: Verbe Temps: Présent Voix: Actif Mode: Participe Cas: Nominatif Nombre: Pluriel Genre: Neutre
+[V-PAP-NSF] Catégorie grammaticale: Verbe Temps: Présent Voix: Actif Mode: Participe Cas: Nominatif Nombre: Singulier Genre: Féminin
+[V-PAP-NSM] Catégorie grammaticale: Verbe Temps: Présent Voix: Actif Mode: Participe Cas: Nominatif Nombre: Singulier Genre: Masculin
+[V-PAP-NSN] Catégorie grammaticale: Verbe Temps: Présent Voix: Actif Mode: Participe Cas: Nominatif Nombre: Singulier Genre: Neutre
+[V-PAP-VPM] Catégorie grammaticale: Verbe Temps: Présent Voix: Actif Mode: Participe Cas: Vocatif Nombre: Pluriel Genre: Masculin
+[V-PAP-VSF] Catégorie grammaticale: Verbe Temps: Présent Voix: Actif Mode: Participe Cas: Vocatif Nombre: Singulier Genre: Féminin
+[V-PAP-VSM] Catégorie grammaticale: Verbe Temps: Présent Voix: Actif Mode: Participe Cas: Vocatif Nombre: Singulier Genre: Masculin
+[V-PAS] Catégorie grammaticale: Verbe Temps: Présent Voix: Actif Mode: Subjonctif équivalent TVM: G5725
+[V-PAS-1P] Catégorie grammaticale: Verbe Temps: Présent Voix: Actif Mode: Subjonctif Personne: Première Nombre: Pluriel
+[V-PAS-1S] Catégorie grammaticale: Verbe Temps: Présent Voix: Actif Mode: Subjonctif Personne: Première Nombre: Singulier
+[V-PAS-2P] Catégorie grammaticale: Verbe Temps: Présent Voix: Actif Mode: Subjonctif Personne: Deuxième Nombre: Pluriel
+[V-PAS-2S] Catégorie grammaticale: Verbe Temps: Présent Voix: Actif Mode: Subjonctif Personne: Deuxième Nombre: Singulier
+[V-PAS-3P] Catégorie grammaticale: Verbe Temps: Présent Voix: Actif Mode: Subjonctif Personne: Troisième Nombre: Pluriel
+[V-PAS-3S] Catégorie grammaticale: Verbe Temps: Présent Voix: Actif Mode: Subjonctif Personne: Troisième Nombre: Singulier
+[V-PDN] Catégorie grammaticale: Verbe Temps: Présent Voix: Déponent moyen Mode: iNfinitif
+[V-PDP] Catégorie grammaticale: Verbe Temps: Présent Voix: Déponent moyen Mode: Participe équivalent TVM: G5726
+[V-PDP-NPM] Catégorie grammaticale: Verbe Temps: Présent Voix: Déponent moyen Mode: Participe Cas: Nominatif Nombre: Pluriel Genre: Masculin
+[V-PEI] Catégorie grammaticale: Verbe Temps: Présent Voix: Soit moyen, soit passif Mode: Indicatif équivalent TVM: G5727
+[V-PEI-1P] Catégorie grammaticale: Verbe Temps: Présent Voix: Soit moyen, soit passif Mode: Indicatif Personne: Première Nombre: Pluriel
+[V-PEI-1S] Catégorie grammaticale: Verbe Temps: Présent Voix: Soit moyen, soit passif Mode: Indicatif Personne: Première Nombre: Singulier
+[V-PEI-2P] Catégorie grammaticale: Verbe Temps: Présent Voix: Soit moyen, soit passif Mode: Indicatif Personne: Deuxième Nombre: Pluriel
+[V-PEI-3P] Catégorie grammaticale: Verbe Temps: Présent Voix: Soit moyen, soit passif Mode: Indicatif Personne: Troisième Nombre: Pluriel
+[V-PEI-3S] Catégorie grammaticale: Verbe Temps: Présent Voix: Soit moyen, soit passif Mode: Indicatif Personne: Troisième Nombre: Singulier
+[V-PEM] Catégorie grammaticale: Verbe Temps: Présent Voix: Soit moyen, soit passif Mode: iMpératif équivalent TVM: G5728
+[V-PEM-2P] Catégorie grammaticale: Verbe Temps: Présent Voix: Soit moyen, soit passif Mode: iMpératif Personne: Deuxième Nombre: Pluriel
+[V-PEM-2S] Catégorie grammaticale: Verbe Temps: Présent Voix: Soit moyen, soit passif Mode: iMpératif Personne: Deuxième Nombre: Singulier
+[V-PEN] Catégorie grammaticale: Verbe Temps: Présent Voix: Soit moyen, soit passif Mode: iNfinitif équivalent TVM: G5729
+[V-PEP] Catégorie grammaticale: Verbe Temps: Présent Voix: Soit moyen, soit passif Mode: Participe équivalent TVM: G5730
+[V-PEP-DPM] Catégorie grammaticale: Verbe Temps: Présent Voix: Soit moyen, soit passif Mode: Participe Cas: Datif Nombre: Pluriel Genre: Masculin
+[V-PEP-DSM] Catégorie grammaticale: Verbe Temps: Présent Voix: Soit moyen, soit passif Mode: Participe Cas: Datif Nombre: Singulier Genre: Masculin
+[V-PEP-GPN] Catégorie grammaticale: Verbe Temps: Présent Voix: Soit moyen, soit passif Mode: Participe Cas: Génitif Nombre: Pluriel Genre: Neutre
+[V-PEP-GSF] Catégorie grammaticale: Verbe Temps: Présent Voix: Soit moyen, soit passif Mode: Participe Cas: Génitif Nombre: Singulier Genre: Féminin
+[V-PEP-GSM] Catégorie grammaticale: Verbe Temps: Présent Voix: Soit moyen, soit passif Mode: Participe Cas: Génitif Nombre: Singulier Genre: Masculin
+[V-PEP-NPF] Catégorie grammaticale: Verbe Temps: Présent Voix: Soit moyen, soit passif Mode: Participe Cas: Nominatif Nombre: Pluriel Genre: Féminin
+[V-PEP-NPM] Catégorie grammaticale: Verbe Temps: Présent Voix: Soit moyen, soit passif Mode: Participe Cas: Nominatif Nombre: Pluriel Genre: Masculin
+[V-PEP-NSF] Catégorie grammaticale: Verbe Temps: Présent Voix: Soit moyen, soit passif Mode: Participe Cas: Nominatif Nombre: Singulier Genre: Féminin
+[V-PMI] Catégorie grammaticale: Verbe Temps: Présent Voix: Moyen Mode: Indicatif équivalent TVM: G5731
+[V-PMI-1P] Catégorie grammaticale: Verbe Temps: Présent Voix: Moyen Mode: Indicatif Personne: Première Nombre: Pluriel
+[V-PMI-1S] Catégorie grammaticale: Verbe Temps: Présent Voix: Moyen Mode: Indicatif Personne: Première Nombre: Singulier
+[V-PMI-2P] Catégorie grammaticale: Verbe Temps: Présent Voix: Moyen Mode: Indicatif Personne: Deuxième Nombre: Pluriel
+[V-PMI-2S] Catégorie grammaticale: Verbe Temps: Présent Voix: Moyen Mode: Indicatif Personne: Deuxième Nombre: Singulier
+[V-PMI-3P] Catégorie grammaticale: Verbe Temps: Présent Voix: Moyen Mode: Indicatif Personne: Troisième Nombre: Pluriel
+[V-PMI-3S] Catégorie grammaticale: Verbe Temps: Présent Voix: Moyen Mode: Indicatif Personne: Troisième Nombre: Singulier
+[V-PMM] Catégorie grammaticale: Verbe Temps: Présent Voix: Moyen Mode: iMpératif équivalent TVM: G5732
+[V-PMM-2P] Catégorie grammaticale: Verbe Temps: Présent Voix: Moyen Mode: iMpératif Personne: Deuxième Nombre: Pluriel
+[V-PMM-2S] Catégorie grammaticale: Verbe Temps: Présent Voix: Moyen Mode: iMpératif Personne: Deuxième Nombre: Singulier
+[V-PMM-3P] Catégorie grammaticale: Verbe Temps: Présent Voix: Moyen Mode: iMpératif Personne: Troisième Nombre: Pluriel
+[V-PMM-3S] Catégorie grammaticale: Verbe Temps: Présent Voix: Moyen Mode: iMpératif Personne: Troisième Nombre: Singulier
+[V-PMN] Catégorie grammaticale: Verbe Temps: Présent Voix: Moyen Mode: iNfinitif équivalent TVM: G5733
+[V-PMO-1S] Catégorie grammaticale: Verbe Temps: Présent Voix: Moyen Mode: Optatif Personne: Première Nombre: Singulier
+[V-PMO-3P] Catégorie grammaticale: Verbe Temps: Présent Voix: Moyen Mode: Optatif Personne: Troisième Nombre: Pluriel
+[V-PMO-3S] Catégorie grammaticale: Verbe Temps: Présent Voix: Moyen Mode: Optatif Personne: Troisième Nombre: Singulier
+[V-PMP] Catégorie grammaticale: Verbe Temps: Présent Voix: Moyen Mode: Participe équivalent TVM: G5734
+[V-PMP-APF] Catégorie grammaticale: Verbe Temps: Présent Voix: Moyen Mode: Participe Cas: Accusatif Nombre: Pluriel Genre: Féminin
+[V-PMP-APM] Catégorie grammaticale: Verbe Temps: Présent Voix: Moyen Mode: Participe Cas: Accusatif Nombre: Pluriel Genre: Masculin
+[V-PMP-APN] Catégorie grammaticale: Verbe Temps: Présent Voix: Moyen Mode: Participe Cas: Accusatif Nombre: Pluriel Genre: Neutre
+[V-PMP-ASF] Catégorie grammaticale: Verbe Temps: Présent Voix: Moyen Mode: Participe Cas: Accusatif Nombre: Singulier Genre: Féminin
+[V-PMP-ASM] Catégorie grammaticale: Verbe Temps: Présent Voix: Moyen Mode: Participe Cas: Accusatif Nombre: Singulier Genre: Masculin
+[V-PMP-ASN] Catégorie grammaticale: Verbe Temps: Présent Voix: Moyen Mode: Participe Cas: Accusatif Nombre: Singulier Genre: Neutre
+[V-PMP-DPF] Catégorie grammaticale: Verbe Temps: Présent Voix: Moyen Mode: Participe Cas: Datif Nombre: Pluriel Genre: Féminin
+[V-PMP-DPM] Catégorie grammaticale: Verbe Temps: Présent Voix: Moyen Mode: Participe Cas: Datif Nombre: Pluriel Genre: Masculin
+[V-PMP-DPN] Catégorie grammaticale: Verbe Temps: Présent Voix: Moyen Mode: Participe Cas: Datif Nombre: Pluriel Genre: Neutre
+[V-PMP-DSF] Catégorie grammaticale: Verbe Temps: Présent Voix: Moyen Mode: Participe Cas: Datif Nombre: Singulier Genre: Féminin
+[V-PMP-DSM] Catégorie grammaticale: Verbe Temps: Présent Voix: Moyen Mode: Participe Cas: Datif Nombre: Singulier Genre: Masculin
+[V-PMP-DSN] Catégorie grammaticale: Verbe Temps: Présent Voix: Moyen Mode: Participe Cas: Datif Nombre: Singulier Genre: Neutre
+[V-PMP-GPF] Catégorie grammaticale: Verbe Temps: Présent Voix: Moyen Mode: Participe Cas: Génitif Nombre: Pluriel Genre: Féminin
+[V-PMP-GPM] Catégorie grammaticale: Verbe Temps: Présent Voix: Moyen Mode: Participe Cas: Génitif Nombre: Pluriel Genre: Masculin
+[V-PMP-GPN] Catégorie grammaticale: Verbe Temps: Présent Voix: Moyen Mode: Participe Cas: Génitif Nombre: Pluriel Genre: Neutre
+[V-PMP-GSF] Catégorie grammaticale: Verbe Temps: Présent Voix: Moyen Mode: Participe Cas: Génitif Nombre: Singulier Genre: Féminin
+[V-PMP-GSM] Catégorie grammaticale: Verbe Temps: Présent Voix: Moyen Mode: Participe Cas: Génitif Nombre: Singulier Genre: Masculin
+[V-PMP-GSM-T] Catégorie grammaticale: Verbe Temps: Présent Voix: Moyen Mode: Participe Cas: Génitif Nombre: Singulier Genre: Masculin Transitif
+[V-PMP-GSN] Catégorie grammaticale: Verbe Temps: Présent Voix: Moyen Mode: Participe Cas: Génitif Nombre: Singulier Genre: Neutre
+[V-PMP-NPF] Catégorie grammaticale: Verbe Temps: Présent Voix: Moyen Mode: Participe Cas: Nominatif Nombre: Pluriel Genre: Féminin
+[V-PMP-NPM] Catégorie grammaticale: Verbe Temps: Présent Voix: Moyen Mode: Participe Cas: Nominatif Nombre: Pluriel Genre: Masculin
+[V-PMP-NPN] Catégorie grammaticale: Verbe Temps: Présent Voix: Moyen Mode: Participe Cas: Nominatif Nombre: Pluriel Genre: Neutre
+[V-PMP-NSF] Catégorie grammaticale: Verbe Temps: Présent Voix: Moyen Mode: Participe Cas: Nominatif Nombre: Singulier Genre: Féminin
+[V-PMP-NSM] Catégorie grammaticale: Verbe Temps: Présent Voix: Moyen Mode: Participe Cas: Nominatif Nombre: Singulier Genre: Masculin
+[V-PMP-NSN] Catégorie grammaticale: Verbe Temps: Présent Voix: Moyen Mode: Participe Cas: Nominatif Nombre: Singulier Genre: Neutre
+[V-PMP-VPM] Catégorie grammaticale: Verbe Temps: Présent Voix: Moyen Mode: Participe Cas: Vocatif Nombre: Pluriel Genre: Masculin
+[V-PMP-VSM] Catégorie grammaticale: Verbe Temps: Présent Voix: Moyen Mode: Participe Cas: Vocatif Nombre: Singulier Genre: Masculin
+[V-PMS] Catégorie grammaticale: Verbe Temps: Présent Voix: Moyen Mode: Subjonctif équivalent TVM: G5735
+[V-PMS-1P] Catégorie grammaticale: Verbe Temps: Présent Voix: Moyen Mode: Subjonctif Personne: Première Nombre: Pluriel
+[V-PMS-1S] Catégorie grammaticale: Verbe Temps: Présent Voix: Moyen Mode: Subjonctif Personne: Première Nombre: Singulier
+[V-PMS-2P] Catégorie grammaticale: Verbe Temps: Présent Voix: Moyen Mode: Subjonctif Personne: Deuxième Nombre: Pluriel
+[V-PMS-2S] Catégorie grammaticale: Verbe Temps: Présent Voix: Moyen Mode: Subjonctif Personne: Deuxième Nombre: Singulier
+[V-PMS-3P] Catégorie grammaticale: Verbe Temps: Présent Voix: Moyen Mode: Subjonctif Personne: Troisième Nombre: Pluriel
+[V-PMS-3S] Catégorie grammaticale: Verbe Temps: Présent Voix: Moyen Mode: Subjonctif Personne: Troisième Nombre: Singulier
+[V-PNI] Catégorie grammaticale: Verbe Temps: Présent Voix: Déponent moyen ou passif Mode: Indicatif équivalent TVM: G5736
+[V-PNI-1P] Catégorie grammaticale: Verbe Temps: Présent Voix: Déponent moyen ou passif Mode: Indicatif Personne: Première Nombre: Pluriel
+[V-PNI-1S] Catégorie grammaticale: Verbe Temps: Présent Voix: Déponent moyen ou passif Mode: Indicatif Personne: Première Nombre: Singulier
+[V-PNI-1S-C] Catégorie grammaticale: Verbe Temps: Présent Voix: Déponent moyen ou passif Mode: Indicatif Personne: Première Nombre: Singulier Forme contractuelle
+[V-PNI-2P] Catégorie grammaticale: Verbe Temps: Présent Voix: Déponent moyen ou passif Mode: Indicatif Personne: Deuxième Nombre: Pluriel
+[V-PNI-2S] Catégorie grammaticale: Verbe Temps: Présent Voix: Déponent moyen ou passif Mode: Indicatif Personne: Deuxième Nombre: Singulier
+[V-PNI-2S-ATT] Catégorie grammaticale: Verbe Temps: Présent Voix: Déponent moyen ou passif Mode: Indicatif Personne: Deuxième Nombre: Singulier ATTique
+[V-PNI-2S-C] Catégorie grammaticale: Verbe Temps: Présent Voix: Déponent moyen ou passif Mode: Indicatif Personne: Deuxième Nombre: Singulier Forme contractuelle
+[V-PNI-3P] Catégorie grammaticale: Verbe Temps: Présent Voix: Déponent moyen ou passif Mode: Indicatif Personne: Troisième Nombre: Pluriel
+[V-PNI-3S] Catégorie grammaticale: Verbe Temps: Présent Voix: Déponent moyen ou passif Mode: Indicatif Personne: Troisième Nombre: Singulier
+[V-PNI-3S-IRR] Catégorie grammaticale: Verbe Temps: Présent Voix: Déponent moyen ou passif Mode: Indicatif Personne: Troisième Nombre: Singulier Forme irrégulière ou impure
+[V-PNM] Catégorie grammaticale: Verbe Temps: Présent Voix: Déponent moyen ou passif Mode: iMpératif équivalent TVM: G5737
+[V-PNM-2P] Catégorie grammaticale: Verbe Temps: Présent Voix: Déponent moyen ou passif Mode: iMpératif Personne: Deuxième Nombre: Pluriel
+[V-PNM-2S] Catégorie grammaticale: Verbe Temps: Présent Voix: Déponent moyen ou passif Mode: iMpératif Personne: Deuxième Nombre: Singulier
+[V-PNM-3P] Catégorie grammaticale: Verbe Temps: Présent Voix: Déponent moyen ou passif Mode: iMpératif Personne: Troisième Nombre: Pluriel
+[V-PNM-3S] Catégorie grammaticale: Verbe Temps: Présent Voix: Déponent moyen ou passif Mode: iMpératif Personne: Troisième Nombre: Singulier
+[V-PNN] Catégorie grammaticale: Verbe Temps: Présent Voix: Déponent moyen ou passif Mode: iNfinitif équivalent TVM: G5738
+[V-PNO] Catégorie grammaticale: Verbe Temps: Présent Voix: Déponent moyen ou passif Mode: Optatif équivalent TVM: G5739
+[V-PNO-1S] Catégorie grammaticale: Verbe Temps: Présent Voix: Déponent moyen ou passif Mode: Optatif Personne: Première Nombre: Singulier
+[V-PNO-3P] Catégorie grammaticale: Verbe Temps: Présent Voix: Déponent moyen ou passif Mode: Optatif Personne: Troisième Nombre: Pluriel
+[V-PNO-3S] Catégorie grammaticale: Verbe Temps: Présent Voix: Déponent moyen ou passif Mode: Optatif Personne: Troisième Nombre: Singulier
+[V-PNP] Catégorie grammaticale: Verbe Temps: Présent Voix: Déponent moyen ou passif Mode: Participe équivalent TVM: G5740
+[V-PNP-APF] Catégorie grammaticale: Verbe Temps: Présent Voix: Déponent moyen ou passif Mode: Participe Cas: Accusatif Nombre: Pluriel Genre: Féminin
+[V-PNP-APM] Catégorie grammaticale: Verbe Temps: Présent Voix: Déponent moyen ou passif Mode: Participe Cas: Accusatif Nombre: Pluriel Genre: Masculin
+[V-PNP-APN] Catégorie grammaticale: Verbe Temps: Présent Voix: Déponent moyen ou passif Mode: Participe Cas: Accusatif Nombre: Pluriel Genre: Neutre
+[V-PNP-ASF] Catégorie grammaticale: Verbe Temps: Présent Voix: Déponent moyen ou passif Mode: Participe Cas: Accusatif Nombre: Singulier Genre: Féminin
+[V-PNP-ASM] Catégorie grammaticale: Verbe Temps: Présent Voix: Déponent moyen ou passif Mode: Participe Cas: Accusatif Nombre: Singulier Genre: Masculin
+[V-PNP-ASN] Catégorie grammaticale: Verbe Temps: Présent Voix: Déponent moyen ou passif Mode: Participe Cas: Accusatif Nombre: Singulier Genre: Neutre
+[V-PNP-DPF] Catégorie grammaticale: Verbe Temps: Présent Voix: Déponent moyen ou passif Mode: Participe Cas: Datif Nombre: Pluriel Genre: Féminin
+[V-PNP-DPM] Catégorie grammaticale: Verbe Temps: Présent Voix: Déponent moyen ou passif Mode: Participe Cas: Datif Nombre: Pluriel Genre: Masculin
+[V-PNP-DPN] Catégorie grammaticale: Verbe Temps: Présent Voix: Déponent moyen ou passif Mode: Participe Cas: Datif Nombre: Pluriel Genre: Neutre
+[V-PNP-DSF] Catégorie grammaticale: Verbe Temps: Présent Voix: Déponent moyen ou passif Mode: Participe Cas: Datif Nombre: Singulier Genre: Féminin
+[V-PNP-DSM] Catégorie grammaticale: Verbe Temps: Présent Voix: Déponent moyen ou passif Mode: Participe Cas: Datif Nombre: Singulier Genre: Masculin
+[V-PNP-DSN] Catégorie grammaticale: Verbe Temps: Présent Voix: Déponent moyen ou passif Mode: Participe Cas: Datif Nombre: Singulier Genre: Neutre
+[V-PNP-GPF] Catégorie grammaticale: Verbe Temps: Présent Voix: Déponent moyen ou passif Mode: Participe Cas: Génitif Nombre: Pluriel Genre: Féminin
+[V-PNP-GPM] Catégorie grammaticale: Verbe Temps: Présent Voix: Déponent moyen ou passif Mode: Participe Cas: Génitif Nombre: Pluriel Genre: Masculin
+[V-PNP-GPN] Catégorie grammaticale: Verbe Temps: Présent Voix: Déponent moyen ou passif Mode: Participe Cas: Génitif Nombre: Pluriel Genre: Neutre
+[V-PNP-GSF] Catégorie grammaticale: Verbe Temps: Présent Voix: Déponent moyen ou passif Mode: Participe Cas: Génitif Nombre: Singulier Genre: Féminin
+[V-PNP-GSM] Catégorie grammaticale: Verbe Temps: Présent Voix: Déponent moyen ou passif Mode: Participe Cas: Génitif Nombre: Singulier Genre: Masculin
+[V-PNP-GSN] Catégorie grammaticale: Verbe Temps: Présent Voix: Déponent moyen ou passif Mode: Participe Cas: Génitif Nombre: Singulier Genre: Neutre
+[V-PNP-NPF] Catégorie grammaticale: Verbe Temps: Présent Voix: Déponent moyen ou passif Mode: Participe Cas: Nominatif Nombre: Pluriel Genre: Féminin
+[V-PNP-NPM] Catégorie grammaticale: Verbe Temps: Présent Voix: Déponent moyen ou passif Mode: Participe Cas: Nominatif Nombre: Pluriel Genre: Masculin
+[V-PNP-NPN] Catégorie grammaticale: Verbe Temps: Présent Voix: Déponent moyen ou passif Mode: Participe Cas: Nominatif Nombre: Pluriel Genre: Neutre
+[V-PNP-NSF] Catégorie grammaticale: Verbe Temps: Présent Voix: Déponent moyen ou passif Mode: Participe Cas: Nominatif Nombre: Singulier Genre: Féminin
+[V-PNP-NSM] Catégorie grammaticale: Verbe Temps: Présent Voix: Déponent moyen ou passif Mode: Participe Cas: Nominatif Nombre: Singulier Genre: Masculin
+[V-PNP-NSN] Catégorie grammaticale: Verbe Temps: Présent Voix: Déponent moyen ou passif Mode: Participe Cas: Nominatif Nombre: Singulier Genre: Neutre
+[V-PNS] Catégorie grammaticale: Verbe Temps: Présent Voix: Déponent moyen ou passif Mode: Subjonctif équivalent TVM: G5741
+[V-PNS-1P] Catégorie grammaticale: Verbe Temps: Présent Voix: Déponent moyen ou passif Mode: Subjonctif Personne: Première Nombre: Pluriel
+[V-PNS-1S] Catégorie grammaticale: Verbe Temps: Présent Voix: Déponent moyen ou passif Mode: Subjonctif Personne: Première Nombre: Singulier
+[V-PNS-2P] Catégorie grammaticale: Verbe Temps: Présent Voix: Déponent moyen ou passif Mode: Subjonctif Personne: Deuxième Nombre: Pluriel
+[V-PNS-2S] Catégorie grammaticale: Verbe Temps: Présent Voix: Déponent moyen ou passif Mode: Subjonctif Personne: Deuxième Nombre: Singulier
+[V-PNS-3P] Catégorie grammaticale: Verbe Temps: Présent Voix: Déponent moyen ou passif Mode: Subjonctif Personne: Troisième Nombre: Pluriel
+[V-PNS-3S] Catégorie grammaticale: Verbe Temps: Présent Voix: Déponent moyen ou passif Mode: Subjonctif Personne: Troisième Nombre: Singulier
+[V-POP] Catégorie grammaticale: Verbe Temps: Présent Voix: dépOnent passif Mode: Participe équivalent TVM: G5742
+[V-POP-NPM] Catégorie grammaticale: Verbe Temps: Présent Voix: dépOnent passif Mode: Participe Cas: Nominatif Nombre: Pluriel Genre: Masculin
+[V-PPI] Catégorie grammaticale: Verbe Temps: Présent Voix: Passif Mode: Indicatif équivalent TVM: G5743
+[V-PPI-1P] Catégorie grammaticale: Verbe Temps: Présent Voix: Passif Mode: Indicatif Personne: Première Nombre: Pluriel
+[V-PPI-1S] Catégorie grammaticale: Verbe Temps: Présent Voix: Passif Mode: Indicatif Personne: Première Nombre: Singulier
+[V-PPI-2P] Catégorie grammaticale: Verbe Temps: Présent Voix: Passif Mode: Indicatif Personne: Deuxième Nombre: Pluriel
+[V-PPI-2S] Catégorie grammaticale: Verbe Temps: Présent Voix: Passif Mode: Indicatif Personne: Deuxième Nombre: Singulier
+[V-PPI-2S-IRR] Catégorie grammaticale: Verbe Temps: Présent Voix: Passif Mode: Indicatif Personne: Deuxième Nombre: Singulier Forme irrégulière ou impure
+[V-PPI-3P] Catégorie grammaticale: Verbe Temps: Présent Voix: Passif Mode: Indicatif Personne: Troisième Nombre: Pluriel
+[V-PPI-3S] Catégorie grammaticale: Verbe Temps: Présent Voix: Passif Mode: Indicatif Personne: Troisième Nombre: Singulier
+[V-PPM] Catégorie grammaticale: Verbe Temps: Présent Voix: Passif Mode: iMpératif équivalent TVM: G5744
+[V-PPM-2P] Catégorie grammaticale: Verbe Temps: Présent Voix: Passif Mode: iMpératif Personne: Deuxième Nombre: Pluriel
+[V-PPM-2S] Catégorie grammaticale: Verbe Temps: Présent Voix: Passif Mode: iMpératif Personne: Deuxième Nombre: Singulier
+[V-PPM-3P] Catégorie grammaticale: Verbe Temps: Présent Voix: Passif Mode: iMpératif Personne: Troisième Nombre: Pluriel
+[V-PPM-3S] Catégorie grammaticale: Verbe Temps: Présent Voix: Passif Mode: iMpératif Personne: Troisième Nombre: Singulier
+[V-PPN] Catégorie grammaticale: Verbe Temps: Présent Voix: Passif Mode: iNfinitif équivalent TVM: G5745
+[V-PPN-2P] Catégorie grammaticale: Verbe Temps: Présent Voix: Passif Mode: iNfinitif Personne: Deuxième Nombre: Pluriel
+[V-PPP] Catégorie grammaticale: Verbe Temps: Présent Voix: Passif Mode: Participe équivalent TVM: G5746
+[V-PPP-APF] Catégorie grammaticale: Verbe Temps: Présent Voix: Passif Mode: Participe Cas: Accusatif Nombre: Pluriel Genre: Féminin
+[V-PPP-APM] Catégorie grammaticale: Verbe Temps: Présent Voix: Passif Mode: Participe Cas: Accusatif Nombre: Pluriel Genre: Masculin
+[V-PPP-APN] Catégorie grammaticale: Verbe Temps: Présent Voix: Passif Mode: Participe Cas: Accusatif Nombre: Pluriel Genre: Neutre
+[V-PPP-ASF] Catégorie grammaticale: Verbe Temps: Présent Voix: Passif Mode: Participe Cas: Accusatif Nombre: Singulier Genre: Féminin
+[V-PPP-ASM] Catégorie grammaticale: Verbe Temps: Présent Voix: Passif Mode: Participe Cas: Accusatif Nombre: Singulier Genre: Masculin
+[V-PPP-ASN] Catégorie grammaticale: Verbe Temps: Présent Voix: Passif Mode: Participe Cas: Accusatif Nombre: Singulier Genre: Neutre
+[V-PPP-DPM] Catégorie grammaticale: Verbe Temps: Présent Voix: Passif Mode: Participe Cas: Datif Nombre: Pluriel Genre: Masculin
+[V-PPP-DPN] Catégorie grammaticale: Verbe Temps: Présent Voix: Passif Mode: Participe Cas: Datif Nombre: Pluriel Genre: Neutre
+[V-PPP-DSF] Catégorie grammaticale: Verbe Temps: Présent Voix: Passif Mode: Participe Cas: Datif Nombre: Singulier Genre: Féminin
+[V-PPP-DSM] Catégorie grammaticale: Verbe Temps: Présent Voix: Passif Mode: Participe Cas: Datif Nombre: Singulier Genre: Masculin
+[V-PPP-DSN] Catégorie grammaticale: Verbe Temps: Présent Voix: Passif Mode: Participe Cas: Datif Nombre: Singulier Genre: Neutre
+[V-PPP-GPM] Catégorie grammaticale: Verbe Temps: Présent Voix: Passif Mode: Participe Cas: Génitif Nombre: Pluriel Genre: Masculin
+[V-PPP-GPN] Catégorie grammaticale: Verbe Temps: Présent Voix: Passif Mode: Participe Cas: Génitif Nombre: Pluriel Genre: Neutre
+[V-PPP-GSF] Catégorie grammaticale: Verbe Temps: Présent Voix: Passif Mode: Participe Cas: Génitif Nombre: Singulier Genre: Féminin
+[V-PPP-GSM] Catégorie grammaticale: Verbe Temps: Présent Voix: Passif Mode: Participe Cas: Génitif Nombre: Singulier Genre: Masculin
+[V-PPP-GSN] Catégorie grammaticale: Verbe Temps: Présent Voix: Passif Mode: Participe Cas: Génitif Nombre: Singulier Genre: Neutre
+[V-PPP-NPF] Catégorie grammaticale: Verbe Temps: Présent Voix: Passif Mode: Participe Cas: Nominatif Nombre: Pluriel Genre: Féminin
+[V-PPP-NPM] Catégorie grammaticale: Verbe Temps: Présent Voix: Passif Mode: Participe Cas: Nominatif Nombre: Pluriel Genre: Masculin
+[V-PPP-NPN] Catégorie grammaticale: Verbe Temps: Présent Voix: Passif Mode: Participe Cas: Nominatif Nombre: Pluriel Genre: Neutre
+[V-PPP-NSF] Catégorie grammaticale: Verbe Temps: Présent Voix: Passif Mode: Participe Cas: Nominatif Nombre: Singulier Genre: Féminin
+[V-PPP-NSM] Catégorie grammaticale: Verbe Temps: Présent Voix: Passif Mode: Participe Cas: Nominatif Nombre: Singulier Genre: Masculin
+[V-PPP-NSN] Catégorie grammaticale: Verbe Temps: Présent Voix: Passif Mode: Participe Cas: Nominatif Nombre: Singulier Genre: Neutre
+[V-PPS] Catégorie grammaticale: Verbe Temps: Présent Voix: Passif Mode: Subjonctif équivalent TVM: G5747
+[V-PPS-1P] Catégorie grammaticale: Verbe Temps: Présent Voix: Passif Mode: Subjonctif Personne: Première Nombre: Pluriel
+[V-PPS-1S] Catégorie grammaticale: Verbe Temps: Présent Voix: Passif Mode: Subjonctif Personne: Première Nombre: Singulier
+[V-PPS-2P] Catégorie grammaticale: Verbe Temps: Présent Voix: Passif Mode: Subjonctif Personne: Deuxième Nombre: Pluriel
+[V-PPS-3P] Catégorie grammaticale: Verbe Temps: Présent Voix: Passif Mode: Subjonctif Personne: Troisième Nombre: Pluriel
+[V-PPS-3S] Catégorie grammaticale: Verbe Temps: Présent Voix: Passif Mode: Subjonctif Personne: Troisième Nombre: Singulier
+[V-PQI] Catégorie grammaticale: Verbe Temps: Présent Voix: impersonnel actif Mode: Indicatif équivalent TVM: G5904
+[V-PQI-3S] Catégorie grammaticale: Verbe Temps: Présent Voix: impersonnel actif Mode: Indicatif Personne: Troisième Nombre: Singulier
+[V-PQN] Catégorie grammaticale: Verbe Temps: Présent Voix: impersonnel actif Mode: iNfinitif équivalent TVM: G5903
+[V-PQP] Catégorie grammaticale: Verbe Temps: Présent Voix: impersonnel actif Mode: Participe équivalent TVM: G5901
+[V-PQP-APN] Catégorie grammaticale: Verbe Temps: Présent Voix: impersonnel actif Mode: Participe Cas: Accusatif Nombre: Pluriel Genre: Neutre
+[V-PQP-NSN] Catégorie grammaticale: Verbe Temps: Présent Voix: impersonnel actif Mode: Participe Cas: Nominatif Nombre: Singulier Genre: Neutre
+[V-PQS] Catégorie grammaticale: Verbe Temps: Présent Voix: impersonnel actif Mode: Subjonctif équivalent TVM: G5902
+[V-PQS-3S] Catégorie grammaticale: Verbe Temps: Présent Voix: impersonnel actif Mode: Subjonctif Personne: Troisième Nombre: Singulier
+[V-PXI] Catégorie grammaticale: Verbe Temps: Présent Voix: pas de voix établie Mode: Indicatif équivalent TVM: G5748
+[V-PXI-1P] Catégorie grammaticale: Verbe Temps: Présent Voix: pas de voix établie Mode: Indicatif Personne: Première Nombre: Pluriel
+[V-PXI-1S] Catégorie grammaticale: Verbe Temps: Présent Voix: pas de voix établie Mode: Indicatif Personne: Première Nombre: Singulier
+[V-PXI-2P] Catégorie grammaticale: Verbe Temps: Présent Voix: pas de voix établie Mode: Indicatif Personne: Deuxième Nombre: Pluriel
+[V-PXI-2S] Catégorie grammaticale: Verbe Temps: Présent Voix: pas de voix établie Mode: Indicatif Personne: Deuxième Nombre: Singulier
+[V-PXI-3P] Catégorie grammaticale: Verbe Temps: Présent Voix: pas de voix établie Mode: Indicatif Personne: Troisième Nombre: Pluriel
+[V-PXI-3S] Catégorie grammaticale: Verbe Temps: Présent Voix: pas de voix établie Mode: Indicatif Personne: Troisième Nombre: Singulier
+[V-PXM] Catégorie grammaticale: Verbe Temps: Présent Voix: pas de voix établie Mode: iMpératif équivalent TVM: G5749
+[V-PXM-2S] Catégorie grammaticale: Verbe Temps: Présent Voix: pas de voix établie Mode: iMpératif Personne: Deuxième Nombre: Singulier
+[V-PXM-3P] Catégorie grammaticale: Verbe Temps: Présent Voix: pas de voix établie Mode: iMpératif Personne: Troisième Nombre: Pluriel
+[V-PXM-3S] Catégorie grammaticale: Verbe Temps: Présent Voix: pas de voix établie Mode: iMpératif Personne: Troisième Nombre: Singulier
+[V-PXN] Catégorie grammaticale: Verbe Temps: Présent Voix: pas de voix établie Mode: iNfinitif équivalent TVM: G5750
+[V-PXO] Catégorie grammaticale: Verbe Temps: Présent Voix: pas de voix établie Mode: Optatif équivalent TVM: G5751
+[V-PXO-2S] Catégorie grammaticale: Verbe Temps: Présent Voix: pas de voix établie Mode: Optatif Personne: Deuxième Nombre: Singulier
+[V-PXO-3S] Catégorie grammaticale: Verbe Temps: Présent Voix: pas de voix établie Mode: Optatif Personne: Troisième Nombre: Singulier
+[V-PXP] Catégorie grammaticale: Verbe Temps: Présent Voix: pas de voix établie Mode: Participe équivalent TVM: G5752
+[V-PXP-APM] Catégorie grammaticale: Verbe Temps: Présent Voix: pas de voix établie Mode: Participe Cas: Accusatif Nombre: Pluriel Genre: Masculin
+[V-PXP-APN] Catégorie grammaticale: Verbe Temps: Présent Voix: pas de voix établie Mode: Participe Cas: Accusatif Nombre: Pluriel Genre: Neutre
+[V-PXP-ASF] Catégorie grammaticale: Verbe Temps: Présent Voix: pas de voix établie Mode: Participe Cas: Accusatif Nombre: Singulier Genre: Féminin
+[V-PXP-ASM] Catégorie grammaticale: Verbe Temps: Présent Voix: pas de voix établie Mode: Participe Cas: Accusatif Nombre: Singulier Genre: Masculin
+[V-PXP-ASN] Catégorie grammaticale: Verbe Temps: Présent Voix: pas de voix établie Mode: Participe Cas: Accusatif Nombre: Singulier Genre: Neutre
+[V-PXP-DPM] Catégorie grammaticale: Verbe Temps: Présent Voix: pas de voix établie Mode: Participe Cas: Datif Nombre: Pluriel Genre: Masculin
+[V-PXP-DPN] Catégorie grammaticale: Verbe Temps: Présent Voix: pas de voix établie Mode: Participe Cas: Datif Nombre: Pluriel Genre: Neutre
+[V-PXP-DSF] Catégorie grammaticale: Verbe Temps: Présent Voix: pas de voix établie Mode: Participe Cas: Datif Nombre: Singulier Genre: Féminin
+[V-PXP-DSM] Catégorie grammaticale: Verbe Temps: Présent Voix: pas de voix établie Mode: Participe Cas: Datif Nombre: Singulier Genre: Masculin
+[V-PXP-GPF] Catégorie grammaticale: Verbe Temps: Présent Voix: pas de voix établie Mode: Participe Cas: Génitif Nombre: Pluriel Genre: Féminin
+[V-PXP-GPM] Catégorie grammaticale: Verbe Temps: Présent Voix: pas de voix établie Mode: Participe Cas: Génitif Nombre: Pluriel Genre: Masculin
+[V-PXP-GPN] Catégorie grammaticale: Verbe Temps: Présent Voix: pas de voix établie Mode: Participe Cas: Génitif Nombre: Pluriel Genre: Neutre
+[V-PXP-GSF] Catégorie grammaticale: Verbe Temps: Présent Voix: pas de voix établie Mode: Participe Cas: Génitif Nombre: Singulier Genre: Féminin
+[V-PXP-GSM] Catégorie grammaticale: Verbe Temps: Présent Voix: pas de voix établie Mode: Participe Cas: Génitif Nombre: Singulier Genre: Masculin
+[V-PXP-GSN] Catégorie grammaticale: Verbe Temps: Présent Voix: pas de voix établie Mode: Participe Cas: Génitif Nombre: Singulier Genre: Neutre
+[V-PXP-NPF] Catégorie grammaticale: Verbe Temps: Présent Voix: pas de voix établie Mode: Participe Cas: Nominatif Nombre: Pluriel Genre: Féminin
+[V-PXP-NPM] Catégorie grammaticale: Verbe Temps: Présent Voix: pas de voix établie Mode: Participe Cas: Nominatif Nombre: Pluriel Genre: Masculin
+[V-PXP-NPN] Catégorie grammaticale: Verbe Temps: Présent Voix: pas de voix établie Mode: Participe Cas: Nominatif Nombre: Pluriel Genre: Neutre
+[V-PXP-NSF] Catégorie grammaticale: Verbe Temps: Présent Voix: pas de voix établie Mode: Participe Cas: Nominatif Nombre: Singulier Genre: Féminin
+[V-PXP-NSM] Catégorie grammaticale: Verbe Temps: Présent Voix: pas de voix établie Mode: Participe Cas: Nominatif Nombre: Singulier Genre: Masculin
+[V-PXP-NSN] Catégorie grammaticale: Verbe Temps: Présent Voix: pas de voix établie Mode: Participe Cas: Nominatif Nombre: Singulier Genre: Neutre
+[V-PXS] Catégorie grammaticale: Verbe Temps: Présent Voix: pas de voix établie Mode: Subjonctif équivalent TVM: G5753
+[V-PXS-1P] Catégorie grammaticale: Verbe Temps: Présent Voix: pas de voix établie Mode: Subjonctif Personne: Première Nombre: Pluriel
+[V-PXS-1S] Catégorie grammaticale: Verbe Temps: Présent Voix: pas de voix établie Mode: Subjonctif Personne: Première Nombre: Singulier
+[V-PXS-2P] Catégorie grammaticale: Verbe Temps: Présent Voix: pas de voix établie Mode: Subjonctif Personne: Deuxième Nombre: Pluriel
+[V-PXS-2S] Catégorie grammaticale: Verbe Temps: Présent Voix: pas de voix établie Mode: Subjonctif Personne: Deuxième Nombre: Singulier
+[V-PXS-3P] Catégorie grammaticale: Verbe Temps: Présent Voix: pas de voix établie Mode: Subjonctif Personne: Troisième Nombre: Pluriel
+[V-PXS-3S] Catégorie grammaticale: Verbe Temps: Présent Voix: pas de voix établie Mode: Subjonctif Personne: Troisième Nombre: Singulier
+[V-RAI] Catégorie grammaticale: Verbe Temps: paRfait Voix: Actif Mode: Indicatif équivalent TVM: G5758
+[V-RAI-1P] Catégorie grammaticale: Verbe Temps: paRfait Voix: Actif Mode: Indicatif Personne: Première Nombre: Pluriel
+[V-RAI-1P-ATT] Catégorie grammaticale: Verbe Temps: paRfait Voix: Actif Mode: Indicatif Personne: Première Nombre: Pluriel ATTique
+[V-RAI-1S] Catégorie grammaticale: Verbe Temps: paRfait Voix: Actif Mode: Indicatif Personne: Première Nombre: Singulier
+[V-RAI-1S-ATT] Catégorie grammaticale: Verbe Temps: paRfait Voix: Actif Mode: Indicatif Personne: Première Nombre: Singulier ATTique
+[V-RAI-2P] Catégorie grammaticale: Verbe Temps: paRfait Voix: Actif Mode: Indicatif Personne: Deuxième Nombre: Pluriel
+[V-RAI-2P-ATT] Catégorie grammaticale: Verbe Temps: paRfait Voix: Actif Mode: Indicatif Personne: Deuxième Nombre: Pluriel ATTique
+[V-RAI-2S] Catégorie grammaticale: Verbe Temps: paRfait Voix: Actif Mode: Indicatif Personne: Deuxième Nombre: Singulier
+[V-RAI-2S-ATT] Catégorie grammaticale: Verbe Temps: paRfait Voix: Actif Mode: Indicatif Personne: Deuxième Nombre: Singulier ATTique
+[V-RAI-3P] Catégorie grammaticale: Verbe Temps: paRfait Voix: Actif Mode: Indicatif Personne: Troisième Nombre: Pluriel
+[V-RAI-3P-ATT] Catégorie grammaticale: Verbe Temps: paRfait Voix: Actif Mode: Indicatif Personne: Troisième Nombre: Pluriel ATTique
+[V-RAI-3S] Catégorie grammaticale: Verbe Temps: paRfait Voix: Actif Mode: Indicatif Personne: Troisième Nombre: Singulier
+[V-RAI-3S-ATT] Catégorie grammaticale: Verbe Temps: paRfait Voix: Actif Mode: Indicatif Personne: Troisième Nombre: Singulier ATTique
+[V-RAM] Catégorie grammaticale: Verbe Temps: paRfait Voix: Actif Mode: iMpératif équivalent TVM: G5759
+[V-RAM-2P] Catégorie grammaticale: Verbe Temps: paRfait Voix: Actif Mode: iMpératif Personne: Deuxième Nombre: Pluriel
+[V-RAN] Catégorie grammaticale: Verbe Temps: paRfait Voix: Actif Mode: iNfinitif équivalent TVM: G5760
+[V-RAN-ATT] Catégorie grammaticale: Verbe Temps: paRfait Voix: Actif Mode: iNfinitif ATTique
+[V-RAP] Catégorie grammaticale: Verbe Temps: paRfait Voix: Actif Mode: Participe équivalent TVM: G5761
+[V-RAP-APM] Catégorie grammaticale: Verbe Temps: paRfait Voix: Actif Mode: Participe Cas: Accusatif Nombre: Pluriel Genre: Masculin
+[V-RAP-APN] Catégorie grammaticale: Verbe Temps: paRfait Voix: Actif Mode: Participe Cas: Accusatif Nombre: Pluriel Genre: Neutre
+[V-RAP-ASF] Catégorie grammaticale: Verbe Temps: paRfait Voix: Actif Mode: Participe Cas: Accusatif Nombre: Singulier Genre: Féminin
+[V-RAP-ASM] Catégorie grammaticale: Verbe Temps: paRfait Voix: Actif Mode: Participe Cas: Accusatif Nombre: Singulier Genre: Masculin
+[V-RAP-ASM-C] Catégorie grammaticale: Verbe Temps: paRfait Voix: Actif Mode: Participe Cas: Accusatif Nombre: Singulier Genre: Masculin Forme contractuelle
+[V-RAP-ASN] Catégorie grammaticale: Verbe Temps: paRfait Voix: Actif Mode: Participe Cas: Accusatif Nombre: Singulier Genre: Neutre
+[V-RAP-DPM] Catégorie grammaticale: Verbe Temps: paRfait Voix: Actif Mode: Participe Cas: Datif Nombre: Pluriel Genre: Masculin
+[V-RAP-DSM] Catégorie grammaticale: Verbe Temps: paRfait Voix: Actif Mode: Participe Cas: Datif Nombre: Singulier Genre: Masculin
+[V-RAP-DSN] Catégorie grammaticale: Verbe Temps: paRfait Voix: Actif Mode: Participe Cas: Datif Nombre: Singulier Genre: Neutre
+[V-RAP-GPM] Catégorie grammaticale: Verbe Temps: paRfait Voix: Actif Mode: Participe Cas: Génitif Nombre: Pluriel Genre: Masculin
+[V-RAP-GPN] Catégorie grammaticale: Verbe Temps: paRfait Voix: Actif Mode: Participe Cas: Génitif Nombre: Pluriel Genre: Neutre
+[V-RAP-GSF] Catégorie grammaticale: Verbe Temps: paRfait Voix: Actif Mode: Participe Cas: Génitif Nombre: Singulier Genre: Féminin
+[V-RAP-GSM] Catégorie grammaticale: Verbe Temps: paRfait Voix: Actif Mode: Participe Cas: Génitif Nombre: Singulier Genre: Masculin
+[V-RAP-GSM-ATT] Catégorie grammaticale: Verbe Temps: paRfait Voix: Actif Mode: Participe Cas: Génitif Nombre: Singulier Genre: Masculin ATTique
+[V-RAP-GSN-ATT] Catégorie grammaticale: Verbe Temps: paRfait Voix: Actif Mode: Participe Cas: Génitif Nombre: Singulier Genre: Neutre ATTique
+[V-RAP-NPF] Catégorie grammaticale: Verbe Temps: paRfait Voix: Actif Mode: Participe Cas: Nominatif Nombre: Pluriel Genre: Féminin
+[V-RAP-NPM] Catégorie grammaticale: Verbe Temps: paRfait Voix: Actif Mode: Participe Cas: Nominatif Nombre: Pluriel Genre: Masculin
+[V-RAP-NPM-ATT] Catégorie grammaticale: Verbe Temps: paRfait Voix: Actif Mode: Participe Cas: Nominatif Nombre: Pluriel Genre: Masculin ATTique
+[V-RAP-NPM-C] Catégorie grammaticale: Verbe Temps: paRfait Voix: Actif Mode: Participe Cas: Nominatif Nombre: Pluriel Genre: Masculin Forme contractuelle
+[V-RAP-NPN] Catégorie grammaticale: Verbe Temps: paRfait Voix: Actif Mode: Participe Cas: Nominatif Nombre: Pluriel Genre: Neutre
+[V-RAP-NSF] Catégorie grammaticale: Verbe Temps: paRfait Voix: Actif Mode: Participe Cas: Nominatif Nombre: Singulier Genre: Féminin
+[V-RAP-NSM] Catégorie grammaticale: Verbe Temps: paRfait Voix: Actif Mode: Participe Cas: Nominatif Nombre: Singulier Genre: Masculin
+[V-RAP-NSM-ATT] Catégorie grammaticale: Verbe Temps: paRfait Voix: Actif Mode: Participe Cas: Nominatif Nombre: Singulier Genre: Masculin ATTique
+[V-RAP-NSN] Catégorie grammaticale: Verbe Temps: paRfait Voix: Actif Mode: Participe Cas: Nominatif Nombre: Singulier Genre: Neutre
+[V-RAS] Catégorie grammaticale: Verbe Temps: paRfait Voix: Actif Mode: Subjonctif équivalent TVM: G5762
+[V-RAS-1P] Catégorie grammaticale: Verbe Temps: paRfait Voix: Actif Mode: Subjonctif Personne: Première Nombre: Pluriel
+[V-RAS-1S] Catégorie grammaticale: Verbe Temps: paRfait Voix: Actif Mode: Subjonctif Personne: Première Nombre: Singulier
+[V-RAS-2P] Catégorie grammaticale: Verbe Temps: paRfait Voix: Actif Mode: Subjonctif Personne: Deuxième Nombre: Pluriel
+[V-RAS-2S] Catégorie grammaticale: Verbe Temps: paRfait Voix: Actif Mode: Subjonctif Personne: Deuxième Nombre: Singulier
+[V-RDI] Catégorie grammaticale: Verbe Temps: paRfait Voix: Déponent moyen Mode: Indicatif équivalent TVM: G5763
+[V-RDI-3S] Catégorie grammaticale: Verbe Temps: paRfait Voix: Déponent moyen Mode: Indicatif Personne: Troisième Nombre: Singulier
+[V-RMI] Catégorie grammaticale: Verbe Temps: paRfait Voix: Moyen Mode: Indicatif équivalent TVM: G5764
+[V-RMI-1P] Catégorie grammaticale: Verbe Temps: paRfait Voix: Moyen Mode: Indicatif Personne: Première Nombre: Pluriel
+[V-RMI-1S] Catégorie grammaticale: Verbe Temps: paRfait Voix: Moyen Mode: Indicatif Personne: Première Nombre: Singulier
+[V-RMI-2P] Catégorie grammaticale: Verbe Temps: paRfait Voix: Moyen Mode: Indicatif Personne: Deuxième Nombre: Pluriel
+[V-RMI-2S] Catégorie grammaticale: Verbe Temps: paRfait Voix: Moyen Mode: Indicatif Personne: Deuxième Nombre: Singulier
+[V-RMI-3P] Catégorie grammaticale: Verbe Temps: paRfait Voix: Moyen Mode: Indicatif Personne: Troisième Nombre: Pluriel
+[V-RMI-3S] Catégorie grammaticale: Verbe Temps: paRfait Voix: Moyen Mode: Indicatif Personne: Troisième Nombre: Singulier
+[V-RMM-2P] Catégorie grammaticale: Verbe Temps: paRfait Voix: Moyen Mode: iMpératif Personne: Deuxième Nombre: Pluriel
+[V-RMN] Catégorie grammaticale: Verbe Temps: paRfait Voix: Moyen Mode: iNfinitif
+[V-RMP] Catégorie grammaticale: Verbe Temps: paRfait Voix: Moyen Mode: Participe équivalent TVM: G5765
+[V-RMP-APM] Catégorie grammaticale: Verbe Temps: paRfait Voix: Moyen Mode: Participe Cas: Accusatif Nombre: Pluriel Genre: Masculin
+[V-RMP-ASF] Catégorie grammaticale: Verbe Temps: paRfait Voix: Moyen Mode: Participe Cas: Accusatif Nombre: Singulier Genre: Féminin
+[V-RMP-ASM] Catégorie grammaticale: Verbe Temps: paRfait Voix: Moyen Mode: Participe Cas: Accusatif Nombre: Singulier Genre: Masculin
+[V-RMP-DPF] Catégorie grammaticale: Verbe Temps: paRfait Voix: Moyen Mode: Participe Cas: Datif Nombre: Pluriel Genre: Féminin
+[V-RMP-DPM] Catégorie grammaticale: Verbe Temps: paRfait Voix: Moyen Mode: Participe Cas: Datif Nombre: Pluriel Genre: Masculin
+[V-RMP-GPM] Catégorie grammaticale: Verbe Temps: paRfait Voix: Moyen Mode: Participe Cas: Génitif Nombre: Pluriel Genre: Masculin
+[V-RMP-GSF] Catégorie grammaticale: Verbe Temps: paRfait Voix: Moyen Mode: Participe Cas: Génitif Nombre: Singulier Genre: Féminin
+[V-RMP-NPM] Catégorie grammaticale: Verbe Temps: paRfait Voix: Moyen Mode: Participe Cas: Nominatif Nombre: Pluriel Genre: Masculin
+[V-RMP-NSF] Catégorie grammaticale: Verbe Temps: paRfait Voix: Moyen Mode: Participe Cas: Nominatif Nombre: Singulier Genre: Féminin
+[V-RMP-NSM] Catégorie grammaticale: Verbe Temps: paRfait Voix: Moyen Mode: Participe Cas: Nominatif Nombre: Singulier Genre: Masculin
+[V-RMP-VSF] Catégorie grammaticale: Verbe Temps: paRfait Voix: Moyen Mode: Participe Cas: Vocatif Nombre: Singulier Genre: Féminin
+[V-RNI] Catégorie grammaticale: Verbe Temps: paRfait Voix: Déponent moyen ou passif Mode: Indicatif équivalent TVM: G5766
+[V-RNI-1P] Catégorie grammaticale: Verbe Temps: paRfait Voix: Déponent moyen ou passif Mode: Indicatif Personne: Première Nombre: Pluriel
+[V-RNI-1S] Catégorie grammaticale: Verbe Temps: paRfait Voix: Déponent moyen ou passif Mode: Indicatif Personne: Première Nombre: Singulier
+[V-RNI-3S] Catégorie grammaticale: Verbe Temps: paRfait Voix: Déponent moyen ou passif Mode: Indicatif Personne: Troisième Nombre: Singulier
+[V-RNN] Catégorie grammaticale: Verbe Temps: paRfait Voix: Déponent moyen ou passif Mode: iNfinitif équivalent TVM: G5767
+[V-RNP] Catégorie grammaticale: Verbe Temps: paRfait Voix: Déponent moyen ou passif Mode: Participe équivalent TVM: G5768
+[V-RNP-APM] Catégorie grammaticale: Verbe Temps: paRfait Voix: Déponent moyen ou passif Mode: Participe Cas: Accusatif Nombre: Pluriel Genre: Masculin
+[V-RNP-ASF] Catégorie grammaticale: Verbe Temps: paRfait Voix: Déponent moyen ou passif Mode: Participe Cas: Accusatif Nombre: Singulier Genre: Féminin
+[V-RNP-DPF] Catégorie grammaticale: Verbe Temps: paRfait Voix: Déponent moyen ou passif Mode: Participe Cas: Datif Nombre: Pluriel Genre: Féminin
+[V-RNP-NPM] Catégorie grammaticale: Verbe Temps: paRfait Voix: Déponent moyen ou passif Mode: Participe Cas: Nominatif Nombre: Pluriel Genre: Masculin
+[V-RNP-NSM] Catégorie grammaticale: Verbe Temps: paRfait Voix: Déponent moyen ou passif Mode: Participe Cas: Nominatif Nombre: Singulier Genre: Masculin
+[V-RPI] Catégorie grammaticale: Verbe Temps: paRfait Voix: Passif Mode: Indicatif équivalent TVM: G5769
+[V-RPI-1P] Catégorie grammaticale: Verbe Temps: paRfait Voix: Passif Mode: Indicatif Personne: Première Nombre: Pluriel
+[V-RPI-1S] Catégorie grammaticale: Verbe Temps: paRfait Voix: Passif Mode: Indicatif Personne: Première Nombre: Singulier
+[V-RPI-2P] Catégorie grammaticale: Verbe Temps: paRfait Voix: Passif Mode: Indicatif Personne: Deuxième Nombre: Pluriel
+[V-RPI-2S] Catégorie grammaticale: Verbe Temps: paRfait Voix: Passif Mode: Indicatif Personne: Deuxième Nombre: Singulier
+[V-RPI-3P] Catégorie grammaticale: Verbe Temps: paRfait Voix: Passif Mode: Indicatif Personne: Troisième Nombre: Pluriel
+[V-RPI-3S] Catégorie grammaticale: Verbe Temps: paRfait Voix: Passif Mode: Indicatif Personne: Troisième Nombre: Singulier
+[V-RPM] Catégorie grammaticale: Verbe Temps: paRfait Voix: Passif Mode: iMpératif équivalent TVM: G5770
+[V-RPM-2P] Catégorie grammaticale: Verbe Temps: paRfait Voix: Passif Mode: iMpératif Personne: Deuxième Nombre: Pluriel
+[V-RPM-2S] Catégorie grammaticale: Verbe Temps: paRfait Voix: Passif Mode: iMpératif Personne: Deuxième Nombre: Singulier
+[V-RPN] Catégorie grammaticale: Verbe Temps: paRfait Voix: Passif Mode: iNfinitif équivalent TVM: G5771
+[V-RPP] Catégorie grammaticale: Verbe Temps: paRfait Voix: Passif Mode: Participe équivalent TVM: G5772
+[V-RPP-APF] Catégorie grammaticale: Verbe Temps: paRfait Voix: Passif Mode: Participe Cas: Accusatif Nombre: Pluriel Genre: Féminin
+[V-RPP-APM] Catégorie grammaticale: Verbe Temps: paRfait Voix: Passif Mode: Participe Cas: Accusatif Nombre: Pluriel Genre: Masculin
+[V-RPP-APN] Catégorie grammaticale: Verbe Temps: paRfait Voix: Passif Mode: Participe Cas: Accusatif Nombre: Pluriel Genre: Neutre
+[V-RPP-ASF] Catégorie grammaticale: Verbe Temps: paRfait Voix: Passif Mode: Participe Cas: Accusatif Nombre: Singulier Genre: Féminin
+[V-RPP-ASM] Catégorie grammaticale: Verbe Temps: paRfait Voix: Passif Mode: Participe Cas: Accusatif Nombre: Singulier Genre: Masculin
+[V-RPP-ASN] Catégorie grammaticale: Verbe Temps: paRfait Voix: Passif Mode: Participe Cas: Accusatif Nombre: Singulier Genre: Neutre
+[V-RPP-ASN-ATT] Catégorie grammaticale: Verbe Temps: paRfait Voix: Passif Mode: Participe Cas: Accusatif Nombre: Singulier Genre: Neutre ATTique
+[V-RPP-DPM] Catégorie grammaticale: Verbe Temps: paRfait Voix: Passif Mode: Participe Cas: Datif Nombre: Pluriel Genre: Masculin
+[V-RPP-DPN] Catégorie grammaticale: Verbe Temps: paRfait Voix: Passif Mode: Participe Cas: Datif Nombre: Pluriel Genre: Neutre
+[V-RPP-DSF] Catégorie grammaticale: Verbe Temps: paRfait Voix: Passif Mode: Participe Cas: Datif Nombre: Singulier Genre: Féminin
+[V-RPP-DSM] Catégorie grammaticale: Verbe Temps: paRfait Voix: Passif Mode: Participe Cas: Datif Nombre: Singulier Genre: Masculin
+[V-RPP-DSN] Catégorie grammaticale: Verbe Temps: paRfait Voix: Passif Mode: Participe Cas: Datif Nombre: Singulier Genre: Neutre
+[V-RPP-GPF] Catégorie grammaticale: Verbe Temps: paRfait Voix: Passif Mode: Participe Cas: Génitif Nombre: Pluriel Genre: Féminin
+[V-RPP-GPM] Catégorie grammaticale: Verbe Temps: paRfait Voix: Passif Mode: Participe Cas: Génitif Nombre: Pluriel Genre: Masculin
+[V-RPP-GPN] Catégorie grammaticale: Verbe Temps: paRfait Voix: Passif Mode: Participe Cas: Génitif Nombre: Pluriel Genre: Neutre
+[V-RPP-GSF] Catégorie grammaticale: Verbe Temps: paRfait Voix: Passif Mode: Participe Cas: Génitif Nombre: Singulier Genre: Féminin
+[V-RPP-GSM] Catégorie grammaticale: Verbe Temps: paRfait Voix: Passif Mode: Participe Cas: Génitif Nombre: Singulier Genre: Masculin
+[V-RPP-GSN] Catégorie grammaticale: Verbe Temps: paRfait Voix: Passif Mode: Participe Cas: Génitif Nombre: Singulier Genre: Neutre
+[V-RPP-NPF] Catégorie grammaticale: Verbe Temps: paRfait Voix: Passif Mode: Participe Cas: Nominatif Nombre: Pluriel Genre: Féminin
+[V-RPP-NPM] Catégorie grammaticale: Verbe Temps: paRfait Voix: Passif Mode: Participe Cas: Nominatif Nombre: Pluriel Genre: Masculin
+[V-RPP-NPN] Catégorie grammaticale: Verbe Temps: paRfait Voix: Passif Mode: Participe Cas: Nominatif Nombre: Pluriel Genre: Neutre
+[V-RPP-NSF] Catégorie grammaticale: Verbe Temps: paRfait Voix: Passif Mode: Participe Cas: Nominatif Nombre: Singulier Genre: Féminin
+[V-RPP-NSM] Catégorie grammaticale: Verbe Temps: paRfait Voix: Passif Mode: Participe Cas: Nominatif Nombre: Singulier Genre: Masculin
+[V-RPP-NSN] Catégorie grammaticale: Verbe Temps: paRfait Voix: Passif Mode: Participe Cas: Nominatif Nombre: Singulier Genre: Neutre
+[V-RPP-NSN-ATT] Catégorie grammaticale: Verbe Temps: paRfait Voix: Passif Mode: Participe Cas: Nominatif Nombre: Singulier Genre: Neutre ATTique
+[V-RPP-VPM] Catégorie grammaticale: Verbe Temps: paRfait Voix: Passif Mode: Participe Cas: Vocatif Nombre: Pluriel Genre: Masculin
+[V-RPP-VSF] Catégorie grammaticale: Verbe Temps: paRfait Voix: Passif Mode: Participe Cas: Vocatif Nombre: Singulier Genre: Féminin
+[V-RPP-VSM] Catégorie grammaticale: Verbe Temps: paRfait Voix: Passif Mode: Participe Cas: Vocatif Nombre: Singulier Genre: Masculin
+[V-RPR-ASN] Catégorie grammaticale: Verbe Temps: paRfait Voix: Passif Mode: participe impératif-sens Cas: Accusatif Nombre: Singulier Genre: Neutre
+[V-XXM] Catégorie grammaticale: Verbe Temps: pas de temps indiqué (impératif adverbial) Voix: pas de voix établie Mode: iMpératif équivalent TVM: G5773
+[V-XXM-2P] Catégorie grammaticale: Verbe Temps: pas de temps indiqué (impératif adverbial) Voix: pas de voix établie Mode: iMpératif Personne: Deuxième Nombre: Pluriel
+[V-XXM-2S] Catégorie grammaticale: Verbe Temps: pas de temps indiqué (impératif adverbial) Voix: pas de voix établie Mode: iMpératif Personne: Deuxième Nombre: Singulier
+[X-APF] Catégorie grammaticale: Pronom indéfini Cas: Accusatif Nombre: Pluriel Genre: Féminin
+[X-APM] Catégorie grammaticale: Pronom indéfini Cas: Accusatif Nombre: Pluriel Genre: Masculin
+[X-APN] Catégorie grammaticale: Pronom indéfini Cas: Accusatif Nombre: Pluriel Genre: Neutre
+[X-ASF] Catégorie grammaticale: Pronom indéfini Cas: Accusatif Nombre: Singulier Genre: Féminin
+[X-ASM] Catégorie grammaticale: Pronom indéfini Cas: Accusatif Nombre: Singulier Genre: Masculin
+[X-ASN] Catégorie grammaticale: Pronom indéfini Cas: Accusatif Nombre: Singulier Genre: Neutre
+[X-DPM] Catégorie grammaticale: Pronom indéfini Cas: Datif Nombre: Pluriel Genre: Masculin
+[X-DSF] Catégorie grammaticale: Pronom indéfini Cas: Datif Nombre: Singulier Genre: Féminin
+[X-DSM] Catégorie grammaticale: Pronom indéfini Cas: Datif Nombre: Singulier Genre: Masculin
+[X-DSN] Catégorie grammaticale: Pronom indéfini Cas: Datif Nombre: Singulier Genre: Neutre
+[X-GPF] Catégorie grammaticale: Pronom indéfini Cas: Génitif Nombre: Pluriel Genre: Féminin
+[X-GPM] Catégorie grammaticale: Pronom indéfini Cas: Génitif Nombre: Pluriel Genre: Masculin
+[X-GPN] Catégorie grammaticale: Pronom indéfini Cas: Génitif Nombre: Pluriel Genre: Neutre
+[X-GSF] Catégorie grammaticale: Pronom indéfini Cas: Génitif Nombre: Singulier Genre: Féminin
+[X-GSM] Catégorie grammaticale: Pronom indéfini Cas: Génitif Nombre: Singulier Genre: Masculin
+[X-GSN] Catégorie grammaticale: Pronom indéfini Cas: Génitif Nombre: Singulier Genre: Neutre
+[X-NPF] Catégorie grammaticale: Pronom indéfini Cas: Nominatif Nombre: Pluriel Genre: Féminin
+[X-NPM] Catégorie grammaticale: Pronom indéfini Cas: Nominatif Nombre: Pluriel Genre: Masculin
+[X-NPN] Catégorie grammaticale: Pronom indéfini Cas: Nominatif Nombre: Pluriel Genre: Neutre
+[X-NSF] Catégorie grammaticale: Pronom indéfini Cas: Nominatif Nombre: Singulier Genre: Féminin
+[X-NSM] Catégorie grammaticale: Pronom indéfini Cas: Nominatif Nombre: Singulier Genre: Masculin
+[X-NSN] Catégorie grammaticale: Pronom indéfini Cas: Nominatif Nombre: Singulier Genre: Neutre
