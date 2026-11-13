@@ -128,6 +128,9 @@ f0892e182cd1349f8999118ce439e1914c9dc892a5cd28e29a6142e8ba803406  critical-editi
 f233feaf043e12f81f7164e732df9e264d377d0807519b4312de60c0f22398e3  translations/World English Bible, Catholic Edition [engwebc].txt
 f440fff9b93f0649547f6aae1abfd807f55e7dea41f3d49ee7cfe1cf7d2e8f4d  translations/unfoldingWord Literal Text [ULT].txt
 f46cb497539133b58031571cc95d033b9757fcdc79ce83fb96752a260711055f  translations/Webster Bible [Webster].txt
+1b04f3afc34c26786fd8f9f3a7c21964ada1d3f6d81b7069244d9d30aa6f1222  translations/Bailey's Malayalam New Testament 1829 [malbailey1829].txt
+a546d3175750305d7c3fdd991f0539bceccc7a2c4680ae73db8b02cd14104c1b  translations/Malayalam Sathyavedapusthakam 1910, Contemporary Orthography (2015) [mal2015].txt
+d24c8758bf39f1441dccb80bda828d222fbcb4bcc7afcafa2d048579afa8ef2c  translations/Sathyavedapusthakam 1910 (Malayalam Bible) [malsvp1910].txt
 f887cf847daa46f78d4a9b6516bd0a82b7a9dff77b48143129d31045af60f16f  critical-editions/Nestle Greek New Testament (1904) [grcnestle].txt
 fa39b5a5a90f413bde16b067147f5eddaff842b3da3325c64f418e4035f52d72  lexicons/BDB Glosses (Strong's).txt
 fe32063b8330344b829d877f5f2404ceb25e13eaca8de86abf3cc93f70423da5  lexicons/Ordf├╢rklaringar och sakupplysningar.txt

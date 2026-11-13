@@ -1,8 +1,8 @@
 # Verification report
 
-- files: **133** (87 translations, 21 critical editions, 25 lexicons/reference works)
-- verse/entry rows total: **2,294,684**
-- files with ERRORS: **0** | files with warnings: 2
+- files: **136** (90 translations, 21 critical editions, 25 lexicons/reference works)
+- verse/entry rows total: **2,364,619**
+- files with ERRORS: **0** | files with warnings: 3
 
 Checks run on every file:
 
@@ -146,3 +146,6 @@ Checks run on every file:
 | translations/Open English Translation, Readers' Version [engOETrv].txt | 36,005 | OK | - |
 | translations/Open English Translation, Literal Version [engOETlv].txt | 7,914 | OK | - |
 | translations/Unlocked Dynamic Bible [engudb].txt | 30,767 | OK | - |
+| translations/Bailey's Malayalam New Testament 1829 [malbailey1829].txt | 7,739 | OK | 125 verses contain markup-like characters (`<lb/>`, `<lg ...>` unconverted from the 1829 .SFM source; preserved verbatim) |
+| translations/Malayalam Sathyavedapusthakam 1910, Contemporary Orthography (2015) [mal2015].txt | 31,098 | OK | - |
+| translations/Sathyavedapusthakam 1910 (Malayalam Bible) [malsvp1910].txt | 31,098 | OK | - |
