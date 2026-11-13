@@ -1,8 +1,8 @@
 # Verification report
 
-- files: **136** (90 translations, 21 critical editions, 25 lexicons/reference works)
-- verse/entry rows total: **2,364,619**
-- files with ERRORS: **0** | files with warnings: 3
+- files: **172** (126 translations, 21 critical editions, 25 lexicons/reference works)
+- verse/entry rows total: **3,365,002**
+- files with ERRORS: **0** | files with warnings: 4
 
 Checks run on every file:
 
@@ -149,3 +149,39 @@ Checks run on every file:
 | translations/Bailey's Malayalam New Testament 1829 [malbailey1829].txt | 7,739 | OK | 125 verses contain markup-like characters (`<lb/>`, `<lg ...>` unconverted from the 1829 .SFM source; preserved verbatim) |
 | translations/Malayalam Sathyavedapusthakam 1910, Contemporary Orthography (2015) [mal2015].txt | 31,098 | OK | - |
 | translations/Sathyavedapusthakam 1910 (Malayalam Bible) [malsvp1910].txt | 31,098 | OK | - |
+| translations/Bib La 1985 (Haitian Creole Bible) [hat].txt | 31,102 | OK | - |
+| translations/Bibelen på Norsk 1930 (Norwegian Bible) [Norsk1930].txt | 31,101 | OK | - |
+| translations/Bibla Shqiptare (Albanian Bible) [Alb].txt | 31,102 | OK | - |
+| translations/Bible Kralická 1613 (Czech Bible) [ces1613].txt | 31,172 | OK | - |
+| translations/Biblia 1776 (Finnish Bible) [FinBiblia].txt | 35,445 | OK | - |
+| translations/Biblia Gdańska 1881 (Polish Bible) [PolGdanska].txt | 31,073 | OK | - |
+| translations/Biblia Liberă (Romanian New Testament, Latin script) [ronbl].txt | 7,952 | OK | - |
+| translations/Biblia Takatifu 1850 (Swahili New Testament) [swh1850].txt | 7,853 | OK | - |
+| translations/Bíblia NVA (Portuguese Bible) [PorNVA].txt | 31,094 | OK | - |
+| translations/Danish Bible OT 1871 NT 1907 (original orthography) [DaOT1871NT1907].txt | 31,063 | OK | - |
+| translations/Diodati Bibbia 1885 (Italian Bible) [ita1885].txt | 31,095 | OK | - |
+| translations/Elberfelder Bibel 1905 (German Bible) [deuelo].txt | 31,102 | OK | - |
+| translations/Kinh Thánh 1934 (Vietnamese Bible) [vie1934].txt | 31,102 | OK | - |
+| translations/Károli Biblia 1908 (Hungarian Bible) [HunKar].txt | 31,126 | OK | - |
+| translations/Latviešu Bible, Glück 8th edition (Latvian Bible) [LvGluck8].txt | 31,102 | OK | - |
+| translations/Londona Biblio 1910 (Esperanto Bible) [epo].txt | 31,102 | OK | - |
+| translations/Louis Segond 1910 (French Bible) [fraLSG].txt | 31,170 | OK | - |
+| translations/Lutherbibel 1912 (German Bible) [deu1912].txt | 31,102 | OK | - |
+| translations/Petrus Canisiusvertaling 1939 (Dutch Catholic Bible) [nld1939].txt | 35,335 | OK | - |
+| translations/Reina-Valera 1909 (Spanish Bible) [spaRV1909].txt | 31,084 | OK | - |
+| translations/Riveduta Bibbia 1927 (Italian Bible) [ita1927].txt | 31,102 | OK | - |
+| translations/Statenvertaling 1917 (Dutch Bible) [nld].txt | 31,102 | OK | - |
+| translations/Stritarjeva Biblija 1882 (Slovenian Bible) [SloStritar].txt | 10,474 | OK | - |
+| translations/Svenska Bibeln 1917 (Swedish Bible) [Swe1917].txt | 35,350 | OK | - |
+| translations/Sveta Biblija (Croatian Bible, Šarić) [hrv].txt | 35,448 | OK | - |
+| translations/Tagalog Bible 1905 (Philippine Bible Society) [TagAngBiblia].txt | 31,102 | OK | - |
+| translations/Unlocked Literal Bible (Cebuano) [cebulb].txt | 31,103 | OK | - |
+| translations/Unlocked Literal Bible (French) [frulb].txt | 7,958 | OK | - |
+| translations/Unlocked Literal Bible (Hausa) [haulb].txt | 7,959 | OK | - |
+| translations/Unlocked Literal Bible (Ilocano) [iloulb].txt | 31,090 | OK | - |
+| translations/Unlocked Literal Bible (Indonesian) [idulb].txt | 7,945 | OK | 2 verses contain markup-like characters (preserved verbatim from source) |
+| translations/Unlocked Literal Bible (Portuguese, Brazil) [ptbrulb].txt | 31,097 | OK | - |
+| translations/Unlocked Literal Bible (Spanish, Latin America) [es419ulb].txt | 31,099 | OK | - |
+| translations/Unlocked Literal Bible (Swahili) [swulb].txt | 31,101 | OK | - |
+| translations/Unlocked Literal Bible (Tagalog) [tlulb].txt | 31,103 | OK | - |
+| translations/Unlocked Literal Bible (Vietnamese) [viulb].txt | 31,073 | OK | - |

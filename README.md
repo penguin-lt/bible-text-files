@@ -1,14 +1,14 @@
 # bible-text-files
 
-All legally obtainable English Bible translations, the qualifying Malayalam
-translations, critical editions, and lexicons/reference works, as plain text files —
+All legally obtainable Bible translations in English, Malayalam and the major
+Latin-script languages, plus critical editions and lexicons/reference works, as plain text files —
 generated from the verified SQLite library in [`penguin-lt/bible-dyb-repo`](https://github.com/penguin-lt/bible-dyb-repo)
 (releases `bibles-lexicons-core` and `critical-editions`).
 
 ## Layout
 
 ```
-translations/        90 translations: 87 English (incl. 3 CC BY-SA 4.0 additions) + 3 Malayalam (PD / CC BY-SA 4.0 / Unlicense)
+translations/        126 translations: 87 English, 3 Malayalam, 36 major Latin-script languages (PD / CC BY-SA 4.0 / Unlicense)
 critical-editions/   21 critical editions (Greek, Hebrew, Latin, Coptic, Syriac, Slavonic + English Brenton)
 lexicons/            25 lexicons and reference works
 SHA256SUMS.txt       sha256 of every file
@@ -44,7 +44,7 @@ Notes:
 
 Every file was re-parsed after writing and compared row-for-row against its
 SQLite source (book, chapter, verse, text), and each SQLite file passed
-`integrity_check` with FTS row counts matching. **136 files, 2,364,619 rows,
+`integrity_check` with FTS row counts matching. **172 files, 3,365,002 rows,
 0 errors.** See `VERIFICATION.md` for the per-file table and `SHA256SUMS.txt`
 to check any download.
 

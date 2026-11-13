@@ -131,6 +131,42 @@ f46cb497539133b58031571cc95d033b9757fcdc79ce83fb96752a260711055f  translations/W
 1b04f3afc34c26786fd8f9f3a7c21964ada1d3f6d81b7069244d9d30aa6f1222  translations/Bailey's Malayalam New Testament 1829 [malbailey1829].txt
 a546d3175750305d7c3fdd991f0539bceccc7a2c4680ae73db8b02cd14104c1b  translations/Malayalam Sathyavedapusthakam 1910, Contemporary Orthography (2015) [mal2015].txt
 d24c8758bf39f1441dccb80bda828d222fbcb4bcc7afcafa2d048579afa8ef2c  translations/Sathyavedapusthakam 1910 (Malayalam Bible) [malsvp1910].txt
+af77d7535c437f9b875208d2ec1f6e87e55d4b408167f1dc61fd0ba18ecd6eb1  translations/Bib La 1985 (Haitian Creole Bible) [hat].txt
+5943e776dbba01832106c31694543561770c940bca8cea607d83307956b8a477  translations/Bibelen på Norsk 1930 (Norwegian Bible) [Norsk1930].txt
+c3787f4ec378240c79c401c7352bc63c655ea8ec022fabd003a727aa1ccc0004  translations/Bibla Shqiptare (Albanian Bible) [Alb].txt
+1576410e77d0c1fecf33c55bcca0fe332ec8433a7d3ca5e8c35bc8a28712f6f7  translations/Bible Kralická 1613 (Czech Bible) [ces1613].txt
+1213e4596faf53754a946d7c822a9ebd2a8c04d8d393be460e295ce86168b11e  translations/Biblia 1776 (Finnish Bible) [FinBiblia].txt
+332fb108f836f2958529f6c593b19bf823b9d3e35c815ea01e44ae656788793c  translations/Biblia Gdańska 1881 (Polish Bible) [PolGdanska].txt
+ffcb41575da6991749bff39c154aa4e8ac24eb329050a04a96acd16c7d806ff9  translations/Biblia Liberă (Romanian New Testament, Latin script) [ronbl].txt
+45a0223d82cbdbf3732ff0015627700f0b7ad090367641dc0ef47c42f611f799  translations/Biblia Takatifu 1850 (Swahili New Testament) [swh1850].txt
+31070983e2ab861b15d95c509fd6fa7292744bc0d62663ddc4002e2bc27b544b  translations/Bíblia NVA (Portuguese Bible) [PorNVA].txt
+d23e1ad05e30d9324e7abdb5e97105406fce64116f3362ab31e3547426ee2020  translations/Danish Bible OT 1871 NT 1907 (original orthography) [DaOT1871NT1907].txt
+6b0646a958c4f02bf8ad9404c066ffe0020f351c752bb01eb19b0ef32e2dcbcb  translations/Diodati Bibbia 1885 (Italian Bible) [ita1885].txt
+bcb0f5badf2201e2358cc677b0797cf944e6a3152f1925ba29a2623280d8bedc  translations/Elberfelder Bibel 1905 (German Bible) [deuelo].txt
+dbd139e9322b2da9a387c6a41f1cd341a5abe7eb580d0cde4912f30eef420722  translations/Kinh Thánh 1934 (Vietnamese Bible) [vie1934].txt
+3629f47d6d152ca1ec65e74fe1f964b26ffc20974e643d51fe1de4c291a583d8  translations/Károli Biblia 1908 (Hungarian Bible) [HunKar].txt
+ec8618dd4c3e98b56ef666622ebed15b49386e1488e33ba07e6d388019977e4d  translations/Latviešu Bible, Glück 8th edition (Latvian Bible) [LvGluck8].txt
+368279a2c3e02588e0f39039dbb854df8d9107975dc70b57415c12cf2b98033c  translations/Londona Biblio 1910 (Esperanto Bible) [epo].txt
+11bd3f7e8a2e44d9556bfa28fde188ddb41ef5d6e154dc44be637c066d514155  translations/Louis Segond 1910 (French Bible) [fraLSG].txt
+921e01bdf1186656ff4b71451fa98b426bec15990645da97c943a4a84970ccca  translations/Lutherbibel 1912 (German Bible) [deu1912].txt
+77c2b3e6970b741a003e3cac0006399affd5cf42f8fedcfc4ba453ba514ca21b  translations/Petrus Canisiusvertaling 1939 (Dutch Catholic Bible) [nld1939].txt
+688018fda7b09ff0b926b512181536f336af0bf9c885f992232303dd84b11c54  translations/Reina-Valera 1909 (Spanish Bible) [spaRV1909].txt
+0618c1e72eab56b479309ec8a9e1cfe6b8e5a7cd105e6c5d0430fecfcd4013bb  translations/Riveduta Bibbia 1927 (Italian Bible) [ita1927].txt
+59f9680bb20c2990922e51ea67532aa796eb359dffbd66c6e7e02a4c406e15ea  translations/Statenvertaling 1917 (Dutch Bible) [nld].txt
+2f4b27cd9cc9b62e18d3453af4bbb42f8e7036b79e592c891dd33fde3126933d  translations/Stritarjeva Biblija 1882 (Slovenian Bible) [SloStritar].txt
+548fe06037369a90581a0d9237612a566b77d23ec0d39def69750faffec04757  translations/Svenska Bibeln 1917 (Swedish Bible) [Swe1917].txt
+d9c79a3e5a93ef08f521720c45fa482618f19431440e6fa80471178c6e9bd343  translations/Sveta Biblija (Croatian Bible, Šarić) [hrv].txt
+0fc1bd56c85e0368b885ea3ae4971670a953406b3e5df30ee563a3827bae8a1e  translations/Tagalog Bible 1905 (Philippine Bible Society) [TagAngBiblia].txt
+66e779b11f0b75e5591d207b52ee7941060f237338401d23448c23436be8867d  translations/Unlocked Literal Bible (Cebuano) [cebulb].txt
+85561daa8bb9e0139856f22d69aff81e5010f5fc8fd85beeb3a03b483216d8a0  translations/Unlocked Literal Bible (French) [frulb].txt
+6225d44e361d99cdc6a621070f81d4ffbd3e1dfb1b7b6a89fe828c71f60b2b88  translations/Unlocked Literal Bible (Hausa) [haulb].txt
+daeec2ea51503dee9954efa79de3a1491ab761eca21667109d17505962b5c8d6  translations/Unlocked Literal Bible (Ilocano) [iloulb].txt
+7f22b0d0c9ec4b07e12b40ce3189bccd0de834d508005cb3e3d2cd7d954b581d  translations/Unlocked Literal Bible (Indonesian) [idulb].txt
+029d2f0c09d258183f26422fd06cfd3fc746ddff89cbfe33e592e39b570d6f7f  translations/Unlocked Literal Bible (Portuguese, Brazil) [ptbrulb].txt
+60f0329c5256d7f5bb64a3da3ca9e83490a8f4df47810ea64680daca4d5ca53b  translations/Unlocked Literal Bible (Spanish, Latin America) [es419ulb].txt
+3d247baccb707e644a0a4cc17661581004ce9101753afbe7d464e34bb5a5cfa5  translations/Unlocked Literal Bible (Swahili) [swulb].txt
+4fa3722684828a82f00db93bf40081c4597df7b468be30c82ef99a443a08e9d7  translations/Unlocked Literal Bible (Tagalog) [tlulb].txt
+9f13d972a15b449ec2376783e4882f3c857a3ab745bc233377c6243410b98811  translations/Unlocked Literal Bible (Vietnamese) [viulb].txt
 f887cf847daa46f78d4a9b6516bd0a82b7a9dff77b48143129d31045af60f16f  critical-editions/Nestle Greek New Testament (1904) [grcnestle].txt
 fa39b5a5a90f413bde16b067147f5eddaff842b3da3325c64f418e4035f52d72  lexicons/BDB Glosses (Strong's).txt
 fe32063b8330344b829d877f5f2404ceb25e13eaca8de86abf3cc93f70423da5  lexicons/Ordf├╢rklaringar och sakupplysningar.txt
