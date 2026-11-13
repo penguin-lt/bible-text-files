@@ -8,7 +8,7 @@ generated from the verified SQLite library in [`penguin-lt/bible-dyb-repo`](http
 ## Layout
 
 ```
-translations/        126 translations: 87 English, 3 Malayalam, 36 major Latin-script languages (PD / CC BY-SA 4.0 / Unlicense)
+translations/        130 translations: 87 English, 3 Malayalam, 36 major Latin-script languages, 4 public-domain Catholic Bibles (PD / CC BY-SA 4.0 / Unlicense)
 critical-editions/   21 critical editions (Greek, Hebrew, Latin, Coptic, Syriac, Slavonic + English Brenton)
 lexicons/            25 lexicons and reference works
 SHA256SUMS.txt       sha256 of every file
@@ -44,7 +44,7 @@ Notes:
 
 Every file was re-parsed after writing and compared row-for-row against its
 SQLite source (book, chapter, verse, text), and each SQLite file passed
-`integrity_check` with FTS row counts matching. **172 files, 3,365,002 rows,
+`integrity_check` with FTS row counts matching. **176 files, 3,504,174 rows,
 0 errors.** See `VERIFICATION.md` for the per-file table and `SHA256SUMS.txt`
 to check any download.
 

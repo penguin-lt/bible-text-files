@@ -1,8 +1,8 @@
 # Verification report
 
-- files: **172** (126 translations, 21 critical editions, 25 lexicons/reference works)
-- verse/entry rows total: **3,365,002**
-- files with ERRORS: **0** | files with warnings: 4
+- files: **176** (130 translations, 21 critical editions, 25 lexicons/reference works)
+- verse/entry rows total: **3,504,174**
+- files with ERRORS: **0** | files with warnings: 5
 
 Checks run on every file:
 
@@ -185,3 +185,7 @@ Checks run on every file:
 | translations/Unlocked Literal Bible (Swahili) [swulb].txt | 31,101 | OK | - |
 | translations/Unlocked Literal Bible (Tagalog) [tlulb].txt | 31,103 | OK | - |
 | translations/Unlocked Literal Bible (Vietnamese) [viulb].txt | 31,073 | OK | - |
+| translations/Biblia Platense (Straubinger) 1958 (Spanish Catholic Bible) [SpaPlatense].txt | 35,791 | OK | - |
+| translations/Katholische Bibelübersetzung Rießler-Storr (Grünewaldbibel 1924, German Catholic Bible) [GerGruenewald].txt | 30,956 | OK | - |
+| translations/La Bible Crampon 1923 (French Catholic Bible) [FreCrampon].txt | 35,486 | OK | 1 verse contains markup-like characters (preserved verbatim from source) |
+| translations/Statenvertaling met apocriefen (Dutch Catholic Bible) [DutSVVA].txt | 36,939 | OK | - |

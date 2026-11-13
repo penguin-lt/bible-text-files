@@ -167,6 +167,10 @@ daeec2ea51503dee9954efa79de3a1491ab761eca21667109d17505962b5c8d6  translations/U
 3d247baccb707e644a0a4cc17661581004ce9101753afbe7d464e34bb5a5cfa5  translations/Unlocked Literal Bible (Swahili) [swulb].txt
 4fa3722684828a82f00db93bf40081c4597df7b468be30c82ef99a443a08e9d7  translations/Unlocked Literal Bible (Tagalog) [tlulb].txt
 9f13d972a15b449ec2376783e4882f3c857a3ab745bc233377c6243410b98811  translations/Unlocked Literal Bible (Vietnamese) [viulb].txt
+92299d74c08338d98139484410a2d0aa55b34fd26b38a61e2069d0adb7f4ddcb  translations/Biblia Platense (Straubinger) 1958 (Spanish Catholic Bible) [SpaPlatense].txt
+2330708aeea82d212eb1dd77fd75c7cf819214fb393fb291126110b74c8a9dc6  translations/Katholische Bibelübersetzung Rießler-Storr (Grünewaldbibel 1924, German Catholic Bible) [GerGruenewald].txt
+c01a2bfafb41610d52efe9455fafb83052d80bc683ec248b25ccc027cb93f2e9  translations/La Bible Crampon 1923 (French Catholic Bible) [FreCrampon].txt
+2b07cdf3a9264c93ea191483a4744e512b78892b54ee9fc8c3e03628b1082151  translations/Statenvertaling met apocriefen (Dutch Catholic Bible) [DutSVVA].txt
 f887cf847daa46f78d4a9b6516bd0a82b7a9dff77b48143129d31045af60f16f  critical-editions/Nestle Greek New Testament (1904) [grcnestle].txt
 fa39b5a5a90f413bde16b067147f5eddaff842b3da3325c64f418e4035f52d72  lexicons/BDB Glosses (Strong's).txt
 fe32063b8330344b829d877f5f2404ceb25e13eaca8de86abf3cc93f70423da5  lexicons/Ordf├╢rklaringar och sakupplysningar.txt
