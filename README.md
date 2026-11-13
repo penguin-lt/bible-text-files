@@ -3,7 +3,7 @@
 All legally obtainable Bible translations in English, Malayalam and the major
 Latin-script languages, plus critical editions and lexicons/reference works, as plain text files —
 generated from the verified SQLite library in [`penguin-lt/bible-dyb-repo`](https://github.com/penguin-lt/bible-dyb-repo)
-(releases `bibles-lexicons-core` and `critical-editions`).
+(releases `bibles-lexicons-core`, `bibles-core-multilingual`, `critical-editions` and `nt-manuscripts`).
 
 ## Layout
 
