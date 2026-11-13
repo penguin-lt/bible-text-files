@@ -1,7 +1,7 @@
 # Verification report
 
-- files: **177** (130 translations, 22 critical editions, 25 lexicons/reference works)
-- verse/entry rows total: **3,540,174**
+- files: **184** (137 translations, 22 critical editions, 25 lexicons/reference works)
+- verse/entry rows total: **3,729,007**
 - files with ERRORS: **0** | files with warnings: 5
 
 Checks run on every file:
@@ -190,3 +190,10 @@ Checks run on every file:
 | translations/La Bible Crampon 1923 (French Catholic Bible) [FreCrampon].txt | 35,486 | OK | 1 verse contains markup-like characters (preserved verbatim from source) |
 | translations/Statenvertaling met apocriefen (Dutch Catholic Bible) [DutSVVA].txt | 36,939 | OK | - |
 | critical-editions/Elizabeth Bible 1751 (Church Slavonic) [chuEliz1751].txt | 36,000 | OK | - |
+| translations/Russian Freedom Bible (Bibliia svobody) [rusfb].txt | 25,324 | OK | - |
+| translations/Russian Synodal Bible (Synodalnyi perevod) [russyn].txt | 31,169 | OK | - |
+| translations/Serbian Bible, Daničić-Karadžić (Cyrillic, 1868) [srp1868].txt | 31,111 | OK | - |
+| translations/Serbian Bible, Vuk Karadžić (Latin script, 1865) [srp1865].txt | 31,111 | OK | - |
+| translations/Ukrainian Bible, Kulish translation 1905 (Biblia Kulisha) [ukr1871].txt | 31,082 | OK | - |
+| translations/Ukrainian Freedom Bible (Biblia svobody) [ukrfb].txt | 31,082 | OK | - |
+| translations/Unlocked Literal Bible (Russian, New Testament) [ruulb].txt | 7,954 | OK | - |

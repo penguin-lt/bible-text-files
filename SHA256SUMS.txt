@@ -171,6 +171,13 @@ daeec2ea51503dee9954efa79de3a1491ab761eca21667109d17505962b5c8d6  translations/U
 2330708aeea82d212eb1dd77fd75c7cf819214fb393fb291126110b74c8a9dc6  translations/Katholische Bibelübersetzung Rießler-Storr (Grünewaldbibel 1924, German Catholic Bible) [GerGruenewald].txt
 c01a2bfafb41610d52efe9455fafb83052d80bc683ec248b25ccc027cb93f2e9  translations/La Bible Crampon 1923 (French Catholic Bible) [FreCrampon].txt
 2b07cdf3a9264c93ea191483a4744e512b78892b54ee9fc8c3e03628b1082151  translations/Statenvertaling met apocriefen (Dutch Catholic Bible) [DutSVVA].txt
+6398a392fdc42fb28d212e2c1977e1b7c90927c83a3cd60926dfc9e29dc94c22  translations/Russian Freedom Bible (Bibliia svobody) [rusfb].txt
+a2af520beaa198c73f3937a067691c6a3559d9753a957804c1abcf8b0dce8759  translations/Russian Synodal Bible (Synodalnyi perevod) [russyn].txt
+3a94688a2228edc38742d0977e18ffc332979f883564f4ee5e5b723d1501bdd9  translations/Serbian Bible, Daničić-Karadžić (Cyrillic, 1868) [srp1868].txt
+70a8fcf8eba733ac3c2e53a2a3dd43889d000ee44702f9aefd391e3cdea11dfb  translations/Serbian Bible, Vuk Karadžić (Latin script, 1865) [srp1865].txt
+1ce0b75367ebc0fde8cae95ce0c790982506721cd66d641bd89b17d7967d98a3  translations/Ukrainian Bible, Kulish translation 1905 (Biblia Kulisha) [ukr1871].txt
+c5dbce93daa236f51db7247890c4640c4a9da6972fe3965c6c2640c647a9e8f8  translations/Ukrainian Freedom Bible (Biblia svobody) [ukrfb].txt
+9cb90529f6a3f71598663b5a4a3acefe0df2a82700dc6c9f565e2aaf9d6b2142  translations/Unlocked Literal Bible (Russian, New Testament) [ruulb].txt
 f887cf847daa46f78d4a9b6516bd0a82b7a9dff77b48143129d31045af60f16f  critical-editions/Nestle Greek New Testament (1904) [grcnestle].txt
 c47e305255d72c57a2dc07eb4ff954eebc1756684200e9d4698a8d24453da052  critical-editions/Elizabeth Bible 1751 (Church Slavonic) [chuEliz1751].txt
 fa39b5a5a90f413bde16b067147f5eddaff842b3da3325c64f418e4035f52d72  lexicons/BDB Glosses (Strong's).txt
