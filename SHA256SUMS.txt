@@ -1,185 +1,1166 @@
-0208f07e54cbafd2092206c0d0c865032ed9c451417006aefa2e40abefb1da4d  translations/Garth's Hyper-literal Translation [GHT].txt
-02e3008d11a75457cdf1e17e80fd52e9fb1dc30fa0c4cc09c2ee9ec4ca5e36ea  translations/Open Source English Bible [OSEN].txt
-065c88fd0573c5dc067507e6b1902af8b5c43d7081c2f9b8a157391378a61145  translations/Twentieth Century New Testament [TCNT].txt
-0785be3d25a5a56881eca66acdeb76cc696920ad1dd728e216aab5cb04d88aef  critical-editions/Septuagint (Greek Old Testament) [grclxx].txt
-08c14f7709d90ff6caa2294bd35181237f30333030bc3556d8927780206d63a6  translations/Coverdale Bible [Coverdale].txt
-09675812d0b71b2b41ade88ea6a938d75b66e172a9a66bc81ce76cc4e017907a  translations/Anderson's New Testament [Anderson].txt
-11419ae35c7e03616511f812f955eb100ec75570fe3077f156b2352d61970f94  translations/Riverside New Testament [RIVERSIDE].txt
-125662afbbe857275896e1cd3ffd946bd588dec07e033d6b3782d9e6ff6a572b  translations/Tyndale New Testament (eBible.org edition) [TNT].txt
-1be360471e4155f634bf98abcf48b08b499ca84bfdfc65b597fd3b744e3f2219  translations/Etheridge's Peshitta New Testament [Etheridge].txt
-1c26a5990cb730502927bc156f2809d414806dd89932b1dcd9df0c847449dacb  lexicons/C. H. Spurgeon's Morning and Evening - Daily Readings.txt
-1e5f9603e2e11db3f458e22b39ed931e5649271d046c7dcfccfb0bb2f5676d29  translations/World Messianic Bible [WMB].txt
-1eb32f54038004a06873dfe222849ec8ae408ec43b7d4b36979f40b34e1898c7  critical-editions/Church Slavonic Elizabeth Bible 1757, New Testament [chuEliz].txt
-257584c25a64e30fcd6dcf6067edcc8f66ea69d1807d67e448a35cf051b1b2fe  translations/Open English Translation, Readers' Version [engOETrv].txt
-26739362f409a331e8c71a254a77b25d4ca278dd960a0754982e200c28bf904e  critical-editions/Syriac Peshitta New Testament (BFBS 1905) [syrpesh].txt
-298194a8abecc1589fa4d6dec7fbff0fa414130696cf48d5d2ee1b0486c21c93  translations/Bible in Basic English [BBE].txt
-2c9f3a0431c02cf980768f7f8bd8402793ea19de5d40e0ed8b7dc5cdb143fe46  lexicons/Klingon Language Version Klingon to English mapping lexicon.txt
-2e29078fef0349523e8a4e97dc4a9324d006411915831baabb3931edc399aa4d  translations/Majority Standard Bible [MSB].txt
-2e8e1c897f4958a68e1c8fbbf1b3c6ce464f31ee2e6c61b9cfa68f4d72b13032  critical-editions/Vulgate, Sixtine Edition 1590, New Testament [latVulSist].txt
-309ec6ddb1be7ef9f9333de70787b4355235d7ff8f45d80652893c0245c78392  critical-editions/Greek New Testament, Majority Text (Robinson-Pierpont) [grcmt].txt
+76671c498639e042908e156c91441ffde1c07472ec14917ed7c576f676cd31e3  README.md
 3323482b58b2321921e26a72d3697b9804cbc784896e9acf826862f91b443f6c  critical-editions/Brenton's Greek Text of the Septuagint [grcbrent].txt
-33aa9de3a368d7a2c66270151bb1775df5c4666d1276075e61afed26d866bc93  translations/The Living Oracles [LIVINGORACLES].txt
-35774fc64fb9204f5da4bed0ac688ab38c3398d88caf23dd45179fd971115656  translations/Panin Numeric New Testament [PANIN].txt
-3699213a4ba7705002815dc180d2368888b21fa70f3e5c4a29f273b6f4be2140  critical-editions/Patriarchal Greek New Testament (1904, Antoniades) [grcbyz].txt
-381e4537cd7e6409f4afb433669111e000a9b35903a4c875023828ff106d2323  lexicons/An Intermediate GreekΓÇôEnglish Lexicon Keyed to Strong's Numbers.txt
-383aa62f95053ce1b2bea2e9d5b45e395665270c67c4f899111d206768c78308  translations/Berean Literal Bible [BLB].txt
-3e084d2f174c749ff7d1dc9902b1f51c5182862c03919dd50c5c82adf5730a78  translations/Open English Bible (US Spelling) [OEBUS].txt
-416c58be6303ae14b75993cd9788af5cd78c965607eb1dd74c2be4d23b9d82c8  translations/Updated King James Version [UKJV].txt
-4314f7082413a4e1155e5ee02e6d7ece0c691b53e9fb0f3c8605bdf03c305844  lexicons/Dodson Greek-English Lexicon.txt
-4608bfc490071040705b0c43ee94671f3afd95ed97d890e26beea4a4f767cea8  translations/Montgomery New Testament (Centenary Translation) [MONTGOMERY].txt
-463b3ad0de2b5f5c2f50a281ec761adaa514913637dccad6acd0fdc00af8ed0e  translations/Tegid Isaiah (John Jones, from the Hebrew) [TEG].txt
-47114039ae3af5f29668cb0efc6498e924be9d09ca2a57d6cd3eb60edcd2d36f  translations/King James Version with Apocrypha [KJVA].txt
-4df994ee6cee1b2b1754c7cda7d9049e433054ace182002448de4c95674a06e4  translations/American Bible Union New Testament [ABU1865].txt
-4f6992277ade4eace96e0560785a517454d5104e37b5f5449162e65456209ae1  lexicons/Translators Brief lexicon of Extended Strong's ΓÇö Greek.txt
-4fc9054d798c0d904f6df7ed2d2234e163e1ebde59ee8166337eaeb351824101  translations/King James Version, Cambridge Paragraph Bible [engkjvcpb].txt
-517a406f0cc2900c4e62a6da4ee884ab622c1f69e7a1eb676b8a79fa683b0fe8  translations/King James Bible (1611 First Edition) [KJV1611].txt
-55b33a5bf9b88c128513349e1646f4e96d543dcf902c1d77ee1f91821ce6a94a  lexicons/Strong's Greek Bible Dictionary.txt
-5782d38a8e265087e7a9926cbff504d86be850f18b91e7ba1e1a448864f92d44  translations/Godbey New Testament [Godbey].txt
-5cef04c450f1e5738bd4ddab9be01c0421fcb520e724a3bd7272654464110545  critical-editions/Vulgate (Clementine, 1598) [latVUC].txt
-5d72a799fc885085d1f847c3d1e36e6ec5307fc0d5cfdfca1ddf1e96bd8b2256  lexicons/Open Scriptures Hebrew Morphology.txt
-6033c9b00b274ffd843349ad2bce5af627fe5b8250043cfb07cc7500e8708084  translations/Moffatt New Testament [MOFFATT].txt
-60ac5c3913ac273132e62bb9e64ff84fe387dfbb142c005463fe81979d49b856  translations/American Standard Version [ASV].txt
-617c7d08279036d41a5d81603d3a76bd8ce3d7be15ff503de5068c1c7a9369fc  translations/unfoldingWord Simplified Text [UST].txt
-648e5fde95a1f11d6826932ddbc4c23eb4464d2801fdf8a9f7d93072adae81b8  translations/Literal Standard Version [LSV].txt
-65780e0ce18841467bf90d612ae27fba9f539ec51a87f30367a8aac23f3ff609  lexicons/Condensed Biblical Cyclopedia.txt
-6787063cd54513c3460c85ee0af0c89f31e841f2bf3d06479c67e3505c0f3a3d  lexicons/Codes dΓÇÖanalyse morphologique de Packard.txt
-692b0e05a55e780ef2c5ebe09ee3cdebd636ef5c2741cbc7139f1a9d85acde45  critical-editions/Westminster Leningrad Codex with Strong's and morphology [hboWLC].txt
-6aa5f294fd2b9341efacf62e865ff9e82a2e1018b41659da01e683e1aafc577f  translations/The Emphatic Diaglott (Benjamin Wilson Emphatic Version) [DIAGLOTT].txt
-6db362330464582e2a81c5543b3ef11142573e275214d21af1ace4abc26bcc48  translations/Sawyer New Testament (chronological) [SAWYER].txt
-6de6bd8b27b6513d6cb5a2739a3cfb44c8781f3595a7fb0011e10609384b9148  lexicons/American Tract Society Bible Dictionary.txt
-6eb8a3b702e8518140dbb2962d4b41714c1f61ea3274973a83d2da623f7f80da  translations/Rotherham's Emphasised Bible [Rotherham].txt
-6efdd9bbc891f0266e601fca816c57a0f5a4d4a9c28c0b1907bdb417a204cc34  translations/Noyes Bible [Noyes].txt
-6f0b4754be94231c0609075ccc71727f72727cd103f70e0e05bbe2ad43af2f49  translations/Restored Name King James Version [RNKJV].txt
-6f830916a6dabadea4fb74566c4f252d304ecce0bd2ab86531ad84db3c4c83f5  translations/Easy to Translate English Jonah [E2T].txt
-7274c49714dc439fe925f4ffe0feaaf9a3eddc6cd9b39f4a7d40d30582877056  translations/A Conservative Version [ACV].txt
-759a4c95bccea276cbe0721191c0be7a33fb51e955941e569d1a0ae2714c1866  lexicons/Robinson's Morphological Analysis Codes.txt
-77e1d6d397518249c5f343347f3f08d51277e6de0dc15236da8debc9fde60db8  translations/2001 Translation of the Holy Bible (2001) [T2001].txt
-7825cac3f92e6bc65572e110e91d51faaef2656438cab332bc3183507c246deb  lexicons/Brown-Driver-Briggs Hebrew and English Lexicon (full).txt
-79c97b7e10aac89381ff1a9a40caeb2404be0c1d66173da6eb474aff8682157d  translations/Worsley New Testament [Worsley].txt
-7b747d9e466fb1b1d923a4841964c143fb4e00c2e52d7896f829a22bb07e0c40  lexicons/G. Abbott-Smith's A Manual Greek Lexicon (with Strongs) of the New Testament.txt
-814b01d30d1bafaffc8d365be3b357d8faa19e4fcada8bb7fd843d5d882ddb39  translations/Geneva Bible (1599) [GNV1599].txt
-821975e8edd64ffe7b601ae9ddc1abe2ccebc92d08902ac253e2d6afa9c36687  translations/World English Bible Updated [engwebu].txt
-82ed6976773c1ebdd407348fcb3a376fe4d38466182260149383c3c3df5b0c76  translations/American King James Version [AKJV].txt
-8367c8aa040b0d64d53925a57f3b7cc9f1d5776cbd4727571f4b8566579639c1  translations/Text-Critical English New Testament [TCENT].txt
-852f7d257bafa0baf500398fd8c770df524c2c0117b9159edcf1c2bc9e4c7f13  critical-editions/Greek Textus Receptus (Stephanus, Elzevir, Scrivener) [grctr].txt
-86a62e8150bfe5acf462c28c621a5c18f8390940526bebe34e4f7a98d90e57af  lexicons/Klingon Language Version English to Klingon mapping lexicon.txt
-86e7d0dc0fc98fb2331e453a22c32e51f61b5e74787c4c49adc5cf6c4609eaf9  lexicons/Strong's Hebrew Bible Dictionary.txt
-8940be891bed9dd4414a57d66ff7edd3b01b9af125165b9ff4e17df8b650206a  critical-editions/Tischendorf Greek New Testament (8th edition) [grc-tisch].txt
-8b0fa29e619d1d1aefbc4e1046323562ead81189601d2647a4d1858decedca35  translations/Geneva Bible (1560) [GNV1560].txt
-8cf4599fa3aeb3075397217bfa6ba117803b7c072723c42661dc581d04bc4a6d  lexicons/Packard's Morphological Analysis Codes.txt
-9026c83f61dcab22ff4df4542eb237a537faa68f9707777ed9ce69a5b2ad64fe  translations/Unlocked Dynamic Bible [engudb].txt
-908032458a35a11c505729d4b9d0570e8241d29ccaa0ec331029f040f6dddc96  lexicons/Codes dΓÇÖanalyse morphologique de Robinson.txt
-938199c9622ee5a4c1291d2d1af15d560f669206045738ec878070098e34e13e  critical-editions/Hebrew Bible (Letteris, 1866) [hbolet].txt
-946564531b91c63dee24424d0d82c5ded1ec91d4140077a5219f8f5c3a127ae1  critical-editions/Westcott and Hort Greek New Testament (1881) [grcwh].txt
-94ef154b5bdaf1c5e118d72cb3b4cb96448b6e727fa764fa6161bb3334b80b80  critical-editions/Text-Critical Greek New Testament [grctcgnt].txt
-950fa04a52159492733548d8a148a7ec428227ab85ad2798940739d8608e8219  lexicons/Easton's Bible Dictionary.txt
-95aedb5de1b9c00474efc7f21dcc898c483dc95d200a300cb95feab62e252f18  lexicons/International Standard Bible Encyclopedia.txt
-97232d22169901cb41d4e496a0866d581f86a5129f3322de2a18edac1a2232b5  README.md
-99ff86820dc1d885dd438c4a60ce65454e0a4ccd8e9b0a791737e4d1b695a209  critical-editions/Tregelles Greek New Testament 1864 [grctreg].txt
-9a2e35ddeb9bad49488a0e3fcf51e0139dfbb87e526f447dcc5a6c4adaeb2709  translations/Weymouth New Testament [Weymouth].txt
-9cd1800b5e096e26c4aa2e9b27b5b8e35edfaa0ff1330de6b5da305327b3eaf3  translations/Douay-Rheims Bible (American Edition) [DRA].txt
-9d3256e803c97f33a90dd4fdbaf39fa8395e8debc7be3fef526a74fc10ca7e67  translations/Revised King James New Testament [RKJNT].txt
-9dc8f3fb62b5a5e7563c7b56420331b67189686142542be3b654108d4f0ce7c7  critical-editions/Sahidic Coptic New Testament (Horner, 1911) [copsahh].txt
-9ef297e9c01d17908fd27e1b92e3386cda19b6f0f1d11b658c9c291eb1ec572e  translations/Bishops' Bible [BISHOPS].txt
-a0bf09f734aba850bc2d9db57fe5fe2747b968b481de544e1977f75f596fd243  translations/Matthew Bible [Matthew].txt
-a1b6fe7d6bfd57a40d36ba815efbf21a8dd6e569f23cdb57e1bbbf96904108d1  translations/Darby Translation [DBY].txt
-a790313f148d2f118191b2b446ffcc5b48e1518912f68135400c1551f74b2be9  critical-editions/Solid Rock Greek New Testament (Scholar's Edition) [grcsr].txt
-a929025726e0fc53bd516bb34612360f7b1a018fa94f6fc6df5fef0c83bdf3d4  translations/Young's Literal Translation [YLT].txt
-aa88f2c540e3a52342235670133abaf5c4a553097e7ae8c91a9cb4639903fbb4  translations/Whiston Primitive New Testament [WHISTON].txt
-ab17587b8e1239c690ee2e510162090efbc5b7fb3da864a70add7b55baf7f8e7  translations/Wycliffe Bible (Later Version, c. 1395) [WYCLIFFE].txt
-ae2a8562b7b62ba76247d87190c42c368ffc60cb1308269c41f1e2cc14819b20  translations/One Unity Resource Bible [OURB].txt
-afe77afffbac565489d86fe6ad79ed283a53ac5f1a47766f2d344ce0a6825d1f  translations/Translation for Translators [T4T].txt
-b1ef31cadf052ac4b01cd55e8c8b8aaea5467e1c513cc6933e5e9b03f844a910  lexicons/Liddell-Scott-Jones Greek-English Lexicon (full, biblical vocabulary).txt
-b2e3e09e329543c07d1f8736787624ad88441f56ee61be2971cc645ce4c014dd  translations/JPS TaNaKH (Jewish Publication Society) [JPS1917].txt
-b703af71d8ed7dd61897727584f730029b5ea6ca44b84baf749cf37baa6d9556  translations/American Standard Version Byzantine Text [ASVBT].txt
-b7e8d9840bb4925aebdc5e3f16536ca9a3e44ebfa6ad9fdcd5a37f1a0ed14dad  translations/Free Bible Version [FBV].txt
-b7efdc5472c073415af2b2e2c8dbccadc2607a8fec4c1a5a0f5f659a555ae446  lexicons/Translators Brief lexicon of Extended Strong's ΓÇö Hebrew.txt
-b7fb2b2112f448229bd05ec2579f366ff37e6384705a399198f0e2cf5805c9dd  translations/Targum Onkelos Etheridge (English) [OnkelosETHERIDGE].txt
-b8270ee528f113b23cb749e71f53e8ad62f1c77756d902b5bf34b597f85d6b07  translations/World English Bible Classic [WEB].txt
-b90e4e74b7371e81343014b2a9af6ce03c6a50c913ad8cf4628f33f5d5383777  translations/Revised Version with Apocrypha [RV1895].txt
-bba4f9676d4c90e682f90103c59396fd503c992c1992a169b04da6ef1a408c41  translations/Great Bible [GREAT].txt
-c0fac662db3a927e5e55be8c290122f46f3054e909ce8d9c4bfc08c228bca76c  translations/Orthodox Jewish Bible [OJB].txt
-c0ffae097e384ab492d7fe1d2c6fd35d2f695ffe169678dea253a10fad81582f  translations/Open Translation Bible (British English) [OTB].txt
+1eb32f54038004a06873dfe222849ec8ae408ec43b7d4b36979f40b34e1898c7  critical-editions/Church Slavonic Elizabeth Bible 1757, New Testament [chuEliz].txt
 c3f72d1ae8b1358db368f113650ea778a435e38c8f9ad1b96872de0ad7e2bdcf  critical-editions/Coptic New Testament (Bohairic, narrative form) [copcnt].txt
-c4bb6e89c8aefc7a543b20213c01e684a5319b9a9e741007afbedb67d9409a35  translations/William Tyndale Bible (surviving corpus) [Tyndale].txt
-c57df0558c7129ae00f3fc4b1987c9f6560f02dbb0ce9bf2e287ddbd92ef57a8  translations/Leeser Tanakh [Leeser].txt
-c83f7434468a06960c12d9e84fe287fb2443514219afee5750a01320a3b4157d  translations/Worrell New Testament [Worrell].txt
-c8e5235f7feab25ed215a6dcf7a72beae6733a615888d4d7b00eff7068373b9f  translations/Murdock's Peshitta New Testament [Murdock].txt
-c95cfcf0d0804d2cd36afb81aee78f5e6f9e9630ac82735510c1231469ed9b9a  translations/Brenton Septuagint Translation [Brenton].txt
-ce78e98971786323e2b4a4f8e9818ad210f0b06cbc44e81263b3a7740251f2ee  translations/Catholic Public Domain Version [CPDV].txt
-cef55648adfed8c80a95b2f55535520e8628955884c205137c22eaaf4467eabb  translations/Charles Thomson Septuagint (transcribed books) [THOMSON].txt
-d03101b24d3bc464efb8c5b5e85f0ececeb95e5124c9b95472db42c27d39e1e9  translations/Haweis New Testament [HAWEIS].txt
-d274a0c1db545e54462d23d4153fa239d2ef3379de1be4f606d69541d9d3023d  translations/Family 35 New Testament (Wilbur Pickering) [F35].txt
-d3a81361171d875788480aa8fefb908938f48c92b345095859ce093968b73c4b  translations/Ottley Isaiah (from the Septuagint) [OTTLEY].txt
-d5e7206291397212cb0e9692d4b71713fd6033b00fbe7cd1618707902de5adda  translations/LXX2012 - Septuagint in American English [LXX2012].txt
-d5ecab2050891fb1be49ad89428a54d8ee65116293d490e4ddcadc0efe4efe1f  critical-editions/Hebrew Masoretic Text (Westminster Leningrad Codex) [hbo].txt
-db0c9da6a95c2e27bf5d0f9d23a1d0a77a0904ccd3e6d3de3393522d6565a6df  translations/Mace New Testament [MACE].txt
-dc53312914564095940a09f49b926fc0c638189eadc091d299a65246319d5032  translations/Plain English Version [PEV].txt
-e3b224b8b748191840b3c624ff6f97ffdb8357c4237fc737d39f23461327a220  lexicons/Smith's Bible Dictionary.txt
-e3ef9d5ca024abf2128c0cd4749c016b569f33f47666fb6e9757a884f5d89a08  translations/Smith's Literal Translation (Julia E. Smith Parker) [SLT].txt
-e4cdc418d5b47152306e3793a1befc9e254be9a2cb15e754450f9f18a92945ea  translations/New Heart English Bible [NHEB].txt
-e7e1541a9d04329951c4ca2993b5d95b4282b1b2e1fcdb59e08377764bd3f3de  translations/Joseph Smith Translation (Inspired Version) [JST].txt
-e80183f79f2efa7e1ddcef7a3cb7689f9e84dac80d8b6d8841cc1ce9008e5f29  translations/Wycliffe Bible with Modern Spelling [WYCMS].txt
-e9796a1fb1495cf7679a52fd96af8e1ef57c3cfb5baefdac3b8eb10ded805b08  translations/Berean Standard Bible [BSB].txt
-eddb08a2ce32156e6cc803171269a4165db4c0e705769852b854d0e297a09c33  translations/Open English Translation, Literal Version [engOETlv].txt
-edf17532b51a6534b030d74bd1dbd5deb29c32bbbf21b898ed9ed19bceab52fb  translations/Updated Brenton English Septuagint [LXXUP].txt
-eebc39d08b5204cd4f2986ca4910cccc47e256047cf984b6c64514f916c5791f  translations/Wesley New Testament [Wesley].txt
 f0892e182cd1349f8999118ce439e1914c9dc892a5cd28e29a6142e8ba803406  critical-editions/Coptic New Testament, Bohairic [copbhc].txt
-f233feaf043e12f81f7164e732df9e264d377d0807519b4312de60c0f22398e3  translations/World English Bible, Catholic Edition [engwebc].txt
-f440fff9b93f0649547f6aae1abfd807f55e7dea41f3d49ee7cfe1cf7d2e8f4d  translations/unfoldingWord Literal Text [ULT].txt
-f46cb497539133b58031571cc95d033b9757fcdc79ce83fb96752a260711055f  translations/Webster Bible [Webster].txt
+c47e305255d72c57a2dc07eb4ff954eebc1756684200e9d4698a8d24453da052  critical-editions/Elizabeth Bible 1751 (Church Slavonic) [chuEliz1751].txt
+309ec6ddb1be7ef9f9333de70787b4355235d7ff8f45d80652893c0245c78392  critical-editions/Greek New Testament, Majority Text (Robinson-Pierpont) [grcmt].txt
+852f7d257bafa0baf500398fd8c770df524c2c0117b9159edcf1c2bc9e4c7f13  critical-editions/Greek Textus Receptus (Stephanus, Elzevir, Scrivener) [grctr].txt
+938199c9622ee5a4c1291d2d1af15d560f669206045738ec878070098e34e13e  critical-editions/Hebrew Bible (Letteris, 1866) [hbolet].txt
+d5ecab2050891fb1be49ad89428a54d8ee65116293d490e4ddcadc0efe4efe1f  critical-editions/Hebrew Masoretic Text (Westminster Leningrad Codex) [hbo].txt
+f887cf847daa46f78d4a9b6516bd0a82b7a9dff77b48143129d31045af60f16f  critical-editions/Nestle Greek New Testament (1904) [grcnestle].txt
+3699213a4ba7705002815dc180d2368888b21fa70f3e5c4a29f273b6f4be2140  critical-editions/Patriarchal Greek New Testament (1904, Antoniades) [grcbyz].txt
+9dc8f3fb62b5a5e7563c7b56420331b67189686142542be3b654108d4f0ce7c7  critical-editions/Sahidic Coptic New Testament (Horner, 1911) [copsahh].txt
+0785be3d25a5a56881eca66acdeb76cc696920ad1dd728e216aab5cb04d88aef  critical-editions/Septuagint (Greek Old Testament) [grclxx].txt
+a790313f148d2f118191b2b446ffcc5b48e1518912f68135400c1551f74b2be9  critical-editions/Solid Rock Greek New Testament (Scholar's Edition) [grcsr].txt
+26739362f409a331e8c71a254a77b25d4ca278dd960a0754982e200c28bf904e  critical-editions/Syriac Peshitta New Testament (BFBS 1905) [syrpesh].txt
+94ef154b5bdaf1c5e118d72cb3b4cb96448b6e727fa764fa6161bb3334b80b80  critical-editions/Text-Critical Greek New Testament [grctcgnt].txt
+8940be891bed9dd4414a57d66ff7edd3b01b9af125165b9ff4e17df8b650206a  critical-editions/Tischendorf Greek New Testament (8th edition) [grc-tisch].txt
+99ff86820dc1d885dd438c4a60ce65454e0a4ccd8e9b0a791737e4d1b695a209  critical-editions/Tregelles Greek New Testament 1864 [grctreg].txt
+5cef04c450f1e5738bd4ddab9be01c0421fcb520e724a3bd7272654464110545  critical-editions/Vulgate (Clementine, 1598) [latVUC].txt
+2e8e1c897f4958a68e1c8fbbf1b3c6ce464f31ee2e6c61b9cfa68f4d72b13032  critical-editions/Vulgate, Sixtine Edition 1590, New Testament [latVulSist].txt
+946564531b91c63dee24424d0d82c5ded1ec91d4140077a5219f8f5c3a127ae1  critical-editions/Westcott and Hort Greek New Testament (1881) [grcwh].txt
+692b0e05a55e780ef2c5ebe09ee3cdebd636ef5c2741cbc7139f1a9d85acde45  critical-editions/Westminster Leningrad Codex with Strong's and morphology [hboWLC].txt
+8dd300067cf28fc5737ece685fba1090df15426f17b406c6e40c888eb6fa37d0  greek-nt/Robinson-Pierpont Byzantine Textform 2018 (Greek New Testament, Majority Text) [grcByzRP2018].txt
+27d4f89e7117a305320a8e93de45220e9c90520912ee96492e6fca6c16370f29  greek-nt/SBL Greek New Testament (SBLGNT, 2010) [grcSBLGNT].txt
+4d350e9c3007a74d17ad8376a4e1f9fb6eaa838a8fb2957799812c93157714f0  greek-nt/Tischendorf's Greek New Testament, 8th edition (Editio Octava, 1869-72) [grcTisch8].txt
+fe65db6bb49c88757fb272d63d8e1304a842d3aa357fcc5b6df3dc321281a585  lexicons/A Dictionary of Christian Biography and Literature to the End of the Sixth Century A.D., with an Account of the Principal Sects and Heresies.txt
+6de6bd8b27b6513d6cb5a2739a3cfb44c8781f3595a7fb0011e10609384b9148  lexicons/American Tract Society Bible Dictionary.txt
+381e4537cd7e6409f4afb433669111e000a9b35903a4c875023828ff106d2323  lexicons/An Intermediate GreekΓÇôEnglish Lexicon Keyed to Strong's Numbers.txt
+fa39b5a5a90f413bde16b067147f5eddaff842b3da3325c64f418e4035f52d72  lexicons/BDB Glosses (Strong's).txt
+7825cac3f92e6bc65572e110e91d51faaef2656438cab332bc3183507c246deb  lexicons/Brown-Driver-Briggs Hebrew and English Lexicon (full).txt
+1c26a5990cb730502927bc156f2809d414806dd89932b1dcd9df0c847449dacb  lexicons/C. H. Spurgeon's Morning and Evening - Daily Readings.txt
+6787063cd54513c3460c85ee0af0c89f31e841f2bf3d06479c67e3505c0f3a3d  lexicons/Codes dΓÇÖanalyse morphologique de Packard.txt
+908032458a35a11c505729d4b9d0570e8241d29ccaa0ec331029f040f6dddc96  lexicons/Codes dΓÇÖanalyse morphologique de Robinson.txt
+65780e0ce18841467bf90d612ae27fba9f539ec51a87f30367a8aac23f3ff609  lexicons/Condensed Biblical Cyclopedia.txt
+4314f7082413a4e1155e5ee02e6d7ece0c691b53e9fb0f3c8605bdf03c305844  lexicons/Dodson Greek-English Lexicon.txt
+950fa04a52159492733548d8a148a7ec428227ab85ad2798940739d8608e8219  lexicons/Easton's Bible Dictionary.txt
+7b747d9e466fb1b1d923a4841964c143fb4e00c2e52d7896f829a22bb07e0c40  lexicons/G. Abbott-Smith's A Manual Greek Lexicon (with Strongs) of the New Testament.txt
+95aedb5de1b9c00474efc7f21dcc898c483dc95d200a300cb95feab62e252f18  lexicons/International Standard Bible Encyclopedia.txt
+86a62e8150bfe5acf462c28c621a5c18f8390940526bebe34e4f7a98d90e57af  lexicons/Klingon Language Version English to Klingon mapping lexicon.txt
+2c9f3a0431c02cf980768f7f8bd8402793ea19de5d40e0ed8b7dc5cdb143fe46  lexicons/Klingon Language Version Klingon to English mapping lexicon.txt
+b1ef31cadf052ac4b01cd55e8c8b8aaea5467e1c513cc6933e5e9b03f844a910  lexicons/Liddell-Scott-Jones Greek-English Lexicon (full, biblical vocabulary).txt
+5d72a799fc885085d1f847c3d1e36e6ec5307fc0d5cfdfca1ddf1e96bd8b2256  lexicons/Open Scriptures Hebrew Morphology.txt
+fe32063b8330344b829d877f5f2404ceb25e13eaca8de86abf3cc93f70423da5  lexicons/Ordf├╢rklaringar och sakupplysningar.txt
+8cf4599fa3aeb3075397217bfa6ba117803b7c072723c42661dc581d04bc4a6d  lexicons/Packard's Morphological Analysis Codes.txt
+759a4c95bccea276cbe0721191c0be7a33fb51e955941e569d1a0ae2714c1866  lexicons/Robinson's Morphological Analysis Codes.txt
+e3b224b8b748191840b3c624ff6f97ffdb8357c4237fc737d39f23461327a220  lexicons/Smith's Bible Dictionary.txt
+55b33a5bf9b88c128513349e1646f4e96d543dcf902c1d77ee1f91821ce6a94a  lexicons/Strong's Greek Bible Dictionary.txt
+86e7d0dc0fc98fb2331e453a22c32e51f61b5e74787c4c49adc5cf6c4609eaf9  lexicons/Strong's Hebrew Bible Dictionary.txt
+4f6992277ade4eace96e0560785a517454d5104e37b5f5449162e65456209ae1  lexicons/Translators Brief lexicon of Extended Strong's ΓÇö Greek.txt
+b7efdc5472c073415af2b2e2c8dbccadc2607a8fec4c1a5a0f5f659a555ae446  lexicons/Translators Brief lexicon of Extended Strong's ΓÇö Hebrew.txt
+00900064d10c6dd29f96589595d9c0f839e773cdbe654ea7f8348dab1c8b07da  manuscripts/Lectionary L1000 (John; IGNTP) (Greek Orthodox Patriarchate, Saba 82) [L1000].txt
+47dd095f1f2461911ae3dfc30730d127c8e9e669f7850d63a5f94774c66d6c79  manuscripts/Lectionary L1073 (John; IGNTP) (Great Lavra Monastery, A' 30) [L1073].txt
+25860a8909e54946eb3c256bd1ddb015d54ac96e3e4771323a8af806cffbff20  manuscripts/Lectionary L1075 (John; IGNTP) (Great Lavra Monastery, A' 53) [L1075].txt
+06bce8f85219d4e87fa028681dd9d66485c50a0d12034dc5a252827859641759  manuscripts/Lectionary L1076 (John; IGNTP) (Great Lavra Monastery, A' 55) [L1076].txt
+9c216abb3b670b42994fe3d2e508d568e1614a6d9d8da31fe50733c658955119  manuscripts/Lectionary L1077 (John; IGNTP) (Great Lavra Monastery, A' 56) [L1077].txt
+f837755ba247ddcfee11a61243c2e7bdb77fe2584a21d7eb84509258bd56ab89  manuscripts/Lectionary L1082 (John; IGNTP) (Great Lavra Monastery, A' 82) [L1082].txt
+f00b58a5a00422da269e4e370ac0e5b2abba53e60dd37413a6de3b355fe54583  manuscripts/Lectionary L1086 (John; IGNTP) (Great Lavra Monastery, A' 86) [L1086].txt
+ada712ca4550a52a8fc8ad084b269be1c31695d5427d9ecbda23be82383b5376  manuscripts/Lectionary L1091 (John; IGNTP) (Great Lavra Monastery, A' 92) [L1091].txt
+2c48e66ed881b3b76d0355710731b932073ef5529719be818533b51cf0ecd316  manuscripts/Lectionary L1096 (John; IGNTP) (Great Lavra Monastery, A' 97) [L1096].txt
+2bb723b97b4d6b2908fd977472f53adfc0d554d8b3d26eff9881ba51128f80d7  manuscripts/Lectionary L1100 (John; IGNTP) (Great Lavra Monastery, A' 102) [L1100].txt
+4b2c3a7f33f396511d7cc141a4f78e767117bef7d0cd1c83a5200340205fa10d  manuscripts/Lectionary L1126 (Romans, 1 Corinthians, Galatians, Ephesians, Philippians, Colossians; IGNTP) (Vatopedi Monastery, 866..txt
+8bd21785b959465782fdf3257c73c0c6cecd0953092c2ffaa248975d6192289e  manuscripts/Lectionary L1159 (Romans, 1 Corinthians, Galatians, Ephesians, Philippians, Colossians, Philemon; IGNTP) (Great Lavra Mo.txt
+be9d55845ced2b5993f42b6c25649c689ade7fd021e1f80bc70d833aaae014ad  manuscripts/Lectionary L1178 (Romans, 1 Corinthians, Galatians, Ephesians, Philippians, Colossians; IGNTP) (St. John the Theologian .txt
+25ffe05b5143b6c4765194ef3d00ad45502916a9156282e097ccc13186dbe47e  manuscripts/Lectionary L1188 (Panteleimon Monastery, 67.0) [L1188].txt
+68976f9ff1f82656322ed0593b72bc128aae84bc09d03675c6bda25096c57105  manuscripts/Lectionary L1298 (Romans, 1 Corinthians, Galatians, Ephesians, Philippians, Colossians; IGNTP) (Greek Orthodox Patriarch.txt
+0d6e90f8ee004a9c50ebe0ecff69d6b20b0d3d679620f9fb2e24ffe44047fc2f  manuscripts/Lectionary L141 (John; IGNTP) (Biblioteca Nazionale Marciana, Gr. I,9 (1294)) [L141].txt
+0cc9f25e4dda65dee399bc318f843a41de59b3e24fc9267f35f7838e30791659  manuscripts/Lectionary L1440 (Romans, 1 Corinthians, Galatians, Ephesians, Philippians, Colossians, Philemon; IGNTP) (Saint Catherin.txt
+4be0987d32d2d286bcd110192ed4773a3277a6794dc26e15859e9b177c1a4d54  manuscripts/Lectionary L1552 (John; IGNTP) (National Library of Russia, Ф. № 573_ Б I 5 fol. 1-303 (fol. I.II. 304_ l 1392)) [L1552].txt
+2214a1a1af8f726c8e8f9614b8b91039eaf59f9f518a7d21ad8f26d2f4c45948  manuscripts/Lectionary L156 (Romans, 1 Corinthians, Galatians, Ephesians, Philippians, Colossians, Philemon; IGNTP) (Bibliothèque Na.txt
+131fb0c8867173424ce3e012c8b1084b6ea826207837e3d0b880da13abef1593  manuscripts/Lectionary L1602 (Morgan Library & Museum, MS M. 615) [L1602].txt
+2a89e7323f75826cc09ae8a456dfdc7466cb3400407f64d4faba932737760eb9  manuscripts/Lectionary L169 (British Library, Add. 32051) [L169].txt
+094f5c348d1debba6848b7bc4ebbd0b6cd89eaa4f714fff84fc1fc6b2a2c15ca  manuscripts/Lectionary L1692 (John; IGNTP) (Dionysiou Monastery, 656.0) [L1692].txt
+9fbc30d31412f7775ccbc953e0ee1bcc6d9a4ea81a87a32a1bb09627560f0de2  manuscripts/Lectionary L17 (John; IGNTP) (Bibliothèque Nationale, Gr. 279) [L17].txt
+b4ade3d86b028c9a4707864a48209c5e10d0a61247f5abb793837b22e1bb24c5  manuscripts/Lectionary L1825 (National Library, EBE 3041, fol. 72-188) [L1825].txt
+1bf12b983626fae19dbff832fee01e5061d72dae0a4e72fbeb281e1020f3b9fc  manuscripts/Lectionary L2005 (Byzantine and Christian Museum, σπ. 42) [L2005].txt
+d71ad18b17974a4570abc5e5eaa1cf963b2d3fc8e81297adc24430e66e31c236  manuscripts/Lectionary L2010 (Romans, 1 Corinthians, Galatians, Ephesians, Philippians, Colossians; IGNTP) (National Library, EBE 20.txt
+42f1a63545edd197645088c640301d163423601fedd9478edcf52b755394245d  manuscripts/Lectionary L2058 (Romans, 1 Corinthians, Galatians, Ephesians, Philippians, Colossians; IGNTP) (Varlaam Monastery, 7.0) .txt
+02d45715f190d63aa3d6a80a657f67a5ea2baa8498cbc85c41fa1cc9a5de2749  manuscripts/Lectionary L211 (Christ Church, Wake 18) [L211].txt
+86cf2fdcdfa6ebebcedf47b4af394ebff11085b8e50bacf0d3be22dddcfbb3b1  manuscripts/Lectionary L2137 (Bibelmuseum, Ms. 17) [L2137].txt
+00eb84370b980ba166584dfcf9de6a3ea7f15c27db1915c6e93c099935cbc250  manuscripts/Lectionary L2208 (Bibelmuseum, Ms. 18) [L2208].txt
+c5e8018189703be66ecde2ca75e101a8298a88a136f28e382522470a823b4608  manuscripts/Lectionary L2211 (Saint Catherine's Monastery, Arab. 116) [L2211].txt
+4ce275a3b520f2d49c51c686594ffab37fedbf51c4368ff721dbcc856bc44f48  manuscripts/Lectionary L23 (Romans, 1 Corinthians, Galatians, Ephesians, Philippians, Colossians; IGNTP) (British Library, Cotton Ve.txt
+fcedb4809994ae98b8c011c56b19decf0662c0a75376a5e30e867b80f9a2386b  manuscripts/Lectionary L252 (John; IGNTP) (National Library of Russia, Ф. № 906 _ Gr. 69) [L252].txt
+f2f8c2db48373e9c343ede7b0cf85c8327042f8e0aefdf5adb3dc901ff61697d  manuscripts/Lectionary L253 (John; IGNTP) (National Library of Russia, Ф. № 906 _ Gr. 71) [L253].txt
+72139159ebeb5b85a38890ca25c52b94b1d0b9075b4898fc12515662d70f94ef  manuscripts/Lectionary L32 (John; IGNTP) (Forschungs- und Landesbibliothek, Memb. I 78) [L32].txt
+974f282f5098b4216f504c220d9b0e130b454a6b5ec24cdbc86ad56bd61fe051  manuscripts/Lectionary L329 (John; IGNTP) (British Library, Add. 27860) [L329].txt
+c85bfd89cac5792d078a0869ca799b8bd3c60cb5a91b19f6d8ec2bc3a8dcbbea  manuscripts/Lectionary L335 (John; IGNTP) (British Library, Add. 31920) [L335].txt
+59c6016dec596278eadca7dd3ae3eb5a33b574990d7b52931a7732a677b268e5  manuscripts/Lectionary L387 (National Library, EBE 167) [L387].txt
+074c2b679c1e6699d6130b9d46298921f08160ebd560daadb164a9dd0c2c1d56  manuscripts/Lectionary L425 (John; IGNTP) (National Library, EBE 59) [L425].txt
+59c26873a0605ea59490e2c21e378768713e472d0206ce8758c349fab99348f8  manuscripts/Lectionary L5 (John; IGNTP) (Bodleian Library, Ms. Barocci 202) [L5].txt
+7277b8ad906bb2d0385bfd736779a0f3949e92a0041ad2676a0b63e92026e376  manuscripts/Lectionary L547 (Biblioteca Apostolica Vaticana, Vat. gr. 1217) [L547].txt
+83855a4bccd8e5d93c7e23df61a2e9ec3d3eb05c411ae8ac8235396ca3de29e1  manuscripts/Lectionary L563 (Biblioteca Apostolica Vaticana, Vat. gr. 2144) [L563].txt
+e8edfc9d3a43a429dd5f72600bb82b6fd7eca228b60c8a54794c4b923cdc09f1  manuscripts/Lectionary L587 (National Library, EBE 205) [L587].txt
+144968d1f9b846805dd4ea5564704d64fa131b969a6b9be75f87ca2834e3ba8d  manuscripts/Lectionary L60 (Bibliothèque Nationale, Gr. 375) [L60].txt
+d4230ce95d5a771d7a808dc8205a361622e1de5e40b558df077f94e93487b57e  manuscripts/Lectionary L638 (John; IGNTP) (Dionysiou Monastery, 84 (früher 19)) [L638].txt
+900c96f20b6767402c5f87b1153e6fd362eaf1dc1d667f2e4fcb456b68d9b6b5  manuscripts/Lectionary L640 (John; IGNTP) (Dionysiou Monastery, 86 (früher 21)) [L640].txt
+fa6a1e182d08ae2231449df71ec8d99d96cd4470a8dc92778902ee232e389d91  manuscripts/Lectionary L663 (John; IGNTP) (Esphigmenou Monastery, 20.0) [L663].txt
+bc234d900c83242b3b5a2acf5493e4c0d93dce7123725207459c75c4e2561756  manuscripts/Lectionary L704 (John; IGNTP) (Koutloumousiou Monastery, 90.0) [L704].txt
+9dd15c1d12dbae1cdd3fbec80d690e59b7623187005f87b9e6ba060b0b46697f  manuscripts/Lectionary L735 (John; IGNTP) (Protaton Church (Karyes), 20.0) [L735].txt
+0c58f2da15f24bde6f54bf6a83590bf5e2d433d01194c2a64205c0cfb9dc9c94  manuscripts/Lectionary L770 (Ecumenical Patriarchate, Triados 1) [L770].txt
+3f37aa0178cc8bcf3080e2200942faf85bda82593ec0f45e5936a3752062b0a9  manuscripts/Lectionary L773 (Ecumenical Patriarchate, Triados 4) [L773].txt
+11a8ea3a3fb134cf7092ae6ddcf103159841b77c8955bcc1ce67d7ead2a48502  manuscripts/Lectionary L809 (Saint Catherine's Monastery, Gr. 286) [L809].txt
+a4e59502330a9afec7f7e8e240049d6b873825941d1ac0e29e92a5d9f3b613e6  manuscripts/Lectionary L844 (Saint Catherine's Monastery, Gr. 210, 188 fol.) [L844].txt
+0ec6a76d32b7f4ea224fa7691d7b3cf1a53138d457540fbd7fb649cb3b9024eb  manuscripts/Lectionary L847 (John; IGNTP) (Saint Catherine's Monastery, Gr. 213) [L847].txt
+60fb9e3ed1c41460f6ef09a39fcacc7e6b3faa90ae9d8aa60cdfaadf8399c423  manuscripts/Lectionary L950 (Uppsala University Library, Gr. 69) [L950].txt
+8e2b018edc5934db0aaada163c52e96eefc3758c5a4e0e4d402290769b6e7106  manuscripts/Manuscript 1010S (John; IGNTP) [1010S].txt
+9a46825cdf3f67e39907f1e46a85c87a4e05e0a9740942cbd47f32697a33cd1e  manuscripts/Manuscript 1128S (John; IGNTP) [1128S].txt
+933b3b3b3c8e83c06b19b8124215c1ba3bd4893b8bb7a1266f854fdc3f7ab334  manuscripts/Manuscript 118S (John; IGNTP) [118S].txt
+725acec71b15d74089780ba37c7b3f0125c1e39aea717f707c74e6e6f7499768  manuscripts/Manuscript 1523S (Philippians; IGNTP) [1523S].txt
+d79766b4f5d22365855193380c36f605fedb5386cb4668031420df73e6f64481  manuscripts/Manuscript 1523S1 (Galatians; IGNTP) [1523S1].txt
+1f6d13ce07070fb125a12859f03938b7bed7fc15db5d1db153f1a419cd22ce17  manuscripts/Manuscript 1523S2 (Galatians; IGNTP) [1523S2].txt
+2f9396ac1534a74f87275ddf2456f580b9d23fc16030ba5e291ec6199cb15121  manuscripts/Manuscript 1571S (John; IGNTP) [1571S].txt
+4f8d76223cec0be8e8a174405794d9d50dd40ddd74812b840974ea57c36ef5a7  manuscripts/Manuscript 1571S2 (John; IGNTP) [1571S2].txt
+93242757917f7135871500a0b27ff6da795b6ddd6151b7f2cb2b68f53316e449  manuscripts/Manuscript 1582S (John; IGNTP) [1582S].txt
+99ea0ab9bef8f49189904c756b59b177702d2684931bf9ae92914071b40bf5db  manuscripts/Manuscript 1798S (Galatians, Colossians; IGNTP) [1798S].txt
+a8e9e91606b570238337fd3cb56f6dac4a3510bca78eeffd26db75d68221878b  manuscripts/Manuscript 1947S (Galatians; IGNTP) [1947S].txt
+50bbf78e0dedd2fb682a8875dbe5d8e173d9c3a6c26c7084b41eeda64186aa38  manuscripts/Manuscript 1947S1 (Philemon; IGNTP) [1947S1].txt
+08141572317e55f25981d5d90ca2a2035d0396e597e566854515dca28206e514  manuscripts/Manuscript 1950S (Galatians; IGNTP) [1950S].txt
+bbb9afeb05a61da064e6e5323121e4cbdf2393541b77b701cc6bccc9f76e5402  manuscripts/Manuscript 1977S1 (Philemon; IGNTP) [1977S1].txt
+35b5280c018d4ee58c02a7386c0c73dc2045a0762945e328e8d482bb4b75600e  manuscripts/Manuscript 1987S (Romans; IGNTP) [1987S].txt
+a3a61a911a8afb6d891a895f0ca77c51bf650bcb35cb1c08d878b408584c6822  manuscripts/Manuscript 1991S1 (Romans; IGNTP) [1991S1].txt
+df5fae0276551fb15747bd352957cc7445611777655bbe18e4cce611ecaa6a0c  manuscripts/Manuscript 1991S2 (Romans; IGNTP) [1991S2].txt
+4b47a2075362b6f75f0119544c7f743fa942e41318bfe579eea8aad1bf9c6234  manuscripts/Manuscript 203S (Ephesians; IGNTP) [203S].txt
+4658cee43b46cd0f1ede7da8a9f1bb0aabdc81ce11044e7e6f96e949ab8f2682  manuscripts/Manuscript 213S (John; IGNTP) [213S].txt
+6044aa8156917bc968c5c6f3cea206abed3fa4a6ca163c32b3b269a633876468  manuscripts/Manuscript 2193S (John; IGNTP) [2193S].txt
+4d2886937dbcc6a936a709cccc30da73532cade21f4aeb25528c5133726475ac  manuscripts/Manuscript 2248S (Galatians; IGNTP) [2248S].txt
+6adecdeb604e3adcf14d475bb8c717e320a316d96a1f131061a8ac8b9abc654d  manuscripts/Manuscript 2248S1 (Philemon; IGNTP) [2248S1].txt
+65256786471fa3f309b875ce3e2dc0162f75b248f4aa8adff466c21223076193  manuscripts/Manuscript 2400S (Romans; IGNTP) [2400S].txt
+2274741685e90f14b2aaa8093188a357c39a08229d603102092f6b718294c851  manuscripts/Manuscript 2561S (John; IGNTP) [2561S].txt
+84ef04b14316e92c2cc2809e894af3e2baa515f570a2e547e99f209e1602035a  manuscripts/Manuscript 263S (Galatians; IGNTP) [263S].txt
+7afd95f0feb0968eb7babd7a5889df66d8d3975b9b4e97d8e9765cf5dd73fddd  manuscripts/Manuscript 2816S (Romans; IGNTP) [2816S].txt
+1c22fff4107756264d33f53a9c6f2bb3c5fc799577f14e6a4be2c56be8726c05  manuscripts/Manuscript 2865S (Ephesians; IGNTP) [2865S].txt
+aa19f6313834ef04c9e1895390774fbb97c3a899345de676ff9708d88e698b74  manuscripts/Manuscript 333S (John; IGNTP) [333S].txt
+02b0b7b999693008fdc45bc5d57e61c69f5cdf7a920690376f994ed70bf9804f  manuscripts/Manuscript 565S (John; IGNTP) [565S].txt
+05c5f4dd3bdcd3f8d86da91f303c00758cb868ba04f479a4b6a48776daed3887  manuscripts/Manuscript 617S (Galatians; IGNTP) [617S].txt
+8e6ca7fd22ffe5fb3410e18f02d05a94442ff4ab9ee5d9fca761628919964f5f  manuscripts/Manuscript 642S (Galatians; IGNTP) [642S].txt
+da9d75565d6f63e9ffb303e317fba933d79283362bed0b526eb83fafe7b2e609  manuscripts/Manuscript 676S1 (Philemon; IGNTP) [676S1].txt
+4b2bbcc2e7856572f72319e4a7f2e46dc1574f02928ce9d97cbecc9d22625f4c  manuscripts/Manuscript 892S (John; IGNTP) [892S].txt
+ca747c6b0a84a4f9eaab518748c0b09fe6430d0e2621eefa41b5ece2146e326e  manuscripts/Manuscript 994S (John; IGNTP) [994S].txt
+840edf187d23b2bd08ac857708fdd3dec66e8d6d8d81b6db80ee7c53c27238b3  manuscripts/Manuscript L1000S (John; IGNTP) [L1000S].txt
+b1f79c2b575e51c33938abe947d37627ec7b6b5339ea14b59b42fdef1083d9a4  manuscripts/Manuscript L1076S (John; IGNTP) [L1076S].txt
+e1e29e35bf919176f8a4054e736e46f4ab4add650b17d007d4572c17d0804f68  manuscripts/Manuscript L1091S (John; IGNTP) [L1091S].txt
+d86550976f687d148b7c7499a44319e94f001b855c88a2870fe4db924d9b7b49  manuscripts/Manuscript L141S (John; IGNTP) [L141S].txt
+b04ae4c21438fa65e342fd140463d796291d4b05c126e0fa72d66874216f3c71  manuscripts/Manuscript L1692S (John; IGNTP) [L1692S].txt
+fd676e0cc76df086e9dce562d8d3029dbfdd01c1c606a8696ed09e76a7eedaf9  manuscripts/Manuscript L1692S2 (John; IGNTP) [L1692S2].txt
+78403fd63fcce601ac4339a8fa085128d679f9abd4904ec3122c67c176000e1f  manuscripts/Manuscript L640S (John; IGNTP) [L640S].txt
+c3596c6c86fe95a77401e827b29ee44da0e43e461046414f5be00debe3922965  manuscripts/Manuscript L704S (John; IGNTP) [L704S].txt
+ef2b5252a6882882e9bf27aac2c096eccc7b3b057bc976172338b2e0106b4157  manuscripts/Minuscule 1 (Universitätsbibliothek, AN IV 2) [1].txt
+d5e0d579efed2440f3e8d44e49ce70d5db68ee5f02f49390ee6aa9c954878c87  manuscripts/Minuscule 1003 (Iviron Monastery, 689 (52)) [1003].txt
+03b08b97489e73a8446ae2d0c94c6919cbb56198ff843d25533423632fa91b9d  manuscripts/Minuscule 1006 (Iviron Monastery, 728 (56)) [1006].txt
+e863de30023695e70a17ff78496ecacda93cc4c26e30aaf0f6d2aef93bc2ae14  manuscripts/Minuscule 1009 (Iviron Monastery, 972 (63)) [1009].txt
+a4e08d64898cd9279f73cc8c95a87eed689245a7ab025f26d35f50fd29adf4aa  manuscripts/Minuscule 1010 (John; IGNTP) (Iviron Monastery, 738 (66)) [1010].txt
+d4db59e48d43b98a1dbbc3a5406e59e8512a9fd4fabfa3921e6fcbd3d5448159  manuscripts/Minuscule 1014 (John; IGNTP) (Iviron Monastery, 1031 (72)) [1014].txt
+6c917988258bda22700cdb029eca5ff4f426f90d54876103a7c215fbfdf51ffe  manuscripts/Minuscule 102 (Ephesians, Colossians; IGNTP) (Vatopedi Monastery, 1219.0) [102].txt
+b666fb03a62afd00679c11035280e6db908b6e6667c01311c7806b676ec11c51  manuscripts/Minuscule 1022 (Philemon; IGNTP) (Walters Art Museum, W. 533) [1022].txt
+03189c5131cb4b54a3e71ebe067d10bd05549be04cd78ea01adbae7fa6bd5889  manuscripts/Minuscule 1029 (Iviron Monastery, 999 (671)) [1029].txt
+103eb00d15745758ab3562edff7095a8d6a44727abe509509e50e53533875e4a  manuscripts/Minuscule 103 (State Historical Museum, Sinod. gr. 347 (Vlad. 096)) [103].txt
+bcb28c6826f0fd33d3f0b4a7945c2e32015f35a402f9e49510a1ccf62474d4f7  manuscripts/Minuscule 104 (British Library, Harley 5537) [104].txt
+67c35345495b56c153643a46b2020f60d140141b408dae447dfa22d0fe8ac4a0  manuscripts/Minuscule 1043 (Konstamonitou Monastery, 1.0) [1043].txt
+9cb062128ba4e9136c9ee664252fe861624e6d8643a6022727f5fe42eb3ef4f2  manuscripts/Minuscule 1047 (Koutloumousiou Monastery, 68.0) [1047].txt
+aef6e0d182c2431cffa69ca3471270a8d9dc993fea4879b98c60faebadb4abe6  manuscripts/Minuscule 105 (Bodleian Library, Ms. Auct. T. inf. 1. 10) [105].txt
+3389d236059832d5bdc09b30dd7539ae1439d0ba6dc9b42b454164168e2e4a44  manuscripts/Minuscule 1063 (Koutloumousiou Monastery, 285.0) [1063].txt
+0fa7f06af6dd026bd78f8cafa8c9ea6fb6626e24d698ef059b73872c0b3fc298  manuscripts/Minuscule 1067 (Koutloumousiou Monastery, 57.0) [1067].txt
+8dd509e130447b8059b3ba4967434eda778da69d5013bb2a539bd267ac3aa35f  manuscripts/Minuscule 1069 (Romans, 1 Corinthians, Ephesians, Colossians, Philemon; IGNTP) (Koutloumousiou Monastery, 80.0) [1069].txt
+1e7269023d516e42178006130b65942f520ebd85e48fd807ab553e94be65748a  manuscripts/Minuscule 1071 (Great Lavra Monastery, A' 104) [1071].txt
+fa6e07ebf6d5fa1ab28471f87de6ac59f5f79a08709c7f0a53ca492f21c6f047  manuscripts/Minuscule 1079 (John; IGNTP) (Great Lavra Monastery, A' 23) [1079].txt
+e5374d4a2e67c6554046d1051413be5e5e5aac231376b31a11f1913174971afd  manuscripts/Minuscule 1082 (Xeropotamou Monastery, 105.0) [1082].txt
+f032d90615b85a11998dde0626645b507e17135cdebb56ddd89a2505c88d521f  manuscripts/Minuscule 1084 (Xeropotamou Monastery, 108.0) [1084].txt
+e5025fbfaf0b700d039d8d5fc9935c7e1fa4232fa66f3a28fc88bf6f657ede45  manuscripts/Minuscule 1093 (Panteleimon Monastery, 28.0) [1093].txt
+4a6586d4588791ffe0e205c5a98a9347d4f583c55c563f389f3c20f9f7d775db  manuscripts/Minuscule 1099 (Colossians, Philemon; IGNTP) (Dionysiou Monastery, 135 (früher 68)) [1099].txt
+9542015080a9b0a020bfde32997e56874b39d20c3e2573b849d7262f7d067209  manuscripts/Minuscule 1105 (Galatians; IGNTP) (Dochiariou Monastery, 139.0) [1105].txt
+ec45f75a2be8b1f0152242c5818a6ea8eda67cdea4371ca8fc43d97b23db75d0  manuscripts/Minuscule 1106 (Philippians, Colossians, Philemon; IGNTP) (Dochiariou Monastery, 147.0) [1106].txt
+2e4e9ed0afee87333b71f4acee11c516d05aa4a2b4a4327a97dabea6b7e12588  manuscripts/Minuscule 1107 (Philippians; IGNTP) (Esphigmenou Monastery, 63.0) [1107].txt
+08af4491add7df14aeeaedc6218693cb182ff3c09665740eb1563224b372b117  manuscripts/Minuscule 1108 (Romans, 1 Corinthians, Galatians, Ephesians, Philippians, Colossians; IGNTP) (Esphigmenou Monastery, 64..txt
+97ef4c66e47c4885ef487bc5412385b7d81a363adb3ff94a65ae1dd7bb036272  manuscripts/Minuscule 1110 (Stavronikita Monastery, 43.0) [1110].txt
+2c2b49c3aa34a72a7e16cd7e246d772c7711726b306ed80f9cceee46c6982a1a  manuscripts/Minuscule 1115 (Romans, 1 Corinthians, Galatians, Ephesians, Philippians, Colossians, Philemon; IGNTP) (Esphigmenou Mona.txt
+efaacd6f44aa0a67004698d0d0393d4b21734b329f374b5effd5c3beced5f9ce  manuscripts/Minuscule 1127 (Philotheou Monastery, 48.0) [1127].txt
+c62f9587e54315eca8a9bc5c55e404add31746e28f8c86bf4d1ab79c9c960a87  manuscripts/Minuscule 1128 (Philotheou Monastery, 51.0) [1128].txt
+eccf9f994f620aff8d418bc888f82f969d7f8d1e9051f0911a832aebc4f3b0dd  manuscripts/Minuscule 1129 (Philotheou Monastery, 53.0) [1129].txt
+bca6a627773bd270409a22e04dbd61bd53507c15c5eb1d29951f0d246f82437f  manuscripts/Minuscule 1141 (Albanian National Archives, ANA 04) [1141].txt
+ab8c7e03610bfe800aa583de3da1d8b029e8138d6cdaad8ad12b8e546dc4a2ec  manuscripts/Minuscule 1162 (St. John the Theologian Monastery, 15.0) [1162].txt
+d5155e263b10c0fdb877b0ce96bf9c9f288621a054e6bf7338c3160aa2dce87f  manuscripts/Minuscule 117 (British Library, Harley 5731, fol.  1-182) [117].txt
+af7be2338f1ac51a0578a776d1e8841bad4e05bd2e537436de0835a8d7daeb69  manuscripts/Minuscule 1175 (Romans, 1 Corinthians, Galatians, Ephesians, Philippians, Colossians; IGNTP) (St. John the Theologian Mo.txt
+3deee34813109ef2f4f8af98b3e186b10ef006d52cd823c8e1ac1ba0284381a0  manuscripts/Minuscule 118 (Bodleian Library, Ms. Auct. D. inf. 2. 17) [118].txt
+e06636cca64db356b3476ab18a110b70d3b7d874b66f10fcb5566b6e38a6dfd7  manuscripts/Minuscule 1190 (Saint Catherine's Monastery, Gr. 153) [1190].txt
+448c9882dfe28b2f71125fbce9c1aa382201e9da31337a4f53150fa32389661b  manuscripts/Minuscule 1192 (Saint Catherine's Monastery, Gr. 155) [1192].txt
+286cdba51afd30dec7fd4285365fc4dd7b90ac2570de8e1c099e09275b2cfbcc  manuscripts/Minuscule 1194 (Saint Catherine's Monastery, Gr. 157) [1194].txt
+ee02bd5edfe1751f0cee797597afa7d4312eb4fbe50458eebc54fb5f46b26ee2  manuscripts/Minuscule 1210 (John; IGNTP) (Saint Catherine's Monastery, Gr. 173) [1210].txt
+a3d5c2406a998b0c24900ba427cb9e8e26daf75d5a1b944b3d4b2f7a765474b9  manuscripts/Minuscule 1216 (Saint Catherine's Monastery, Gr. 179) [1216].txt
+e1afb42441fbe1118706cf8fb3a363fe363d21690b306a868a444d2bba8b407a  manuscripts/Minuscule 1219 (John; IGNTP) (Saint Catherine's Monastery, Gr. 182) [1219].txt
+1a0a243454e0873cb1b80cc94e6b805dce521f84b528708d2ba3f3c8276e3739  manuscripts/Minuscule 1230 (John; IGNTP) (Saint Catherine's Monastery, Gr. 193) [1230].txt
+4e526f571bf47aa5e1d5e59fe126ae4e4cdd2af25a1347489d6eaa8ec5c7422d  manuscripts/Minuscule 124 (Österreichische Nationalbibliothek, Theol. gr. 188) [124].txt
+f59ba33b100a74acf2f20abe9da4266c335a1ba306a057d93aad814d6acf841e  manuscripts/Minuscule 1241 (John, Romans, 1 Corinthians, Galatians, Ephesians, Philippians, Colossians, Philemon; IGNTP) (Saint Cath.txt
+f43583b7fcc0dd42512c295145dfea7e46c916a12f19c1e5254edb4f17ab3809  manuscripts/Minuscule 1242 (John; IGNTP) (Saint Catherine's Monastery, Gr. 261) [1242].txt
+c11456c0f72295d69c49603b2b5ef5013acee407dd9cb42ed50d390020cbbfca  manuscripts/Minuscule 1243 (Saint Catherine's Monastery, Gr. 262) [1243].txt
+5cd4bd7af6ba481d8aaacea5dbdaaf8479ba2b33c7ddfa25991132cf70ea4825  manuscripts/Minuscule 1245 (Ephesians, Philemon; IGNTP) (Saint Catherine's Monastery, Gr. 275) [1245].txt
+1d39a254a5b107e4a1ea828f9d6319e6e811ab9af80c3ea3ef1f4ffb98047393  manuscripts/Minuscule 1250 (Galatians; IGNTP) (Saint Catherine's Monastery, Gr. 269) [1250].txt
+cc1af0835d138cd9513e490ee29ad0c9a6350055a7bbb4d5a8a184771001186d  manuscripts/Minuscule 1251 (Saint Catherine's Monastery, Gr. 270) [1251].txt
+4921f0bd90b4035d9d672c589153d021098e0bf1606d412bceda074e7849689a  manuscripts/Minuscule 1253 (Saint Catherine's Monastery, Gr. 303) [1253].txt
+2ce26006fa31a66cd811f2194c3256cfab0f539fbf87a9964761ac76a4993c5e  manuscripts/Minuscule 1267 (Galatians, Philippians, Colossians; IGNTP) (Bibliothèque Nationale, Coislin Grec 207) [1267].txt
+ce64bbdf3f1fbdce1ac40553df398621832979eebeb5bcc3fcac33b632509f41  manuscripts/Minuscule 1270 (Biblioteca Estense Universitaria , α. W. 2. 07 (Puntoni 71)) [1270].txt
+9d2f4532c81a63e06bccbbd9d7d623d2bea0cc471ce20ab9d865819cbe46ecb0  manuscripts/Minuscule 1273 (Auckland City Libraries Special Collections, Med Ms G124) [1273].txt
+3a65fe45d07e891ff426a642fb91f316a198f22ffa22774fb87a2d29d5f99a7c  manuscripts/Minuscule 1278 (John; IGNTP) (John Rylands University Library of Manchester, Gr. Ms. 17) [1278].txt
+55a00aade8d160c097182fe449f1ae09fe0ca20a45872d73ce9d30d908cfba1e  manuscripts/Minuscule 1279 (British Library, Add. 34107) [1279].txt
+7fd12373be3b577d4d13254f152ccda546d2f4ae8849f887ae959d66127171d6  manuscripts/Minuscule 1289 (Newberry Library, VAULT Greek MS 2) [1289].txt
+aebfc83c1b9210a5f8dfb6cbe1f57db4cd12f2925ae4418076a1e52a946d983b  manuscripts/Minuscule 1292 (Bibliothèque Nationale, Suppl. Gr. 1224) [1292].txt
+4c8dfb8625dae4beaaf43c2ffdecec0c82aa2b3da1e47a11a7218e3bdc382a10  manuscripts/Minuscule 1293 (John; IGNTP) (Bibliothèque Nationale, Suppl. Gr. 1225) [1293].txt
+a0bd0d92e9ad2af8d135fe973171b024699dd5d0a79dcc23fc54924d27aafb7d  manuscripts/Minuscule 1295 (Bibliothèque Nationale, Suppl. Gr. 1257) [1295].txt
+013c5217c697c9af6b13d2b8a1cfc162827cb13368b267648aebde3c4629f327  manuscripts/Minuscule 1297 (Bibliothèque Nationale, Suppl. Gr. 1259, fol. 155-319) [1297].txt
+d133fdd2fb1e591c2d2ec07867a4d6bfbc216ffb1d397987c802f4550d69acc6  manuscripts/Minuscule 13 (Bibliothèque Nationale, Gr. 50) [13].txt
+e9b700790582087cf1f937331913aab6107f700b458ad0f3da055e3ed642f61f  manuscripts/Minuscule 130 (Biblioteca Apostolica Vaticana, Vat. gr. 359) [130].txt
+b6f53ce9269800f6896e8e936737132aac98b51f3a6749b0e249df80da82f414  manuscripts/Minuscule 1302 (Greek Orthodox Patriarchate of Alexandria, 138 (88)) [1302].txt
+1a9cfd893240f846d5c86943685910860706e4e6e1c169f34b6415e0ff9be658  manuscripts/Minuscule 1306 (Panagia Hozoviotissa Monastery, 12.0) [1306].txt
+2983876f40fba3a313cec359747b72dcf94619c9da7f68b08087ead62b02c92d  manuscripts/Minuscule 131 (Biblioteca Apostolica Vaticana, Vat. gr. 360) [131].txt
+0799954761bf7d54e86b77bf519281e5cc9f451f4f7909d09ab502ec5d34d8dc  manuscripts/Minuscule 1311 (Ephesians; IGNTP) (Staatsbibliothek zu Berlin Preußischer Kulturbesitz, Ham. 625) [1311].txt
+5bbf7e03a558dbca71d295421fb20017a60c9de3239b4194b29c103288664e6d  manuscripts/Minuscule 1315 (Colossians; IGNTP) (Greek Orthodox Patriarchate, Taphu 37) [1315].txt
+d2715a2390d5bddff7af134b3954269cbd1886c6f17c368123e446f50534cca1  manuscripts/Minuscule 1319 (John, Romans, 1 Corinthians, Galatians, Ephesians, Philippians, Colossians, Philemon; IGNTP) (Greek Orth.txt
+5371e162e51eccab974be94d55535fd6cbe8c3185cf0105bc604292fe3ced4f9  manuscripts/Minuscule 1320 (John; IGNTP) (Greek Orthodox Patriarchate, Taphu 48) [1320].txt
+8ec170dcf8989840acf03c02d3fdc4588407fffd6cb3b2724e7df137b9b57ebd  manuscripts/Minuscule 1321 (John; IGNTP) (Greek Orthodox Patriarchate, Taphu 49, ( fol. 3-308)) [1321].txt
+133dc185d77ae84acabab8e75f7bf994103023dd0baac36ee2109b69f34c2ecc  manuscripts/Minuscule 1326 (Greek Orthodox Patriarchate, Taphu 139) [1326].txt
+c5f23da0045376484026195dd8fadaac646ca7b6633fb91494ab7bf7f3cbd392  manuscripts/Minuscule 1337 (Greek Orthodox Patriarchate, Saba 263) [1337].txt
+e7d5351cb57a9243c056d19f170bdc232e3072d2672552bd71ede00fb635a311  manuscripts/Minuscule 1342 (Greek Orthodox Patriarchate, Saba 411) [1342].txt
+53dde9f9993001607ec972a73f123210dc2f53a7423f2db1cd27f4fbbcecaf9e  manuscripts/Minuscule 1344 (John; IGNTP) (Greek Orthodox Patriarchate, Saba 413) [1344].txt
+9d914fa6a2563966fcb6864778098a41f38bbe562a1be713f6f121284f4f97d8  manuscripts/Minuscule 1352 (Colossians, Philemon; IGNTP) (Greek Orthodox Patriarchate, Stavru 94, fol. 1-235) [1352].txt
+5b76ff931c63d45e61a3f4eea452cfeb0ce5961805c41a78a6bfb577cc9fc08c  manuscripts/Minuscule 1359 (Bibliothèque Nationale, Suppl. Gr. 1335) [1359].txt
+5acc92025b4d290314e3d04948b2b5f33cec5c21c0d59c023888978b0aa735c7  manuscripts/Minuscule 1372 (National Library, Taphu 369) [1372].txt
+f76a752fd53c2ee7a1f0a184f31d2034910ec5b24a1ad341cf4d46fd086990d2  manuscripts/Minuscule 138 (John; IGNTP) [138].txt
+f4189d78776f48ddb2738f7b652288c728b4dae448fb44c974472dd5d0398da6  manuscripts/Minuscule 1390 (Stavronikita Monastery, 45.0) [1390].txt
+3718d94381e925e8f3826bee2b72c024051ac155dd86b92f8e4684487e420785  manuscripts/Minuscule 1396 (Pantokratoros Monastery, 51.0) [1396].txt
+9e91cb9f71835094e75dacd01e7830e0e16ed49871cc05d497d5072e197a281f  manuscripts/Minuscule 1398 (Galatians, Ephesians, Philippians, Colossians, Philemon; IGNTP) (Pantokratoros Monastery, 56.0) [1398].txt
+ec17093b2d46ea01425faed0bdc25b6e60188883d9cbd0966a7536afc8e78de3  manuscripts/Minuscule 1409 (Xeropotamou Monastery, 244.0) [1409].txt
+a537a4913b5a1ad7b0589a5d9c9d43ed22e61a9f25a402692191755f2667bf86  manuscripts/Minuscule 141 (Biblioteca Apostolica Vaticana, Vat. gr. 1160) [141].txt
+9665df562bbb3379339f7ba5514ef0ce2f9791d553d03492e148d3e96d738336  manuscripts/Minuscule 1414 (National Library, EBE 120) [1414].txt
+172f857f09eef5ab36c00cd65152a18e6c415380b08621d51eb156c52e718440  manuscripts/Minuscule 1421 (The Schøyen Collection, MS 675) [1421].txt
+7c5d21370c1deacd1ea581a7e5c4c3bec9df294c55c011082ece56e06189eb13  manuscripts/Minuscule 1424 (Kosinitza Monastery, 3 (3P)) [1424].txt
+610f3c2ef46dcce2195cbde554374ec4006aef7b0b654301d03596cd93d4be9b  manuscripts/Minuscule 1425 (Philemon; IGNTP) (Ivan Dujcev Center for Slavo-Byzantine Studies, D. gr. 358) [1425].txt
+eb9e39e9975dd6bee5ae0050d5d1fd6e9da76d503e4ecf29915ea39eebf79f5b  manuscripts/Minuscule 1446 (Great Lavra Monastery, A' 9) [1446].txt
+ab0b0944235de058c29b56555ab8a12f3402b7762446a688ceacefafcf507b25  manuscripts/Minuscule 1448 (Great Lavra Monastery, A' 13) [1448].txt
+7d3c45405e8ff6c851b35568d9266e759a5bf1ac20975e9c18d603f86162114b  manuscripts/Minuscule 1451 (Great Lavra Monastery, A' 18) [1451].txt
+f88bcc18914b03a0968e09ef762bf9b1f8333103d6387c45eb8538f170283beb  manuscripts/Minuscule 1455 (Great Lavra Monastery, A' 22) [1455].txt
+132d08c3c63b62bdf3e9d716ce413d3acba95ed4a654cc7a2887407495ccf197  manuscripts/Minuscule 1457 (Great Lavra Monastery, A' 25) [1457].txt
+89748cb73875087f61015620730f52b54254d6c9c4de472172b3fe049bb2e18b  manuscripts/Minuscule 1463 (John; IGNTP) (Great Lavra Monastery, A' 32) [1463].txt
+996e75af2e6a50cff6020192e7db3d21015c9c4191c03f82d4d8259921da8f1d  manuscripts/Minuscule 1490 (Great Lavra Monastery, A' 65) [1490].txt
+8d010df7465346947db5b44d69823a67f144e8a1a37d5f1396fa7e499da01bbf  manuscripts/Minuscule 150 (Biblioteca Apostolica Vaticana, Pal. gr. 189) [150].txt
+ec5f8b4368e75fdfcaf32090a8dac8dc1a19db9d458d30d213cbdd4adb835094  manuscripts/Minuscule 1501 (Great Lavra Monastery, A' 79) [1501].txt
+22cf10fc4130f4d85bd8089b30f8704d0d574f6e0837fc2637596875a7d45076  manuscripts/Minuscule 1502 (Great Lavra Monastery, A' 87) [1502].txt
+50ca62bde75a7dffcdcc8713974fae7a330aaab0c65da3c3034fd15a840715f6  manuscripts/Minuscule 1505 (Romans, 1 Corinthians, Galatians, Ephesians, Philippians, Colossians, Philemon; IGNTP) (Great Lavra Mona.txt
+4ee399b58d27babf09e2d5aa6f0dc3df240c592d2f58257ec8e6394c109d27bd  manuscripts/Minuscule 1506 (Great Lavra Monastery, B' 89) [1506].txt
+72511229484bb7af932af3a0d0dc13e80462ec55ffab6876a8164e9a58fa840e  manuscripts/Minuscule 1509 (Great Lavra Monastery, B' 53) [1509].txt
+0f422acef065028811ec67539e1a8668f89374abbaef549135c91a2257ee2787  manuscripts/Minuscule 1515 (Great Lavra Monastery, Γ 55) [1515].txt
+4e4de4b23e0ce13bd1f37b624937088924ee89def2968d367070a674a763fa0f  manuscripts/Minuscule 152 (Biblioteca Apostolica Vaticana, Pal. gr. 227) [152].txt
+6cf242161aab8e3f5fc5e621aa9b337344dd61f3b7131dd64ba8cdeba6b63680  manuscripts/Minuscule 1523 (Galatians, Philippians, Colossians; IGNTP) (Österreichische Nationalbibliothek, Theol. gr. 141) [1523].txt
+c3b05bf2f429036f2c42155cdde7885cd2cc59cb33578bfb808e3caa48a5b79b  manuscripts/Minuscule 1524 (Romans, 1 Corinthians, Philippians, Colossians, Philemon; IGNTP) (Österreichische Nationalbibliothek, Th.txt
+b059636f7cf4d49ab82b6402255593119585b9e47aea02c1cf9576ea0297bf16  manuscripts/Minuscule 1528 (Princeton University Libraries, Garrett MS. 3) [1528].txt
+691b79c5fa2dc756e7b3e1c06a3275283ce7d0422bed8ee387f648ab08c54072  manuscripts/Minuscule 153 (Biblioteca Apostolica Vaticana, Pal. gr. 229) [153].txt
+a16ded14ff53c9f440eecb45c6d67a1148d7eef7bad293b12953fa2834a08331  manuscripts/Minuscule 1534 (Vatopedi Monastery, 246.0) [1534].txt
+bfecaf5ccc9aebfe86aa994ed5622cdbb2e1493b57bf3fa1f102019a073492a7  manuscripts/Minuscule 154 (Biblioteca Apostolica Vaticana, Reg. gr. 28) [154].txt
+6a70376c12cbd2d99adfe37cb2dbd22a94f7820be6d08677c08152fd0497b952  manuscripts/Minuscule 1542 (Vatopedi Monastery, 897.0) [1542].txt
+d042efc9263418a7973f70d7a08678c602ce902f16a48bca618a405039c23288  manuscripts/Minuscule 1546 (Vatopedi Monastery, 896.0) [1546].txt
+59d26f10a000f2fd76d64466a7a02414cb10c4d927c33e7c3f887dbacd6596db  manuscripts/Minuscule 1555 (Vatopedi Monastery, 918.0) [1555].txt
+2137f3a1b241c1456c865260d500767f2a8eadbe726587525262d7d025612122  manuscripts/Minuscule 1561 (John; IGNTP) (Vatopedi Monastery, 926.0) [1561].txt
+14b2c158e1e44ed4566a76a06f1e6030166c9ac7a3ee2fb650d8a0452363fa8e  manuscripts/Minuscule 1563 (Vatopedi Monastery, 929.0) [1563].txt
+f9f10fca43dc7d19715ba6c0fb1e117fbb9075b5b2ea24ba29bce2dc51eb4e81  manuscripts/Minuscule 157 (Biblioteca Apostolica Vaticana, Urb. gr. 2) [157].txt
+348b697ec37ffb7c460edc85eba213feedfc6b121914e41b9aa49b0163b33e98  manuscripts/Minuscule 1571 (John; IGNTP) (Vatopedi Monastery, 927.0) [1571].txt
+ef1b917534300e25661b8ee4ff35568264df17e68ab476d599548f8f2f194366  manuscripts/Minuscule 1573 (Romans, 1 Corinthians, Galatians, Ephesians, Philippians, Colossians; IGNTP) (Vatopedi Monastery, 939.0).txt
+96566022014996ddac85fd3eb6c45b34007f8ec4f4b267738c91d8808934406e  manuscripts/Minuscule 1574 (Vatopedi Monastery, 940.0) [1574].txt
+fa40d6e8f586e8a8ea1460127b7528d8fa19ef9769cc6400d11479110bf2db65  manuscripts/Minuscule 1579 (Vatopedi Monastery, 946.0) [1579].txt
+fe06172729aebcddfbe372a90bc2b90868c119c2885d3576834ef2b6c0479424  manuscripts/Minuscule 1582 (Vatopedi Monastery, 949.0) [1582].txt
+89c400f47245b2ee4ce369144eeff47e31bda044a5c46b53d34f6826bffbf981  manuscripts/Minuscule 1593 (Vatopedi Monastery, 961.0) [1593].txt
+4d4324ff865e47d5c39b542e08153feab50973bc50ebc060fa37363da97b7df7  manuscripts/Minuscule 1595 (Vatopedi Monastery, 964.0) [1595].txt
+4785f6fee2b14b3be7573494cf6f37553d3a55ae6456ac70f3cdae31d080756b  manuscripts/Minuscule 1598 (Colossians; IGNTP) (Vatopedi Monastery, 967.0) [1598].txt
+938eea3402f71744d036c546c796b007ca55a0b40f2302e28365a83583b4bfa8  manuscripts/Minuscule 16 (Bibliothèque Nationale, Gr. 54) [16].txt
+de0fc4b35f4c96d0ead12bebce13904187047377047c6c86e3eba2c2a5364c9f  manuscripts/Minuscule 1604 (Vatopedi Monastery, 976.0) [1604].txt
+d320563f8266f03968016bc1118171be581430d7b609d85df9186253d2b7edae  manuscripts/Minuscule 1609 (Great Lavra Monastery, A' 90) [1609].txt
+0e2751770ddc8e31576f286f8ea950461060f5cd13b97fada3ce0a83539e01c1  manuscripts/Minuscule 1611 (National Library, EBE 94) [1611].txt
+831e54cc8fa2d3d9382c55484c34731f70019262d45180791213ffef2a6b725a  manuscripts/Minuscule 1617 (Romans, 1 Corinthians, Ephesians, Philippians, Colossians, Philemon; IGNTP) (Great Lavra Monastery, E' 1.txt
+a6b6f1b1f5a31e71af0846a96ea5c36ce9d2f4a63b10984481128d4dc654948f  manuscripts/Minuscule 1622 (Galatians; IGNTP) (Great Lavra Monastery, Ω 1) [1622].txt
+0eb9d301aa8489cd5bca10d08ec51e81c7525a14780259481685c9c3c7e3abc1  manuscripts/Minuscule 1626 (Philippians; IGNTP) (Great Lavra Monastery, Ω 16) [1626].txt
+d26c0e6c485deb6dc31c59cd41e45ec8233856189c46c49c52ba58003fafdeea  manuscripts/Minuscule 163 (Biblioteca Apostolica Vaticana, Barb. gr. 520) [163].txt
+0d9191685960b00f73bbb1fc9bad5b90db22ddcb76ce53bd230ee40b87cd64ae  manuscripts/Minuscule 1637 (Great Lavra Monastery, Ω 141) [1637].txt
+1282f3a13ef29961f523d42f13c068ac2142635aeffd6706cf02b56eed67c6d7  manuscripts/Minuscule 1645 (Great Lavra Monastery, Λ 169) [1645].txt
+47df6bf744b29861bf77d7f1c621ce3bf3cf9f75adb9d51517ef973d69472fa9  manuscripts/Minuscule 1654 (Great Lavra Monastery, H' 54) [1654].txt
+0fe9dec8c688a806b39c681b929ad46c687af7ca8848c63e58032d96121aa976  manuscripts/Minuscule 1661 (Great Lavra Monastery, H' 163) [1661].txt
+8a4afae372e90e2b8d41bb3c1f72d223f6fb95250fb522b9d0f43e641f6d8066  manuscripts/Minuscule 1675 (Panteleimon Monastery, 101.0) [1675].txt
+88b58c1b2f9d9800b82ab9f3d95fd06f9055248ab6d4a23f654e01d31cf22840  manuscripts/Minuscule 1678 (Panteleimon Monastery, 770.0) [1678].txt
+9f956c57916ddb6a8ca8e2956ed47ac8e1f76531582fd2b781a1654d3eb2b215  manuscripts/Minuscule 168 (John; IGNTP) (Zuletzt_ Greece, (früher_ Verria, Bruderschaft Melissa)) [168].txt
+e8b5141de856a9caee3b18f60526c2a09fc78dab3372af72d56a83a2fc428953  manuscripts/Minuscule 1689 (Academy of Sciences Library, 1 TG 3) [1689].txt
+f1281f8d13682ec96c7a5ba4a69a0f143d48a927e048eaacdc44076c51ccd30f  manuscripts/Minuscule 1718 (Romans, Ephesians, Philippians, Colossians; IGNTP) (Vatopedi Monastery, 851.0) [1718].txt
+2586e80fe3a954c277d3baecb66b4f198ea6c6463dda10615a0a7c36fdc10a33  manuscripts/Minuscule 1721 (Ephesians, Colossians, Philemon; IGNTP) (Vatopedi Monastery, 863.0) [1721].txt
+7f900ec8f44bdac9022b31054837b2614f0535ea72a231e26ac8e9badf708787  manuscripts/Minuscule 1729 (Vatopedi Monastery, 968.0) [1729].txt
+c03eae348a9d0d93f002566b663dc849bcd25d3a89cd2fd270c095bca66e8479  manuscripts/Minuscule 173 (John; IGNTP) (Biblioteca Medicea Laurenziana, PSI I 5) [173].txt
+9c17e58df44136623f55c5330641b89db1dc8e6657731c06404a06cb2b37249e  manuscripts/Minuscule 1732 (Great Lavra Monastery, A' 91) [1732].txt
+8f1442f0947158705b15e4a4c02938f3c5413ce248995cb6bffd7aa429a5504f  manuscripts/Minuscule 1735 (Great Lavra Monastery, B' 42) [1735].txt
+284c825b6114fb1c273a6a8d372de677d246c11b330b2ef03336e3ebd2eb49d7  manuscripts/Minuscule 1738 (Philippians; IGNTP) (Great Lavra Monastery, B' 61) [1738].txt
+2be1b1df4f8217a84f925a27444cd2b9a1111c6c069ea8408d7fff2cc8cc995d  manuscripts/Minuscule 1739 (Romans, 1 Corinthians, Galatians, Ephesians, Philippians, Colossians, Philemon; IGNTP) (Great Lavra Mona.txt
+5db368706dcb4edaa61edefabef8b85231121a0460b579d54c56a498ed16beed  manuscripts/Minuscule 174 (Biblioteca Apostolica Vaticana, Vat. gr. 2002) [174].txt
+2db200402993953421f79144befc7bea08ce69f33cf65a4a50c934ca4326370d  manuscripts/Minuscule 1744 (Philippians; IGNTP) (Great Lavra Monastery, Ω 8) [1744].txt
+7d7751e260f08397c5004782fccb54b5a06db3d150892a057c6ee2f2473d3487  manuscripts/Minuscule 1751 (Great Lavra Monastery, K' 190, fol. 1-168) [1751].txt
+89b230b5459c10f85c0697f21374cab7682ef2ee8156e6ae1193c335ace5f03c  manuscripts/Minuscule 1757 (Colossians; IGNTP) (Limonos Monastery, 132.0) [1757].txt
+748f8f7492d37d5bbf2588cc08042ffc6115c386f7d72cf6df9cd95c9049ae08  manuscripts/Minuscule 1758 (Colossians; IGNTP) (Limonos Monastery, 195.0) [1758].txt
+147757950e1a13e95c3bd345d251a13810c09b9e405fb63a0df9efb954f2fea2  manuscripts/Minuscule 176 (Biblioteca Apostolica Vaticana, Vat. gr. 2113) [176].txt
+58949e31354252b5a082385e4297f1bad1e11d1d644f3b94b8e8371e7cd5a5f7  manuscripts/Minuscule 1760 (Philippians; IGNTP) (Ivan Dujcev Center for Slavo-Byzantine Studies, D. gr. 176) [1760].txt
+5978b0ee733e5c6363b3ee12cad8cb5ffcfb44b0e6fec97cb9f277319cb6fea5  manuscripts/Minuscule 1769 (Colossians; IGNTP) (Iviron Monastery, 244 (648)) [1769].txt
+75c16552e8d0d4017bd1df705935dded79ea6bfacff21889685aa2e23b9afd5a  manuscripts/Minuscule 177 (Bayerische Staatsbibliothek (BSB), Cod. graec. 211) [177].txt
+b451438557bc70e8310db98c39a19d2d9eb5ed459dcee6dd025c06dfdc48c50c  manuscripts/Minuscule 1773 (Vatopedi Monastery, 17.0) [1773].txt
+5bb454e1f7ea66e51d4bdaa181aed840dbc82619c22f5744e3fd8c0a2d8a7e7e  manuscripts/Minuscule 1777 (Panteleimon Monastery, 523.0) [1777].txt
+ba44cdc9885b14c5f85295576416d01d5e77da61d4e34296b7bac8da78f5d958  manuscripts/Minuscule 178 (Biblioteca Angelica, Ang. gr. 123) [178].txt
+2f49a625f89c452ab21ee58101674d2c063b36fd38b8c018b743e914af90dcea  manuscripts/Minuscule 1780 (Duke University, David M. Rubenstein Library, Greek MS 001) [1780].txt
+c787719079a2e40155c434462ee3d1e7337f12b10159079c074ab362266f21ff  manuscripts/Minuscule 1788 (John; IGNTP) (Ivan Dujcev Center for Slavo-Byzantine Studies, D. gr. 289) [1788].txt
+1ac7660741c8102f34725423ab05ab734bf5de99e4675ace1772b14760597ed1  manuscripts/Minuscule 179 (Biblioteca Angelica, Ang. gr. 11) [179].txt
+0e210284e6af18ab042b94875ffd6ff423c6c20fb0f5fa115f5b35313774a04f  manuscripts/Minuscule 1797 (John; IGNTP) (Gennadius Library, Ms. 1.5) [1797].txt
+e70cf96c0bb5d3d4f894398705ffd82556d079f58a26558b65e5548830eeeec0  manuscripts/Minuscule 1798 (Romans, Galatians, Philippians, Philemon; IGNTP) (Biblioteca Franzoniana, Urbani 24) [1798].txt
+32840806e6f8e46578f2a84cb202584fb50725a7dbeb870ca1ab47a94a732038  manuscripts/Minuscule 1799 (Philemon; IGNTP) (Princeton University Libraries, Garrett MS. 8) [1799].txt
+f08698dc3d60a6aff9daee8cdbeaeef5ca32a07f990df7842f06b4c1dd864b78  manuscripts/Minuscule 181 (Biblioteca Apostolica Vaticana, Reg. gr. 179 (fol. 1-155)) [181].txt
+3dfffb9711fd339110892e18ca6f0648885196977687a2fd00e06418ef356f7d  manuscripts/Minuscule 1817 (Galatians, Colossians; IGNTP) (Biblioteca Apostolica Vaticana, Vat. gr. 551) [1817].txt
+7c9449d24032dfe0fa7cbc5190a4f7163051ae01a2c4474593e91be269be78d7  manuscripts/Minuscule 1823 (Biblioteca Apostolica Vaticana, Vat. gr. 2316) [1823].txt
+b7b118bbab59114375dbaf4fd4bc8636949e52a6d4fcf1d629a44e1bef08fbd6  manuscripts/Minuscule 1827 (National Library, EBE 131) [1827].txt
+89788a525d9f210b5c0c1fc87b40f127c426c41a791aec8e6d0fc7614720181e  manuscripts/Minuscule 1828 (National Library, EBE 91) [1828].txt
+1315e1ba84faa18ab1629b12e44369f72c229f084a5f456fbccc01457741487c  manuscripts/Minuscule 1831 (National Library, EBE 119) [1831].txt
+7fd69effecd7d1c846a2be2e86213cb399f65757916137af422952986aa1046b  manuscripts/Minuscule 1832 (National Library, EBE 89) [1832].txt
+b879c7b3163a855664fc4ebba98c7e356bdcc1631c8b5212fe3b24bf792d8ecc  manuscripts/Minuscule 1834 (Romans, 1 Corinthians, Galatians, Ephesians, Philippians, Colossians, Philemon; IGNTP) (National Library.txt
+59b78323705564b626e4a9b61d6cec0baea6ef1102b0c413949a188f573af155  manuscripts/Minuscule 1836 (1 Corinthians, Ephesians, Philippians; IGNTP) (Biblioteca Statale del Monumento Nazionale, A. β. 1) [183.txt
+baf7e7edaa2b66c8f75b31bd33d97be2b1149ba1dbfab0691b8b709966b6312a  manuscripts/Minuscule 1837 (Biblioteca Statale del Monumento Nazionale, A. β. 3) [1837].txt
+9ba5871d519e74a469b11ee4148d66bbb0fe2f4df7a61fbe3fabc7fafa8c24cd  manuscripts/Minuscule 1838 (Biblioteca Statale del Monumento Nazionale, A. β. 6) [1838].txt
+e3dbf83957bd233bd5966919f1e9e16006be05afbf245ecf1d40513c98f1bae6  manuscripts/Minuscule 184 (Biblioteca Medicea Laurenziana, Pluteo    VI. 15) [184].txt
+a55d4cabb93a6da962b3cffedc0bc6628051b7d740ba1fba68cd5bee9d1c6f0b  manuscripts/Minuscule 1840 (Ephesians, Colossians, Philemon; IGNTP) (Biblioteca Casanatense, 1395.0) [1840].txt
+834f0986eb2246055ea458a5e08e95d2a4cefd4960cee99c7dd9ad5965fbb617  manuscripts/Minuscule 1842 (Biblioteca Apostolica Vaticana, Vat. gr. 652) [1842].txt
+17e0c767c90c909619eb82481cba62d6b97c4afe11013cd1a8843592f1420f8b  manuscripts/Minuscule 1843 (Philippians; IGNTP) (Biblioteca Apostolica Vaticana, Vat. gr. 1208) [1843].txt
+a17ade3fdbfb5de6525fd1e1b6ba4325c565fc5f3f8a889ebd21b9d66921df64  manuscripts/Minuscule 1845 (Philemon; IGNTP) (Biblioteca Apostolica Vaticana, Vat. gr. 1971) [1845].txt
+da9b9ba8756b11648f528e26093bd754dc4a0a612dd9701c82614df69e7f628c  manuscripts/Minuscule 1846 (Romans, Philippians, Colossians; IGNTP) (Biblioteca Apostolica Vaticana, Vat. gr. 2099) [1846].txt
+55e9d06a0b05809a638d235fa50b2a927bd0059ccf2dd3e2611ef543062b9af7  manuscripts/Minuscule 1848 (Philippians, Colossians, Philemon; IGNTP) (Biblioteca Apostolica Vaticana, Reg. gr. 76) [1848].txt
+ac4a32dbbd0190fb932f3b7b05056d9268f1e07f87ca099cb9d34c30d465c5bb  manuscripts/Minuscule 1849 (Biblioteca Nazionale Marciana, Gr. II,114 (1107)) [1849].txt
+aeafbd94b66229b2455b0a107d1dda6aae48883f7193163a0063c844fc6cab78  manuscripts/Minuscule 1851 (Ephesians; IGNTP) (Linköping Diocesan Library, T. 14) [1851].txt
+30d9437fcd0c44af6bedba0aac1370876ee5c687e610decca560764ab741fe9c  manuscripts/Minuscule 1852 (Uppsala University Library, Ms. Gr. 11) [1852].txt
+225b7af9d8e807711a409932ce6dace139c0a35a491d7269491e60d6870f8c0a  manuscripts/Minuscule 1854 (Iviron Monastery, 231 (25)) [1854].txt
+29f13bffadb37d58f0b00795365eaeafd66a85c062f840521f08db8f87f39b6c  manuscripts/Minuscule 1860 (Ephesians; IGNTP) (Koutloumousiou Monastery, 83.0) [1860].txt
+b9dfea848a1fc3789b2e81bb86435fea97a17931a8a3c68d3e2879c590af2fdc  manuscripts/Minuscule 1868 (Philippians; IGNTP) (Ecumenical Patriarchate, Triados 16) [1868].txt
+ad8839ef983579eba36ff2dba99661267abbe0e8caa8a7e189e972e13b9a4b64  manuscripts/Minuscule 1872 (Ecumenical Patriarchate, Panaghia 96) [1872].txt
+b2c61a541671e9c67d7ec251acc2b92365218cdc8d5b252c07c35b36ef12ccb9  manuscripts/Minuscule 1873 (Philippians; IGNTP) (Gennadius Library, Ms. 1.8) [1873].txt
+c6d4b0b43150d49aaad3908bc0a8dfd67be551c82175f765241d301f75aef1c5  manuscripts/Minuscule 1874 (Saint Catherine's Monastery, Gr. 273) [1874].txt
+bc15ef9fe37931db808e31589565533230a91969f74ed59a60bfc5cb63ee19e4  manuscripts/Minuscule 1875 (National Library, EBE 149) [1875].txt
+aa7825274054c712c941247a71fbe1b4f238f46271fb4a7e45d65d15ade1cd61  manuscripts/Minuscule 1877 (Romans, 1 Corinthians, Ephesians, Colossians, Philemon; IGNTP) (Saint Catherine's Monastery, Gr. 280) [1.txt
+109876465d0b7cb1a1c53416959e3c60a9c2f890978fbaf9dd7b4e56dafb52de  manuscripts/Minuscule 1881 (Romans, 1 Corinthians, Galatians, Ephesians, Philippians, Colossians, Philemon; IGNTP) (Saint Catherine'.txt
+e5567c3619c711702cbd433ad7912338dc9a2af9551bad80ecd7fd9b9d6a7a69  manuscripts/Minuscule 1884 (Forschungs- und Landesbibliothek, Chart. B 1767) [1884].txt
+d4aad9adce846b1511cf69dc5691d54d3d8fe70696db2a5ad1eaf7334e1f3c25  manuscripts/Minuscule 1886 (Romans, Ephesians, Philemon; IGNTP) (Bibliothèque Nationale, Suppl. Gr. 1263) [1886].txt
+002313738f6b0571dd3acd5cad0410af9337dab67a5697b4dc8a4efd2864bb32  manuscripts/Minuscule 1888 (Greek Orthodox Patriarchate, Taphu 38) [1888].txt
+9ebb367c1f66233e23ae222fefb8ef58058c32c4e01b2e53dd1958a6aba8ca91  manuscripts/Minuscule 1889 (Colossians, Philemon; IGNTP) (Greek Orthodox Patriarchate, Taphu 43) [1889].txt
+c7a04f095d5eecfe8e9639ef858d7469cf27dbf95c0a4e6fc3193970efb854ff  manuscripts/Minuscule 1890 (Greek Orthodox Patriarchate, Taphu 462) [1890].txt
+f3d95414f0613110c74ca5919432797dc8a0cd17f0a9be75fc0a9f0078be75d3  manuscripts/Minuscule 1892 (Colossians; IGNTP) (Greek Orthodox Patriarchate, Saba 204) [1892].txt
+a9ebd168c5161c0d091ee6594f6fdbfeee91f854cf416312b7fb600e9b814d3b  manuscripts/Minuscule 1893 (Romans, Ephesians; IGNTP) (Greek Orthodox Patriarchate, Saba 665) [1893].txt
+f80459ab7c97b47f209df57d97e9b402105ac728efa9c0bdb93de4e0e9bf80e6  manuscripts/Minuscule 1899 (Galatians; IGNTP) (St. John the Theologian Monastery, 664.0) [1899].txt
+7390840d99e0c614b61ce0858eaa5eb0ac25ffc89ed54a3e43d4ba9ac80facf2  manuscripts/Minuscule 1908 (Romans, Galatians, Ephesians, Philippians, Colossians, Philemon; IGNTP) (Bodleian Library, Ms. Roe 16) [.txt
+e8fff95d5eb99dfcb4b6e6f31408552f13907c520d77c4a9444caabf20296bee  manuscripts/Minuscule 1909 (Romans; IGNTP) (Bayerische Staatsbibliothek (BSB), Cod. graec. 412) [1909].txt
+334eeecd539b81798d7b376f375a1209cf8c063bae57182799be48838bc5d1e4  manuscripts/Minuscule 191 (Biblioteca Medicea Laurenziana, Pluteo    VI. 29) [191].txt
+b6b7b831142a4a706b09d3b1d405a9c33fb6254fa41dd0f90a426c55158fa39f  manuscripts/Minuscule 1910 (Galatians, Ephesians, Philippians, Colossians, Philemon; IGNTP) (Bibliothèque Nationale, Coislin Grec 20.txt
+528c6fad28b99251e945753ca83a2f1f22ea066679381a1ad30c05c5c9f6a55d  manuscripts/Minuscule 1912 (Romans, 1 Corinthians, Galatians, Ephesians, Colossians; IGNTP) (Biblioteca Nazionale , Cod. Neapol. ex .txt
+a4f569aa474724bd32a79585a13b2bf6a0ea2806d3d224d1c83b6a3866621736  manuscripts/Minuscule 1913 (Galatians, Ephesians; IGNTP) (Universitätsbibliothek, Cod. Gr. 16, fol. 1-85) [1913].txt
+4e3f0ba1a1b78c783cd8bce65c53173eb13257cf5bfb308f317595c5e35fd372  manuscripts/Minuscule 1916 (Colossians; IGNTP) (Biblioteca Apostolica Vaticana, Vat. gr. 765) [1916].txt
+1f3999b57d70236528585b9b1de7eafcdad918aaae8af87b1fbc1eeb27e043b7  manuscripts/Minuscule 1918 (Galatians, Ephesians; IGNTP) (Biblioteca Apostolica Vaticana, Vat. gr. 1136) [1918].txt
+917aa9ac31854d794bc1939b75b7a76a0453c5fc0a2ef24103b1b1ae96e2d45f  manuscripts/Minuscule 1919 (Philippians, Colossians, Philemon; IGNTP) (Biblioteca Medicea Laurenziana, Pluteo X. 4) [1919].txt
+df4523196da1c1bcfc716a38785cc8a7c03a4ca2ffe0596ce0155983ce3044d7  manuscripts/Minuscule 1929 (Galatians; IGNTP) (Bayerische Staatsbibliothek (BSB), Cod. graec. 504) [1929].txt
+8fcee23221c09dc66c61b63a4a16a19e5d542fbc3218fd865e61914073fd5e56  manuscripts/Minuscule 1930 (Galatians; IGNTP) (Bayerische Staatsbibliothek (BSB), Cod. graec. 35) [1930].txt
+d71ab31d99756c8d20ae30f84ad5b55f542606acc2651c04ced5bba5a787411e  manuscripts/Minuscule 1933 (Bibliothèque Nationale, Gr. 223) [1933].txt
+633c21599e7ac2a0e778282c1f9aabeeb565846f04db97109fd341332145f016  manuscripts/Minuscule 1935 (Romans, Philippians, Colossians; IGNTP) (Bibliothèque Nationale, Gr. 225) [1935].txt
+91f518b757afd8449206b8a8febdd8bd055d7655b6056adeab046b4c96d37fa6  manuscripts/Minuscule 1939 (Ephesians, Colossians, Philemon; IGNTP) (Bibliothèque Nationale, Gr. 849) [1939].txt
+3634abf8a9178840547c52d7a40273dbb45d4afda2977782370dc2e459c7575b  manuscripts/Minuscule 1942 (Romans, 1 Corinthians, Galatians, Ephesians, Philippians, Colossians; IGNTP) (Biblioteca Ambrosiana, A. .txt
+1f6dc7500957e00a48a6b13c65e43cc56b9b7df3493bac9a98a58ddc108eaa4a  manuscripts/Minuscule 1943 (1 Corinthians, Galatians, Philippians, Colossians, Philemon; IGNTP) (Biblioteca Ambrosiana, F. 125 sup.).txt
+7ab1501243bca2ae816e2da76386b66c44c85c700acfa5c12a54c8810a4a6164  manuscripts/Minuscule 1945 (1 Corinthians, Philippians, Colossians, Philemon; IGNTP) (Biblioteca Apostolica Vaticana, Vat. gr. 1649).txt
+5ecfb147f7842fc1f42035c7676a660ab18b00fa4b520d896b01d28f4bdba52f  manuscripts/Minuscule 1947 (Romans, 1 Corinthians, Galatians, Philippians, Colossians, Philemon; IGNTP) (Biblioteca Apostolica Vatic.txt
+68d0e46a1e9bb03be232fc8f1296e90b1b324fa7d86966ed107dae4e86af6dac  manuscripts/Minuscule 1950 (Romans, 1 Corinthians, Galatians, Philippians, Colossians, Philemon; IGNTP) (Biblioteca Apostolica Vatic.txt
+418171cd15cf83ddd1c7ccfbedeeb558c1251c5e75834ae4addc845328dd1329  manuscripts/Minuscule 1959 (Romans, Galatians, Ephesians, Colossians, Philemon; IGNTP) (University Library, B. P. Gr. 66) [1959].txt
+b8c58ebc5763e611075ca623b39ea4100a35ab25a19fe6f465216117539341bf  manuscripts/Minuscule 1961 (Romans, 1 Corinthians, Galatians, Philippians, Colossians, Philemon; IGNTP) (British Library, Arundel 53.txt
+f1c178b02a09613f313575c626cb1a0f112387e0a0f05bc9b119c64adb9f6cf5  manuscripts/Minuscule 1962 (Romans, 1 Corinthians, Galatians, Ephesians, Philippians, Colossians; IGNTP) (Österreichische Nationalbi.txt
+47d7c0e7de2cb0b41eaca257cf859bc6b56ca6fd4100c1e04cb78455a1357e54  manuscripts/Minuscule 1963 (Romans, 1 Corinthians, Ephesians, Colossians, Philemon; IGNTP) (Bibliothèque municipale , Ms. 169) [1963.txt
+ea93eb086750efaa843bc39bf0c98324fcb6299ff950cd3708ab1c871a9858a9  manuscripts/Minuscule 1969 (Romans, 1 Corinthians, Galatians, Colossians, Philemon; IGNTP) (Bibliothèque Nationale, Coislin Grec 29).txt
+b80c1a79e8a463e6f82678bb7550fe72ec37c12706877557f5930f02a4efbcc9  manuscripts/Minuscule 1973 (Romans, 1 Corinthians, Galatians, Philippians, Colossians, Philemon; IGNTP) (National Library, EBE 96) [.txt
+b40760c15bddf352a1b173257f35f3d1e15741f12f1317a1820d0f70a450b504  manuscripts/Minuscule 1975 (Colossians; IGNTP) (Biblioteca Universitaria, 2378.0) [1975].txt
+bd324dcf2da1007ba287fdc3783d90c252588e24b4af2e3f589925b1cc6a2112  manuscripts/Minuscule 1976 (Philippians, Colossians, Philemon; IGNTP) (Biblioteca Medicea Laurenziana, Pluteo    VI. 8) [1976].txt
+acd9043afcddcb0f6bd59932ffbba4ef11359d2c304e93936ac4ddd7011acdea  manuscripts/Minuscule 1977 (Colossians, Philemon; IGNTP) (Biblioteca Medicea Laurenziana, Pluteo X. 9) [1977].txt
+1f982876a1b3612a83a626f64ac32a17436800f7a137b44e171f082d38f57f7c  manuscripts/Minuscule 1978 (Galatians, Colossians; IGNTP) (Biblioteca Medicea Laurenziana, Pluteo    XI. 7) [1978].txt
+2a3e60066ffcd226eddd485eb1982bc34a06013da4e07d45127ff1e7ffeb7868  manuscripts/Minuscule 1980 (Galatians, Ephesians, Philippians, Colossians; IGNTP) (Biblioteca Ambrosiana, A. 62 inf.) [1980].txt
+e7d312a317ca353828e34deeb70614e9ee3a212828cac74c7e1afb7ea5dbede7  manuscripts/Minuscule 1984 (Galatians, Philippians, Colossians, Philemon; IGNTP) (Biblioteca Nazionale , Ms. II. B. 23) [1984].txt
+c17e004f7f9353aa613945923ad87ccd144df6cb24174d5d24408fc7957ce90b  manuscripts/Minuscule 1985 (Romans, 1 Corinthians, Galatians, Ephesians, Philippians, Colossians, Philemon; IGNTP) (Biblioteca Nazio.txt
+73a30976a9c082afa725b56460b473f9f3439697b3277fb4a4226d1356949ff5  manuscripts/Minuscule 1986 (Philippians; IGNTP) (Biblioteca Apostolica Vaticana, Barb. gr. 574) [1986].txt
+8f48d9c70fe9deb4bce6de4c36a26c824b527f59407010ce1a1f88d9db259a5f  manuscripts/Minuscule 1987 (Romans, Ephesians, Philippians, Colossians, Philemon; IGNTP) (Biblioteca Casanatense, 1298.0) [1987].txt
+d1799e617eca8f61f33ccc30dc055f57453f2ea0b138345b49b35b69780bf82a  manuscripts/Minuscule 1988 (Galatians; IGNTP) (Biblioteca Apostolica Vaticana, Vat. gr. 549) [1988].txt
+18ddf10c022fd1552cf44c7c3ce3f46e381dc6a82e7550c8e689d8f5ad185e0e  manuscripts/Minuscule 1991 (Romans, 1 Corinthians, Galatians, Ephesians, Philippians, Colossians, Philemon; IGNTP) (Biblioteca Apost.txt
+892ed747b8bf0444fc29d7b15f9c6402d936fd245c1c69d0bd3c20f79278ca21  manuscripts/Minuscule 1992 (Galatians, Colossians; IGNTP) (Biblioteca Apostolica Vaticana, Vat. gr. 648) [1992].txt
+003e3217246327decd9dd4d4456e108cd46f5f674b210094696b131804dc653a  manuscripts/Minuscule 1993 (Galatians; IGNTP) (Biblioteca Apostolica Vaticana, Vat. gr. 692) [1993].txt
+169187e400a0c90e5b26c02b0c83bda7105ac4ad32714abf5f565b5ccd3cbd0d  manuscripts/Minuscule 1995 (Romans, 1 Corinthians, Galatians, Philippians, Colossians, Philemon; IGNTP) (Biblioteca Apostolica Vatic.txt
+9100fb89e4cd2a6db660596cc9eaa284694cb4cc2760d0dd8f14e4956d1d6cf2  manuscripts/Minuscule 1996 (Romans, 1 Corinthians, Ephesians, Colossians, Philemon; IGNTP) (Biblioteca Apostolica Vaticana, Ottob. g.txt
+facd96fc0cbd847e6f3a7d03b24192e0ba1c1b9c3927483316909b630e4fe89d  manuscripts/Minuscule 1999 (Romans, 1 Corinthians, Ephesians, Philippians, Colossians, Philemon; IGNTP) (Biblioteca Nazionale Marcia.txt
+ed3c2764304d34046e6a244dea1e299515bb4b38922e004ffc9016b5576ac1d8  manuscripts/Minuscule 2000 (Romans, Galatians, Philippians, Colossians, Philemon; IGNTP) (Koutloumousiou Monastery, 129.0) [2000].txt
+b3f61d31b700c1c734b25328356dfeaeab2ecbeeb82d929349cbbbfa3fc1ba3f  manuscripts/Minuscule 2002 (1 Corinthians, Galatians, Philippians, Colossians; IGNTP) (St. John the Theologian Monastery, 116.0) [20.txt
+a2cc4d99304819f38def30a41384cdfb87208ef9bad8f3316e0421f2b8978dfd  manuscripts/Minuscule 2004 (1 Corinthians, Galatians, Ephesians; IGNTP) (Real Biblioteca del Monasterio de El Escorial, T. III. 17, .txt
+ad496668546aafed4209d1af5660518403ba5b6de1005b00dbc72ccdd307138b  manuscripts/Minuscule 2005 (Ephesians, Philippians, Colossians, Philemon; IGNTP) (Real Biblioteca del Monasterio de El Escorial, Ψ. .txt
+27de85150b411f5c50497a69dc762e1e0248ddd2f9b7dd1359363754672d46bc  manuscripts/Minuscule 2006 (Romans; IGNTP) (Biblioteca Apostolica Vaticana, Reg. gr. 4) [2006].txt
+01abfa7af6494e2eb4a72b4a5a92c3db6106a1bd1ac7f5a0c425ed1b00414fdf  manuscripts/Minuscule 2008 (Ephesians, Colossians, Philemon; IGNTP) (Biblioteca Apostolica Vaticana, Vat. gr. 636) [2008].txt
+069c15351c04391735bc8c138b6e39c16c3093b64b74a81272da7bf51820262c  manuscripts/Minuscule 201 (British Library, Add. 11837) [201].txt
+261c3d53c8e1bc885b2dfcfe89d36bb9cbc349d7d597f3b26d5f9cd5662813c9  manuscripts/Minuscule 2011 (Ephesians, Philippians, Colossians, Philemon; IGNTP) (Bibliothèque Nationale, Suppl. Gr. 1264) [2011].txt
+6572979a131864a16b029a4b6631aad663aaa7d558c7cc1ae29aee812782e36c  manuscripts/Minuscule 2012 (Romans, 1 Corinthians, Ephesians, Philippians, Colossians, Philemon; IGNTP) (Greek Orthodox Patriarchate.txt
+d99df6ab776aa663c295f36cc1e9d8d00a4e1ff4bfe1011e142ee3a8577e96a7  manuscripts/Minuscule 2019 (Biblioteca Nazionale , Cod. Neapol. ex Vind. 11) [2019].txt
+857b99b9d89ba4dee6d196c8ba31efcd1324581fdfae7ba3ce2aa49150e09f5c  manuscripts/Minuscule 2028 (Bibliothèque Nationale, Gr. 239) [2028].txt
+a3e5397ab0c33a179756a5d19e4e83f2c8949d98c0b337a1ea28b91c5117d841  manuscripts/Minuscule 203 (Galatians, Ephesians, Colossians; IGNTP) [203].txt
+f7dec97f2e29b252bc30cf917380f32efae22d643d7924d71757f19e96cabe9e  manuscripts/Minuscule 2048 (Bibliothèque Nationale, Coislin Grec 256, fol. 207-228) [2048].txt
+fd57bcc8ac66032110718ef88fa6b83977a953642b3c01562395f03a238d4b35  manuscripts/Minuscule 2049 (Hellenic Parliament Library, 45, fol. 232-254) [2049].txt
+1009f69ce51a8b0b42b1e82f6ff5aa2a8d7dbf68890c7ac3543f05e0fcf5aae8  manuscripts/Minuscule 205 (Biblioteca Nazionale Marciana, Gr. Z. 5 (420), NT_ fol. 362-441) [205].txt
+4db62cb9806034b57832fec6de35a93e235dc06dac20ac57196bbd0f51114833  manuscripts/Minuscule 2050 (Real Biblioteca del Monasterio de El Escorial, X.III.06, fol. 235-241) [2050].txt
+b5eb3e22c82b1a00f3bcb0f2863f1ba7fa8439d65f2a5757e1246a2895712cae  manuscripts/Minuscule 2057 (Biblioteca Angelica, Ang. gr. 32, fol. 171-205) [2057].txt
+5c6bd984bde7c4e4959c604ade2d0feda30f442a38813e4714b828e163093985  manuscripts/Minuscule 206 (Lambeth Palace, MS. 1182) [206].txt
+182cd6aa8968b76260274ce45d4f03ecab3cbe47d41ef7f56600708a91da0faa  manuscripts/Minuscule 2080 (Colossians; IGNTP) (St. John the Theologian Monastery, 12.0) [2080].txt
+2adc3509bdfe150f2a014e40a8b88dc7767fbdeb3d4ac8ebaeaa634dead1e4ba  manuscripts/Minuscule 2086 (Saint Catherine's Monastery, Gr. 278) [2086].txt
+64007c652ae698588f7e302f8e28805c031d77b89a886999e3bc9e403a3b71bd  manuscripts/Minuscule 209 (Biblioteca Nazionale Marciana, Gr. Z. 10 (394), fol. 1-381) [209].txt
+03814311eef2dc3abe10ad5d19120c3174bbf3db1587e3256b1cbed75a225f05  manuscripts/Minuscule 2102 (Romans, 1 Corinthians, Galatians, Philippians, Colossians, Philemon; IGNTP) (Bodleian Library, Ms. Baroc.txt
+4225f848a9bc40d525ddc407d130db136e4a6613f967d09ab97249ebf090333d  manuscripts/Minuscule 2104 (Philippians, Colossians; IGNTP) (Bodleian Library, Ms. E. D. Clarke 42) [2104].txt
+0f3266f3d17c6efe6b2dd7b474c49b369b9dfe26223453fb977f8e4a1dd969c3  manuscripts/Minuscule 2105 (Romans, 1 Corinthians, Galatians, Philippians, Colossians, Philemon; IGNTP) (Bodleian Library, Ms. Auct..txt
+d5fc59027b8747423c74412433e02abb6d1b7f6319f9f4a217559fe35b9c5dcb  manuscripts/Minuscule 2106 (Bodleian Library, Ms. Auct. T. 2. 1) [2106].txt
+b95d754713fb4534a4dd2d8c4272f17972c25d6dd13046a6e27283fba016f863  manuscripts/Minuscule 211 (Biblioteca Nazionale Marciana, Gr. Z. 539 (303)) [211].txt
+83e00fe9842c8e778789754d7186f1de26219642950c043683b23eaf1f9d3271  manuscripts/Minuscule 2110 (Romans, 1 Corinthians, Galatians, Philippians; IGNTP) (Bibliothèque Nationale, Gr. 702, fol. 252-434) [2.txt
+af089fc2260ae216bd894dda82e425bd39dd634ff0f723ffa77701c71d9c139b  manuscripts/Minuscule 2127 (Romans, 1 Corinthians, Galatians, Ephesians, Philippians, Colossians; IGNTP) (Free Library of Philadelph.txt
+b41c1ab790e01ddf744faddcc7da2e512d35411b90a4cc86a1f397df7a393260  manuscripts/Minuscule 213 (John; IGNTP) (Österreichische Nationalbibliothek, Pap. G. 1384) [213].txt
+17ce79006b4666173e29481e124f7d44b2cc6b25ceec4abae771d6df3fbf9502  manuscripts/Minuscule 2138 (Moscow State University Library, Gr. 2 (Inv. 2280)) [2138].txt
+36db799f2bbd9286fafaf892c2ec81e75f0d0d61a6eb2f97cc5e109f4d2a80c1  manuscripts/Minuscule 2143 (Philippians; IGNTP) (National Library of Russia, Ф. № 906 _Gr. 211) [2143].txt
+a0051293e19849a7a8b0cad6871dced408b913bfb64969b2e0c80a80b7d6e5f3  manuscripts/Minuscule 2147 (National Library of Russia, Ф. № 906 _ Gr. 224) [2147].txt
+ce361ec98651a08b8cf38322a842ef1f1145544b6addb79d776ec148c8c88d85  manuscripts/Minuscule 2148 (National Library of Russia, Ф. № 906 _ Gr. 235) [2148].txt
+ecf5bff5b465c058acbee48d21b78e95b26bab2c696f096ab0dae212faf0822e  manuscripts/Minuscule 2174 (National Library of Russia, Ф. № 906 _ Gr. 513) [2174].txt
+9ad4cc293dd7ef84860d60434bf095af3344f61eaef9d26e33c5d35f2c56df9d  manuscripts/Minuscule 218 (Österreichische Nationalbibliothek, Theol. gr. 23, NT_ fol. 486-623) [218].txt
+69db25e678f0a7084d89925afe42e13ad690976290348c7adbfb5e2a3de451fb  manuscripts/Minuscule 2180 (Ephesians; IGNTP) (National Library of Russia, Ф. № 906 _ Gr. 543) [2180].txt
+6c45ed9635d9903e419c0c325b908f3c2b5031b5626aaa55ff9f3e28c3d17e9a  manuscripts/Minuscule 2188 (Vatopedi Monastery, 529.0) [2188].txt
+a285afc74870291bb8f4bd25a21c34e5f891c9da9befe636b59c93a63418bc38  manuscripts/Minuscule 2190 (Vatopedi Monastery, 663.0) [2190].txt
+9a49cf0bd0bdc6ba2d428175fd18c53814c54f1ac1f3accee74bcf40394e94f4  manuscripts/Minuscule 2192 (John; IGNTP) (Philotheou Monastery, 85.0) [2192].txt
+f445d0235c879ece33324436f04eea92246786a0cb7068173f218054db222bf7  manuscripts/Minuscule 2193 (Iviron Monastery, 1387 (247)) [2193].txt
+3afd077d552aeb0240b121247bc52c826f10aeb537ce0d93583a684f678cc153  manuscripts/Minuscule 2196 (Great Lavra Monastery, I'  48, fol. 395-419) [2196].txt
+92c7bd9edcae4d492c7611e0980021085e7f49416dc1cececfb4a6063a460c88  manuscripts/Minuscule 2197 (Romans, 1 Corinthians, Galatians, Philippians, Colossians, Philemon; IGNTP) (Vatopedi Monastery, 245.0) .txt
+15dc2bc116dca01b350029af51239275d68d7831d82f02034d990e110b67cada  manuscripts/Minuscule 22 (Bibliothèque Nationale, Gr. 72) [22].txt
+4c5ea108986b280de0940b9970432fff149a3cfc2973dc2c63c28990956cd332  manuscripts/Minuscule 2200 (Panagia Olympiotissa Monastery, 79.0) [2200].txt
+0507eaf475c3f550e428d4eed9fe8be185640ba793826db2a995c68c35ba0ee0  manuscripts/Minuscule 2201 (Panagia Olympiotissa Monastery, 6.0) [2201].txt
+c6dd35e8cb77609394003d31e47dba4a9de9d136c78143ac50ea8e65aa5ba94b  manuscripts/Minuscule 2206 (Greek Orthodox Patriarchate of Alexandria, 37.0) [2206].txt
+83ff5f986cf961141f7a796bff1930b11e524a9dd13d599aea52e3265d90e081  manuscripts/Minuscule 2221 (Galatians; IGNTP) ( Museum of Ecclesiastical Art, Tessarakonta 5) [2221].txt
+7f92380473cd2da6960e2dd29f61a279631d5027643848c1dfacec668635ad29  manuscripts/Minuscule 2223 (John; IGNTP) (Church of St. Apostolos the New, 6.0) [2223].txt
+d3e93e54102c8e21bef29a28732030839f67435346ddbcc8e158cd6675c3f9f2  manuscripts/Minuscule 2236 (Zoodochou Pigis Church, s. n.) [2236].txt
+63ced2b0738cdd80e1ea9d855fea904f8ef2caac2e3c8f786157f9a76dd692be  manuscripts/Minuscule 2243 (National Library, EBE 222, fol. 144-246) [2243].txt
+2011b33b4dfb33059152a08c04fb73207ad4783125d5f155604d3f608b1e856d  manuscripts/Minuscule 2248 (Galatians, Philippians, Colossians; IGNTP) (Greek Orthodox Patriarchate, Saba 149) [2248].txt
+698b69565c2e2002bedafdc5bea84bc72ca1cd8eefc8abeca20bc7fcab0d0272  manuscripts/Minuscule 226 (John; IGNTP) (Österreichische Nationalbibliothek, Pap. G. 31489) [226].txt
+4d71946f43c27831d0b9d83129944e8778554540c9f5888f8d394a94414ecc63  manuscripts/Minuscule 228 (Real Biblioteca del Monasterio de El Escorial, X.IV.12) [228].txt
+3f2b1a39427708094d89c67bd237adea5fcd4d126070644ee8a50c6b55a5b363  manuscripts/Minuscule 2288 (Philippians; IGNTP) (Biblioteca Estense Universitaria , α. U. 2. 14 (Puntoni 13)) [2288].txt
+b5588a6ef377d1894145ae40f991d437c68b5ccf97581eb35926dbffc74484e7  manuscripts/Minuscule 2298 (Bibliothèque Nationale, Gr. 102) [2298].txt
+74b3eaba91afc27c1b5fc9d3d57ab15fbac748892240ee9038215c2debff9814  manuscripts/Minuscule 23 (Bibliothèque Nationale, Gr. 77) [23].txt
+4d1d9774930970ec18fb3ed384e66efdd7279adefbc3a67e9c8481a633937657  manuscripts/Minuscule 230 (Real Biblioteca del Monasterio de El Escorial, y. III. 5) [230].txt
+658defc3d825295d4b5b2bd9b97fc3436b7a66cd54124719c942f3855b72a513  manuscripts/Minuscule 2329 (Great Meteoron Monastery, 573, fol. 210-245r) [2329].txt
+f89d491a5364b7975255960834f4fadd7371152fc9bcd20bfb104312a10e546b  manuscripts/Minuscule 233 (Real Biblioteca del Monasterio de El Escorial, Y. II. 8) [233].txt
+f9b92882b1497f4d745f7adb89ced175bae8b928be086fddc53084313079730d  manuscripts/Minuscule 2344 (Romans, Galatians, Ephesians, Philippians, Colossians, Philemon; IGNTP) (Bibliothèque Nationale, Coislin.txt
+40d4875b9fe1f20b7455efffec1b2729ccf31b664b41d7f535c780375ae05e04  manuscripts/Minuscule 2351 (Great Meteoron Monastery, 573, fol. 245v-290) [2351].txt
+057782f3aa4b9f55952abba96dacb233075a218d88b46d1e4e1d8acb5cfaccfc  manuscripts/Minuscule 2352 (Romans, 1 Corinthians, Ephesians, Philippians, Colossians, Philemon; IGNTP) (Great Meteoron Monastery, 2.txt
+138220c7004cbe5de0716d6b2b862e8413062033ccb2e7bb9e5398c0b36a4b1e  manuscripts/Minuscule 2356 (Galatians; IGNTP) (Saint Catherine's Monastery, Gr. 1594) [2356].txt
+c759895655242f25350e3ae489490532d8e188ddc4948d611fbde66b4da16a9a  manuscripts/Minuscule 2372 (John; IGNTP) (Walters Art Museum, W. 528) [2372].txt
+f8c97312f8768ae85c80a7838c3fb956e6e2bd771304f530e28b7d6cee88ed5f  manuscripts/Minuscule 2374 (Walters Art Museum, W. 525) [2374].txt
+0769a04f4970ca078f8841b9564a94100758a6659fe9fed6492bd9c9c3a7c422  manuscripts/Minuscule 2400 (Romans, 1 Corinthians, Galatians, Ephesians, Philippians, Colossians, Philemon; IGNTP) (University of Ch.txt
+12a17ed9925e479d3d15976f02937483496250bdcff2df8b673b258bf59ce8a8  manuscripts/Minuscule 2411 (University of Chicago Library, Ms. 828 Goodspeed)) [2411].txt
+8aa186663bba2557b674ce8648f4a95cad10293e902821d1f0d0248e5022208d  manuscripts/Minuscule 2412 (University of Chicago Library, Ms. 922 (Goodspeed)) [2412].txt
+4a4661ad3cb5c8f45d6971a1b57728e79dbd6991d830920e479bba009dfba9e8  manuscripts/Minuscule 2423 (Galatians; IGNTP) (Duke University, David M. Rubenstein Library, Greek MS 003) [2423].txt
+7729e2d59e4a0beab16786a8e9b63c1503b2a24cf0a608d5b12ffe86fc28e55f  manuscripts/Minuscule 2432 (Biblioteca Apostolica Vaticana, Ross. 766) [2432].txt
+86143c302209e545ed83ec779d1f09bb2b1fffb5b06ecf2644f71063fd77cf9d  manuscripts/Minuscule 2464 (St. John the Theologian Monastery, 742.0) [2464].txt
+1cb7fd2b635d3d988d45a091ed0146e9a557512426a22a255b23f4f8ddcaf22a  manuscripts/Minuscule 2482 (1 Corinthians, Galatians, Philippians, Colossians, Philemon; IGNTP) (Biblioteca Comunale dell'Archiginna.txt
+fc7416acdabd28023ba4850b5b3e0c94309e6d4be3a7233d562c1db4cf52895e  manuscripts/Minuscule 2486 (Bodleian Library, Ms. Auct. F. 6. 1, fol. 279-280) [2486].txt
+277d1cdfdd658e8a093d7a5be1b801d94228497535e50b62777e35f74cbb8487  manuscripts/Minuscule 2487 (Bodleian Library, Ms. Lyell 91) [2487].txt
+324b1b60ee6bb6217b94c5e1ee794df6503190fc7440f7a2eb7f3f38daec16d4  manuscripts/Minuscule 249 (John; IGNTP) (Bodleian Library, Ms. Auct. T. 4. 21, fol. 326.327) [249].txt
+d302fbbede4010d0c6a16f35ee79289a633bf35acd34ccdef692874b3dfbdf4a  manuscripts/Minuscule 2492 (Galatians, Ephesians, Philippians, Colossians, Philemon; IGNTP) (Saint Catherine's Monastery, Gr. 1342, .txt
+a57807c9e7a48deda95c6522f36a0bd3ec6bf342e2594ddf4a4f71338a1e3306  manuscripts/Minuscule 2494 (Galatians; IGNTP) (Saint Catherine's Monastery, Gr. 1991) [2494].txt
+d06946c7417aed45e06bc8543b124de43a57827d5253e1186b0c41b78b251155  manuscripts/Minuscule 2495 (Saint Catherine's Monastery, Gr. 1992) [2495].txt
+2ebc12e6ff826c77100ff7d44cff5954b93379c86487c5149338a9dbeaa29e05  manuscripts/Minuscule 250 (Bibliothèque Nationale, Coislin Grec 224) [250].txt
+23578e637dac6379300007d35c0120fc5293f2271d7c87644f1c9a17ece10d4f  manuscripts/Minuscule 2508 (Colossians; IGNTP) (National Library, Genous Scholê 20) [2508].txt
+139dbdc57b5ee49250c5e1f5cef9d83b87bccb6316786f36507ca7b267036c72  manuscripts/Minuscule 2511 (Galatians; IGNTP) (Great Lavra Monastery, H 114A) [2511].txt
+9b57e776950f6d98625cbfba1bf77a2f4fd14e9f430b6c47accfb8800dc84c94  manuscripts/Minuscule 2516 (Romans, Galatians, Ephesians, Philippians, Colossians, Philemon; IGNTP) (City Library, 27.0) [2516].txt
+67e8db53a5691ff25ceae4566dcaedbde96946feeebfadc86e0ed67676dce4b6  manuscripts/Minuscule 2517 (Ch. G. Sarros, 1.0) [2517].txt
+188f42c961dc5a3dc845eaefc7f754e7782ff09a735a8025cbc31e9d0050df23  manuscripts/Minuscule 2522 (Byzantine and Christian Museum, ΒΧΜ 1619) [2522].txt
+dc927939dc4c435c235ef1eb9d069f06e50a65bb3aed2fa45c25eec4ffd0a236  manuscripts/Minuscule 2523 (Romans, 1 Corinthians, Galatians, Ephesians, Colossians, Philemon; IGNTP) (National Library, EBE 2720) [.txt
+fe8d577264c9059bf5f791ec4e52ed96e84723675247606d320e5152d0dfd6ea  manuscripts/Minuscule 2527 (Philippians; IGNTP) (National Library, EBE 2760) [2527].txt
+18738972abbdf076f85dd01d8d5bc5c3b1eb12f6b00aebc7e23246f2463b18d1  manuscripts/Minuscule 2537 (State Hermitage Museum, ω 1162) [2537].txt
+ce4cd1033b063f61209fffa5094ce562c2e2aadd8855115dc5b4e17ae59fa5ec  manuscripts/Minuscule 2538 (National Library of Russia, Ф. № 906 _ Gr. 664) [2538].txt
+9217b55d18dea2f6f24bb4d651e092bf2cadfe40d0fd0fe9a88e3030bf185662  manuscripts/Minuscule 254 (National Library, EBE 490) [254].txt
+a07c51851840a0702e15ba697eb8f0be70f0dd658e3d9bd61f65df05080675a2  manuscripts/Minuscule 2542 (National Library of Russia, Ф. № 906 _ Gr. 694) [2542].txt
+7eb775dc4f3e4f2fa5dda83f59a14e3c230ed30916e1b23ad403772784b120fe  manuscripts/Minuscule 2544 (Romans, Galatians, Ephesians, Philippians, Colossians, Philemon; IGNTP) (National Library of Russia, Ф. .txt
+ce7caf0cc13d63edf42799d8c01a0b991fc54db6e8002d144a292ff3eb8efa9b  manuscripts/Minuscule 2551 (Matenadaran, M807, M919, M1197, M1249, M1251, M2105 (Vorsatzbll.)) [2551].txt
+56ed9850ab845d47c60111fc3bf74e4c0c31cc3a299ba96207a6b894d948fce7  manuscripts/Minuscule 256 (John, Romans, 1 Corinthians, Galatians, Ephesians, Philippians, Colossians, Philemon; IGNTP) (Österreichi.txt
+f1438eb2cd4d3c80b758d092120371082c480257b9f83a8a14f07d9da70c938c  manuscripts/Minuscule 2561 (John; IGNTP) (Benaki Museum, Μπ. 44) [2561].txt
+716b8aba2f7b74dc139c599c96b266f650b23de087fc89311ceb52738cbe556e  manuscripts/Minuscule 2570 (Vatopedi Monastery, 1219, fol. 9-11) [2570].txt
+a31f0ee3a8ffccf9b5145546345a4660f39bb24fd78967308aa7ed5869c0a9e5  manuscripts/Minuscule 2574 (Galatians; IGNTP) (Biblioteca Ambrosiana, A. 172 sup., fol. 264-317) [2574].txt
+ffbed8a8806d62f234e3cd7f5c2d8a52fa527d0bef10eab6fb8385e87844381e  manuscripts/Minuscule 2575 (John; IGNTP) (Biblioteca Ambrosiana, A. 184 sup.) [2575].txt
+1204e0a42097481d3dc31dd580bbb98d0eebec553c7f9f030c9bd009cff2f509  manuscripts/Minuscule 2576 (Romans, Galatians, Ephesians, Colossians, Philemon; IGNTP) (Biblioteca Ambrosiana, F. 104 sup.) [2576].txt
+1e139af7893b0310d9dcb11b5bb7210f84b571dccf35d9ae6e4ba4598744a739  manuscripts/Minuscule 2583 (Biblioteca Apostolica Vaticana, Vat. gr. 2275, fol. 137-153) [2583].txt
+b85ae33b3ad51f54fbe96f3d76ef325891e4c48629f9f38f8e7c4b13f744300d  manuscripts/Minuscule 2585 (John; IGNTP) (Biblioteca Apostolica Vaticana, Vat. gr. 2330) [2585].txt
+56ee4b3230cae8ff64bc92ac8f200298ab9daee1ed17d70a6637e8e466fddc2d  manuscripts/Minuscule 2586 (Biblioteca Apostolica Vaticana, Vat. gr. 2398) [2586].txt
+9822195d95da1f9abe706b9ae2c722643affcd5d031d222d34f5a8b8a4ea0503  manuscripts/Minuscule 2589 (Biblioteca Apostolica Vaticana, Vat. gr. 2503, fol. 239) [2589].txt
+cabd49fa5747433850d84885827552d9c6a3bba9727af5b492ae426f29c639ce  manuscripts/Minuscule 2596 (Galatians; IGNTP) (Biblioteca Nazionale Marciana, Gr. II,178 (1051), fol. 1-54) [2596].txt
+9176a76aa962eb62cd4a5c0a4aa959efc81ee205dda3c9d9a229b0936b69a140  manuscripts/Minuscule 2597 (Biblioteca Nazionale Marciana, Gr. I,39 (1144), fol. 1-47) [2597].txt
+819f6c369d9617ef1ab1815540191326cd13ca8816187d1e0f7ddef4bd5e513d  manuscripts/Minuscule 26 (Bibliothèque Nationale, Gr. 78) [26].txt
+faa97a2d2c22bed051a2e7f4ee1c41f8095807b75a02f5887510267e4ecd6509  manuscripts/Minuscule 2606 (Chester Beatty Library, CBL W 141) [2606].txt
+0e6d5f5d202d7e678134be4c850ca6541e0f8c06dcff3c67171eb2d498aaf0ec  manuscripts/Minuscule 2607 (Houghton Library, Harvard University, MS Gr 22) [2607].txt
+334cca6b13923776f3425b55b545441ad60dcf7250af43382f244fd62334f01e  manuscripts/Minuscule 261 (Bibliothèque Nationale, Gr. 52) [261].txt
+3d1a03e4b8552185877f9fe302cf9cfe6c0a89b8616d58cee0053428e770054b  manuscripts/Minuscule 2615 (John; IGNTP) (Duke University, David M. Rubenstein Library, Greek MS 015) [2615].txt
+2b59ab272b0497df416c59cdb0e0214c2b0e5bf2989c24695c993cd2ab7e4378  manuscripts/Minuscule 2625 (Colossians, Philemon; IGNTP) (National Museum, Mošin 13) [2625].txt
+f24c5c9b229e2f555326fa78ba73935f9464e1398adac001f55ed9a7d4174734  manuscripts/Minuscule 263 (Romans, 1 Corinthians, Ephesians, Philippians, Colossians, Philemon; IGNTP) (Staatliche Museen zu Berlin .txt
+e077e7693e52fcb3ddb06120b022c168e42e032cec36daed959be2fdcf3bd331  manuscripts/Minuscule 265 (John; IGNTP) (Staatliche Museen zu Berlin Preußischer Kulturbesitz, P. 16994) [265].txt
+094c7efccdc66f3a4897b97669267f3525d7d5d48621bcb73e316a0274c93ee5  manuscripts/Minuscule 2652 (National Library, EBE 103) [2652].txt
+59dce044cc70546954d21248690ed776df4002fee683c50b6e120ca6bbd69d82  manuscripts/Minuscule 2659 (Romans, 1 Corinthians, Galatians, Philippians, Colossians, Philemon; IGNTP) (Benaki Museum, Μπ. 8) [2659.txt
+ca738be975f9f3162433511567b59d6496a24a482fc4cb72ce3d4c2d02ea1040  manuscripts/Minuscule 2666 (Dochiariou Monastery, 58.0) [2666].txt
+ceeb7076a067b363c37721b29b11662063f9803c04ca10f6d68b2df2a5f65c97  manuscripts/Minuscule 2672 (Panteleimon Monastery, 479, fol. 246-280) [2672].txt
+525ad9d03748fabdd0bb61165cc04517969df6544ebaca9cb90fa94ca941144c  manuscripts/Minuscule 2674 (Galatians; IGNTP) (Panagia Olympiotissa Monastery, 7.0) [2674].txt
+72bd3514df22d373f4096fe41ade6c167834a4053e58dd6c9b4776e0243f5d7f  manuscripts/Minuscule 2675 (Colossians; IGNTP) (Panagia Xenia Monastery , 5.0) [2675].txt
+39f35c5ed2353a239d15cb96a37de2d5ef6e8f560527a536e76a8e66352faaae  manuscripts/Minuscule 2676 (Archaeological Museum, 44.0) [2676].txt
+16e20b31f1eb8535d6c8e1253ab92b61c75e0287f455ac3b2b5bf62216fa8059  manuscripts/Minuscule 2680 (Panagia Agiasos Church , 12.0) [2680].txt
+b1361861b30d0fd8f2f8e00a297d1d5ef878595e638fe9fa8e940b4b8358b6b0  manuscripts/Minuscule 2681 (Limonos Monastery, 219, fol. 64-118) [2681].txt
+fcd16e60962d7fc704af8614a45d81ef5abacc96d08de6fcc667b47071bf1d94  manuscripts/Minuscule 2685 (Romans; IGNTP) (Varlaam Monastery, 3.0) [2685].txt
+f41795bd550e55555c446fc8047cef680cca8aa177ce6e66bd3e9654f2d63049  manuscripts/Minuscule 2690 (Colossians, Philemon; IGNTP) (Great Meteoron Monastery, 65.0) [2690].txt
+47016c551a49d2454398c5d8512a07a31ab56723b2da087f919c976adbc8bf74  manuscripts/Minuscule 2696 (Colossians; IGNTP) (Great Meteoron Monastery, 302.0) [2696].txt
+7e2d10c33053bbd2f623a87261e0af1724da197c86c2675594a20da5bd7671a9  manuscripts/Minuscule 2713 (John; IGNTP) (Monastery of St. Stephen, 11.0) [2713].txt
+7437aeb4602e073ee44ed69a33d46dbfe698a1e1e1a533c388eaebcf03537208  manuscripts/Minuscule 2718 (Palace of the Grand Master of the Knights of Rhodes, s.n. [1] (Olim Church of Panagia, Lindos 4, fol. 1-.txt
+a2a8e54843fd18950d57e07580fbd3f9200cd54270eb934ae2c827f5c50540b0  manuscripts/Minuscule 2723 (Dousikou Monastery, 4 (formerly GA 2723)) [2723].txt
+d68b29aae6fbf4b31be6c16d47c3775402961fb03789ce744848c126e5eea5bd  manuscripts/Minuscule 2726 (Nikanoros Monastery, 18.0) [2726].txt
+de7512797961657dd58d6d0db4efa5e61831d52fc3c8c1b78a097e17ea58d579  manuscripts/Minuscule 273 (Bibliothèque Nationale, Gr. 79) [273].txt
+adcfb0b4dfa784c65e0310e6427b7c042b735eae5a78b1b1727065cc570f286f  manuscripts/Minuscule 2733 (Galatians, Philippians, Colossians, Philemon; IGNTP) (Nikanoros Monastery, 99.0) [2733].txt
+d2037d740241a14e56e8c35575d160cb4a08337b4a09396a20bd49c488b6807e  manuscripts/Minuscule 2737 (Biblioteca Apostolica Vaticana, Arch. Cap. S. Pietro D. 157) [2737].txt
+bac60e39f645cc3673b51e8ed536a91885d386548a89bafb872f193812c7beb2  manuscripts/Minuscule 2738 (Biblioteca Apostolica Vaticana, Vat. gr. 642, fol. 97-180) [2738].txt
+df3246bc1e812af551061fcbe9ef361efcefded30a2fed036b78273ce01c8205  manuscripts/Minuscule 2739 (Colossians, Philemon; IGNTP) (Biblioteca Apostolica Vaticana, Vat. gr. 1501) [2739].txt
+40dfdd6f8536d1cc6e1b7626547265cf7b13c94c22542e54f4746e9a21e9e0a1  manuscripts/Minuscule 2744 (C.W. Adam, Inv. Nr. 2550) [2744].txt
+70b73f2a2f4564e6f182e162b7c775a6b36c3388da0ea04f49e8845e96e7aa25  manuscripts/Minuscule 2756 (Bibelmuseum, Ms. 10) [2756].txt
+8c58749479de34d1d467c143b16a35d12178031c0b084837ad153ac20f7dc6e1  manuscripts/Minuscule 2766 (Duke University, David M. Rubenstein Library, Greek MS 031) [2766].txt
+07910542688f85e3b706ba98083c42c4d243e257016d0ce856fd236906a759b9  manuscripts/Minuscule 2768 (John; IGNTP) (Bayerische Staatsbibliothek (BSB), Cod. graec. 208, fol. 107-234) [2768].txt
+b31886063d140366fb89848e78e742f30d9b091d76c191955ec7c4d12d5a84ae  manuscripts/Minuscule 2772 (Philemon; IGNTP) (Ecclesiastical Historical and Archival Institute of the Patriarchate of Bulgaria, EHAI.txt
+b275d35337dc67af4f01ab3d6c04b26daf34f157cfccd4456adbd10bb2610984  manuscripts/Minuscule 2774 (Ecclesiastical Historical and Archival Institute of the Patriarchate of Bulgaria, EHAI 852) [2774].txt
+3568d066ebc068012f259a3395fd05c0cc47f2d35a8b768d15478559ecf2d6cc  manuscripts/Minuscule 2784 (Metropolitan, 26.0) [2784].txt
+7c02a798f884a6cabbda7db916c7f765a574aa76c79b8045621e08b915131900  manuscripts/Minuscule 2786 (Zuletzt_ Greece, (früher Prophet Iliu, Thira, s.n. )) [2786].txt
+0e915c11ed68fe629b9dcbb6d3030454714cc61f33b4c091001c9171f267a622  manuscripts/Minuscule 279 (Bibliothèque Nationale, Gr. 86) [279].txt
+3af749c379e6bfebde00b747561c0c7d3a3984f5ab68a746bd213d4dd9d0260e  manuscripts/Minuscule 2790 (John; IGNTP) (S. M. Logidou , S. M. Logidu) [2790].txt
+8f4d7f8cf84137b1e446d64455c1b1794f3b3eae8686a02e6b99358a2e318f8d  manuscripts/Minuscule 2799 (Philippians; IGNTP) (Saint Catherine's Monastery, N.E. M 120) [2799].txt
+5fa3ce205e3a86dcfab2a087371c3771682f68ee80996d5c5dd3e62f56dfe39f  manuscripts/Minuscule 28 (Bibliothèque Nationale, Gr. 379) [28].txt
+7b436bc5e10f04407d89fae4a3f8cf3c85dc1822b225e9048614bc891c0c11a1  manuscripts/Minuscule 2805 (Daniel P.  Buttafuoco Library, s.n) [2805].txt
+4eae1821ce116ce83c20a0f89d3857844a15e3e0ecbef5051f907c5235359a4a  manuscripts/Minuscule 2815 (Galatians; IGNTP) (Universitätsbibliothek, AN IV 4) [2815].txt
+f564ae412d41db356a1d4b7f4beb54427436265751ab026598c66e8fd604d821  manuscripts/Minuscule 2831 (Vatopedi Monastery, 1219, fol. 1-3, 5-6) [2831].txt
+2c27c5f70024dcf7ad4015bdef54f429613b4e8923509cc0277940833bd128e7  manuscripts/Minuscule 2834 (Ephesians, Colossians; IGNTP) (Vatopedi Monastery, 889, p. 257-262) [2834].txt
+143d882325a54962ad2f2b2734dd7ab9f2cc70a8d38fad843a7d293f691cbacb  manuscripts/Minuscule 2845 (Bodleian Library, Ms. Holkham Gr. 30, fol. 307-322) [2845].txt
+fe7c61bf73ee4eb77914ad1cef1f4ddec36ff7d730ed04be9f05c6f6448efc64  manuscripts/Minuscule 2847 (Bibliothèque Nationale, Gr.1060, fol. 127-176) [2847].txt
+c687b4a7a0a3fc8390ebfff6aeeb62919ea4d5baa60b938dd36a70845c6e375d  manuscripts/Minuscule 2853 (Romans, 1 Corinthians, Galatians, Ephesians, Philippians, Colossians, Philemon; IGNTP) (The Van Kampen F.txt
+e9003f40c371521243933d829a6c03339cbe5a80aa8a475eb88446776a0be11a  manuscripts/Minuscule 2855 (The Schøyen Collection, Ms 1906) [2855].txt
+55b6aaaa777a530eb22b5033226633f9bd438b40858e965d1d3d45e79347873f  manuscripts/Minuscule 2865 (Houghton Library, Harvard University, MS Typ 491 (fol. 1-219)) [2865].txt
+143c094f0017842ce33475623f58ec50a5a2d580d7f12b2c8fc7aa16f92cae5a  manuscripts/Minuscule 2886 (Biblioteca Nazionale Marciana, Gr. Z. 6 (336)) [2886].txt
+eb9beee8c08c7a46eea86f5698ac33ebe5a846b5e9fd4fbc58e156716eda7446  manuscripts/Minuscule 2889 (Galatians; IGNTP) (Bayerische Staatsbibliothek (BSB), Cod. graec. 455) [2889].txt
+2abca7aee473d2eda6001dda5d025a8ab8ca2338fd9d688e9475b8e86e9c99a3  manuscripts/Minuscule 2899 (Galatians, Philippians, Colossians, Philemon; IGNTP) (Biblioteca Apostolica Vaticana, Vat. gr. 647, fol..txt
+9e484460d1628dccf8900bf6e0a7153f59ae849078b892038a567fbfa279d1f0  manuscripts/Minuscule 2900 (Albanian National Archives, ANA 85) [2900].txt
+29dc90dd85db60ba282b98729cdd179c18554776b2eee4877f6d3831cded3acb  manuscripts/Minuscule 2918 (Philemon; IGNTP) (Biblioteca Apostolica Vaticana, Borg. gr. 18, fol. 239-444) [2918].txt
+2a76c2dbb3e28ffb23e14aac127cd1e9794f9eb500868557585ff0140d6a569a  manuscripts/Minuscule 2919 (Biblioteca Apostolica Vaticana, Reg. gr. 179 (fol. 156-169)) [2919].txt
+50dc1044e40f64b370f1c48151e9790f3d545046373d8c92ae6ddc5bc73fe393  manuscripts/Minuscule 2924 (Real Biblioteca del Monasterio de El Escorial, T. III. 17, fol. 175-176) [2924].txt
+f54a52d9ac4a248b395d4f558ea8100e35ec1f221c8f6e6d97b2570403604824  manuscripts/Minuscule 2936 (Romans, 1 Corinthians, Galatians, Philippians, Colossians, Philemon; IGNTP) (National Library, EBE 3139).txt
+1ec9c0be49ae1ae9ab4ad404ab7d9d1e06e38056f9ed01ff8b6c43bff20468c1  manuscripts/Minuscule 295 (Bibliothèque Nationale, Gr. 120) [295].txt
+7b0e57447e331c53a9798f27f0056600c9b9d175d0c965d44e07c072763db3b3  manuscripts/Minuscule 296 (Galatians, Ephesians, Philippians, Philemon; IGNTP) (Saint Catherine's Monastery, Ν.Ε Σπ. MΓ 48, 53, 55) .txt
+01396eed2593271853dad70cb8ce2ad45e13ea617089c974ed1b747fe7acbe89  manuscripts/Minuscule 3 (Österreichische Nationalbibliothek, Suppl. gr. 52) [3].txt
+dfa583243129c8a76923979e019634a80a24c70cef2cacccf9d2476393ba93e6  manuscripts/Minuscule 302 (John, Philippians; IGNTP) (Staatliche Museen zu Berlin Preußischer Kulturbesitz, P. 21315) [302].txt
+2587745e5b50c57d52e57cf4e1427b6321833c2be45c13c72a831a2b1e631299  manuscripts/Minuscule 304 (Bibliothèque Nationale, Gr. 194) [304].txt
+bdb9e3cb42108c71d2e4c18b6827e4d0d2ec412dc6f2eb6f3285e04a5a5cea73  manuscripts/Minuscule 307 (Bibliothèque Nationale, Coislin Grec 25) [307].txt
+3f85748903c52a37975ba831b7517aee95cd0fe73824d698213a41cf921e633f  manuscripts/Minuscule 309 (Cambridge University Library, Ms. Dd. 11.90) [309].txt
+81b527b2db9fc8db4ce557b43a30c565975967ad151279ff851b44aeb1994ad8  manuscripts/Minuscule 310 (Bibliothèque Nationale, Gr. 202) [310].txt
+9ed9c4a7474d533eaf54217ebd2788d43e32bff85e07b89c0a47b579271f11a9  manuscripts/Minuscule 317 (John; IGNTP) (Cambridge University Library, Ms. Or. 1700.2.3.1) [317].txt
+f614f27645989f1d2e841f2402e87be79a9daeff961b7dfd41384ec57b1293fe  manuscripts/Minuscule 319 (Christ's College, MS. 9) [319].txt
+9487750dc6ce1ef85b52686133e151e1ce4744db59664e8c2863aed92c71cabf  manuscripts/Minuscule 321 (British Library, Harley 5557) [321].txt
+4b10c2e45aacfd82d935459d5f5a6bcd38a2e66d014a2fa5c3f2412de0fbb5bc  manuscripts/Minuscule 322 (Ephesians; IGNTP) (Ecumenical Patriarchate, Triados 75) [322].txt
+04f9c7f13025bcbe3021ac7a2d110ec586e237257c1acb3134dc876b5dc76cc6  manuscripts/Minuscule 325 (Bodleian Library, Ms. Auct. E. 5. 9) [325].txt
+4f60ffef475c9f5a212daf90a1a59ea0a149db5d73d3f482d1bb1181d2f4eb41  manuscripts/Minuscule 326 (Bodleian Library, Lincoln College Ms. Gr. 82) [326].txt
+42296909ce3fd3d2602f4e9154bd38ec8f69c51b3a9666966dc2c089512e1ac4  manuscripts/Minuscule 327 (Galatians; IGNTP) (New College , New College Ms. 59) [327].txt
+74dc37be4ec047367b3b8c0f24108d40251a4cfe855c8ed01c46aceeb8f42127  manuscripts/Minuscule 33 (John, Romans, 1 Corinthians, Galatians, Philippians, Colossians, Philemon; IGNTP) (Universitätsbibliothek,.txt
+dcdc457edba8cc74fb870c6ad126b9f745dae50b6f8371c861bf07848620cbc9  manuscripts/Minuscule 330 (National Library of Russia, Ф. № 906 _Gr. 101) [330].txt
+fa0ec301b5b96b91788eae5e2ea925808dc81b576a37432001cba75dfcc29733  manuscripts/Minuscule 333 (Biblioteca Nazionale Universitaria di Torino, B.I.9) [333].txt
+0e255170599c12f62aba91f6871ea6fdfe2513029aaa162ab97debd5063c7f30  manuscripts/Minuscule 335 (Biblioteca Nazionale Universitaria di Torino, B.III.2) [335].txt
+cc60de47712c75f949c7d8d6a57012b972b3d53478f3471d7326cab7b2466ef4  manuscripts/Minuscule 336 (Galatians; IGNTP) (Staats- und Universitätsbibliothek, Theol. 1252a) [336].txt
+a00b0d692bb13e9825e23f26e18acd6920c603045363065389e6d3f5f48ed827  manuscripts/Minuscule 337 (Galatians, Ephesians; IGNTP) (Bibliothèque Nationale, Gr. 56) [337].txt
+2c20883d2e06644251abcab35b17469c14800e504c46fa61325025967c518fa8  manuscripts/Minuscule 343 (Biblioteca Ambrosiana, H. 13 sup.) [343].txt
+e603e8c096714b4a50c8501e8c47b02b265a4a17e69f164c69ae660b8d02f44f  manuscripts/Minuscule 346 (Biblioteca Ambrosiana, S. 23 sup.) [346].txt
+004b6fffcdea865d3c5c5b6bf906f3ad2949a28efa9c1510c0108b9e12081605  manuscripts/Minuscule 348 (Biblioteca Ambrosiana, B. 56 sup.) [348].txt
+a3265e686207b58ff3d7c2db52a9535d8e05bf148471852fff58299efc26a820  manuscripts/Minuscule 349 (Biblioteca Ambrosiana, F. 61 sup.) [349].txt
+3baad01044a76ffc4e4180c435ea98759c9182a39412dac995161d69fd44e046  manuscripts/Minuscule 35 (Bibliothèque Nationale, Coislin Grec 199) [35].txt
+e7bb9a11d6aab9f6a4333eeeb1237c8ae2c57aadf137f9bd572310213d689787  manuscripts/Minuscule 351 (Biblioteca Ambrosiana, B. 70 sup.) [351].txt
+703850c76947e2ab6c01ea115723fcd80a79a6cd590c3bb2b874c8cd7e943af6  manuscripts/Minuscule 357 (John; IGNTP) (Biblioteca Nazionale Marciana, Gr. Z. 28 (364)) [357].txt
+9935a1555d7d9853306c6e41d2f2d5335b86d8195634c2b2cbe3318934598726  manuscripts/Minuscule 362 (Biblioteca Medicea Laurenziana, Conv. Soppr. 176) [362].txt
+15b0c501e76e80bf54cbf8f30645c3d2b1587b97f3ce7fc4b70b0bdf06388186  manuscripts/Minuscule 363 (Ephesians, Colossians, Philemon; IGNTP) (Biblioteca Medicea Laurenziana, Pluteo    VI. 13) [363].txt
+96e62361b4eb933b405184d4f5b156ba753a72a3a12ec0bedc223b812bf8726a  manuscripts/Minuscule 365 (Biblioteca Medicea Laurenziana, Pluteo  VI. 36) [365].txt
+931222fde09a72bafcfc927c152e6a083e2d09f934543955b6dd41810dc20d6a  manuscripts/Minuscule 367 (Biblioteca Medicea Laurenziana, Conv. Soppr. 53) [367].txt
+dd35f51083c4b43f9389e7d6fc53307803a139f48183b064c5df6b428948b25f  manuscripts/Minuscule 372 (Biblioteca Apostolica Vaticana, Vat. gr. 1161) [372].txt
+eac87b08c531a8e98c91209a03cb8c2eecdced66d24079d5f69a4104740ed335  manuscripts/Minuscule 377 (Biblioteca Apostolica Vaticana, Vat. gr. 1618) [377].txt
+52528ae37051cbd8b73d2f1ea7f1c0ecf1df6a5ea7fe3c903e67daa2a5e74487  manuscripts/Minuscule 378 (Bodleian Library, Ms. E. D. Clarke 4) [378].txt
+e20e5d334cdd4e38bd750dc95ce9940abda5d97f6599a5b93f32fac2a2a9bc8a  manuscripts/Minuscule 38 (Bibliothèque Nationale, Coislin Grec 200) [38].txt
+a200505d95833a0a42a8437627699c16c44c8ba8d1be8873db9d0a7e8bc7bee6  manuscripts/Minuscule 382 (Biblioteca Apostolica Vaticana, Vat. gr. 2070) [382].txt
+9ac38735c4bef8187d4a7a5c9b42c34b5fc5a6410aed4f340c28eebf8499f47d  manuscripts/Minuscule 383 (Bodleian Library, Ms. E. D. Clarke 9, fol. 1-181) [383].txt
+9a381362468169f79ca7a0e9f9cef5c1a50c89b9fbfb51626bac7affe3935ca3  manuscripts/Minuscule 384 (Philippians; IGNTP) (British Library, Harley 5588) [384].txt
+c989e00c3a91082c2aab3475aa960fa808374ecfe1cea14c1e5f0e72de9778ba  manuscripts/Minuscule 389 (Biblioteca Apostolica Vaticana, Ottob. gr. 297) [389].txt
+a639999e67e29be1727483854be76acb1bd91c2f13239e1359be060c68ee8b2e  manuscripts/Minuscule 397 (John; IGNTP) (Biblioteca Vallicelliana, E. 40) [397].txt
+dec8a749e296100a300ff019fd932742b26d5ff2f0800a7cfcb29caa5a238e3c  manuscripts/Minuscule 398 (Cambridge University Library, Ms. Kk. 6.4) [398].txt
+11366e493751914640b71c33bccc0d978c549af3dc16563e36ba892c18336204  manuscripts/Minuscule 4 (Bibliothèque Nationale, Gr. 84) [4].txt
+67dc6aa7cb2c368c281cb060a25f488fb575c0bb98761b0bedf556c7cb7d5bec  manuscripts/Minuscule 400 (Romans, Colossians; IGNTP) (Staatsbibliothek zu Berlin Preußischer Kulturbesitz, Diez. A Duod. 10) [400].txt
+f1debe593d160ef34aaae867a0eee2377bff501c823d0314b70beb28577b7acf  manuscripts/Minuscule 421 (Romans, Galatians; IGNTP) (Österreichische Nationalbibliothek, Theol. gr. 303) [421].txt
+458a8d5c959b7f01fa6bb97311d904ecaced239e29df6a32421276675e78bcd7  manuscripts/Minuscule 423 (Bayerische Staatsbibliothek (BSB), Cod. graec. 36) [423].txt
+4cd895161bb0e003766cf6e50accf51f8a8cf79b5ddc9665bd3ed43feca6ef1f  manuscripts/Minuscule 424 (Österreichische Nationalbibliothek, Theol. gr. 302, fol. 1-353) [424].txt
+0e051f098354fd074d5912409dc57a9bc323bba449fd817ed695409a7562b571  manuscripts/Minuscule 427 (Bayerische Staatsbibliothek (BSB), Cod. graec. 465) [427].txt
+e4e67bffbfc06a7408250c8d3399b29babe4023fdf789695be137560152653d7  manuscripts/Minuscule 429 (Herzog August Bibliothek, Cod. Guelf. 16.7 Aug. 4°, f. 1-185) [429].txt
+1ab273d48714e91f283e1111ffa97ab1abc2cd48de9a264f31a86dc7aca5c72b  manuscripts/Minuscule 43 (Bibliothèque de l'Arsenal, 8409.0) [43].txt
+d5fba64da11d9465d30b040816e006ce0a5ac0d3607c6073ee0f2b6395fd46d7  manuscripts/Minuscule 430 (John; IGNTP) (Bayerische Staatsbibliothek (BSB), Cod. graec. 437) [430].txt
+fa732e921e7a28a85d5d47a00338945ab00fea779389474996fa59bead49fd1e  manuscripts/Minuscule 431 (Bibliothèque du Grand Séminaire , 1.0) [431].txt
+2d470c7739a3aa1b79306c08d2b77938584f8457c4f8a1d50ef0fa8f21d954c6  manuscripts/Minuscule 436 (Biblioteca Apostolica Vaticana, Vat. gr. 367) [436].txt
+feaa95dd0fd466a8620e6026542774d899ed6e96d2eb0741a64d1e18b8ff9bf5  manuscripts/Minuscule 440 (Colossians; IGNTP) (Cambridge University Library, Ms. Mm. 6.9) [440].txt
+dab3eddfa146b2610bc7a032ee4948c9785d9f0d23966c7ad44931b9b6151fd8  manuscripts/Minuscule 441 (Uppsala University Library, Gr. 1, p. 3-182) [441].txt
+711800ac243fb5044a84b009b2b7be7acde1a60347775eff39c431449becb0ff  manuscripts/Minuscule 442 (1 Corinthians, Galatians, Ephesians, Philippians, Colossians, Philemon; IGNTP) (Uppsala University Librar.txt
+32879cfdf4da4c7cbe1257a5d8138661a73a4cc6c1a13d2e62814db07d9b0b72  manuscripts/Minuscule 451 (Romans, 1 Corinthians, Galatians, Ephesians, Philippians, Colossians, Philemon; IGNTP) (Biblioteca Aposto.txt
+a2ad48ea78c60a97b5829abaed5bcb85b792d6317cb5ed3da3bc828c85dd2961  manuscripts/Minuscule 452 (Biblioteca Apostolica Vaticana, Reg. gr. Pio II 50) [452].txt
+3cabd118506f26ef9c0528443c81595b2d22cb2641d224648ff076741de3d72b  manuscripts/Minuscule 453 (Biblioteca Apostolica Vaticana, Barb. gr. 582) [453].txt
+7e80b7b913b8a7bb4728695986d403489056e91a019908b033c7221ead034b66  manuscripts/Minuscule 454 (Biblioteca Medicea Laurenziana, Pluteo IV. 1) [454].txt
+1a11dc14ba755c4fdc91550d0efb832ea86884fc853536460cb5ce03f01756e1  manuscripts/Minuscule 455 (Romans, Galatians, Colossians, Philemon; IGNTP) (Biblioteca Medicea Laurenziana, Pluteo    IV. 5) [455].txt
+dcbde3875886d1bdc3db450b499165352cdc059707bcf71c42f99f0fbb3db22d  manuscripts/Minuscule 456 (Biblioteca Medicea Laurenziana, Pluteo     IV. 30) [456].txt
+340543581d78fbe469b92496b4e9478339355a2c8836faf3d3488688c7be21a4  manuscripts/Minuscule 457 (Biblioteca Medicea Laurenziana, Pluteo    IV. 29) [457].txt
+8609045275a8d1ad724a7cfe7853f8ee95571a10b27f5fee1f482cda3ca73e0f  manuscripts/Minuscule 459 (Biblioteca Medicea Laurenziana, Pluteo IV. 32) [459].txt
+c8bd0766821e9181f597a7a481a06b4af9537f10d0f8141a8ea65f73acccf222  manuscripts/Minuscule 460 (Biblioteca Nazionale Marciana, Gr. Z. 11 (379)) [460].txt
+bb951455163cb0af67e05064b1a990ea99e3e1ab94fc4d9162422b91b2658cd3  manuscripts/Minuscule 462 (Galatians, Ephesians, Philippians, Colossians, Philemon; IGNTP) (State Historical Museum, Sinod. gr. 346 .txt
+66a23dc8005eef599bbac24c2396ab32dc78784e343ddc2adbb06fff6e947c76  manuscripts/Minuscule 465 (Colossians; IGNTP) (Bibliothèque Nationale, Gr. 57) [465].txt
+9b94533bf1df8c0012cf0a71ba582b40cd847d18713ace83093f07f8eac73677  manuscripts/Minuscule 467 (Bibliothèque Nationale, Gr. 59) [467].txt
+83934ee0318bb48cddc426d2fbe2143a2ed7d49ebee510e12e92da94af93fefa  manuscripts/Minuscule 468 (Colossians; IGNTP) (Bibliothèque Nationale, Gr. 101) [468].txt
+92341afef2f24d6695afa1629d1069dda6081c786985785e9761d3318ff0645e  manuscripts/Minuscule 469 (Bibliothèque Nationale, Gr. 102A) [469].txt
+e837f49ea1b71cde7c6eb2a75fd84016a7b9cac77f35b59c4c5642406f2fb60c  manuscripts/Minuscule 483 (Philippians; IGNTP) (Williams College, Chapin Library, De Ricci 1) [483].txt
+f5d564230bfde65a07966313cb83d52579d127a2240cead085e216d98b25bea8  manuscripts/Minuscule 495 (British Library, Add. 16183) [495].txt
+dc64a459aa2110e551453fe22dfd8b099dd3e1cacbcab2af75a85ecf797e737f  manuscripts/Minuscule 496 (Colossians; IGNTP) (British Library, Add. 16184) [496].txt
+61f8204de61cfc8689f728e14c7d9c5d3545a341d37f2838ad5bda7c275317b6  manuscripts/Minuscule 498 (British Library, Add. 17469) [498].txt
+4f9965d33d5a6e00261601279696d52b4a1cc28ebe1b9c2ea045ce6b101e2c09  manuscripts/Minuscule 5 (Bibliothèque Nationale, Gr. 106) [5].txt
+6cee01679c9d9ccdc88676d77bc552545403ce7bf4194ec772009f4f9b0f419b  manuscripts/Minuscule 506 (Christ Church, Wake 12) [506].txt
+ff9a458c56ea6b262258366d69d6be05c68734fe19dacf20a8993c533d27d1df  manuscripts/Minuscule 509 (Christ Church, Wake 24) [509].txt
+4104ef10e682adddf22656481867839f47e8be9d662d4ac98c84c94c68653190  manuscripts/Minuscule 513 (Christ Church, Wake 29) [513].txt
+b42cc3911eaafdd15bcd32ad96af809fef5679ba38d403d4cf90007e5ca263a0  manuscripts/Minuscule 517 (Christ Church, Wake 34) [517].txt
+a6a8cb5238a35b675dd2296262f5f3030a0a65411519ffd9c07b2ad22ffb721d  manuscripts/Minuscule 543 (University of Michigan Library, Ms. 15) [543].txt
+c2f8d3d7d6602c1c4203b30bdb3d65c76f2a9a525e61ede166ddefff8bb5d985  manuscripts/Minuscule 544 (University of Michigan Library, Ms. 25) [544].txt
+b751b37935e74a68f276f28f62dcd95876711ed5cfad9600757b6d746edf1ed2  manuscripts/Minuscule 547 (Colossians, Philemon; IGNTP) (British Library, Add. 39590) [547].txt
+44484682fb7aa1b54d580527d7c4547ed70a99c48c52cb36c6fad33073247460  manuscripts/Minuscule 555 (Cambridge University Library, Ms. Hh. 6.12) [555].txt
+1e4f5d8467994a7282d0a0cb01fafc898d8866a423a85a5c7a876a68b734ce75  manuscripts/Minuscule 565 (National Library of Russia, Ф. № 906 _Gr. 53) [565].txt
+81ed40b63f8e2a5026e50ef8c43d9157c4fee2e6b6471684a81bbb7ab3ccfaec  manuscripts/Minuscule 569 (National Library of Russia, Ф. № 906 _Gr. 72) [569].txt
+844f37d1f6ce784626ff4305f6e345e1e83089f24c77a6b1c471012312d12171  manuscripts/Minuscule 579 (Bibliothèque Nationale, Gr. 97) [579].txt
+d6ec81d8ea020eea9e027d7d70c4e641227a765c1399ea59181f04134bf31584  manuscripts/Minuscule 582 (Galatians; IGNTP) (Biblioteca Comunale Ariostea, Cl. II, 187) [582].txt
+a0756e43cc63c6d1d20c8bed931ae52c1e94608aae114b36a38ccc725bbdae0e  manuscripts/Minuscule 59 (Gonville and Caius College, Ms 403_412) [59].txt
+006f1820e2a8e6686ffdd66e179b82320c1770d291bc9a41da1ca77b40ec9d41  manuscripts/Minuscule 590 (Biblioteca Palatina, Ms. Pal. 15) [590].txt
+3b30a116219f99a2e5f6b0e4bdcfffc80ee9640e9d90c0ec86a7b09ab4b31050  manuscripts/Minuscule 595 (Biblioteca Nazionale Marciana, Gr. I,56 (1324)) [595].txt
+41427968faf6d8b66563d94f40b79d2169f20e64d2c4a477db642945556d94a9  manuscripts/Minuscule 597 (John; IGNTP) (Biblioteca Nazionale Marciana, Gr. I,59 (1277)) [597].txt
+486d062bd6c74ca9b6ce8efc354631f071524b79ac3981a3e323f4a2b6378db2  manuscripts/Minuscule 6 (Bibliothèque Nationale, Gr. 112) [6].txt
+207918fb7e9b235d4e31392ecc79276f1f65521b577b3f644c63c444e80f927b  manuscripts/Minuscule 603 (Colossians; IGNTP) (Bibliothèque Nationale, Gr. 106A) [603].txt
+5d2b25a862c2977ddc02e31e7e12c2593782c25cbb83b199f851cf848bedd73f  manuscripts/Minuscule 606 (Romans, 1 Corinthians, Ephesians, Philippians, Colossians, Philemon; IGNTP) (Bibliothèque Nationale, Gr. .txt
+bdb08233b6a69dfe6b645dedc80b09884851f6adaf674f867f8add593834b607  manuscripts/Minuscule 607 (Bibliothèque Nationale, Gr. 218) [607].txt
+1875b868a8f1d7d90a22418c8165905d5d507b1700b6b91ff9d1b6c09040067a  manuscripts/Minuscule 608 (Romans, 1 Corinthians, Galatians, Philippians, Colossians, Philemon; IGNTP) (Bibliothèque Nationale, Gr. .txt
+40e65aaf7ce46f98f14ad1a9f2cd05da814f7976a6bf7c5b130329337156f126  manuscripts/Minuscule 61 (Trinity College, MS 30) [61].txt
+528a8d29fe2a9b00d1ac83ef067369b6dbb824ae600dd7faaaa27b2c2010a386  manuscripts/Minuscule 610 (Bibliothèque Nationale, Gr. 221) [610].txt
+e3e1b39fc4766fe7bcee5dc5f24f9ec81dc98b5afb5ba7f87a68252d301ce5b2  manuscripts/Minuscule 616 (Philippians; IGNTP) (Biblioteca Ambrosiana, H. 104 sup.) [616].txt
+47b692b3b90964e7430edc63268216bb0fd4a936e3907725a0ff91adb724d678  manuscripts/Minuscule 617 (Biblioteca Nazionale Marciana, Gr. Z. 546 (786)) [617].txt
+737279159bec6a0d3d77a531b355bacf5268955a102b3fdee73d48aac0f6623a  manuscripts/Minuscule 618 (Philippians; IGNTP) (Biblioteca Estense Universitaria , α. F. 1. 28 (Puntoni 243)) [618].txt
+e86b3c1438c6de7b03afe8f5769f0535329a140945fa7cdde3b3e4742e4cc6e2  manuscripts/Minuscule 620 (Biblioteca Medicea Laurenziana, Conv. Soppr. 150) [620].txt
+5cb9ecd7a3c35b2dd82ea05a1e056f09fc309c62d4fceddc652eb154986c953a  manuscripts/Minuscule 621 (Biblioteca Apostolica Vaticana, Vat. gr. 1270) [621].txt
+3150a7d37bb3dae68ad18c22045c75fd97755d2cb64cb204bea0d059f867a462  manuscripts/Minuscule 623 (Biblioteca Apostolica Vaticana, Vat. gr. 1650) [623].txt
+02f4b823432ffefb760fca6219996fa9cfd32beca382993cdc63aa26d7294ef7  manuscripts/Minuscule 628 (Galatians; IGNTP) (Biblioteca Apostolica Vaticana, Ottob. gr. 258) [628].txt
+c89676fa6e5105715d4c88085405d3458a722b3c0ae9ee78ff4d640157bb4f28  manuscripts/Minuscule 629 (Biblioteca Apostolica Vaticana, Ottob. gr. 298) [629].txt
+f43cd2fa7e0bcd00840382d173ee570f917163e3fd2cd173c5a8f6e2734e3db5  manuscripts/Minuscule 630 (Biblioteca Apostolica Vaticana, Ottob. gr. 325) [630].txt
+87dd7c0e9130ee9278cc85358bfa1a255d9b4b37163b058eb8a7463c13ed4701  manuscripts/Minuscule 632 (Biblioteca Vallicelliana, B. 86) [632].txt
+4403b192eb4211bd8dbfb5afba841b5f9e617f6fcf52d91bda430125caab501a  manuscripts/Minuscule 636 (Biblioteca Nazionale , Ms. II. A. 9) [636].txt
+ef65943a0e7eb8926b605781c98060a83d0445248bd78c5dadf400e3ec78b3fb  manuscripts/Minuscule 642 (Lambeth Palace, MS. 1185) [642].txt
+2190fc1897a6a1a7f067602af9bdbb9d87cd812d1af9c5a88b91f682626bb468  manuscripts/Minuscule 664 (Ephesians; IGNTP) (Christian-Weise-Bibliothek, A 1) [664].txt
+966885a1e90ad9bf53cc86e8181b0f4150ca6396cd1958ae1ee903886d27b78f  manuscripts/Minuscule 665 (Bodleian Library, Ms. Auct. F. 6. 24) [665].txt
+ac1190200ebdc4e1cffcb4610d7866d12da5ac68f2e0c1be4fe1fb17b3283512  manuscripts/Minuscule 67 (Bodleian Library, Ms. Auct. E. 5. 11) [67].txt
+a344b6f89c3dd5490994ed1613d49c792835c34d50a78f6c04d441058adcbde4  manuscripts/Minuscule 676 (Colossians; IGNTP) (Bibelmuseum, Ms. 2) [676].txt
+a373396ac895e9e775bdc02aa5398a4e58644be48ab573aa27c625ee0c17fa9a  manuscripts/Minuscule 687 (British Library, Add. 11868B) [687].txt
+22f5cb88cc4e282016fb2baebbac45de6a8911488d651a598e48539c7e779a70  manuscripts/Minuscule 69 (Leicestershire Record Office, 6 D 32.1) [69].txt
+7b2a3febd786d20ef76b11414fda39dc00b276a5879930e995e6a17703a3ab50  manuscripts/Minuscule 695 (British Library, Add. 24373) [695].txt
+76186f8bcd9fa1eeba6412b4cac2f063e4dbca19da5f9a36a5fed665c888d0bc  manuscripts/Minuscule 697 (British Library, Add. 26103) [697].txt
+350239fe5a7fc49ed91886ea33a75c1343396170a1a879456623fe311b45ac93  manuscripts/Minuscule 700 (British Library, Egerton 2610) [700].txt
+c428047158f37e77c38ea316ce44e984e4410277bad8558c0f9e971539f2b3dd  manuscripts/Minuscule 706 (Bodleian Library, Ms. Auct. T. 5. 34) [706].txt
+4612b344b53675c52414984276639fba11a955e4b7f5662075292d486cdf7e4c  manuscripts/Minuscule 709 (Bodleian Library, Ms. Auct. T. inf. 1. 4) [709].txt
+d42b51014eadb4f6968269251d2dcbc989a26ee84831785b3eadeb01587fac5f  manuscripts/Minuscule 713 (University of Birmingham Cadbury Research Library, Peckover Gr. 7) [713].txt
+c3ef6612b9cea3e0536b3e9e55cd14aca849587f2f4bcbe3542b1800fbaf95cf  manuscripts/Minuscule 716 (British Library, Egerton 2784) [716].txt
+ad8b345f6e516cc2e7c08e08054b49dc2aeba088dec6986bc69cf1b085890ba9  manuscripts/Minuscule 719 (Österreichische Nationalbibliothek, Theol. gr. 19, fol. 1-314) [719].txt
+a841fc56d2079f7972f980b9785f31c0481b2a7ed9b275314c4e8dced8edd8b6  manuscripts/Minuscule 720 (Philippians, Colossians, Philemon; IGNTP) (Österreichische Nationalbibliothek, Theol. gr. 79) [720].txt
+46537a87e28037f99560ce2d846753c6b9acd5fb4bf23217c7fdd9598e726d39  manuscripts/Minuscule 723 (Österreichische Nationalbibliothek, Theol. gr. 122) [723].txt
+f1270054677e019d4ef64852dd1dcbe7073bdf5ac98e21476e6db659c0b43c09  manuscripts/Minuscule 728 (Bibliothèque Nationale, Gr. 181) [728].txt
+95a366e5074e093246f1bca6b46c86b80db86c04aa362c68ece882f12f3d7281  manuscripts/Minuscule 732 (Bibliothèque Nationale, Gr. 185) [732].txt
+7e9f66d906a5c2f82c9e9a93259c6557681e2e288979319b5584370af32f3680  manuscripts/Minuscule 733 (Bibliothèque Nationale, Gr. 190) [733].txt
+d31a859e694fb3c0fd70fb8d0a9e4b29fdc425c2ef37c52e522369e3d3242651  manuscripts/Minuscule 735 (Bibliothèque Nationale, Gr. 196) [735].txt
+3a312f824311ba575cc9986bbb8dd0fb29f3bef762e2470ef45bedb475e0aee8  manuscripts/Minuscule 738 (Bibliothèque Nationale, Gr. 205) [738].txt
+b200713737f42cc1c010e83e73a128e9c3a398f2f980a7fdb48e91884e0027ab  manuscripts/Minuscule 749 (Bibliothèque Nationale, Suppl. Gr. 904) [749].txt
+21e814b040fe84a62536d474ed817187b2888f85317ded5a16c52713fb3cd356  manuscripts/Minuscule 751 (Bibliothèque Nationale, Suppl. Gr. 919) [751].txt
+8bb2e23cc001e871ea8e0c518f17421f4d17886bfe5437c9d155a12db6984b75  manuscripts/Minuscule 752 (Bibliothèque Nationale, Suppl. Gr. 927) [752].txt
+f9884393f3185a0f84e1aa7ef3f9fc78c297e1035d0e23bf80d66634f0f4b6dd  manuscripts/Minuscule 766 (National Library, EBE 159) [766].txt
+8b250181509539121eb60614bfc664dab743ddc966efac4949486f64286c6b7a  manuscripts/Minuscule 780 (National Library, EBE 121) [780].txt
+2c68a46c7bf11ef3b06e07172cc3b7fb3549caaee57f5c6169ac15dcf0921a14  manuscripts/Minuscule 788 (National Library, EBE 74) [788].txt
+1bb45482796c1fa906a567077562f6c59ded1e0b830517b9bf9196fe60ebaddc  manuscripts/Minuscule 79 (University Library, B. P. Gr. 74) [79].txt
+c4e0d89a95972f2b147a1155fb9beeb18a83dcd35e5d181d4beb151854f5ad80  manuscripts/Minuscule 791 (National Library, EBE 77) [791].txt
+ab57f7fa281975fb33602040550053b29818127399b9f242a9f8564ed3872c72  manuscripts/Minuscule 792 (National Library, EBE 107) [792].txt
+08de8ecbc0ef58e781b9e2ff853e1037f37573bc36c0226c6a847771a392e71c  manuscripts/Minuscule 799 (John; IGNTP) (National Library, EBE 117) [799].txt
+13895f083b6165978cdd5ef8239a71d46455dc72317851d2923202849a64d610  manuscripts/Minuscule 803 (National Library, EBE 88) [803].txt
+1b961ead43283e8dedfd6afe77fd1c98893b2e451d45dec1473524c0e118c6ff  manuscripts/Minuscule 807 (Hellenic Parliament Library, 1.0) [807].txt
+33c46f8bf85261a6456d82e6a74ede8f7d778e6fd5a447ff8d5a5d4bffef3490  manuscripts/Minuscule 808 (Colossians, Philemon; IGNTP) (National Library, EBE 2251) [808].txt
+4a2edb36dca6968395e4756978736d99c75de7adbd113729f3cf76230c4291b9  manuscripts/Minuscule 81 (Romans, 1 Corinthians, Galatians, Ephesians, Philippians, Colossians, Philemon; IGNTP) [81].txt
+e05add2140324fc6acd0720973745d83f1818dd1ffea7410b32e152856af239b  manuscripts/Minuscule 821 (John; IGNTP) (Biblioteca Nacional de España, 4673, fol. 262-542) [821].txt
+41447bc6f1cea71906b670831073f4f5ab3cc11ae394ce31b983e3fd291ac865  manuscripts/Minuscule 822 (Biblioteca Nacional de España, 4739.0) [822].txt
+6473639aadbcb1d0306107dbeac273a709de4980bc883c1779b8306bc6771d1f  manuscripts/Minuscule 826 (Biblioteca Statale del Monumento Nazionale, A. α. 3) [826].txt
+425c3df1be111f9122458ed6d5c6fd728062dceb0a951bb99c777e9bafacf177  manuscripts/Minuscule 827 (Biblioteca Statale del Monumento Nazionale, A. α. 4) [827].txt
+9cfd75e712c68bd0c3c8a170745dde4edf11af872dc10e9297f15222931e2b77  manuscripts/Minuscule 828 (Biblioteca Statale del Monumento Nazionale, A. α. 5) [828].txt
+a35998626ed254045828483511a7598503159fa2d95de120a6759d08de125550  manuscripts/Minuscule 829 (Biblioteca Statale del Monumento Nazionale, A. α. 6) [829].txt
+4594aa607f174383eb1c78f9c4f3c336bfe06b3d332645d46ad585968e3098ad  manuscripts/Minuscule 837 (Biblioteca Ambrosiana, I. 94 suss., fol. 38-66) [837].txt
+0a85669c4937fc73dd61bf1e9fd22298ec465395d6821a674ce12c1a81bc5996  manuscripts/Minuscule 841 (John; IGNTP) (Biblioteca Estense Universitaria , α. V. 7. 24 (Puntoni 178)) [841].txt
+d2e02d333dac6849f6d1a8e3f296a3ede46d1cb5b827b63b50aa9b7381df6e55  manuscripts/Minuscule 842 (Biblioteca Estense Universitaria , α. W. 9. 26 (Puntoni 128)) [842].txt
+6ea858412ae90f7016e9b4fdd9e3725ece5c459545c3b729bd60ba117efb1703  manuscripts/Minuscule 855 (Biblioteca Apostolica Vaticana, Vat. gr. 643) [855].txt
+aa659669d1b9c92868fc9cc1b7351f99605740ed7d67c9df19494f919e551400  manuscripts/Minuscule 865 (John; IGNTP) (Biblioteca Apostolica Vaticana, Vat. gr. 1472) [865].txt
+0995f190cbc15f08011ed22df283268cffed0e212ac1a0f1942f586fc40932e8  manuscripts/Minuscule 866 (Biblioteca Apostolica Vaticana, Vat. gr. 1882,  fol. 10-16) [866].txt
+19e5190e512221491d6dc111e7b3d4373149923dbf47db4abfc0760bc74726e8  manuscripts/Minuscule 869 (John; IGNTP) (Biblioteca Apostolica Vaticana, Vat. gr. 1996) [869].txt
+e2f1a84f122b1ab465606b51c24bf8bd37fb59fc2398b6a33dbbfda9ce67766e  manuscripts/Minuscule 872 (Biblioteca Apostolica Vaticana, Vat. gr. 2160) [872].txt
+95a70821e1cb9b12e30f2eb1e74fcfb415ef303bbca84ed223131996c0fa5449  manuscripts/Minuscule 873 (Biblioteca Apostolica Vaticana, Vat. gr. 2165) [873].txt
+e111f1ddb0a69510872f5720614ba4b7aaeee05065cee4357429a557c9af57de  manuscripts/Minuscule 876 (University of Michigan Library, Ms. 16) [876].txt
+117ab753d475337ed215a0fd9bc36edf557d00afbd30bc1ab8424e59eaa534ec  manuscripts/Minuscule 88 (Biblioteca Nazionale , Ms. II. A. 7) [88].txt
+ebb11bd58eb9bcb9d4df5872938e3b66e919565d5f450191826c5cc53d35d914  manuscripts/Minuscule 884 (John; IGNTP) (Biblioteca Apostolica Vaticana, Reg. gr. 3) [884].txt
+89c4a711b183e2e141688ef2456eac61b78a95a1d8cfb99d1be612182d857a9a  manuscripts/Minuscule 886 (Biblioteca Apostolica Vaticana, Reg. gr. 6) [886].txt
+451f404ca600170a7d8135dc76dce5cc0ac1afee5157d25f078ca5034e14d0dc  manuscripts/Minuscule 891 (Galatians, Colossians; IGNTP) (Biblioteca Nazionale Marciana, Gr. Z. 32 (689)) [891].txt
+4ff4c70023d20b2f865f317ca262ff73455113d5b73b7b5849b2c95158eb9f40  manuscripts/Minuscule 892 (British Library, Add. 33277) [892].txt
+ee9b490e81568c7617f1ad4fc2aec49b3b1c7f69402129c6569a80fa80cc3848  manuscripts/Minuscule 895 (Princeton University Libraries, Garrett MS. 7) [895].txt
+e4b28dd5e672cbc2aed06cfa429dbb918c28053945539ef9b1bbe41ae1fd5e14  manuscripts/Minuscule 90 (Romans, Philippians; IGNTP) [90].txt
+216462585313f483977f9bed990654f45d9b231a719d59c6d025de0f2b5eb436  manuscripts/Minuscule 909 (The Van Kampen Foundation, VK 902) [909].txt
+50c6ca4ba38a33015d0cb46124f7c699032c009e85768e1d535a79b0e125204d  manuscripts/Minuscule 91 (Bibliothèque Nationale, Gr. 219) [91].txt
+56dce178c69c2944b0c0faa756b6e8c1dd0a64cc699ae06897faaaafbf04586a  manuscripts/Minuscule 915 (Romans, 1 Corinthians, Galatians, Ephesians, Philippians, Colossians; IGNTP) (Real Biblioteca del Monaste.txt
+da7b16ba430cfd65af6838788f18c3d92070e5a1fd7fc87b0119933d53fc03e8  manuscripts/Minuscule 917 (1 Corinthians; IGNTP) (Real Biblioteca del Monasterio de El Escorial, X.III.10) [917].txt
+4b13038bc66aa26c5c4f2059ea0052b385e28152ea8738d9b0e537660e5aa7bc  manuscripts/Minuscule 927 (Philippians; IGNTP) (Dionysiou Monastery, 54 (früher 8)) [927].txt
+1c0061ebac4523d5235c60d5998bdea9bf9ae605090a44ed00ad0c47bd47f586  manuscripts/Minuscule 93 (Bibliothèque Nationale, Coislin Grec 205) [93].txt
+cb32cde31d41510c24aab7aa0768ddc5e376784880e9745d25db3a51922c0c1a  manuscripts/Minuscule 930 (Dionysiou Monastery, 134 (früher 22)) [930].txt
+9666d0ffa5c56e66ccc2279201609db5dee71225ce23027202d5e24489bdb2f7  manuscripts/Minuscule 94 (Bibliothèque Nationale, Coislin Grec 202bis, fol. 27-328) [94].txt
+afd23ca39425b3da3891534e7da7cb71fc012e2a7a18f22f073946b590912b67  manuscripts/Minuscule 945 (Dionysiou Monastery, 124 (früher 37)) [945].txt
+b073a968d88557b36ea97facd73938b5433d106827222414677cb8c6e642cc97  manuscripts/Minuscule 949 (Dionysiou Monastery, 58 (früher 64)) [949].txt
+2665c9f6912e56d361ab0b38a120fccd1760d463fc445f0a5486dd8cef5c07c0  manuscripts/Minuscule 954 (Dionysiou Monastery, 347 (früher 312)) [954].txt
+a6ebe65aae3fa6638b2a133e8140ae53f72ef56d36f729dd12b37e3528dbcda7  manuscripts/Minuscule 976 (Dochiariou Monastery, 56.0) [976].txt
+f5c72be30fc6aa276f8aad235b61a603439050b2c5100110d58d7a95a7cf3c58  manuscripts/Minuscule 979 (Dochiariou Monastery, 142.0) [979].txt
+707e1e47fa5c83bd5c737b0c7217934a57da5140e68c61abecf1ff364f29dfba  manuscripts/Minuscule 983 (Esphigmenou Monastery, 29.0) [983].txt
+ae5d7b5e9f8117fa141878c395c5efcc5cfe2537b93db3a7bca8dda0e8077182  manuscripts/Minuscule 992 (John; IGNTP) (Iviron Monastery, 799 (9)) [992].txt
+e0a0569d98b8d45f599a5b554da66f464f300a3690afbc69bc4ad884cc417f8a  manuscripts/Minuscule 994 (John; IGNTP) (Iviron Monastery, 170 (19)) [994].txt
+635490ab1edb0b0966c7978e7c497b5e8c2db1f7520ed67e7118d61d382c6cc7  manuscripts/Papyrus P1 (Penn Museum, E 2746) [P1].txt
+0b95b01c2e0abe02fb1a9898c4076fc3c9765bf75168d839974be9a243703476  manuscripts/Papyrus P10 (Houghton Library, Harvard University, MS Gr SM2218) [P10].txt
+772117bf6dabbc26bee8c006f48e6ec2648eb60becddfe303b3d589b2d0d505d  manuscripts/Papyrus P100 (Sackler Library, P. Oxy. 4449) [P100].txt
+8d2f7f976294a02f485ee0163bd7106c5c7ccb573f62f20ac153063c354099da  manuscripts/Papyrus P101 (Sackler Library, P. Oxy. 4401) [P101].txt
+7fc9bdfef45162d166d94eef8b8307f4651e041f6c40c928b697a2a5aa728085  manuscripts/Papyrus P102 (Sackler Library, P. Oxy. 4402) [P102].txt
+5c982c877444c7115643e44ecd3c8f7bfcf786a9f885612aaff0c10eb88a32c3  manuscripts/Papyrus P103 (Sackler Library, P. Oxy. 4403) [P103].txt
+01e77f10af304a667ef062098fbe45278d05e19c239cb66f537bc4a9e58df281  manuscripts/Papyrus P104 (Sackler Library, P. Oxy. 4404) [P104].txt
+04f0883f782b9da478da4dfa499eeea2609313a2dc9b3a1dd458ad47e1f9f12a  manuscripts/Papyrus P105 (Sackler Library, P. Oxy. 4406) [P105].txt
+20041b3e42ea32cbc3883f185c8c59f65b279f7e358ae3ad7948a64e6b7dfa91  manuscripts/Papyrus P106 (Sackler Library, P. Oxy. 4445) [P106].txt
+35341bff4a0d9f6b53f341a2e472429a0fd653bc59c4e0224158b7370fe528aa  manuscripts/Papyrus P107 (Sackler Library, P. Oxy. 4446) [P107].txt
+3826332c1dd41cf80ecc3397b33d0afe9fa9ed9343956a35ab3c82d7a3bbb2d2  manuscripts/Papyrus P108 (Sackler Library, P. Oxy. 4447) [P108].txt
+275e2a2c36437e30a18b4080deea13eeb5d5750146dece1c923b3c39d0103283  manuscripts/Papyrus P109 (Sackler Library, P. Oxy. 4448) [P109].txt
+345fdaf3fea61abdfd6a00a033c088db6a7ece9fffee1971975c4d89e887c426  manuscripts/Papyrus P11 (National Library of Russia, Ф. № 906 _Gr. 258) [P11].txt
+a698b938383fad51b68a38cbd0d570610869597c71ee403377e8a801098a5dd6  manuscripts/Papyrus P110 (Sackler Library, P. Oxy. 4494) [P110].txt
+d896e28013480f39a980aec7d3c55512fcd98ac23e50279076495ca7576aabd6  manuscripts/Papyrus P111 (Sackler Library, P. Oxy. 4495) [P111].txt
+2bea758b3d91d24cac1bac3594e761f83f92a9652bc5c2ad8c2e79fcfb077078  manuscripts/Papyrus P112 (Sackler Library, P. Oxy. 4496) [P112].txt
+34d000aff9427f1037d5d60d2cbdb0f62af7a46d4fbd0ea7bda2deb3ab2f3640  manuscripts/Papyrus P113 (Sackler Library, P. Oxy. 4497) [P113].txt
+c3815517f1b34415125383a0e949f44c935ab2395ba4ea333c7d3a2f5b81e287  manuscripts/Papyrus P114 (Sackler Library, P. Oxy. 4498) [P114].txt
+d7935d3decc02fe80cfb8d9fd103fd164fb40ba65728ca8ed9952d9e6d9e9ab8  manuscripts/Papyrus P115 (Sackler Library, P. Oxy. 4499) [P115].txt
+060d0dea48df7c193dfecf5cd35a0a9fcc528e58b6a306ab210e7f88a0e6a203  manuscripts/Papyrus P116 (Österreichische Nationalbibliothek, Pap. G 42417) [P116].txt
+1083c807c8c7a64646fb75bf105b83de70fc498f6132c770dd81ba8a75789c1d  manuscripts/Papyrus P117 (Staats- und Universitätsbibliothek, P. Hamb. Inv. NS 1002) [P117].txt
+8e42a99cd57f26c9a756f1d77bae5ee53d3156b371f43c8e217e855c01fae884  manuscripts/Papyrus P118 (Institut für Altertumskunde, Inv. Nr. 10311) [P118].txt
+ada7a2fc00c667307d105f5cb4799909100bed2c094c2fabf656b35c448bbf19  manuscripts/Papyrus P119 (Sackler Library, P. Oxy. 4803) [P119].txt
+915a879628bce5bc7f46be2b04591f8f775194e718ed23547742a168496db28a  manuscripts/Papyrus P12 (Morgan Library & Museum, Amh. Gr. Pap. 3) [P12].txt
+3b8bbd0eada045df3e7b6184e56dfafd1bef1c43ccb6eebd3bc1e0eb5cc6c97f  manuscripts/Papyrus P120 (Sackler Library, P. Oxy. 4804) [P120].txt
+abadfcb3ccf0e16d1c84402653a4c473710a788c773787f02a3273f27e6fa943  manuscripts/Papyrus P121 (Sackler Library, P. Oxy. 4805) [P121].txt
+a2009961be65db2281ea250ff4d377c4836f14c18e052a88548795cb0f496fcc  manuscripts/Papyrus P122 (Sackler Library, P. Oxy. 4806) [P122].txt
+6427e9800324437cb2ce0c48809751efdd552dcd73ac335aead135975aa8c222  manuscripts/Papyrus P123 (Sackler Library, P. Oxy. 4844) [P123].txt
+86e8e3b17987c8230e8dc47555728e6fe68b607ad640a80daef0ec8e6eeae95c  manuscripts/Papyrus P124 (Sackler Library, P. Oxy. 4845) [P124].txt
+45f83ffafc6c978a33df8c57f60c088e9ddecc0d65987c487d91f390e9701f9c  manuscripts/Papyrus P125 (Sackler Library, P. Oxy. 4934) [P125].txt
+75151144c2314c90748e1042b832a216d5868a51d29e32bf95bcb0df2eadb39f  manuscripts/Papyrus P126 (Istituto Papirologico , PSI inv. 1497) [P126].txt
+6b7a9f69d1411fdfd8fa0e80b1c22f485a226e85551e913735830103b4c1d8e9  manuscripts/Papyrus P127 (Sackler Library, P. Oxy. 4968) [P127].txt
+147c726dd807106bcd84bd50a55a850e8050c15f370245a2af2efa9cc1cef6df  manuscripts/Papyrus P128 (The Metropolitan Museum of Art, Inv. 14.1.527) [P128].txt
+1a76e471af14bc0cae6182636e7568ff5cf96c8a4c4cbee8ce6d4a2c347925ef  manuscripts/Papyrus P129 (Sackler Library, P.Oxy. inv. 106_116(d) + 106_116(c)) [P129].txt
+97b99cca8314b8a3a7bbbe219d0a0ac616417fea3c8297b884b35d4914bd2536  manuscripts/Papyrus P130 (Sackler Library, P. Oxy. inv. 513_5(b)) [P130].txt
+e5812b40389ced31799b665e0fffa41ef63f64bb919c09c538abf49ce9322dfc  manuscripts/Papyrus P131 (Romans; IGNTP) (Sackler Library, P.Oxy. inv. 29 4B.46_G(4-6)a) [P131].txt
+7cf0fd49ef47a3b66eb275c3b5ae90d4057b150226884dc2f5f704cd3e99d63d  manuscripts/Papyrus P132 (Sackler Library, P. Oxy. 5258) [P132].txt
+dbc128ec03c5edcae99c376450065878fb5f6077880e715764ad56146d2023b8  manuscripts/Papyrus P133 (Sackler Library, P. Oxy. 5259) [P133].txt
+2d04e5235821ddf8d568adc41f631617880e700658754aa273b5dddde3ab6803  manuscripts/Papyrus P134 (University of Texas Harry Ransom Center, s.n.) [P134].txt
+db3ac81f538008891aff50f5756f48cad53dc99dd9a3e5d864594dcadfcfa07c  manuscripts/Papyrus P135 (Galatians; IGNTP) (Coptic Museum, s.n.) [P135].txt
+86a8ddda3d56da39621268f9602235c88ca53f08d1ad6599fc5890e0ef7c40e7  manuscripts/Papyrus P136 (Duke University, David M. Rubenstein Library, P. Duke Inv. 1377) [P136].txt
+2b7ada71307f437e743f5e13592ba83ddd8f5db71cb9448308cb847b891ca645  manuscripts/Papyrus P139 (Sackler Library, P.Oxy. 5347 _ 83_66(b)) [P139].txt
+df8f14ab951dc3d653ba4179e49dd633e7249ff1dd595144118c561efc47b1cd  manuscripts/Papyrus P15 (Bibliotheca Alexandrina Antiquities Museum, BAAM 0543) [P15].txt
+d83611b699c2af606b818fe53f3ad1adac1b11e5e8d55b3fc96ced4bcac0e77c  manuscripts/Papyrus P16 (Bibliotheca Alexandrina Antiquities Museum, BAAM 0544) [P16].txt
+84cdd34643c76014d5cbfd7b3da23b8035e6b39a458dd8abe7719579c0c0545b  manuscripts/Papyrus P17 (Cambridge University Library, Ms. Add.  5893) [P17].txt
+7fb827dafaa11d6cd3457ee06c1b615a4a9304c08d0e2663e500ecf4acb11543  manuscripts/Papyrus P18 (British Library, Inv. Nr. 2053v) [P18].txt
+33cb005cac97f2980f0235551a1c4d70cbe974126f997affd868ca32247e722a  manuscripts/Papyrus P19 (Bodleian Library, Ms. Gr. bib. d. 6 (P)) [P19].txt
+5922f5c2e4c4328f3f600db4e3b3c9108d7cb71109d13f93e4242e468f1f5f2d  manuscripts/Papyrus P2 (Museo Egizio, Inv. Nr. 7134) [P2].txt
+bbe05ced61b0791a24a918cfdbd7a5fb790623b34b54d7c98d63a151987dbada  manuscripts/Papyrus P20 (Princeton University Libraries, AM 4117) [P20].txt
+8f7b525fb3e34481fffc4516c565068a52f34fa09dd8fd7336ea869098f11fc0  manuscripts/Papyrus P21 (Muhlenberg College, Pap. 3) [P21].txt
+0e7474dbfa2a814859bf2d7d53b0abbd00c4d1316de843d7f536dd9e8251758a  manuscripts/Papyrus P22 (University Library, Ms. Gen. 1026_13) [P22].txt
+9a5172fa07626dc867ccc9367874015a4efec214a601029ca65032480d00bd13  manuscripts/Papyrus P23 (Spurlock Museum of World Cultures at Illinois, 1914.21.0025 (P.Oxy X 1229)) [P23].txt
+d340f827d54f577f0d45b9027fdbd7e6456d1488a001072cdfa9b1a03b1d07b0  manuscripts/Papyrus P24 (Yale Divinity Library, RG 305 (Box 1, Folder 13) P. Oxy. 1230) [P24].txt
+6f0111e6192d6d83fcb1cca93594ca9fc7586712636055b9c1d400b616411ee9  manuscripts/Papyrus P25 (Staatliche Museen zu Berlin Preußischer Kulturbesitz, P. 16388) [P25].txt
+9b3887db3001ff6b9f0239472f9ac8edc511aeb866237f2e689efcf9cd3b0e9c  manuscripts/Papyrus P26 (Southern Methodist University Bridwell Library, Pap. 1) [P26].txt
+56acabf2a8f7d430be6c2c413ce913e00f9efba2c42aceaa6d48af3459ba4470  manuscripts/Papyrus P27 (Cambridge University Library, Ms. Add. 7211) [P27].txt
+d69a0b5c626ede3dd001e2521fca6df4f465f796c6c001e475aa427d16dca617  manuscripts/Papyrus P28 (Collection of Gifford Combs, Pap.2) [P28].txt
+4f1235b472a051467c8adc677b2888ef7ead7893d8338af6afe6b18989724cc1  manuscripts/Papyrus P29 (Bodleian Library, Ms. Gr. bib. g. 4(P)) [P29].txt
+27cbacb4a9046d855b0f84da1cc6de3c9935a0d398787d94c0d138282039a796  manuscripts/Papyrus P3 (Österreichische Nationalbibliothek, Pap. G. 2323) [P3].txt
+3123c7f91df39863c55d10e92e68f7c6242d1fd018c574ac20156b7f27cad076  manuscripts/Papyrus P30 (Ghent University Library, Inv. 61) [P30].txt
+541dbe45d8495e3f09d18d47e5a581b1b67efdb65cb948c84a53becbb64ea292  manuscripts/Papyrus P31 (John Rylands University Library of Manchester, Gr. P. 4) [P31].txt
+8cce524b7d41daae543add7109954d68a72388ceb3abed948ffcec38ffa3f67b  manuscripts/Papyrus P32 (John Rylands University Library of Manchester, Gr. P. 5) [P32].txt
+0998f82f98cdb026dc945d58028500f826e91a29b6673ec7ce53090f0e80b3fb  manuscripts/Papyrus P33 (Österreichische Nationalbibliothek, Pap. G. 17973) [P33].txt
+48ef993831d1385fbdf2e00d62e0b274392fa6969165f74aec3cb2885a20819a  manuscripts/Papyrus P34 (Österreichische Nationalbibliothek, Pap. G. 39784) [P34].txt
+5f52608e61149114e2da73ecee9bea294a2f36995e7f5bb353f964c3ce6f1560  manuscripts/Papyrus P35 (Biblioteca Medicea Laurenziana, PSI I 1) [P35].txt
+08b6153dcf0f50c090196d494477553d404c2a65b0dae3be45adc97717021e17  manuscripts/Papyrus P36 (Biblioteca Medicea Laurenziana, PSI I 3) [P36].txt
+69fecc51bc3073d263da3c5772d945d8b034109d9c13710b00db1bdf2ad4dc0b  manuscripts/Papyrus P37 (University of Michigan Library, Inv. Nr. 1570) [P37].txt
+2fe21f2e804938c4d64ec372110f8806029d715a6ffdbad9e0a073b46483b63e  manuscripts/Papyrus P38 (University of Michigan Library, Inv. Nr. 1571) [P38].txt
+5726df0ed9e7e0c8f33e51423da3606db90bfb07d118a749d11c00c1f78506c7  manuscripts/Papyrus P39 (Museum of the Bible, MOTB.PAP.000116) [P39].txt
+e98de589b1684f26fb64f248c0de7bb7e92ab581a118a89eb56b49a84f6bf982  manuscripts/Papyrus P4 (Bibliothèque Nationale, Suppl. Gr. 1120) [P4].txt
+7280ba60065803faf4a7642956faf72a807ec83c99087495fbd8a2e20826f3fa  manuscripts/Papyrus P40 (Institut für Papyrologie, P. Heid. Inv. G. 645) [P40].txt
+1b115474181d8e5f76cbdc05cbbb0bfd2b34b99e4d57528b04a9664a9e37e11c  manuscripts/Papyrus P41 (Österreichische Nationalbibliothek, Pap. K. 7377) [P41].txt
+35c8cb838617380fa66a869a2a6de7bb8beb540c107e97d362247c3cb3bbb9ae  manuscripts/Papyrus P42 (Österreichische Nationalbibliothek, Pap. K. 8706) [P42].txt
+ac2e4da4ede6d9538164c517cc49b5aba587acd3f2fd532738eb77c4594bc005  manuscripts/Papyrus P43 (British Library, Inv. Nr. 2241) [P43].txt
+19c786850ce701a88d1c1d951f66b4d55058264d5ba8cd10c13f3db2bce4ea25  manuscripts/Papyrus P44 (The Metropolitan Museum of Art, Inv. 14.1.527) [P44].txt
+850cdcf1ab985b0a81499b3677aa450b96717ed4555ecfddd6f35ce8e739ca46  manuscripts/Papyrus P45 (Chester Beatty Library, CBL BP I) [P45].txt
+00daef44f42eaee421aa43528cc48da93f2f2d7b31ac6224ed0fbd58a4fa187e  manuscripts/Papyrus P46 (Chester Beatty Library, CBL BP II) [P46].txt
+e532cb21c39013846a37a98966955b20b81cd0846a2ecc3408530040f7fd6eec  manuscripts/Papyrus P47 (Chester Beatty Library, CBL BP III) [P47].txt
+2555b8a8b6cd1d89d62af6c76cf29fde14032a4d7ea63ade412b27992b77b76a  manuscripts/Papyrus P48 (Biblioteca Medicea Laurenziana, PSI X 1165) [P48].txt
+0e8fb3101c50fd1985e35c996d713f5f4a0905754e05d01ef9a113dd5ca57a72  manuscripts/Papyrus P49 (Yale University Library, P.CtYBR inv. 415) [P49].txt
+63c926edc44d43962a740ba57384ff5d93e16cb2bfed2e0f58d95553adce3221  manuscripts/Papyrus P5 (British Library, Inv. Nr. 782) [P5].txt
+7d2562d5cf4bda922421fe89819c62374b805801afd92bf9e2b8beb06fd777d0  manuscripts/Papyrus P50 (Yale University Library, P.CtYBR inv. 1543) [P50].txt
+a8bd234520a72e562912e3b620e90b040f0a1bae378b5889fdf02ae866cb392f  manuscripts/Papyrus P51 (Sackler Library, P. Oxy. 2157) [P51].txt
+19885d19d48c389b1874d44f7e7f42721861b14eac49c44adf99dfee65e95ef7  manuscripts/Papyrus P52 (John Rylands University Library of Manchester, Gr. P. 457) [P52].txt
+9fba4477d9ea95e5279de2bc20542fd5626da936d7baaea80ea6a26a59bcf8c5  manuscripts/Papyrus P53 (University of Michigan Library, Inv. Nr. 6652) [P53].txt
+92a76751c698472f3f9a92b240c10c96299a5820992a1ed4a234f6c9d6840195  manuscripts/Papyrus P54 (Princeton University Libraries, P. Princeton 15) [P54].txt
+5ea8413a2b8c95ba9aceadc564168aafbd396142f9a8f0924af5130d787d2eef  manuscripts/Papyrus P55 (Österreichische Nationalbibliothek, Pap. G. 26214) [P55].txt
+7e31ba5263594b20c5fd93f15f7ee12fe90d3cedb77be627d84011fa4020c6a5  manuscripts/Papyrus P56 (Österreichische Nationalbibliothek, Pap. G. 19918) [P56].txt
+c6adaf76938867fb60a0bc4c274841cdebf35b14ef700e056dede34cfdc7c871  manuscripts/Papyrus P57 (Österreichische Nationalbibliothek, Pap. G. 26020) [P57].txt
+8d935974140221bc23e5bd6163f1082ef7441f57f15b5e712720f8fa8941c5e0  manuscripts/Papyrus P59 (Morgan Library & Museum, Colt Pap. 3.1-4) [P59].txt
+bb9742f496324951fbee6dfb2e11988d02084ae4cf66ccbcec7aa9e37ea11bac  manuscripts/Papyrus P6 (Bibliothèque nationale universitaire, P. Copt. 379, 381, 382, 384) [P6].txt
+dd8cfb8c449379220f87ca3559186b79b74c3803eb6d0bc3edaaa301ad5872d6  manuscripts/Papyrus P60 (Morgan Library & Museum, Colt Pap. 4.1-5) [P60].txt
+a139184634ca0c49a7a53ad2cf2a664b2c9320fdb41178a56dad861e0f4a3e9f  manuscripts/Papyrus P61 (Morgan Library & Museum, Colt Pap. 5.1-4) [P61].txt
+e4e0507399be8b52a97b27f49c0d47b2bbcb4fc5c67eef2dce2c832d35e37cf7  manuscripts/Papyrus P62 (University of Oslo Library , P. Osloensis 1661) [P62].txt
+1e9ba0369571286de7e0f4da94174ea32b6a1da49a76e15f0f800bfef8aa6854  manuscripts/Papyrus P63 (Staatliche Museen zu Berlin Preußischer Kulturbesitz, P. 11914) [P63].txt
+88e849c02781db8368b2aaa0bba263fc959954190bfc16209f8d39b703a964e0  manuscripts/Papyrus P64 (Magdalen College, Ms. Gr. 17) [P64].txt
+ee9db37c22c6338b3cd05a92821d0060e0a4a5445df192f7703342d1904873a3  manuscripts/Papyrus P65 (Istituto Papirologico , PSI inv. 2491) [P65].txt
+4f0423b9cc623ff2a51aafadb21d09a35760be88f7cf6696a6d95ca034dcf7d8  manuscripts/Papyrus P66 (Bibliotheca Bodmeriana, P. Bodmer II) [P66].txt
+9ddf9964a2dcd2565d1f0920babebbe816d9e0c0ef140dfa907e75fc5117dae0  manuscripts/Papyrus P68 (National Library of Russia, Ф. № 906 _ Gr. 258b) [P68].txt
+c9252c09af5ab133a3b5da8ef80cb12f8c52f2246d388b815b5f7321968b1e1a  manuscripts/Papyrus P69 (Sackler Library, P. Oxy. 2383) [P69].txt
+0890d0032fb045fe64d0e6828853bc0fd28a61ceacba32f718a42a039f8e38b3  manuscripts/Papyrus P7 (Vernadsky National Library , Ф. 301 (КДА) 553п) [P7].txt
+1a9860eb2870e5f3026de7b83e237fde6490258058678fbd55b4ef5c0753599d  manuscripts/Papyrus P70 (Istituto Papirologico , PSI inv. 3407) [P70].txt
+d19099ed97191914aded26827d507d6c31cff9b984132ee86ae0cb7fb1243195  manuscripts/Papyrus P71 (Sackler Library, P. Oxy. 2385) [P71].txt
+589a7385ec98bfbc0e2b6bb01ca2c2ef867b17882bea7d27e91b0068839b5087  manuscripts/Papyrus P72 (Bibliotheca Bodmeriana, P. Bodmer VII) [P72].txt
+e25e975272a159214965d28ec36e4b10034446d1b1fef50f4f1a8b933f430df3  manuscripts/Papyrus P73 (Bibliotheca Bodmeriana, P. Bodmer L) [P73].txt
+0197a436f8c0c2a4280e9d3eebe88b0f33d24aa1f23eb3035a5e0b4b205ca7c2  manuscripts/Papyrus P74 (Bibliotheca Bodmeriana, P. Bodmer XVII) [P74].txt
+0e9cb4263d62eb7887e5a46e7624bdc57dca971743f95133f8c345f95c447bb3  manuscripts/Papyrus P75 (Biblioteca Apostolica Vaticana, Pap. Hanna.1 (Mater.Verbi)) [P75].txt
+af16d3b4ef174bd2b042005c07d96261671c1fba44e0da21a74412a7f8df249d  manuscripts/Papyrus P76 (Österreichische Nationalbibliothek, Pap. G. 36102) [P76].txt
+0f9d1115b81368feed365fefc656752864e481e8f3d3c75800ff7a70fe960600  manuscripts/Papyrus P77 (Sackler Library, P. Oxy. 2683) [P77].txt
+39aa21a84a1e9c85cc9a2f3e1027a88c7e53e46c901dd0cc06d5fc34ab2e8dd3  manuscripts/Papyrus P78 (Sackler Library, P. Oxy. 2684) [P78].txt
+f8ef3018549e850d32be60c0dacd59a555a0b1d77d7c1f936e600b0f14544db4  manuscripts/Papyrus P79 (Staatliche Museen zu Berlin Preußischer Kulturbesitz, P. 6774) [P79].txt
+68495b127d160036b245fc73b8a4076eb661159cc2d7fedc115d80cf1ef0b1e0  manuscripts/Papyrus P8 (Staatliche Museen zu Berlin Preußischer Kulturbesitz, P. 8683) [P8].txt
+cad2c6e36ead6c05381caaae1e7b2fea19337b0cd940e16817d17a7ee608d9ec  manuscripts/Papyrus P80 (Abadia de Montserrat, P. Monts.Roca inv. no 83) [P80].txt
+75a4a0069407228db1f28fd58ac7373946c15202725dba071f5cf79c2dc47176  manuscripts/Papyrus P81 (S. Daris, Nr. 20) [P81].txt
+a0a02fce5c8e62183e6df7185dff09a55118c2979e6e8762bfacec43675fbdc6  manuscripts/Papyrus P82 (Bibliothèque nationale universitaire, P. Gr. 2677) [P82].txt
+eaff968ef553c1981b0adf27cd3a53202906466aac2989fc2426f63d25f285d0  manuscripts/Papyrus P83 (KU Leuven Libraries, P.A.M. Khirbet Mird 16, 27) [P83].txt
+3bf30088553cd18b6043da5938229982fa775e57bb7dc1bf5172a7f45b4340e3  manuscripts/Papyrus P84 (KU Leuven Libraries, P.A.M. Khirbet Mird 4, 11, 26, 27) [P84].txt
+c9f956aec6c34c9d74fb3408dc371766e7932808b0f2da74ec0491a4eb0c5264  manuscripts/Papyrus P85 (Bibliothèque nationale universitaire, P. Gr. 1028) [P85].txt
+d004ea4871924b9db1886a6729d1639ceaa757076108ea9662a765d371f5ce79  manuscripts/Papyrus P86 (Institut für Altertumskunde, Inv. Nr. 5516) [P86].txt
+4362c2a88b06e712fde8b49236412423ac1275561f0cae866fcf1e2f904a8cca  manuscripts/Papyrus P87 (Institut für Altertumskunde, Inv. Nr. 12) [P87].txt
+606df780ae0f32fcba4dac769ba7e258d566e5df0e9990eb51957d93ce16fb52  manuscripts/Papyrus P88 (Università Cattolica del Sacro Cuore, P. Med. Inv. Nr. 69.24) [P88].txt
+076f6795e69c43b56fd5bfe914ebd3025831655f528bc8ad94684304b730e079  manuscripts/Papyrus P89 (Biblioteca Medicea Laurenziana, PFlor. 292 (PLaur. IV 142)) [P89].txt
+0c4c29491bcafce625c2e887ea9d2f9416abc42ed2dc956b44376dc46483c8a3  manuscripts/Papyrus P9 (Houghton Library, Harvard University, MS Gr SM3736) [P9].txt
+32488c140bf07ca669f4ee4ded572b9c0422b336f3ab5f4003dbc6d98cf36a0d  manuscripts/Papyrus P90 (Sackler Library, P. Oxy. 3523) [P90].txt
+2caf1e3ea3d1c666fc7597e9fb5e0f400b53d4f3a4df74a81d76d5a67e0a57b4  manuscripts/Papyrus P91 (Macquarie University, Inv. 360) [P91].txt
+aac324247ea967a689438d7f131504fea4a953aae024ceb04310e0015f133417  manuscripts/Papyrus P92 (The Egyptian Museum, P. Narmuthis inv. 69.39a+69.229a) [P92].txt
+06c50b861242912d33384222d4c9e64a4c37e626549a8e681b42572661c45663  manuscripts/Papyrus P93 (Istituto Papirologico , PSI inv. 108) [P93].txt
+9611d9f947ebdfe1969055cbd03eb109f44df6c5bd5a9125ceefb63366a6f052  manuscripts/Papyrus P94 (The Egyptian Museum, P. Cair. 10730) [P94].txt
+82d128ccd2cfd5abec203a4118c8b77bcaae97305476653179135c9ff2be8185  manuscripts/Papyrus P95 (Biblioteca Medicea Laurenziana, PL II 31) [P95].txt
+0e030e64eaf85414b9096902dd18ad134245f0ff5bb5fb230dda8373ec6a3a5b  manuscripts/Papyrus P96 (Österreichische Nationalbibliothek, Pap. K. 7244) [P96].txt
+f6ef3596a1712f1537c90ddb92386210597181705b450661e88b2d4b80e1a48e  manuscripts/Papyrus P97 (Chester Beatty Library, CBL BP XVII) [P97].txt
+2f59c5e79db5dacccae61c7e47718c9aca71a323c115f1378d71ff70ae5ce1b4  manuscripts/Papyrus P98 (French Institute for Eastern Archaeology, P. IFAO inv. 237b) [P98].txt
+96086635d239542f179c3bb3f44e5b8fd8a38ab828663ff4caf4a8f15babb6b8  manuscripts/Uncial 01 (British Library, Add. 43725) [01].txt
+c51b3041c01cb4d30cf7e442364b4898cdf545faf1effd5138bbe84cd2b9aff5  manuscripts/Uncial 010 (Romans, Galatians, Ephesians, Philippians, Colossians, Philemon; IGNTP) (Trinity College, B.17.1) [010].txt
+f11b7beabedd18a8a9fd2023bb1317ed1f4b98fabfd415412b78f89f7cdf23f6  manuscripts/Uncial 0101 (John; IGNTP) (Österreichische Nationalbibliothek, Pap. G. 39780) [0101].txt
+8dfbd4e57065cb06663f7b42a16bd4ebbd5de4a3051f0d1e1870292a4cc2121f  manuscripts/Uncial 0103 (Bibliothèque Nationale, Suppl. Gr. 726, fol. 6.7) [0103].txt
+977b8bc04ee7aed0d297cb9a3f70a59a543a3fb9eb79b8d9899a7c7084346fac  manuscripts/Uncial 0105 (John, Colossians; IGNTP) (Österreichische Nationalbibliothek, Suppl. gr. 121) [0105].txt
+230cd14774fb072c9f7979dc6e863c1c7081db04fffef7cfc583eb74d5db5f0f  manuscripts/Uncial 0109 (John; IGNTP) (Staatliche Museen zu Berlin Preußischer Kulturbesitz, P. 5010) [0109].txt
+dba4d37428027972d827265f93130dda38f0fadcb87b4d69c752673e29b6da65  manuscripts/Uncial 012 (Romans, 1 Corinthians, Galatians, Ephesians, Philippians, Colossians, Philemon; IGNTP) (Sächsische Landesbib.txt
+99f2811607c4acb36f5aa69c2ea5b84976c688ed144d04999eab5b52689c994f  manuscripts/Uncial 0120 (Biblioteca Apostolica Vaticana, Vat. gr. 2302, p. 65. 66.       69-72. 75. 76. 79-94) [0120].txt
+b611a458d7a992ac1951fa67654fbd94ec697a6011a3a0118ae87ea9fef2738f  manuscripts/Uncial 0121 (1 Corinthians; IGNTP) (British Library, Harley, 5613_) [0121].txt
+d2ed39f0264cd6077419fee53c11133d371c4d797863c09203892c256bf260a5  manuscripts/Uncial 0122 (Galatians; IGNTP) (National Library of Russia, Ф. № 906 _ Gr. 32) [0122].txt
+0c1693965ce58f106796e252db256aef3b10284ff17a76328072e4886fbc1b1c  manuscripts/Uncial 0127 (John; IGNTP) (Bibliothèque Nationale, Copt. 129,10, fol. 207) [0127].txt
+066baf60542d107090e26d5aad1c0dab9cf661ca4f712ee99224ced16ebd41dc  manuscripts/Uncial 013 (John; IGNTP) (Staats- und Universitätsbibliothek, In Scrin. 91) [013].txt
+db5fdfd8b996c75b268dc7f0eb2a722ee4262440630ba9f13f0970db2f2e2642  manuscripts/Uncial 0130 (Stiftsbibliothek, Cod. Sang. 18, p. 143-146; Cod. Sang. 45, p. 1-2) [0130].txt
+4d63319dcd6827648ccf57001de143de004de6d72615b9d5f04e3d372b557f71  manuscripts/Uncial 0131 (Trinity College, B.08.05A) [0131].txt
+bc76d9b4373d4b0aeb92741fe7a82423d4b33bf05e4db3027a13a9eb165b5028  manuscripts/Uncial 0136 (National Library of Russia, Ф. № 906 _Gr. 281) [0136].txt
+137bd6585e331108358aea55b2bcb797e6eb4c5696a59255a6d17251221bc74d  manuscripts/Uncial 0140 (Saint Catherine's Monastery, Harris App. 41) [0140].txt
+1c500707acd539aedde695d06e19cbee7fa6546c67da8948fd5a2e9846b5876a  manuscripts/Uncial 0141 (John; IGNTP) (Bibliothèque Nationale, Gr. 209) [0141].txt
+53755a385bc93400b19c2e70371e7dcfad4b9236be7ce243579537f5835153c4  manuscripts/Uncial 0142 (Bayerische Staatsbibliothek (BSB), Cod. graec. 375) [0142].txt
+8166578c3374ec4485b8e5f8bd28fc1945d2d7e6e711b0f30e323ebd066c2d10  manuscripts/Uncial 0145 (John; IGNTP) (Zuletzt_ Damascus, (früher_ Damascus, Qubbat al-Khazna)) [0145].txt
+6d694d716a44595ac00775ddb206d3d8c9995d767204420e21c08d2219535061  manuscripts/Uncial 015 (1 Corinthians, Galatians, Colossians; IGNTP) (Great Lavra Monastery, s.n.) [015].txt
+802da3d36c9377da06c00c851c0b301e24352bdf44d290e8216585a96c50dc00  manuscripts/Uncial 0150 (Romans, 1 Corinthians, Ephesians, Philippians, Colossians, Philemon; IGNTP) (St. John the Theologian Monast.txt
+b4bc50f8df5231d305f2be2f0a40ba0dfedfd37e68986a8d143ee7be6426456d  manuscripts/Uncial 0151 (Galatians, Ephesians; IGNTP) (St. John the Theologian Monastery, 62.0) [0151].txt
+8d97ad447181d89bcfbcc269f9d0afd9e97b3ae9e0745395c8cbff1b9c8eedec  manuscripts/Uncial 0158 (Galatians; IGNTP) (Zuletzt_ Damascus, (früher_ Damascus, Qubbat al-Khazna)) [0158].txt
+7fa0ebe5ece281dcba378bd780aeb6b47bc1fcbd4ddc6889786254ad1b143232  manuscripts/Uncial 0159 (Ephesians; IGNTP) (Zuletzt_ Damascus, (früher_ Damascus, Qubbat al-Khazna)) [0159].txt
+51fe0a665d771de3bac958ed453f8f14c24579d88b71893c402a64b977a3321c  manuscripts/Uncial 016 (1 Corinthians, Galatians, Ephesians, Philippians, Colossians, Philemon; IGNTP) (Smithsonian Institution, Fre.txt
+5bb873c8b1a7d76826f12f87dcbaedcae6c611e3c0bd8997a2458a98bb5ca5c6  manuscripts/Uncial 0162 (The Metropolitan Museum of Art, Inv. 09.182.43 (P. Oxy. 847)) [0162].txt
+26fd0fc33420964720152da4dbf03e5c9bafeebfdbabab9028a2887370ac762d  manuscripts/Uncial 0165 (Staatliche Museen zu Berlin Preußischer Kulturbesitz, P. 13271) [0165].txt
+dd857fab523f53ca768602ddf920010f5ac521d66d9550763a8c8826bc12ec72  manuscripts/Uncial 0166 (Institut für Papyrologie, P. Heid. Inv. G 1357) [0166].txt
+81d12a869cdb8309b099554a2cda2878ac0f780a46ff424e654ce6d224387bdf  manuscripts/Uncial 0167 (Great Lavra Monastery, Δ 61) [0167].txt
+1a2d6130ecc8831ff8db12aa330db3c3d08b4cfbbd8189498e90d8bc4b483879  manuscripts/Uncial 0169 (Princeton Theological Seminary , Pap. 5 (P. Oxy. 1080)) [0169].txt
+cbd704a736a7931d94c40c49d7e906ce17d89f5a978181fb44549fff4e7e0742  manuscripts/Uncial 0170 (Princeton Theological Seminary , Pap. 11 (P. Oxy. 1169)) [0170].txt
+b1fe1eea45b2c1773400b462c665a344758b0e1d5f89aabbaa055ae79123c12c  manuscripts/Uncial 0172 (Romans; IGNTP) (Biblioteca Medicea Laurenziana, PSI I 4) [0172].txt
+97081d9333970ffdfc684bf2f4f065e169cb514c783bc141bf33b4a6f9dbaca7  manuscripts/Uncial 0174 (Galatians; IGNTP) (Zuletzt_ Italy, (früher_ Biblioteca Medicea Laurenziana PSI II 118)) [0174].txt
+d51b183b8a3c02b9994dbc0f97177bd0df9eaf4068827bcbac18c2b4b82fa892  manuscripts/Uncial 0175 (Biblioteca Medicea Laurenziana, PSI II 125) [0175].txt
+6d7a4a7b9233add96b11fc963bba19b0073cac8cd9fc65ae72217f81c1e260e0  manuscripts/Uncial 0176 (Galatians; IGNTP) (Biblioteca Medicea Laurenziana, PSI III 251) [0176].txt
+cd57344245cdbe1052dbf0dcd2ac65ef9e38e5366c820ccadf928e06070c8b63  manuscripts/Uncial 018 (John, Romans, Galatians, Ephesians, Philippians; IGNTP) (State Historical Museum, Sinod. gr. 97 (Vlad. 093)).txt
+059bc9a9fe670d2b703c7a7ae67d485c35a0b136e7b747b67763f49d2a5157d5  manuscripts/Uncial 0184 (Österreichische Nationalbibliothek, Pap. K. 8662) [0184].txt
+e8afb3547d2a935764edb7dfc67a4c4650070c1c62e14b64e81ed5a8cac9697b  manuscripts/Uncial 0185 (1 Corinthians; IGNTP) (Österreichische Nationalbibliothek, Pap. G. 39787) [0185].txt
+654dff2206ec37a8b6679983e93531169fd2b648cf09706a0ae3614d1abd5ff1  manuscripts/Uncial 0187 (Institut für Papyrologie, P. Heid. Inv. G. 1354) [0187].txt
+05dbdf76e6494d6f27f346be4ed6de90592c60f71808ec8e2145a2c19c075ab6  manuscripts/Uncial 0188 (Staatliche Museen zu Berlin Preußischer Kulturbesitz, P. 13416) [0188].txt
+c66f9a6bcf119e76b751c47ff278395bf27b60bfbe76fc11620cde577ae89b49  manuscripts/Uncial 0189 (Staatliche Museen zu Berlin Preußischer Kulturbesitz, P. 11765) [0189].txt
+77f56c3941304ccd9f479ba6f90e6d2f87d61e3b2c676fd217730bc6b71a84f1  manuscripts/Uncial 0198 (Colossians; IGNTP) (British Library, Pap. 459) [0198].txt
+5c0c219488d8262986d129e9bb799eab8d5c0600e3d1bfe7c961fb26d20c7791  manuscripts/Uncial 0199 (1 Corinthians; IGNTP) (British Library, Pap. 2077 B) [0199].txt
+b1c155213ce294dc366e75a5af863f14482d8af8e7977534a1f8da9e7f6957dc  manuscripts/Uncial 02 (British Library, Royal 1 D.VIII) [02].txt
+29549e5de8ecbde622054b342b30c42b68a8d45b8a21923b71e14ba6fa292857  manuscripts/Uncial 0201 (1 Corinthians; IGNTP) (British Library, Pap. 2240) [0201].txt
+a3c904fe88d95d4badf271d70941d86bff935cb698ceda238015e378e646c635  manuscripts/Uncial 0207 (Biblioteca Medicea Laurenziana, PSI 1166) [0207].txt
+b9ce2b32a2b36010b6559e84ee3cdc042f373c7fde9fbd63f36b1ba77b559bee  manuscripts/Uncial 0208 (Colossians; IGNTP) (Bayerische Staatsbibliothek (BSB), Clm 29 418 (1)) [0208].txt
+fff0e296db0b9e05a02fe2ae0a101630f431c8a329fd049396fa62f539bff163  manuscripts/Uncial 021 (John; IGNTP) (Bibliothèque Nationale, Gr. 48) [021].txt
+407b0fbc94379b31037c0a0612df342fee55555f0704226270363068cee22ae5  manuscripts/Uncial 0210 (John; IGNTP) (Staatliche Museen zu Berlin Preußischer Kulturbesitz, P. 3607.3623) [0210].txt
+8fb2473e96da93e3384f47f3d98114506f5c1986b54c2345063b3fa9b7447ab0  manuscripts/Uncial 0211 (National Center of Manuscripts, Gr. 27) [0211].txt
+05a4dfece809913f4e8cb44ad1280f1d3ba1e5fc5582fbb17e5a9961df6d66ef  manuscripts/Uncial 0216 (John; IGNTP) (Österreichische Nationalbibliothek, Pap. G. 3081) [0216].txt
+d43b914904277538a1b798b07edc89fe7f019402df8a47a05232fa85bda0c69a  manuscripts/Uncial 0217 (John; IGNTP) (Österreichische Nationalbibliothek, Pap. G. 39212) [0217].txt
+8bacb5993248d76bcc87e769947cd9847c79948cf70cd54c0af1eec9ebec0c45  manuscripts/Uncial 0219 (Romans; IGNTP) (Österreichische Nationalbibliothek, Pap. G. 36113 u. 26083) [0219].txt
+a72373a0740bb54d31fe5de3b287a866867c73b244704dba861421390ed09dfb  manuscripts/Uncial 0220 (Romans; IGNTP) (Museum of the Bible, MOTB.MS.000566) [0220].txt
+306bce38b0eda8ce6a02d1d512f283618aae55d985b62de0bb005860cc192420  manuscripts/Uncial 0221 (Romans; IGNTP) (Österreichische Nationalbibliothek, Pap. G. 19890) [0221].txt
+6b90239684904dd0ca82173c24fa5e21da7746f13ba73f74bbfb4688cdec175e  manuscripts/Uncial 0222 (1 Corinthians; IGNTP) (Österreichische Nationalbibliothek, Pap. G. 29299) [0222].txt
+bec554ec103a1a020e10baa23ad6e607dfda571f840ec2f8ecf1082611299506  manuscripts/Uncial 0230 (Ephesians; IGNTP) (The Egyptian Museum, SR 3796 25_1_55_2 (21)) [0230].txt
+b9c06e0cbe18be117b5c2b93e4219fe9736b85427dcce2e82c6b6a24f491795c  manuscripts/Uncial 0232 (Sackler Library, P. Ant. 12) [0232].txt
+c64ba047a5c8bf8036bd446921ff644162928678c59c9f0844124163280a2e2c  manuscripts/Uncial 0233 (Bibelmuseum, Ms. 1 (untere Schrift)) [0233].txt
+85655abe1f7ebfbc756df0092965c204d192ddfe8b5a1cd30943d702560ca57c  manuscripts/Uncial 0234 (John; IGNTP) (Zuletzt_ Damascus, (früher_ Damascus, Qubbat al-Khazna)) [0234].txt
+71d2acc5cf887c7c3b3f4313f27310aec72fa88d9b6646b1d79ab8987addcf28  manuscripts/Uncial 0236 (Pushkin State Museum of Fine Arts, I.1.b.681 (5409, Copt. 55)) [0236].txt
+4a3783c45f75ea0ca5dc8714ed2d7481611fb9ca94c9505e6444c3d2dd03aec6  manuscripts/Uncial 0238 (John; IGNTP) (Österreichische Nationalbibliothek, Pap. K. 8668) [0238].txt
+6b9146f02f66f9d506f76d382ad2b129cd1215b4a71cc720c636c423c21e6680  manuscripts/Uncial 0243 (1 Corinthians; IGNTP) (Biblioteca Nazionale Marciana, Gr. II,181 (983)) [0243].txt
+37066b1b08582cf4ba9ec8d998c59c6ac38f29d7fd729c39acb024261d44e31a  manuscripts/Uncial 0244 (KU Leuven Libraries, P.A.M. Khirbet Mird 8) [0244].txt
+156423de8ee5623a8ba4d67f5b17be60e1f47aa1e244df7fd1c3e0de0b770a42  manuscripts/Uncial 0245 (University of Birmingham Cadbury Research Library, Mingana Georg. 7) [0245].txt
+0110e5282288466201d5c57d99abb312f5a0a009057af25f3fbcad3e4c113831  manuscripts/Uncial 025 (Romans, 1 Corinthians, Galatians, Ephesians, Philippians, Colossians, Philemon; IGNTP) (National Library of .txt
+4c0b740bbd127217df842266cb1f0c2f908f9ee8aa2dd27b604597490b379f21  manuscripts/Uncial 0250 (Museum of the Bible, MOTB.MS.000149.1-.86) [0250].txt
+9e6e12fcf6cebd42ff50f25fb80ee6a9ce80cef504cabd6be4d88402894903b3  manuscripts/Uncial 0251 (Musée du Louvre, s.n. 121) [0251].txt
+1df6ac55ee333a02fe9acd952e75774343f12b99fc5362cd7666ce070e052603  manuscripts/Uncial 026 (John; IGNTP) (Herzog August Bibliothek, Cod. Guelf. 64 Weiss, fol. 194-201.299. 302-304.311) [026].txt
+527824023b288dc9ee37ed0b141dc820f48c5e46d60ca3696a166880faa65457  manuscripts/Uncial 0260 (John; IGNTP) (Staatliche Museen zu Berlin Preußischer Kulturbesitz, P. 5542) [0260].txt
+92389ce388c6bf1880608f6c242b19094521893a20a43d5b75916347f24ec440  manuscripts/Uncial 0264 (John; IGNTP) (Staatliche Museen zu Berlin Preußischer Kulturbesitz, P. 14049) [0264].txt
+e66d5d05a9d3578431fc8a115d413053e8e453f2ed2e1d2ae1352106c25d80b5  manuscripts/Uncial 0268 (John; IGNTP) (Staatliche Museen zu Berlin Preußischer Kulturbesitz, P. 6790) [0268].txt
+c6d21296c202fc0ceb5a4c29f48201a66de178f0409bf6de5c7ae80eacdcce26  manuscripts/Uncial 0270 (1 Corinthians; IGNTP) (University Library, GX 200) [0270].txt
+3faeec3e3479ca9df88f189f46968a77b8fdb4c22502cf20bbfdcdb04c158586  manuscripts/Uncial 0274 (Coptic Museum, 6569_6571) [0274].txt
+408c4593a1826ddbbfe09bf74ef6094d876d7b414e896914f7239b03fc6b502d  manuscripts/Uncial 0278 (Romans, 1 Corinthians, Galatians, Ephesians, Philippians, Colossians, Philemon; IGNTP) (Saint Catherine's M.txt
+7c7f62475dd479b379b43e3eb89453897d5888a042b6ecae20595a13f3056f7c  manuscripts/Uncial 028 (John; IGNTP) (Biblioteca Apostolica Vaticana, Vat. gr. 354) [028].txt
+0b1d5f7694c302b5e7fc2cf07fa09382c4db2d1c9c3f32ff4e343cbe540b99a0  manuscripts/Uncial 0281 (Saint Catherine's Monastery, N.E. MΓ 29) [0281].txt
+f279061beaa9f9fe8216ce7d7dc53316df1e975645e483bee0327cdf9fa73901  manuscripts/Uncial 0282 (Philippians; IGNTP) (Saint Catherine's Monastery, N.E. MΓ 29a) [0282].txt
+0ce991814909b3c50122211626d99c3024379ee4c1062bf43c3aef8b2b26d491  manuscripts/Uncial 0285 (Romans, 1 Corinthians, Ephesians; IGNTP) (Saint Catherine's Monastery, N.E. ΜΓ 070) [0285].txt
+535b7ff81713846abb5e2cf53b686240ea5cb6a7756d9e5033e1b20ce1fc21ef  manuscripts/Uncial 0286 (John; IGNTP) (Saint Catherine's Monastery, N.E. MΓ 72) [0286].txt
+b6cf9a0212a63153457ce2b2456f62a73322b939f8f2ade6ea0a4b604c2f09b9  manuscripts/Uncial 0289 (Romans, 1 Corinthians, Philippians, Colossians; IGNTP) (Saint Catherine's Monastery, N.E. MΓ 99) [0289].txt
+870277ea455686d892cb8b2cd2da6ea73c965ecb6d225e12c407dfdb551496b4  manuscripts/Uncial 029 (John; IGNTP) (Morgan Library & Museum, MS M. 664A) [029].txt
+c8ebda5f7e1710c5de997a9fe635907968e0b8a7328953fbec4253cca4122813  manuscripts/Uncial 0290 (John; IGNTP) (Saint Catherine's Monastery, N.E. MΓ 102) [0290].txt
+71e44c9fc79d38cdfa0ec70c9f7913c91ce6d66b52fcbeace187415b8ba5fc0e  manuscripts/Uncial 0292 (Saint Catherine's Monastery, Ν.Ε Σπ. MΓ 2-4) [0292].txt
+01d6d3596ea50319f09e1f4d72e05c6e99c0f07c842e4609d3ad965ecbef7c42  manuscripts/Uncial 0294 (Saint Catherine's Monastery, Ν.Ε Σπ. MΓ 16) [0294].txt
+328ef1b8bbec8a376197b2bf73872c4556908b432e87e6c6276c4c46ca0dec7f  manuscripts/Uncial 0296 (Saint Catherine's Monastery, Ν.Ε Σπ. MΓ 48, 53, 55) [0296].txt
+de382d3b25c16fb8aacfea4c279c020d07ba46858bfbc07670e17eadd44a831a  manuscripts/Uncial 0299 (John; IGNTP) (Bibliothèque Nationale, Copt. 129,10, fol. 199vo) [0299].txt
+51b51186a2a53cc5f6944812e025349ad99bdd82bba54501a7a1a894b224ef36  manuscripts/Uncial 03 (Biblioteca Apostolica Vaticana, Vat. gr. 1209, p. 1235-1518 (p. 1519-1536_ GA1957)) [03].txt
+e3bb255005848f5395892f281e1bd17c40c85db408162278771d20c65c5bc313  manuscripts/Uncial 030 (John; IGNTP) (Biblioteca Nazionale Marciana, Gr. I,8 (1397)) [030].txt
+afc179f91f9d96b00822e9471cb1a6cfc9a671bd749205c656a29381c0abde4f  manuscripts/Uncial 0301 (The Schøyen Collection, MS 1367) [0301].txt
+4ace56400c745d2851a771cc3d43d1f75df80baf37077f0895fe52c166a2c976  manuscripts/Uncial 0304 (Bibliothèque Nationale, Gr. 1126, fol. 160) [0304].txt
+11488c3f6b523d86366f2efac8b85d5a68aa1f7cfc843153a621e0971971371d  manuscripts/Uncial 0306 (John; IGNTP) (Bodleian Library, Ms. Selden Supra 9, fol. 114-120) [0306].txt
+6c0669b981c5b54a03e2a93d84e2bf714b6665a8511c404fb89edab8f184da29  manuscripts/Uncial 0308 (Sackler Library, P. Oxy. 4500) [0308].txt
+81308fb1e6ee5c3b32a419772cd92e8cbba7db6cfa0e191152d60628603d1955  manuscripts/Uncial 0309 (Institut für Altertumskunde, P. Köln, Inv. 806) [0309].txt
+63d2564dc7170a72237de3c649c93b5d18afa5b21a2b94684d7f57fe376bd964  manuscripts/Uncial 031 (John; IGNTP) (State Historical Museum, Sinod. gr. 399 (Vlad. 009)) [031].txt
+7933168a3c49c25946baecdc36463d68492bb2a15a5649f123f2d102154440bd  manuscripts/Uncial 0311 (Romans; IGNTP) (De Hamel Collection, de Hamel MS 390) [0311].txt
+bfb3e1b7b1da94b34f6bd30fa282c2970f76d6f1af927ccff942c9673db9810f  manuscripts/Uncial 0319 (Romans, Galatians, Ephesians, Philippians; IGNTP) (National Library of Russia, Ф. № 906 _Gr. 20) [0319].txt
+1729a18f5eae443ef262a34bb6d885852e74c2ea9390b7d081e1288afe1bf214  manuscripts/Uncial 032S (John; IGNTP) [032S].txt
+89e960eafe24909a3a4878681b5875217fe0b16a736de348938ddc4a61e882d7  manuscripts/Uncial 034 (John; IGNTP) (Cambridge University Library, Ms. Add.  6594) [034].txt
+d4aa2f2cd5e9b3a8698964aa4c48209e35a3bcb8f7c0489c34d62e25b40279e5  manuscripts/Uncial 036 (John; IGNTP) (Bodleian Library, Ms. Auct. T. inf. 2. 2) [036].txt
+448486d7232fc0b273f55442ae791be186ae0302b589443173e4d3f6088af702  manuscripts/Uncial 037 (John; IGNTP) (Stiftsbibliothek, Cod. Sang. 48) [037].txt
+b83d52b7ba2ca160ad6e2f471b84d1e0a7c60e6915e4bc90afadc47829873ae0  manuscripts/Uncial 039 (John; IGNTP) (Bodleian Library, Ms. Auct. T. inf. 1. 1) [039].txt
+f94ee55320bcab23d08f2cad7bc5a4f391d16ca4f86d467f788f42e5eddbd86f  manuscripts/Uncial 04 (John, Romans, 1 Corinthians, Galatians, Ephesians, Philippians, Colossians, Philemon; IGNTP) (Bibliothèque Na.txt
+9c4b4de24203d7d38966aebe64dec5720fe567dcc639e7cf08309c82f061c3be  manuscripts/Uncial 045 (John; IGNTP) (Dionysiou Monastery, 55 (früher 10)) [045].txt
+22b95ae631f82cb0438beaecb0266112cc59c0b8e306aa92c6058d3d719b0fcb  manuscripts/Uncial 047 (John; IGNTP) (Princeton University Libraries, Garrett Ms. 1) [047].txt
+c00744e2cf95fd8cfe7487715faac5372688d105c126bca6bb4c7602b0036cef  manuscripts/Uncial 048 (Romans, 1 Corinthians, Ephesians, Philippians, Colossians, Philemon; IGNTP) (Biblioteca Apostolica Vaticana,.txt
+5c0e7683666ecb38ecc8c4cf380e45bf67ab8f0f9644b95e552dd1961fbf0191  manuscripts/Uncial 05 (Cambridge University Library, Ms. Nn. 2.41) [05].txt
+f067d653b3d443c7fd7f2e6bf8f2741d41303c9105ffd4ed073737bd7e18077d  manuscripts/Uncial 054 (John; IGNTP) (Biblioteca Apostolica Vaticana, Barb. gr. 521, fol. 1-6) [054].txt
+d09bdcbed12ccea2c3428e57ebca1a3528a8da2115e654d1505fcbae757b616d  manuscripts/Uncial 056 (Galatians, Ephesians; IGNTP) (Bibliothèque Nationale, Coislin Grec 26) [056].txt
+93a72e6f6f9e16fad0325fa7d78a8260cfdc82533503636c978cfea4db3a5a5c  manuscripts/Uncial 05S (John; IGNTP) [05S].txt
+de4e091acca2f831ff4da0091495ad376c0bc9c50775935d3ca4f9ec9747612c  manuscripts/Uncial 06 (Romans, 1 Corinthians, Galatians, Ephesians, Philippians, Colossians, Philemon; IGNTP) (Bibliothèque National.txt
+f80c947150af16226789c5903d6c1cd1755f5de1a35bbcfc773d74cc0619bf51  manuscripts/Uncial 060 (John; IGNTP) (Staatliche Museen zu Berlin Preußischer Kulturbesitz, P. 5877) [060].txt
+62e0c2d538d5d113adebd45fa43ede561efa2f5ea9ed4a28cbbd7d4d859f0f87  manuscripts/Uncial 062 (Galatians; IGNTP) (Zuletzt_ Damascus, (früher_ Damascus, Qubbat al-Khazna)) [062].txt
+9d42d0fd2297e32ed218456d64468fb954d509241e6a292de291e1cd9fe5f14f  manuscripts/Uncial 063 (John; IGNTP) (Vatopedi Monastery, 1219, fol. 40-52,63) [063].txt
+8123fe385e68e6fd12181e9d9954c748ed38b34b2e1312a7fcd8e986e14d1581  manuscripts/Uncial 065 (John; IGNTP) (National Library of Russia, Ф. № 906 _ Gr. 6 I, fol. 1-3) [065].txt
+b237bbe484f83ae8efb30e30c117892a1fb98339bd3e1564c36c4e57d980f285  manuscripts/Uncial 068 (John; IGNTP) (British Library, Add. 17136, fol. 117.126) [068].txt
+f3e17fd430850d4c6a52ae5c1b67b0bc9f633c683523aa12436d3aa3e6f62697  manuscripts/Uncial 06S (1 Corinthians; IGNTP) [06S].txt
+0bff5a367ec34b1c64d2dd1464ba0c4bf0331c15459d5f33e3767bf888f0099a  manuscripts/Uncial 07 (John; IGNTP) (Universitätsbibliothek, AN III 12) [07].txt
+383314b6cc153fd322b1887471e4d8318260dd49de6d7ed2c74a3751d72107d0  manuscripts/Uncial 070 (John; IGNTP) (Bodleian Library, Ms. Clarendon Press, b. 2, fol. 12-19.26) [070].txt
+d198e53f716392b43ea0a0db09adfc05bbfba7d36e6a6fa58b1593bc35fe86dd  manuscripts/Uncial 075 (1 Corinthians, Galatians, Ephesians, Philippians, Colossians, Philemon; IGNTP) (National Library, EBE 100, f.txt
+e08923d0226a50dfd573714ef9dd382529a9f5c1a527b500d1cb0640ab116b00  manuscripts/Uncial 075S (Galatians, Ephesians; IGNTP) [075S].txt
+b24df1ece127a2bc3ad8cd9f5d030ac5939d488ea6c39e34a2e3062fb3b65119  manuscripts/Uncial 078 (John; IGNTP) (National Library of Russia, Ф. № 906 _ Gr. 13, fol. 1-7) [078].txt
+496687c46c3861655f86aaba32b2d02476648adf3b2ecdba8694f890f6df7bb3  manuscripts/Uncial 08 (Bodleian Library, Ms. Laud. Gr. 35) [08].txt
+90a3235a352f3d1536418145cc0a0ef0a37db8db4b3dc8163af590caaff31ab3  manuscripts/Uncial 082 (Ephesians; IGNTP) (State Historical Museum, Sinod. gr. 100 (Vlad. 108)) [082].txt
+6200638ec2fc9c13bf21d29ab4951544659b157481dc432c885eb21bd696a543  manuscripts/Uncial 086 (John; IGNTP) (British Library, Or. 5707) [086].txt
+a65d7354e68acfe2944f50764993be9998269253eae409c7efd1f34022b7336c  manuscripts/Uncial 087 (John; IGNTP) (National Library of Russia, Ф. № 906 _ Gr. 278 + Gr. 12) [087].txt
+f210a70c2dcce47e62c30dc70704e9259172b94a5f3069f2643f39c93e35ec20  manuscripts/Uncial 09 (John; IGNTP) (University Library, Ms. 1) [09].txt
+078087e14e928c9b82c85c54d68952cd92b419f4d462d9644294a1329963081e  manuscripts/Uncial 091 (John; IGNTP) (National Library of Russia, Ф. № 906 _ Gr. 279) [091].txt
+485d94ae814f9f783bd3798e6d844451606a21c3479fd3838b14c1fce5d4fac2  manuscripts/Uncial 11 (British Library, Harley 5684) [11].txt
+a32c2ede3a90031ba53cd57a5aa618556583a9a0738383240e466aba5f245ef0  manuscripts/Uncial 17 (Bibliothèque Nationale, Gr. 63) [17].txt
+990b30887a80cd7196ff292f3c6f90aa8bab9d72c1d372fdfdf6145f33b70802  manuscripts/Uncial 19 (Bibliothèque Nationale, Gr. 62) [19].txt
+71b8649d393ef15151cc83c869c249d101e3419b5b8b2bb17f3f17f4f4891756  manuscripts/Uncial 20 (Biblioteca Angelica, Ang. gr. 39) [20].txt
+68d404b652ec8de40a750e1f751ee40d3f706fd9fd37d63cd156e827a738e164  manuscripts/Uncial 22 (Byzantine and Christian Museum, ΒΧΜ 862 (σπ. 21)) [22].txt
+578f7ac1a3418854ecda4d9ef4ca5f99a84da8970ffeaaec81e777649a26d531  manuscripts/Uncial 24 (Herzog August Bibliothek, Cod. Guelf. 64 Weiss, fol. 90-97. 154-161. 178-185. 226-233. 242-244. 257-259. 272..txt
+de29ae09010651a2eff6370ded40d5371cffc9832c65e9a62e9a573067028410  manuscripts/Uncial 32 (Smithsonian Institution, Freer Gallery of Art, F1906.274) [32].txt
+bbd654e26de3c39e11d900974357d8c7053591b2cca76284827d263e232851d0  manuscripts/Uncial 33 (Universitätsbibliothek, Cim. 16 (2° Cod. Ms. 30)) [33].txt
+c1d92b19f534672a0b851c495c24121f3e8565d71dc5d1de907bc71bede57af1  manuscripts/Uncial 35 (Trinity College, Ms. 32) [35].txt
+a691bf9a4c5a2d285c00ea3ec03d7fabd920a96205d5964c2f3464dc08b8cc73  manuscripts/Uncial 38 (National Center of Manuscripts, Gr. 28) [38].txt
+6818ba3218349416975c914047a2acc2c3affca7b4470cc796ff449ff4b5e61f  manuscripts/Uncial 41 (National Library of Russia, Ф. № 906 _ Gr. 34) [41].txt
+af620d2f68877be927e95b7f7b4d2cc96011ae3be0a6e9757dc1036dbc06cf48  manuscripts/Uncial 42 (Museo Diocesano, Cod. 1) [42].txt
+10e60c1485dd71be7cd78cf76b44b46440ca96ba556d6c4d141e5bf370185f10  manuscripts/Uncial 44 (Great Lavra Monastery, B' 52) [44].txt
+86b1d1c4a0037e35dbcb327d2b47812ce6d6b9cac59a24c60205e45cc3fea41c  manuscripts/Uncial 49 (Great Lavra Monastery, A' 88) [49].txt
+7122ed6871b43ba9ba4b2c83f25dba20c78067287189fe704cf8620131478dbc  manuscripts/Uncial 50 (National Library, EBE 1371) [50].txt
+abf25a74d2d1a937c3b099a83d28822c3db9b2a85942703437eacaf50894793d  manuscripts/Uncial 57 (Staatliche Museen zu Berlin Preußischer Kulturbesitz, P. 9808) [57].txt
+ffeac0894fbfb12bfc442bb4ed139e5eada049308f5e4b56e043032f9238897b  manuscripts/Uncial 64 (Vernadsky National Library , Ф. 301 (КДА) 17п) [64].txt
+dacc35f501d168479f151e5445df526f6a0722a69bbb9ac5574d7bca985d32a1  manuscripts/Uncial 66 (National Library of Russia, Ф. № 906 _ Gr. 6 II, fol. 4) [66].txt
+32a728b16a3534fb32e22f234b191de2af3fa89aa90a1282c197b359c36d2955  manuscripts/Uncial 67 (National Library of Russia, Ф. № 906 _ Gr. 6 III, fol. 8-9) [67].txt
+99f6a5b504b4f89d333e4dfc6d6a39b79d8de5d8b878366705aaa0ea21b7ae9e  manuscripts/Uncial 72 (Zuletzt_ Damascus, (früher_ Damascus, Qubbat al-Khazna)) [72].txt
+263fead8fe01b7562284ca2e4123ea98d455e1fd950c5286ebd020c73166b733  manuscripts/Uncial 73 (Saint Catherine's Monastery, Harris 7) [73].txt
+674fdc3478934ca624dfb0e3b45ee4ffe1efaa33248823f59de715f67a8bd163  manuscripts/Uncial 76 (Morgan Library & Museum, Amh. Gr. Pap. 8) [76].txt
+c2e9ee0ea847871420278325553bfbd00599423592f54ead2df266891404f78a  manuscripts/Uncial 77 (Saint Catherine's Monastery, Harris App. 5) [77].txt
+008031f304e9b9a9fc83a11ebc6d090d2c09addbb03e2b99e7bcb7b8d866f85d  manuscripts/Uncial 83 (National Library of Russia, Ф. № 906_ Gr. 10) [83].txt
+4710c89ce21f604784cd743b733d6f0b6e9fc709d96e5b4aaed94c13c48ca245  manuscripts/Uncial 85 (National Library of Russia, Ф. № 906 _ Gr. 714) [85].txt
+5d52688e4300f06bb40056a220a8b1bc00509f84ca33f4e099c5cfac5e5fbdee  manuscripts/Uncial 93 (Cambridge University Library, Taylor-Schechter Coll. 12.189. und 12.208) [93].txt
+f2592e98c61884d4b70b89b1bbb3e4275b333b08df9de00ced00b0b4cd90b5fe  manuscripts/Uncial 95 (National Library of Russia, Ф. № 906 _Gr. 17) [95].txt
+197dd8b1a606bc6c155f59f63fc94165190511f185957d8dd952af9ce8d648c6  manuscripts/Uncial 96 (National Library of Russia, Ф. № 906 _Gr. 19) [96].txt
+2354df1102648047973199952dcc06d4c5d4e45734c89b40f6e7ca7cb9e25150  manuscripts/Uncial 97 (National Library of Russia, Ф. № 906 _ Gr. 18) [97].txt
+bebd023a4248759642730cf2a7762122aeeb3f4e89c7a916f1b4abae4414b43a  manuscripts/Uncial 99 (Bibliothèque Nationale, Copt. 129,8, fol. 162) [99].txt
+77e1d6d397518249c5f343347f3f08d51277e6de0dc15236da8debc9fde60db8  translations/2001 Translation of the Holy Bible (2001) [T2001].txt
+7274c49714dc439fe925f4ffe0feaaf9a3eddc6cd9b39f4a7d40d30582877056  translations/A Conservative Version [ACV].txt
+4df994ee6cee1b2b1754c7cda7d9049e433054ace182002448de4c95674a06e4  translations/American Bible Union New Testament [ABU1865].txt
+82ed6976773c1ebdd407348fcb3a376fe4d38466182260149383c3c3df5b0c76  translations/American King James Version [AKJV].txt
+b703af71d8ed7dd61897727584f730029b5ea6ca44b84baf749cf37baa6d9556  translations/American Standard Version Byzantine Text [ASVBT].txt
+60ac5c3913ac273132e62bb9e64ff84fe387dfbb142c005463fe81979d49b856  translations/American Standard Version [ASV].txt
+09675812d0b71b2b41ade88ea6a938d75b66e172a9a66bc81ce76cc4e017907a  translations/Anderson's New Testament [Anderson].txt
 1b04f3afc34c26786fd8f9f3a7c21964ada1d3f6d81b7069244d9d30aa6f1222  translations/Bailey's Malayalam New Testament 1829 [malbailey1829].txt
-a546d3175750305d7c3fdd991f0539bceccc7a2c4680ae73db8b02cd14104c1b  translations/Malayalam Sathyavedapusthakam 1910, Contemporary Orthography (2015) [mal2015].txt
-d24c8758bf39f1441dccb80bda828d222fbcb4bcc7afcafa2d048579afa8ef2c  translations/Sathyavedapusthakam 1910 (Malayalam Bible) [malsvp1910].txt
+383aa62f95053ce1b2bea2e9d5b45e395665270c67c4f899111d206768c78308  translations/Berean Literal Bible [BLB].txt
+e9796a1fb1495cf7679a52fd96af8e1ef57c3cfb5baefdac3b8eb10ded805b08  translations/Berean Standard Bible [BSB].txt
 af77d7535c437f9b875208d2ec1f6e87e55d4b408167f1dc61fd0ba18ecd6eb1  translations/Bib La 1985 (Haitian Creole Bible) [hat].txt
 5943e776dbba01832106c31694543561770c940bca8cea607d83307956b8a477  translations/Bibelen på Norsk 1930 (Norwegian Bible) [Norsk1930].txt
 c3787f4ec378240c79c401c7352bc63c655ea8ec022fabd003a727aa1ccc0004  translations/Bibla Shqiptare (Albanian Bible) [Alb].txt
 1576410e77d0c1fecf33c55bcca0fe332ec8433a7d3ca5e8c35bc8a28712f6f7  translations/Bible Kralická 1613 (Czech Bible) [ces1613].txt
+298194a8abecc1589fa4d6dec7fbff0fa414130696cf48d5d2ee1b0486c21c93  translations/Bible in Basic English [BBE].txt
 1213e4596faf53754a946d7c822a9ebd2a8c04d8d393be460e295ce86168b11e  translations/Biblia 1776 (Finnish Bible) [FinBiblia].txt
 332fb108f836f2958529f6c593b19bf823b9d3e35c815ea01e44ae656788793c  translations/Biblia Gdańska 1881 (Polish Bible) [PolGdanska].txt
 ffcb41575da6991749bff39c154aa4e8ac24eb329050a04a96acd16c7d806ff9  translations/Biblia Liberă (Romanian New Testament, Latin script) [ronbl].txt
+92299d74c08338d98139484410a2d0aa55b34fd26b38a61e2069d0adb7f4ddcb  translations/Biblia Platense (Straubinger) 1958 (Spanish Catholic Bible) [SpaPlatense].txt
 45a0223d82cbdbf3732ff0015627700f0b7ad090367641dc0ef47c42f611f799  translations/Biblia Takatifu 1850 (Swahili New Testament) [swh1850].txt
+9ef297e9c01d17908fd27e1b92e3386cda19b6f0f1d11b658c9c291eb1ec572e  translations/Bishops' Bible [BISHOPS].txt
+c95cfcf0d0804d2cd36afb81aee78f5e6f9e9630ac82735510c1231469ed9b9a  translations/Brenton Septuagint Translation [Brenton].txt
 31070983e2ab861b15d95c509fd6fa7292744bc0d62663ddc4002e2bc27b544b  translations/Bíblia NVA (Portuguese Bible) [PorNVA].txt
+ce78e98971786323e2b4a4f8e9818ad210f0b06cbc44e81263b3a7740251f2ee  translations/Catholic Public Domain Version [CPDV].txt
+cef55648adfed8c80a95b2f55535520e8628955884c205137c22eaaf4467eabb  translations/Charles Thomson Septuagint (transcribed books) [THOMSON].txt
+08c14f7709d90ff6caa2294bd35181237f30333030bc3556d8927780206d63a6  translations/Coverdale Bible [Coverdale].txt
 d23e1ad05e30d9324e7abdb5e97105406fce64116f3362ab31e3547426ee2020  translations/Danish Bible OT 1871 NT 1907 (original orthography) [DaOT1871NT1907].txt
+a1b6fe7d6bfd57a40d36ba815efbf21a8dd6e569f23cdb57e1bbbf96904108d1  translations/Darby Translation [DBY].txt
 6b0646a958c4f02bf8ad9404c066ffe0020f351c752bb01eb19b0ef32e2dcbcb  translations/Diodati Bibbia 1885 (Italian Bible) [ita1885].txt
+9cd1800b5e096e26c4aa2e9b27b5b8e35edfaa0ff1330de6b5da305327b3eaf3  translations/Douay-Rheims Bible (American Edition) [DRA].txt
+6f830916a6dabadea4fb74566c4f252d304ecce0bd2ab86531ad84db3c4c83f5  translations/Easy to Translate English Jonah [E2T].txt
 bcb0f5badf2201e2358cc677b0797cf944e6a3152f1925ba29a2623280d8bedc  translations/Elberfelder Bibel 1905 (German Bible) [deuelo].txt
+1be360471e4155f634bf98abcf48b08b499ca84bfdfc65b597fd3b744e3f2219  translations/Etheridge's Peshitta New Testament [Etheridge].txt
+d274a0c1db545e54462d23d4153fa239d2ef3379de1be4f606d69541d9d3023d  translations/Family 35 New Testament (Wilbur Pickering) [F35].txt
+b7e8d9840bb4925aebdc5e3f16536ca9a3e44ebfa6ad9fdcd5a37f1a0ed14dad  translations/Free Bible Version [FBV].txt
+0208f07e54cbafd2092206c0d0c865032ed9c451417006aefa2e40abefb1da4d  translations/Garth's Hyper-literal Translation [GHT].txt
+8b0fa29e619d1d1aefbc4e1046323562ead81189601d2647a4d1858decedca35  translations/Geneva Bible (1560) [GNV1560].txt
+814b01d30d1bafaffc8d365be3b357d8faa19e4fcada8bb7fd843d5d882ddb39  translations/Geneva Bible (1599) [GNV1599].txt
+5782d38a8e265087e7a9926cbff504d86be850f18b91e7ba1e1a448864f92d44  translations/Godbey New Testament [Godbey].txt
+bba4f9676d4c90e682f90103c59396fd503c992c1992a169b04da6ef1a408c41  translations/Great Bible [GREAT].txt
+d03101b24d3bc464efb8c5b5e85f0ececeb95e5124c9b95472db42c27d39e1e9  translations/Haweis New Testament [HAWEIS].txt
+b2e3e09e329543c07d1f8736787624ad88441f56ee61be2971cc645ce4c014dd  translations/JPS TaNaKH (Jewish Publication Society) [JPS1917].txt
+e7e1541a9d04329951c4ca2993b5d95b4282b1b2e1fcdb59e08377764bd3f3de  translations/Joseph Smith Translation (Inspired Version) [JST].txt
+2330708aeea82d212eb1dd77fd75c7cf819214fb393fb291126110b74c8a9dc6  translations/Katholische Bibelübersetzung Rießler-Storr (Grünewaldbibel 1924, German Catholic Bible) [GerGruenewald].txt
+517a406f0cc2900c4e62a6da4ee884ab622c1f69e7a1eb676b8a79fa683b0fe8  translations/King James Bible (1611 First Edition) [KJV1611].txt
+47114039ae3af5f29668cb0efc6498e924be9d09ca2a57d6cd3eb60edcd2d36f  translations/King James Version with Apocrypha [KJVA].txt
+4fc9054d798c0d904f6df7ed2d2234e163e1ebde59ee8166337eaeb351824101  translations/King James Version, Cambridge Paragraph Bible [engkjvcpb].txt
 dbd139e9322b2da9a387c6a41f1cd341a5abe7eb580d0cde4912f30eef420722  translations/Kinh Thánh 1934 (Vietnamese Bible) [vie1934].txt
 3629f47d6d152ca1ec65e74fe1f964b26ffc20974e643d51fe1de4c291a583d8  translations/Károli Biblia 1908 (Hungarian Bible) [HunKar].txt
+d5e7206291397212cb0e9692d4b71713fd6033b00fbe7cd1618707902de5adda  translations/LXX2012 - Septuagint in American English [LXX2012].txt
+c01a2bfafb41610d52efe9455fafb83052d80bc683ec248b25ccc027cb93f2e9  translations/La Bible Crampon 1923 (French Catholic Bible) [FreCrampon].txt
 ec8618dd4c3e98b56ef666622ebed15b49386e1488e33ba07e6d388019977e4d  translations/Latviešu Bible, Glück 8th edition (Latvian Bible) [LvGluck8].txt
+c57df0558c7129ae00f3fc4b1987c9f6560f02dbb0ce9bf2e287ddbd92ef57a8  translations/Leeser Tanakh [Leeser].txt
+648e5fde95a1f11d6826932ddbc4c23eb4464d2801fdf8a9f7d93072adae81b8  translations/Literal Standard Version [LSV].txt
 368279a2c3e02588e0f39039dbb854df8d9107975dc70b57415c12cf2b98033c  translations/Londona Biblio 1910 (Esperanto Bible) [epo].txt
 11bd3f7e8a2e44d9556bfa28fde188ddb41ef5d6e154dc44be637c066d514155  translations/Louis Segond 1910 (French Bible) [fraLSG].txt
 921e01bdf1186656ff4b71451fa98b426bec15990645da97c943a4a84970ccca  translations/Lutherbibel 1912 (German Bible) [deu1912].txt
+db0c9da6a95c2e27bf5d0f9d23a1d0a77a0904ccd3e6d3de3393522d6565a6df  translations/Mace New Testament [MACE].txt
+2e29078fef0349523e8a4e97dc4a9324d006411915831baabb3931edc399aa4d  translations/Majority Standard Bible [MSB].txt
+a546d3175750305d7c3fdd991f0539bceccc7a2c4680ae73db8b02cd14104c1b  translations/Malayalam Sathyavedapusthakam 1910, Contemporary Orthography (2015) [mal2015].txt
+a0bf09f734aba850bc2d9db57fe5fe2747b968b481de544e1977f75f596fd243  translations/Matthew Bible [Matthew].txt
+6033c9b00b274ffd843349ad2bce5af627fe5b8250043cfb07cc7500e8708084  translations/Moffatt New Testament [MOFFATT].txt
+4608bfc490071040705b0c43ee94671f3afd95ed97d890e26beea4a4f767cea8  translations/Montgomery New Testament (Centenary Translation) [MONTGOMERY].txt
+c8e5235f7feab25ed215a6dcf7a72beae6733a615888d4d7b00eff7068373b9f  translations/Murdock's Peshitta New Testament [Murdock].txt
+e4cdc418d5b47152306e3793a1befc9e254be9a2cb15e754450f9f18a92945ea  translations/New Heart English Bible [NHEB].txt
+6efdd9bbc891f0266e601fca816c57a0f5a4d4a9c28c0b1907bdb417a204cc34  translations/Noyes Bible [Noyes].txt
+ae2a8562b7b62ba76247d87190c42c368ffc60cb1308269c41f1e2cc14819b20  translations/One Unity Resource Bible [OURB].txt
+3e084d2f174c749ff7d1dc9902b1f51c5182862c03919dd50c5c82adf5730a78  translations/Open English Bible (US Spelling) [OEBUS].txt
+eddb08a2ce32156e6cc803171269a4165db4c0e705769852b854d0e297a09c33  translations/Open English Translation, Literal Version [engOETlv].txt
+257584c25a64e30fcd6dcf6067edcc8f66ea69d1807d67e448a35cf051b1b2fe  translations/Open English Translation, Readers' Version [engOETrv].txt
+02e3008d11a75457cdf1e17e80fd52e9fb1dc30fa0c4cc09c2ee9ec4ca5e36ea  translations/Open Source English Bible [OSEN].txt
+c0ffae097e384ab492d7fe1d2c6fd35d2f695ffe169678dea253a10fad81582f  translations/Open Translation Bible (British English) [OTB].txt
+c0fac662db3a927e5e55be8c290122f46f3054e909ce8d9c4bfc08c228bca76c  translations/Orthodox Jewish Bible [OJB].txt
+d3a81361171d875788480aa8fefb908938f48c92b345095859ce093968b73c4b  translations/Ottley Isaiah (from the Septuagint) [OTTLEY].txt
+35774fc64fb9204f5da4bed0ac688ab38c3398d88caf23dd45179fd971115656  translations/Panin Numeric New Testament [PANIN].txt
 77c2b3e6970b741a003e3cac0006399affd5cf42f8fedcfc4ba453ba514ca21b  translations/Petrus Canisiusvertaling 1939 (Dutch Catholic Bible) [nld1939].txt
+dc53312914564095940a09f49b926fc0c638189eadc091d299a65246319d5032  translations/Plain English Version [PEV].txt
 688018fda7b09ff0b926b512181536f336af0bf9c885f992232303dd84b11c54  translations/Reina-Valera 1909 (Spanish Bible) [spaRV1909].txt
+6f0b4754be94231c0609075ccc71727f72727cd103f70e0e05bbe2ad43af2f49  translations/Restored Name King James Version [RNKJV].txt
+9d3256e803c97f33a90dd4fdbaf39fa8395e8debc7be3fef526a74fc10ca7e67  translations/Revised King James New Testament [RKJNT].txt
+b90e4e74b7371e81343014b2a9af6ce03c6a50c913ad8cf4628f33f5d5383777  translations/Revised Version with Apocrypha [RV1895].txt
 0618c1e72eab56b479309ec8a9e1cfe6b8e5a7cd105e6c5d0430fecfcd4013bb  translations/Riveduta Bibbia 1927 (Italian Bible) [ita1927].txt
+11419ae35c7e03616511f812f955eb100ec75570fe3077f156b2352d61970f94  translations/Riverside New Testament [RIVERSIDE].txt
+6eb8a3b702e8518140dbb2962d4b41714c1f61ea3274973a83d2da623f7f80da  translations/Rotherham's Emphasised Bible [Rotherham].txt
+6398a392fdc42fb28d212e2c1977e1b7c90927c83a3cd60926dfc9e29dc94c22  translations/Russian Freedom Bible (Bibliia svobody) [rusfb].txt
+a2af520beaa198c73f3937a067691c6a3559d9753a957804c1abcf8b0dce8759  translations/Russian Synodal Bible (Synodalnyi perevod) [russyn].txt
+d24c8758bf39f1441dccb80bda828d222fbcb4bcc7afcafa2d048579afa8ef2c  translations/Sathyavedapusthakam 1910 (Malayalam Bible) [malsvp1910].txt
+6db362330464582e2a81c5543b3ef11142573e275214d21af1ace4abc26bcc48  translations/Sawyer New Testament (chronological) [SAWYER].txt
+3a94688a2228edc38742d0977e18ffc332979f883564f4ee5e5b723d1501bdd9  translations/Serbian Bible, Daničić-Karadžić (Cyrillic, 1868) [srp1868].txt
+70a8fcf8eba733ac3c2e53a2a3dd43889d000ee44702f9aefd391e3cdea11dfb  translations/Serbian Bible, Vuk Karadžić (Latin script, 1865) [srp1865].txt
+e3ef9d5ca024abf2128c0cd4749c016b569f33f47666fb6e9757a884f5d89a08  translations/Smith's Literal Translation (Julia E. Smith Parker) [SLT].txt
 59f9680bb20c2990922e51ea67532aa796eb359dffbd66c6e7e02a4c406e15ea  translations/Statenvertaling 1917 (Dutch Bible) [nld].txt
+2b07cdf3a9264c93ea191483a4744e512b78892b54ee9fc8c3e03628b1082151  translations/Statenvertaling met apocriefen (Dutch Catholic Bible) [DutSVVA].txt
 2f4b27cd9cc9b62e18d3453af4bbb42f8e7036b79e592c891dd33fde3126933d  translations/Stritarjeva Biblija 1882 (Slovenian Bible) [SloStritar].txt
 548fe06037369a90581a0d9237612a566b77d23ec0d39def69750faffec04757  translations/Svenska Bibeln 1917 (Swedish Bible) [Swe1917].txt
 d9c79a3e5a93ef08f521720c45fa482618f19431440e6fa80471178c6e9bd343  translations/Sveta Biblija (Croatian Bible, Šarić) [hrv].txt
 0fc1bd56c85e0368b885ea3ae4971670a953406b3e5df30ee563a3827bae8a1e  translations/Tagalog Bible 1905 (Philippine Bible Society) [TagAngBiblia].txt
+b7fb2b2112f448229bd05ec2579f366ff37e6384705a399198f0e2cf5805c9dd  translations/Targum Onkelos Etheridge (English) [OnkelosETHERIDGE].txt
+463b3ad0de2b5f5c2f50a281ec761adaa514913637dccad6acd0fdc00af8ed0e  translations/Tegid Isaiah (John Jones, from the Hebrew) [TEG].txt
+8367c8aa040b0d64d53925a57f3b7cc9f1d5776cbd4727571f4b8566579639c1  translations/Text-Critical English New Testament [TCENT].txt
+6aa5f294fd2b9341efacf62e865ff9e82a2e1018b41659da01e683e1aafc577f  translations/The Emphatic Diaglott (Benjamin Wilson Emphatic Version) [DIAGLOTT].txt
+33aa9de3a368d7a2c66270151bb1775df5c4666d1276075e61afed26d866bc93  translations/The Living Oracles [LIVINGORACLES].txt
+afe77afffbac565489d86fe6ad79ed283a53ac5f1a47766f2d344ce0a6825d1f  translations/Translation for Translators [T4T].txt
+065c88fd0573c5dc067507e6b1902af8b5c43d7081c2f9b8a157391378a61145  translations/Twentieth Century New Testament [TCNT].txt
+125662afbbe857275896e1cd3ffd946bd588dec07e033d6b3782d9e6ff6a572b  translations/Tyndale New Testament (eBible.org edition) [TNT].txt
+1ce0b75367ebc0fde8cae95ce0c790982506721cd66d641bd89b17d7967d98a3  translations/Ukrainian Bible, Kulish translation 1905 (Biblia Kulisha) [ukr1871].txt
+c5dbce93daa236f51db7247890c4640c4a9da6972fe3965c6c2640c647a9e8f8  translations/Ukrainian Freedom Bible (Biblia svobody) [ukrfb].txt
+9026c83f61dcab22ff4df4542eb237a537faa68f9707777ed9ce69a5b2ad64fe  translations/Unlocked Dynamic Bible [engudb].txt
 66e779b11f0b75e5591d207b52ee7941060f237338401d23448c23436be8867d  translations/Unlocked Literal Bible (Cebuano) [cebulb].txt
 85561daa8bb9e0139856f22d69aff81e5010f5fc8fd85beeb3a03b483216d8a0  translations/Unlocked Literal Bible (French) [frulb].txt
 6225d44e361d99cdc6a621070f81d4ffbd3e1dfb1b7b6a89fe828c71f60b2b88  translations/Unlocked Literal Bible (Hausa) [haulb].txt
 daeec2ea51503dee9954efa79de3a1491ab761eca21667109d17505962b5c8d6  translations/Unlocked Literal Bible (Ilocano) [iloulb].txt
 7f22b0d0c9ec4b07e12b40ce3189bccd0de834d508005cb3e3d2cd7d954b581d  translations/Unlocked Literal Bible (Indonesian) [idulb].txt
 029d2f0c09d258183f26422fd06cfd3fc746ddff89cbfe33e592e39b570d6f7f  translations/Unlocked Literal Bible (Portuguese, Brazil) [ptbrulb].txt
+9cb90529f6a3f71598663b5a4a3acefe0df2a82700dc6c9f565e2aaf9d6b2142  translations/Unlocked Literal Bible (Russian, New Testament) [ruulb].txt
 60f0329c5256d7f5bb64a3da3ca9e83490a8f4df47810ea64680daca4d5ca53b  translations/Unlocked Literal Bible (Spanish, Latin America) [es419ulb].txt
 3d247baccb707e644a0a4cc17661581004ce9101753afbe7d464e34bb5a5cfa5  translations/Unlocked Literal Bible (Swahili) [swulb].txt
 4fa3722684828a82f00db93bf40081c4597df7b468be30c82ef99a443a08e9d7  translations/Unlocked Literal Bible (Tagalog) [tlulb].txt
 9f13d972a15b449ec2376783e4882f3c857a3ab745bc233377c6243410b98811  translations/Unlocked Literal Bible (Vietnamese) [viulb].txt
-92299d74c08338d98139484410a2d0aa55b34fd26b38a61e2069d0adb7f4ddcb  translations/Biblia Platense (Straubinger) 1958 (Spanish Catholic Bible) [SpaPlatense].txt
-2330708aeea82d212eb1dd77fd75c7cf819214fb393fb291126110b74c8a9dc6  translations/Katholische Bibelübersetzung Rießler-Storr (Grünewaldbibel 1924, German Catholic Bible) [GerGruenewald].txt
-c01a2bfafb41610d52efe9455fafb83052d80bc683ec248b25ccc027cb93f2e9  translations/La Bible Crampon 1923 (French Catholic Bible) [FreCrampon].txt
-2b07cdf3a9264c93ea191483a4744e512b78892b54ee9fc8c3e03628b1082151  translations/Statenvertaling met apocriefen (Dutch Catholic Bible) [DutSVVA].txt
-6398a392fdc42fb28d212e2c1977e1b7c90927c83a3cd60926dfc9e29dc94c22  translations/Russian Freedom Bible (Bibliia svobody) [rusfb].txt
-a2af520beaa198c73f3937a067691c6a3559d9753a957804c1abcf8b0dce8759  translations/Russian Synodal Bible (Synodalnyi perevod) [russyn].txt
-3a94688a2228edc38742d0977e18ffc332979f883564f4ee5e5b723d1501bdd9  translations/Serbian Bible, Daničić-Karadžić (Cyrillic, 1868) [srp1868].txt
-70a8fcf8eba733ac3c2e53a2a3dd43889d000ee44702f9aefd391e3cdea11dfb  translations/Serbian Bible, Vuk Karadžić (Latin script, 1865) [srp1865].txt
-1ce0b75367ebc0fde8cae95ce0c790982506721cd66d641bd89b17d7967d98a3  translations/Ukrainian Bible, Kulish translation 1905 (Biblia Kulisha) [ukr1871].txt
-c5dbce93daa236f51db7247890c4640c4a9da6972fe3965c6c2640c647a9e8f8  translations/Ukrainian Freedom Bible (Biblia svobody) [ukrfb].txt
-9cb90529f6a3f71598663b5a4a3acefe0df2a82700dc6c9f565e2aaf9d6b2142  translations/Unlocked Literal Bible (Russian, New Testament) [ruulb].txt
-f887cf847daa46f78d4a9b6516bd0a82b7a9dff77b48143129d31045af60f16f  critical-editions/Nestle Greek New Testament (1904) [grcnestle].txt
-c47e305255d72c57a2dc07eb4ff954eebc1756684200e9d4698a8d24453da052  critical-editions/Elizabeth Bible 1751 (Church Slavonic) [chuEliz1751].txt
-fa39b5a5a90f413bde16b067147f5eddaff842b3da3325c64f418e4035f52d72  lexicons/BDB Glosses (Strong's).txt
-fe32063b8330344b829d877f5f2404ceb25e13eaca8de86abf3cc93f70423da5  lexicons/Ordf├╢rklaringar och sakupplysningar.txt
-fe65db6bb49c88757fb272d63d8e1304a842d3aa357fcc5b6df3dc321281a585  lexicons/A Dictionary of Christian Biography and Literature to the End of the Sixth Century A.D., with an Account of the Principal Sects and Heresies.txt
+edf17532b51a6534b030d74bd1dbd5deb29c32bbbf21b898ed9ed19bceab52fb  translations/Updated Brenton English Septuagint [LXXUP].txt
+416c58be6303ae14b75993cd9788af5cd78c965607eb1dd74c2be4d23b9d82c8  translations/Updated King James Version [UKJV].txt
+f46cb497539133b58031571cc95d033b9757fcdc79ce83fb96752a260711055f  translations/Webster Bible [Webster].txt
+eebc39d08b5204cd4f2986ca4910cccc47e256047cf984b6c64514f916c5791f  translations/Wesley New Testament [Wesley].txt
+9a2e35ddeb9bad49488a0e3fcf51e0139dfbb87e526f447dcc5a6c4adaeb2709  translations/Weymouth New Testament [Weymouth].txt
+aa88f2c540e3a52342235670133abaf5c4a553097e7ae8c91a9cb4639903fbb4  translations/Whiston Primitive New Testament [WHISTON].txt
+c4bb6e89c8aefc7a543b20213c01e684a5319b9a9e741007afbedb67d9409a35  translations/William Tyndale Bible (surviving corpus) [Tyndale].txt
+b8270ee528f113b23cb749e71f53e8ad62f1c77756d902b5bf34b597f85d6b07  translations/World English Bible Classic [WEB].txt
+821975e8edd64ffe7b601ae9ddc1abe2ccebc92d08902ac253e2d6afa9c36687  translations/World English Bible Updated [engwebu].txt
+f233feaf043e12f81f7164e732df9e264d377d0807519b4312de60c0f22398e3  translations/World English Bible, Catholic Edition [engwebc].txt
+1e5f9603e2e11db3f458e22b39ed931e5649271d046c7dcfccfb0bb2f5676d29  translations/World Messianic Bible [WMB].txt
+c83f7434468a06960c12d9e84fe287fb2443514219afee5750a01320a3b4157d  translations/Worrell New Testament [Worrell].txt
+79c97b7e10aac89381ff1a9a40caeb2404be0c1d66173da6eb474aff8682157d  translations/Worsley New Testament [Worsley].txt
+ab17587b8e1239c690ee2e510162090efbc5b7fb3da864a70add7b55baf7f8e7  translations/Wycliffe Bible (Later Version, c. 1395) [WYCLIFFE].txt
+e80183f79f2efa7e1ddcef7a3cb7689f9e84dac80d8b6d8841cc1ce9008e5f29  translations/Wycliffe Bible with Modern Spelling [WYCMS].txt
+a929025726e0fc53bd516bb34612360f7b1a018fa94f6fc6df5fef0c83bdf3d4  translations/Young's Literal Translation [YLT].txt
+f440fff9b93f0649547f6aae1abfd807f55e7dea41f3d49ee7cfe1cf7d2e8f4d  translations/unfoldingWord Literal Text [ULT].txt
+617c7d08279036d41a5d81603d3a76bd8ce3d7be15ff503de5068c1c7a9369fc  translations/unfoldingWord Simplified Text [UST].txt

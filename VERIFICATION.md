@@ -1,7 +1,7 @@
 # Verification report
 
-- files: **184** (137 translations, 22 critical editions, 25 lexicons/reference works)
-- verse/entry rows total: **3,729,007**
+- files: **1167** (137 translations, 22 critical editions, 25 lexicons/reference works, 3 Greek NT editions, 978 Greek NT manuscript transcriptions)
+- verse/entry rows total: **4,442,086**
 - files with ERRORS: **0** | files with warnings: 5
 
 Checks run on every file:
@@ -13,6 +13,12 @@ Checks run on every file:
 
 | file | rows | errors | warnings |
 |---|---|---|---|
+| greek-nt/Robinson-Pierpont Byzantine Textform 2018 (Greek New Testament, Majority Text) [grcByzRP2018].txt | 7,953 | OK | - |
+| greek-nt/SBL Greek New Testament (SBLGNT, 2010) [grcSBLGNT].txt | 7,927 | OK | - |
+| greek-nt/Tischendorf's Greek New Testament, 8th edition (Editio Octava, 1869-72) [grcTisch8].txt | 7,939 | OK | - |
+| greek-nt/Robinson-Pierpont Byzantine Textform 2018 (Greek New Testament, Majority Text) [grcByzRP2018].txt | 7,953 | OK | - |
+| greek-nt/SBL Greek New Testament (SBLGNT, 2010) [grcSBLGNT].txt | 7,927 | OK | - |
+| greek-nt/Tischendorf's Greek New Testament, 8th edition (Editio Octava, 1869-72) [grcTisch8].txt | 7,939 | OK | - |
 | translations/2001 Translation of the Holy Bible (2001) [T2001].txt | 33,328 | OK | - |
 | translations/A Conservative Version [ACV].txt | 31,102 | OK | - |
 | translations/American Bible Union New Testament [ABU1865].txt | 7,953 | OK | - |
@@ -197,3 +203,59 @@ Checks run on every file:
 | translations/Ukrainian Bible, Kulish translation 1905 (Biblia Kulisha) [ukr1871].txt | 31,082 | OK | - |
 | translations/Ukrainian Freedom Bible (Biblia svobody) [ukrfb].txt | 31,082 | OK | - |
 | translations/Unlocked Literal Bible (Russian, New Testament) [ruulb].txt | 7,954 | OK | - |
+
+
+## Greek NT manuscript transcriptions (added 2026-10-29)
+
+978 manuscript transcriptions (INTF Liste via gntcollations.com v2.0.0 and IGNTP
+bulk zips, both CC BY 4.0) in `manuscripts/`, one file per witness. The same four
+checks ran on every file: SQLite `integrity_check` = ok, no empty verse texts,
+the written .txt re-parsed and compared row-for-row against the SQLite source
+(0 mismatches across all 978 files), and a leftover-markup scan (0 hits).
+The manuscript DBs omit the FTS index (corpus size); the 3 Greek NT edition
+DBs in `greek-nt/` carry it, with FTS row count == verse count.
+
+| category | files | rows | errors |
+|---|---|---|---|
+| papyri | 132 | 8,047 | 0 |
+| uncials | 158 | 87,950 | 0 |
+| minuscules | 591 | 536,727 | 0 |
+| lectionaries | 55 | 53,724 | 0 |
+| other (IGNTP supplement sigla) | 42 | 2,812 | 0 |
+| **total** | **978** | **689,260** | **0** |
+
+Spot checks: P75 Luke 3:18 = «μεν ουν και ετερα παρακαλων ευηγγελιζετο τον λαον·»;
+Codex Sinaiticus (01) Matt 1:1 = «βιβλος γενεσεως ιυ χυ υιου δαδ υιου αβρααμ» (nomina
+sacra kept in uncial spelling); RP2018 Matt 1:1 = «βιβλος γενεσεως ιησου χριστου υιου δαυιδ
+υιου αβρααμ»; SBLGNT Matt 1:1 = «Βίβλος γενέσεως Ἰησοῦ χριστοῦ υἱοῦ Δαυὶδ υἱοῦ Ἀβραάμ.»;
+Tischendorf 8th Matt 1:1 accented likewise. Lacuna-only verses are omitted and
+counted in each DB's `edition` field; `<app>` readings resolve to the orig/first
+hand reading.
+
+
+## Greek NT manuscript transcriptions (added 2026-10-29)
+
+978 manuscript transcriptions (INTF Liste via gntcollations.com v2.0.0 and IGNTP
+bulk zips, both CC BY 4.0) in `manuscripts/`, one file per witness. The same four
+checks ran on every file: SQLite `integrity_check` = ok, no empty verse texts,
+the written .txt re-parsed and compared row-for-row against the SQLite source
+(0 mismatches across all 978 files), and a leftover-markup scan (0 hits).
+The manuscript DBs omit the FTS index (corpus size); the 3 Greek NT edition
+DBs in `greek-nt/` carry it, with FTS row count == verse count.
+
+| category | files | rows | errors |
+|---|---|---|---|
+| papyri | 132 | 8,047 | 0 |
+| uncials | 158 | 87,950 | 0 |
+| minuscules | 591 | 536,727 | 0 |
+| lectionaries | 55 | 53,724 | 0 |
+| other (IGNTP supplement sigla) | 42 | 2,812 | 0 |
+| **total** | **978** | **689,260** | **0** |
+
+Spot checks: P75 Luke 3:18 = «μεν ουν και ετερα παρακαλων ευηγγελιζετο τον λαον·»;
+Codex Sinaiticus (01) Matt 1:1 = «βιβλος γενεσεως ιυ χυ υιου δαδ υιου αβρααμ» (nomina
+sacra kept in uncial spelling); RP2018 Matt 1:1 = «βιβλος γενεσεως ιησου χριστου υιου δαυιδ
+υιου αβρααμ»; SBLGNT Matt 1:1 = «Βίβλος γενέσεως Ἰησοῦ χριστοῦ υἱοῦ Δαυὶδ υἱοῦ Ἀβραάμ.»;
+Tischendorf 8th Matt 1:1 accented likewise. Lacuna-only verses are omitted and
+counted in each DB's `edition` field; `<app>` readings resolve to the orig/first
+hand reading.
