@@ -1,7 +1,7 @@
 # Verification report
 
-- files: **176** (130 translations, 21 critical editions, 25 lexicons/reference works)
-- verse/entry rows total: **3,504,174**
+- files: **177** (130 translations, 22 critical editions, 25 lexicons/reference works)
+- verse/entry rows total: **3,540,174**
 - files with ERRORS: **0** | files with warnings: 5
 
 Checks run on every file:
@@ -189,3 +189,4 @@ Checks run on every file:
 | translations/Katholische Bibelübersetzung Rießler-Storr (Grünewaldbibel 1924, German Catholic Bible) [GerGruenewald].txt | 30,956 | OK | - |
 | translations/La Bible Crampon 1923 (French Catholic Bible) [FreCrampon].txt | 35,486 | OK | 1 verse contains markup-like characters (preserved verbatim from source) |
 | translations/Statenvertaling met apocriefen (Dutch Catholic Bible) [DutSVVA].txt | 36,939 | OK | - |
+| critical-editions/Elizabeth Bible 1751 (Church Slavonic) [chuEliz1751].txt | 36,000 | OK | - |
